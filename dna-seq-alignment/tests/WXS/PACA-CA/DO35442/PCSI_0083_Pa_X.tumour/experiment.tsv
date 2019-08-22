@@ -1,0 +1,2 @@
+type	program	submitter_id	submitter_sample_id	sequencing_center	platform	platform_model	library_strategy	sequencing_date	read_group_count	specimen_type	submitter_donor_id
+sequencing_experiment	PACA-CA	TEST-EXP-190	PCSI_0083_Pa_X		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0083

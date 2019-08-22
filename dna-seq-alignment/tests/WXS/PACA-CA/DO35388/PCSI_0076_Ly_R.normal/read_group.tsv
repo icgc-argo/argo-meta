@@ -1,0 +1,2 @@
+type	submitter_id	platform_unit	is_paired_end	read_length_r1	read_length_r2	insert_size	sample_barcode	library_name	experiment_submitter_id
+read_group	110625_SN804_0061_AD04C4ACXX_5_TTAGGC	SN804		150	150	290		PCSI_0076_Ly_R_PE_430_EX	TEST-EXP-68

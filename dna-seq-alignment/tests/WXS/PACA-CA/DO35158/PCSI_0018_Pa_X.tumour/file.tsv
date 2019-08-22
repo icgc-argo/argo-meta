@@ -1,0 +1,2 @@
+name	size	read_group_submitter_id	checksum	checksum_type	local_path	format	type
+cd8d740f6d13b6249025f93fe5ffbf60.PCSI_0018_Pa_X_PE_364_EX_CAGATC_1_110630_SN203_0118_AC00FLACXX.bam	28136984272	110630_SN203_0118_AC00FLACXX_1_CAGATC	cd8d740f6d13b6249025f93fe5ffbf60	md5	score://collab/EGAR00001237177/3de7a35f-afaa-56c9-aaca-6b5e7ac2e69b	BAM	sequencing_file

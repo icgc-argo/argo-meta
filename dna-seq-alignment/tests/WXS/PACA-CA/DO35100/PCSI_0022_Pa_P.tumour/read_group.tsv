@@ -1,0 +1,2 @@
+type	submitter_id	platform_unit	is_paired_end	read_length_r1	read_length_r2	insert_size	sample_barcode	library_name	experiment_submitter_id
+read_group	100115_i278_61FW5_LT_3_NoIndex	100115_i278_61FW5_LT_3_NoIndex		150	150	290		PCSI_0022_Pa_P_PE_250_EX	TEST-EXP-170

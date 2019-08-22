@@ -1,0 +1,2 @@
+name	size	read_group_submitter_id	checksum	checksum_type	local_path	format	type
+3761761bc99e9a6a06d01265045f553c.MPCC_0039_Pa_C_PE_412_EX_NoIndex_5_120711_SN1068_0092_AC0T07ACXX.bam	40521774524	120711_SN1068_0092_AC0T07ACXX_5_NoIndex	3761761bc99e9a6a06d01265045f553c	md5	score://collab/EGAR00001225691/0eff4f18-e6c6-5855-a3d0-77151a9f5b38	BAM	sequencing_file

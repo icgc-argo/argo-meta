@@ -1,0 +1,2 @@
+name	size	read_group_submitter_id	checksum	checksum_type	local_path	format	type
+2ef2b0bd696f5348a49cac97c838141c.PCSI_0086_Ly_R_PE_351_EX_TTAGGC_5_110915_SN203_0123_AC00R9ACXX.bam	20798969763	110915_SN203_0123_AC00R9ACXX_5_TTAGGC	2ef2b0bd696f5348a49cac97c838141c	md5	score://collab/EGAR00001229149/b92de9ee-98d8-5dfd-8809-ea5ebf616dbd	BAM	sequencing_file

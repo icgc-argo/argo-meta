@@ -1,0 +1,2 @@
+name	size	read_group_submitter_id	checksum	checksum_type	local_path	format	type
+0f2132579612795fab806fa30f1d7214.PCSI_0056_Pa_X_PE_318_EX_TTAGGC_7_110616_SN393_0172_AC00EFACXX.bam	13585711684	110616_SN393_0172_AC00EFACXX_7_TTAGGC	0f2132579612795fab806fa30f1d7214	md5	score://collab/EGAR00001225656/5deb0a5d-f0bb-5ab6-9042-7e84f7866ac6	BAM	sequencing_file

@@ -1,0 +1,2 @@
+name	size	read_group_submitter_id	checksum	checksum_type	local_path	format	type
+c8deff29fbaf0c5c2c85d23c025bcb9e.PCSI_0076_Pa_P_PE_437_EX_GATCAG_3_110819_SN393_0183_AB02B9ACXX.bam	4516939150	110819_SN393_0183_AB02B9ACXX_3_GATCAG	c8deff29fbaf0c5c2c85d23c025bcb9e	md5	score://collab/EGAR00001228392/738beed7-2b61-5ba8-8344-65246ad2d50b	BAM	sequencing_file

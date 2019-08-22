@@ -1,0 +1,2 @@
+name	size	read_group_submitter_id	checksum	checksum_type	local_path	format	type
+68f09e1aede437b752b76a124d0d28d7.PCSI_0021_Pa_X_PE_400_EX_NoIndex_5_101116_I278_00023_62EHA_LM.bam	3471113127	101116_I278_00023_62EHA_LM_5_NoIndex	68f09e1aede437b752b76a124d0d28d7	md5	score://collab/EGAR00001229805/11bb4d0d-c9e6-507d-a9bc-b14123a76755	BAM	sequencing_file

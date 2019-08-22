@@ -1,0 +1,2 @@
+name	size	read_group_submitter_id	checksum	checksum_type	local_path	format	type
+5f9451e97d64b9204db7645c3782c814.PCSI_0037_Pa_X_PE_305_EX_ATCACG_8_110526_I580_00042_62VVH_AP.bam	3620981042	110526_I580_00042_62VVH_AP_8_ATCACG	5f9451e97d64b9204db7645c3782c814	md5	score://collab/EGAR00001225636/4c7da69d-a06e-50db-a4ff-b786edad38f0	BAM	sequencing_file

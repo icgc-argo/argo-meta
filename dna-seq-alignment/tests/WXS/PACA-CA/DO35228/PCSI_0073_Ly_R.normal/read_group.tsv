@@ -1,0 +1,2 @@
+type	submitter_id	platform_unit	is_paired_end	read_length_r1	read_length_r2	insert_size	sample_barcode	library_name	experiment_submitter_id
+read_group	110421_SN802_0050_B814PTABXX_3_NoIndex	SN802		150	150	290		PCSI_0073_Ly_R_PE_357_EX	TEST-EXP-24

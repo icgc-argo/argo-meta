@@ -1,0 +1,2 @@
+name	size	read_group_submitter_id	checksum	checksum_type	local_path	format	type
+c8fb541b61e8edd41063c3fb90b361d0.PCSI_0080_Pa_X_PE_345_EX_NoIndex_7_110429_SN802_0051_A801M1ABXX.bam	9739867762	110429_SN802_0051_A801M1ABXX_7_NoIndex	c8fb541b61e8edd41063c3fb90b361d0	md5	score://collab/EGAR00001229178/9af40521-f460-5724-9531-b30e19d42ecb	BAM	sequencing_file

@@ -1,0 +1,2 @@
+name	size	read_group_submitter_id	checksum	checksum_type	local_path	format	type
+d45b350ab7869f8c9581eb32cf041c9a.PCSI_0093_Ly_R_PE_349_EX_CAGATC_4_110915_SN203_0123_AC00R9ACXX.bam	8768664610	110915_SN203_0123_AC00R9ACXX_4_CAGATC	d45b350ab7869f8c9581eb32cf041c9a	md5	score://collab/EGAR00001229844/3bddcbc5-b3cc-522f-a3a7-51e92fc495db	BAM	sequencing_file

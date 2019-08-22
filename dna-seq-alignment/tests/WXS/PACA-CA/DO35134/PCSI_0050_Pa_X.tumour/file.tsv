@@ -1,0 +1,2 @@
+name	size	read_group_submitter_id	checksum	checksum_type	local_path	format	type
+663156a028b3eb1df2532f6e928d1885.PCSI_0050_Pa_X_PE_397_EX_TAGCTT_5_110513_I581_00032_70CGE_LT.bam	4378956922	110513_I581_00032_70CGE_LT_5_TAGCTT	663156a028b3eb1df2532f6e928d1885	md5	score://collab/EGAR00001237144/43278d93-1aca-55a7-b241-899307a495d7	BAM	sequencing_file

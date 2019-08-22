@@ -1,0 +1,2 @@
+name	size	read_group_submitter_id	checksum	checksum_type	local_path	format	type
+09a76081cc6db58d4088907f73df6781.PCSI_0098_Pa_P_PE_361_EX_TAGCTT_8_110901_SN803_0064_BC046BACXX.bam	9265033230	110901_SN803_0064_BC046BACXX_8_TAGCTT	09a76081cc6db58d4088907f73df6781	md5	score://collab/EGAR00001229041/b70b5054-a639-5bb4-9763-1e56d52cca0b	BAM	sequencing_file
