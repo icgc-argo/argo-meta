@@ -1,0 +1,11 @@
+{
+  "name": "DO228369_PBCA-DE.normal",
+  "exp_tsv": "[exp.tsv]https://raw.githubusercontent.com/icgc-argo/argo-meta/master/dna-seq-alignment/tests/WXS/PBCA-DE/DO228369/4EP11_control.normal/experiment.tsv",
+  "rg_tsv":  "[rg.tsv]https://raw.githubusercontent.com/icgc-argo/argo-meta/master/dna-seq-alignment/tests/WXS/PBCA-DE/DO228369/4EP11_control.normal/read_group.tsv",
+  "file_tsv": "[file.tsv]https://raw.githubusercontent.com/icgc-argo/argo-meta/master/dna-seq-alignment/tests/WXS/PBCA-DE/DO228369/4EP11_control.normal/file.tsv",
+  "credentials_file": "/home/ubuntu/credentials",
+  "seq_files": [],
+  "aligned_lane_prefix": "grch38-aligned",
+  "credentials_file": "/home/ubuntu/.aws/credentials",
+  "score_token_file": "/home/ubuntu/.accessToken"
+}
