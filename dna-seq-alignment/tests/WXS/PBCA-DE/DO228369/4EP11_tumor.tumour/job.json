@@ -1,5 +1,5 @@
 {
-  "name": "DO228369_PBCA-DE.tumour",
+  "name": "DO228369.PBCA-DE.tumour",
   "exp_tsv": "[exp.tsv]https://raw.githubusercontent.com/icgc-argo/argo-meta/master/dna-seq-alignment/tests/WXS/PBCA-DE/DO228369/4EP11_tumor.tumour/experiment.tsv",
   "rg_tsv":  "[rg.tsv]https://raw.githubusercontent.com/icgc-argo/argo-meta/master/dna-seq-alignment/tests/WXS/PBCA-DE/DO228369/4EP11_tumor.tumour/read_group.tsv",
   "file_tsv": "[file.tsv]https://raw.githubusercontent.com/icgc-argo/argo-meta/master/dna-seq-alignment/tests/WXS/PBCA-DE/DO228369/4EP11_tumor.tumour/file.tsv",

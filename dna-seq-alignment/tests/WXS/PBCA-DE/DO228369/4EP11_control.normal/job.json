@@ -1,5 +1,5 @@
 {
-  "name": "DO228369_PBCA-DE.normal",
+  "name": "DO228369.PBCA-DE.normal",
   "exp_tsv": "[exp.tsv]https://raw.githubusercontent.com/icgc-argo/argo-meta/master/dna-seq-alignment/tests/WXS/PBCA-DE/DO228369/4EP11_control.normal/experiment.tsv",
   "rg_tsv":  "[rg.tsv]https://raw.githubusercontent.com/icgc-argo/argo-meta/master/dna-seq-alignment/tests/WXS/PBCA-DE/DO228369/4EP11_control.normal/read_group.tsv",
   "file_tsv": "[file.tsv]https://raw.githubusercontent.com/icgc-argo/argo-meta/master/dna-seq-alignment/tests/WXS/PBCA-DE/DO228369/4EP11_control.normal/file.tsv",
