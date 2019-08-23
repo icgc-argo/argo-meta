@@ -1,0 +1,2 @@
+name	size	read_group_submitter_id	checksum	checksum_type	local_path	format	type
+bd6525e285d3ed327d017ef315a8bfeb.WXS_PAIRED_blood_4EP31_T_merged.bam.rmdup.bam	7055589398	run130524_SN1007_0163_AD1Y6VACXX_CEF-EP-003_TTAGGC_L005	bd6525e285d3ed327d017ef315a8bfeb	md5	score://collab/EGAZ00001019388/e2b3dda0-0a2f-5615-8d87-eefba5f74891	BAM	sequencing_file

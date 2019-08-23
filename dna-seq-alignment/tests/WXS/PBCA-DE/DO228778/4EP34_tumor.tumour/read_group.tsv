@@ -1,0 +1,5 @@
+type	submitter_id	platform_unit	is_paired_end	read_length_r1	read_length_r2	insert_size	sample_barcode	library_name	experiment_submitter_id
+read_group	run110901_SN952_0041_AD0883ACXX_6_NoIndex_L006			150	150	290		tumor_136300	TEST-EXP-42
+read_group	run130621_SN7001153_0132_AC272CACXX_1_ACTTGA_L001			150	150	290		tumor_4EP34_T	TEST-EXP-42
+read_group	run130625_SN841_0216_AD280UACXX_1_ACTTGA_L001			150	150	290		tumor_4EP34_T	TEST-EXP-42
+read_group	s_6			150	150	290		tumor_136300	TEST-EXP-42

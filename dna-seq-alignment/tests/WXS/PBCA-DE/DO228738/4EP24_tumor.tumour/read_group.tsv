@@ -1,0 +1,3 @@
+type	submitter_id	platform_unit	is_paired_end	read_length_r1	read_length_r2	insert_size	sample_barcode	library_name	experiment_submitter_id
+read_group	run110901_SN841_0086_BD085CACXX_2_NoIndex_L002			150	150	290		tumor_148147	TEST-EXP-11
+read_group	s_5			150	150	290		tumor_148147	TEST-EXP-11

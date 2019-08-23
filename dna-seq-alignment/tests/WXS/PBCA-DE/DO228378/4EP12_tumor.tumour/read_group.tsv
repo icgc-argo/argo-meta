@@ -1,0 +1,5 @@
+type	submitter_id	platform_unit	is_paired_end	read_length_r1	read_length_r2	insert_size	sample_barcode	library_name	experiment_submitter_id
+read_group	run110506_HWUSI-EAS702_00052_FC_70GWTAAXX_s_4			150	150	290		tumor_109422	TEST-EXP-64
+read_group	run110921_SN952_0052_BC04NYACXX_4_NoIndex_L004			150	150	290		tumor_109422	TEST-EXP-64
+read_group	run130621_SN7001153_0132_AC272CACXX_2_CAGATC_L002			150	150	290		tumor_4EP12_T	TEST-EXP-64
+read_group	run130625_SN841_0216_AD280UACXX_2_CAGATC_L002			150	150	290		tumor_4EP12_T	TEST-EXP-64

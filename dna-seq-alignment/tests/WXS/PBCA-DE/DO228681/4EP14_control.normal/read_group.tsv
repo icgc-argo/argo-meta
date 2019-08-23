@@ -1,0 +1,2 @@
+type	submitter_id	platform_unit	is_paired_end	read_length_r1	read_length_r2	insert_size	sample_barcode	library_name	experiment_submitter_id
+read_group	run130524_SN1007_0163_AD1Y6VACXX_CEF-EP-013_TAGCTT_L007			150	150	290		blood_4EP14_T	TEST-EXP-50

@@ -1,0 +1,3 @@
+type	submitter_id	platform_unit	is_paired_end	read_length_r1	read_length_r2	insert_size	sample_barcode	library_name	experiment_submitter_id
+read_group	run110922_SN999_0033_AC04AVACXX_lane511s003664			150	150	290		tumor_122384	TEST-EXP-35
+read_group	runNG-6166_Exome_Data_batch22_NG-6166_BT2010207REC_lib19642_1407_4			150	150	290		tumor_NG-6166_BT2010207	TEST-EXP-35

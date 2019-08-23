@@ -1,0 +1,3 @@
+name	size	read_group_submitter_id	checksum	checksum_type	local_path	format	type
+7433ab82b5cb3e8b96b13b2209439a53.WXS_PAIRED_blood_4EP3_T_merged.bam.rmdup.bam	4265646797	run130404_SN7001393_0053_AH0EJDADXX_CEF-EP-020_ACTTGA_L001	7433ab82b5cb3e8b96b13b2209439a53	md5	score://collab/EGAZ00001019393/139144b6-ddf0-522a-b579-a343ce484072	BAM	sequencing_file
+7433ab82b5cb3e8b96b13b2209439a53.WXS_PAIRED_blood_4EP3_T_merged.bam.rmdup.bam	4265646797	run130404_SN7001393_0053_AH0EJDADXX_CEF-EP-020_ACTTGA_L002	7433ab82b5cb3e8b96b13b2209439a53	md5	score://collab/EGAZ00001019393/139144b6-ddf0-522a-b579-a343ce484072	BAM	sequencing_file
