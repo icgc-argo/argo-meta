@@ -1,0 +1,2 @@
+type	submitter_id	platform_unit	is_paired_end	read_length_r1	read_length_r2	insert_size	sample_barcode	library_name	experiment_submitter_id
+read_group	1	091203_IL31_4146_6		150	150	290		PD3999a_Exp8_ 85906	TEST-EXP-151

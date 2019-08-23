@@ -1,0 +1,2 @@
+type	submitter_id	platform_unit	is_paired_end	read_length_r1	read_length_r2	insert_size	sample_barcode	library_name	experiment_submitter_id
+read_group	1	100731_IL8_05087_3		150	150	290		PD4131a_pd 411704	TEST-EXP-284

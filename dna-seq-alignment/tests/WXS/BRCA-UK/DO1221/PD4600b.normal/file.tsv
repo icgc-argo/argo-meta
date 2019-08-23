@@ -1,0 +1,2 @@
+name	size	read_group_submitter_id	checksum	checksum_type	local_path	format	type
+2d9c4f422285eda557fe386c43428f6f.6039_4_1.bam	8043833856	1	2d9c4f422285eda557fe386c43428f6f	md5	score://collab/EGAR00001029957/c85718b1-96a7-5c6f-914b-efca156faa84	BAM	sequencing_file

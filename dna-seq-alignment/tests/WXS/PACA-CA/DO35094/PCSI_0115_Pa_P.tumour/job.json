@@ -1,0 +1,13 @@
+{
+  "name": "DO35094.tumour",
+  "exp_tsv": "[exp.tsv]https://raw.githubusercontent.com/icgc-argo/argo-meta/master/dna-seq-alignment/tests/WXS/PACA-CA/DO35094/PCSI_0115_Pa_P.tumour/experiment.tsv",
+  "rg_tsv":  "[rg.tsv]https://raw.githubusercontent.com/icgc-argo/argo-meta/master/dna-seq-alignment/tests/WXS/PACA-CA/DO35094/PCSI_0115_Pa_P.tumour/read_group.tsv",
+  "file_tsv": "[file.tsv]https://raw.githubusercontent.com/icgc-argo/argo-meta/master/dna-seq-alignment/tests/WXS/PACA-CA/DO35094/PCSI_0115_Pa_P.tumour/file.tsv",
+  "credentials_file": "/home/ubuntu/credentials",
+  "seq_files": [],
+  "aligned_lane_prefix": "grch38-aligned",
+  "seq_source_repository": "collab",
+  "credentials_file": "/home/ubuntu/.aws/credentials",
+  "score_token_file": "/home/ubuntu/.accessToken",
+  "cpus": 15
+}
