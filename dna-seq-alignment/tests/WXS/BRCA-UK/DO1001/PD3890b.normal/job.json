@@ -1,7 +1,7 @@
 {
   "name": "DO1001.BRCA-UK.normal",
   "exp_tsv": "[exp.tsv]https://raw.githubusercontent.com/icgc-argo/argo-meta/master/dna-seq-alignment/tests/WXS/BRCA-UK/DO1001/PD3890b.normal/experiment.tsv",
-  "rg_tsv":  "[rg.tsv]ihttps://raw.githubusercontent.com/icgc-argo/argo-meta/master/dna-seq-alignment/tests/WXS/BRCA-UK/DO1001/PD3890b.normal/read_group.tsv",
+  "rg_tsv":  "[rg.tsv]https://raw.githubusercontent.com/icgc-argo/argo-meta/master/dna-seq-alignment/tests/WXS/BRCA-UK/DO1001/PD3890b.normal/read_group.tsv",
   "file_tsv": "[file.tsv]https://raw.githubusercontent.com/icgc-argo/argo-meta/master/dna-seq-alignment/tests/WXS/BRCA-UK/DO1001/PD3890b.normal/file.tsv",
   "credentials_file": "/home/ubuntu/credentials",
   "seq_files": [],
