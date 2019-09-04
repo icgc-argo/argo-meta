@@ -1,0 +1,2 @@
+name	size	read_group_submitter_id	checksum	checksum_type	local_path	format	type
+36eaf5155f0aecd6516af48331bcb4bf.S0414_20120424_1_LMP.nopd.nobc.bam	87128758976	20120516111705730	36eaf5155f0aecd6516af48331bcb4bf	md5	score://collab/EGAR00001083616/a2edd9f4-8610-54ca-8eff-4d47e1358542	BAM	sequencing_file

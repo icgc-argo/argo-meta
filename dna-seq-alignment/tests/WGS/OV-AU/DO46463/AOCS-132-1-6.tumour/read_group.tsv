@@ -1,0 +1,5 @@
+type	submitter_id	platform_unit	is_paired_end	read_length_r1	read_length_r2	insert_size	sample_barcode	library_name	experiment_submitter_id
+read_group	20130208061250409	lane_1.nobc		150	150	290		LP6005273-DNA_F07	TEST-EXP-6
+read_group	20130208063022756	lane_2.nobc		150	150	290		LP6005273-DNA_F07	TEST-EXP-6
+read_group	20130208053822542	lane_3.nobc		150	150	290		LP6005273-DNA_F07	TEST-EXP-6
+read_group	2013020808210567	lane_4.nobc		150	150	290		LP6005273-DNA_F07	TEST-EXP-6
