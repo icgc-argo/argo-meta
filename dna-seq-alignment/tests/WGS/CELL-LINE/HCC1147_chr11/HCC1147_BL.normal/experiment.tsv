@@ -1,0 +1,2 @@
+type	program	submitter_id	sample_submitter_id	sequencing_center	platform	platform_model	library_strategy	sequencing_date	read_group_count	specimen_type	donor_submitter_id
+sequencing_experiment	CELL-LINE	TEST-EXP-1	HCC1147_BL	BI	ILLUMINA		WGS		3	HCC1147	HCC1147_chr11
