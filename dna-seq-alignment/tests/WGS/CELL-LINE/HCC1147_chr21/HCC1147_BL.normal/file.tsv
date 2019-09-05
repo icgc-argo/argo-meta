@@ -1,0 +1,17 @@
+name	size	read_group_submitter_id	checksum	checksum_type	local_path	format	type
+HCC1143_BL.chr21.bam	32504060	C0ENM.3	e79f6925bcbf7cf48d49ef0f5b11946b	md5	file:////home/ubuntu/sanger-test/test-data/testdata/HCC1143_BL.chr21.bam	bam	sequencing_file
+HCC1143_BL.chr21.bam	32504060	C0ENM.4	e79f6925bcbf7cf48d49ef0f5b11946b	md5	file:////home/ubuntu/sanger-test/test-data/testdata/HCC1143_BL.chr21.bam	bam	sequencing_file
+HCC1143_BL.chr21.bam	32504060	C0ENM.5	e79f6925bcbf7cf48d49ef0f5b11946b	md5	file:////home/ubuntu/sanger-test/test-data/testdata/HCC1143_BL.chr21.bam	bam	sequencing_file
+HCC1143_BL.chr21.bam	32504060	C0ENM.6	e79f6925bcbf7cf48d49ef0f5b11946b	md5	file:////home/ubuntu/sanger-test/test-data/testdata/HCC1143_BL.chr21.bam	bam	sequencing_file
+HCC1143_BL.chr21.bam	32504060	C0ENM.7	e79f6925bcbf7cf48d49ef0f5b11946b	md5	file:////home/ubuntu/sanger-test/test-data/testdata/HCC1143_BL.chr21.bam	bam	sequencing_file
+HCC1143_BL.chr21.bam	32504060	C0ENM.8	e79f6925bcbf7cf48d49ef0f5b11946b	md5	file:////home/ubuntu/sanger-test/test-data/testdata/HCC1143_BL.chr21.bam	bam	sequencing_file
+HCC1143_BL.chr21.bam	32504060	D0M9M.1	e79f6925bcbf7cf48d49ef0f5b11946b	md5	file:////home/ubuntu/sanger-test/test-data/testdata/HCC1143_BL.chr21.bam	bam	sequencing_file
+HCC1143_BL.chr21.bam	32504060	D0M9M.2	e79f6925bcbf7cf48d49ef0f5b11946b	md5	file:////home/ubuntu/sanger-test/test-data/testdata/HCC1143_BL.chr21.bam	bam	sequencing_file
+HCC1143_BL.chr21.bam	32504060	D0MBK.1	e79f6925bcbf7cf48d49ef0f5b11946b	md5	file:////home/ubuntu/sanger-test/test-data/testdata/HCC1143_BL.chr21.bam	bam	sequencing_file
+HCC1143_BL.chr21.bam	32504060	D0MBK.2	e79f6925bcbf7cf48d49ef0f5b11946b	md5	file:////home/ubuntu/sanger-test/test-data/testdata/HCC1143_BL.chr21.bam	bam	sequencing_file
+HCC1143_BL.chr21.bam	32504060	D0MBK.3	e79f6925bcbf7cf48d49ef0f5b11946b	md5	file:////home/ubuntu/sanger-test/test-data/testdata/HCC1143_BL.chr21.bam	bam	sequencing_file
+HCC1143_BL.chr21.bam	32504060	D0MBK.4	e79f6925bcbf7cf48d49ef0f5b11946b	md5	file:////home/ubuntu/sanger-test/test-data/testdata/HCC1143_BL.chr21.bam	bam	sequencing_file
+HCC1143_BL.chr21.bam	32504060	D0MBK.5	e79f6925bcbf7cf48d49ef0f5b11946b	md5	file:////home/ubuntu/sanger-test/test-data/testdata/HCC1143_BL.chr21.bam	bam	sequencing_file
+HCC1143_BL.chr21.bam	32504060	D0MBK.6	e79f6925bcbf7cf48d49ef0f5b11946b	md5	file:////home/ubuntu/sanger-test/test-data/testdata/HCC1143_BL.chr21.bam	bam	sequencing_file
+HCC1143_BL.chr21.bam	32504060	D0MBK.7	e79f6925bcbf7cf48d49ef0f5b11946b	md5	file:////home/ubuntu/sanger-test/test-data/testdata/HCC1143_BL.chr21.bam	bam	sequencing_file
+HCC1143_BL.chr21.bam	32504060	D0MBK.8	e79f6925bcbf7cf48d49ef0f5b11946b	md5	file:////home/ubuntu/sanger-test/test-data/testdata/HCC1143_BL.chr21.bam	bam	sequencing_file

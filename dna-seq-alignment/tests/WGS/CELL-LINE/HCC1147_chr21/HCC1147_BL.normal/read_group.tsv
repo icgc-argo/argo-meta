@@ -1,0 +1,17 @@
+type	submitter_id	platform_unit	is_paired_end	read_length_r1	read_length_r2	insert_size	sample_barcode	library_name	experiment_submitter_id
+read_group	C0ENM.3			150	150	290		Pond-139372	TEST-EXP-1
+read_group	C0ENM.4			150	150	290		Pond-139372	TEST-EXP-1
+read_group	C0ENM.5			150	150	290		Pond-139372	TEST-EXP-1
+read_group	C0ENM.6			150	150	290		Pond-139372	TEST-EXP-1
+read_group	C0ENM.7			150	150	290		Pond-139372	TEST-EXP-1
+read_group	C0ENM.8			150	150	290		Pond-139372	TEST-EXP-1
+read_group	D0M9M.1			150	150	290		Pond-139372	TEST-EXP-1
+read_group	D0M9M.2			150	150	290		Pond-139372	TEST-EXP-1
+read_group	D0MBK.1			150	150	290		Pond-139372	TEST-EXP-1
+read_group	D0MBK.2			150	150	290		Pond-139372	TEST-EXP-1
+read_group	D0MBK.3			150	150	290		Pond-139372	TEST-EXP-1
+read_group	D0MBK.4			150	150	290		Pond-139372	TEST-EXP-1
+read_group	D0MBK.5			150	150	290		Pond-139372	TEST-EXP-1
+read_group	D0MBK.6			150	150	290		Pond-139372	TEST-EXP-1
+read_group	D0MBK.7			150	150	290		Pond-139372	TEST-EXP-1
+read_group	D0MBK.8			150	150	290		Pond-139372	TEST-EXP-1
