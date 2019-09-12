@@ -1,0 +1,6 @@
+type	submitter_id	platform_unit	is_paired_end	read_length_r1	read_length_r2	insert_size	sample_barcode	library_name	experiment_submitter_id
+read_group	733040			150	150	461		PD9168b_HUMgjjRAADIABPEI-1_15068	TEST-EXP-166
+read_group	733063			150	150	461		PD9168b_HUMgjjRAADIABPEI-1_15068	TEST-EXP-166
+read_group	733261			150	150	461		PD9168b_HUMgjjRAADIABPEI-1_15068	TEST-EXP-166
+read_group	733336			150	150	461		PD9168b_HUMgjjRAADIABPEI-1_15068	TEST-EXP-166
+read_group	733388			150	150	461		PD9168b_HUMgjjRAADIABPEI-1_15068	TEST-EXP-166

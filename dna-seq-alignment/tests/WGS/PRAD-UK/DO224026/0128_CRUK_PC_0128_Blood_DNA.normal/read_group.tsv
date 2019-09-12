@@ -1,0 +1,5 @@
+type	submitter_id	platform_unit	is_paired_end	read_length_r1	read_length_r2	insert_size	sample_barcode	library_name	experiment_submitter_id
+read_group	2194496	87_1_1_1		150	150	295		PD14720b_1_40929	TEST-EXP-105
+read_group	2194502	87_2_1_2		150	150	295		PD14720b_1_40929	TEST-EXP-105
+read_group	2194512	87_3_1_3		150	150	295		PD14720b_1_40929	TEST-EXP-105
+read_group	2194644	175_1_3_8		150	150	295		PD14720b_1_40929	TEST-EXP-105

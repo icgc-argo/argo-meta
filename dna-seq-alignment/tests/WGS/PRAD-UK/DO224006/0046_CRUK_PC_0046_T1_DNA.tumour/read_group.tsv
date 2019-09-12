@@ -1,0 +1,5 @@
+type	submitter_id	platform_unit	is_paired_end	read_length_r1	read_length_r2	insert_size	sample_barcode	library_name	experiment_submitter_id
+read_group	1163628	HS2000-1262_113_5		150	150	240		LP6005186-DNA_H03_lib_26881	TEST-EXP-129
+read_group	1163727	HS2000-1262_113_7		150	150	240		LP6005186-DNA_H03_lib_26881	TEST-EXP-129
+read_group	1163841	HS2000-1262_113_8		150	150	240		LP6005186-DNA_H03_lib_26881	TEST-EXP-129
+read_group	1174033	HS2000-900_242_6		150	150	240		LP6005186-DNA_H03_lib_26881	TEST-EXP-129

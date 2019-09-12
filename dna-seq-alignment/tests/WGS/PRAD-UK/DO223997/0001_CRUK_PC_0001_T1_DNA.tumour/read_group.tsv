@@ -1,0 +1,9 @@
+type	submitter_id	platform_unit	is_paired_end	read_length_r1	read_length_r2	insert_size	sample_barcode	library_name	experiment_submitter_id
+read_group	1049425	bam_2		150	150	315		PD6204a_4425	TEST-EXP-11
+read_group	1049428	bam_5		150	150	315		PD6204a_4425	TEST-EXP-11
+read_group	1049480	bam_1		150	150	315		PD6204a_4425	TEST-EXP-11
+read_group	1049481	bam_7		150	150	315		PD6204a_4425	TEST-EXP-11
+read_group	1049482	bam_6		150	150	315		PD6204a_4425	TEST-EXP-11
+read_group	1049500	bam_8		150	150	315		PD6204a_4425	TEST-EXP-11
+read_group	1049527	bam_3		150	150	315		PD6204a_4425	TEST-EXP-11
+read_group	1049594	bam_4		150	150	315		PD6204a_4425	TEST-EXP-11

@@ -1,0 +1,5 @@
+type	submitter_id	platform_unit	is_paired_end	read_length_r1	read_length_r2	insert_size	sample_barcode	library_name	experiment_submitter_id
+read_group	743267			150	150	459		SZAIPI001575-12_17819	TEST-EXP-157
+read_group	743294			150	150	459		SZAIPI001575-12_17819	TEST-EXP-157
+read_group	744126			150	150	462		SZAIPI001576-12_17820	TEST-EXP-157
+read_group	745547			150	150	462		SZAIPI001576-12_17820	TEST-EXP-157

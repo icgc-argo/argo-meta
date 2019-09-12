@@ -1,0 +1,4 @@
+type	submitter_id	platform_unit	is_paired_end	read_length_r1	read_length_r2	insert_size	sample_barcode	library_name	experiment_submitter_id
+read_group	2027559	179_1_2		150	150	309		PD14707b_1_38427	TEST-EXP-24
+read_group	2028817	179_1_4		150	150	309		PD14707b_1_38427	TEST-EXP-24
+read_group	2031447	179_1_3		150	150	309		PD14707b_1_38427	TEST-EXP-24

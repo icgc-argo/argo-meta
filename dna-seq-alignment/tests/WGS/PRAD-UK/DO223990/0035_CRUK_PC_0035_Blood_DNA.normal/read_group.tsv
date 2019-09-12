@@ -1,0 +1,4 @@
+type	submitter_id	platform_unit	is_paired_end	read_length_r1	read_length_r2	insert_size	sample_barcode	library_name	experiment_submitter_id
+read_group	1117715	242_5		150	150	273		LP6005185-DNA_E02_lib_25535	TEST-EXP-218
+read_group	1117721	242_3		150	150	273		LP6005185-DNA_E02_lib_25535	TEST-EXP-218
+read_group	1117813	242_4		150	150	273		LP6005185-DNA_E02_lib_25535	TEST-EXP-218

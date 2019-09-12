@@ -1,0 +1,6 @@
+type	submitter_id	platform_unit	is_paired_end	read_length_r1	read_length_r2	insert_size	sample_barcode	library_name	experiment_submitter_id
+read_group	1286983	HS2000-783_333_6		150	150	313		LP6005341-DNA_B04_lib_27826	TEST-EXP-177
+read_group	1287000	HS2000-783_333_8		150	150	313		LP6005341-DNA_B04_lib_27826	TEST-EXP-177
+read_group	1287078	HS2000-783_333_7		150	150	313		LP6005341-DNA_B04_lib_27826	TEST-EXP-177
+read_group	1287361	HS2000-1259_159_2		150	150	313		LP6005341-DNA_B04_lib_27826	TEST-EXP-177
+read_group	1287744	HS2000-1279_134_1		150	150	313		LP6005341-DNA_B04_lib_27826	TEST-EXP-177

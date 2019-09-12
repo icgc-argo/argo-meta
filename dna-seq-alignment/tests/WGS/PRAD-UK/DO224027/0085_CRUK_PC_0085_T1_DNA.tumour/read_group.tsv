@@ -1,0 +1,6 @@
+type	submitter_id	platform_unit	is_paired_end	read_length_r1	read_length_r2	insert_size	sample_barcode	library_name	experiment_submitter_id
+read_group	1364551	HS2000-1251_128_6		150	150	290		LP6005341-DNA_H04_lib_29434	TEST-EXP-192
+read_group	1364618	HS2000-1251_128_5		150	150	290		LP6005341-DNA_H04_lib_29434	TEST-EXP-192
+read_group	1364994	HS2000-1251_128_4		150	150	290		LP6005341-DNA_H04_lib_29434	TEST-EXP-192
+read_group	1365228	HS2000-1251_128_3		150	150	290		LP6005341-DNA_H04_lib_29434	TEST-EXP-192
+read_group	1365687	HS2000-1251_128_2		150	150	290		LP6005341-DNA_H04_lib_29434	TEST-EXP-192
