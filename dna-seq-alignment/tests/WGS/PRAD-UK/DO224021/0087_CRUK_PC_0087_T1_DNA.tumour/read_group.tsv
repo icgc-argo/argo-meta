@@ -1,4 +1,4 @@
-type	submitter_id	platform_unit	is_paired_end	read_length_r1	read_length_r2	insert_size	sample_barcode	library_name	experiment_submitter_id
+type	submitter_read_group_id	platform_unit	is_paired_end	read_length_r1	read_length_r2	insert_size	sample_barcode	library_name	submitter_sequencing_experiment_id
 read_group	1364559	HS2000-783_332_4		150	150	303		LP6005341-DNA_H03_lib_29433	TEST-EXP-117
 read_group	1364564	HS2000-783_332_6		150	150	303		LP6005341-DNA_H03_lib_29433	TEST-EXP-117
 read_group	1364792	HS2000-783_332_5		150	150	303		LP6005341-DNA_H03_lib_29433	TEST-EXP-117

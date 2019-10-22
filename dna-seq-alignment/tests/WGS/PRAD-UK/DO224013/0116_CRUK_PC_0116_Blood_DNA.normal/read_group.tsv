@@ -1,4 +1,4 @@
-type	submitter_id	platform_unit	is_paired_end	read_length_r1	read_length_r2	insert_size	sample_barcode	library_name	experiment_submitter_id
+type	submitter_read_group_id	platform_unit	is_paired_end	read_length_r1	read_length_r2	insert_size	sample_barcode	library_name	submitter_sequencing_experiment_id
 read_group	2022959	288_8		150	150	307		PD14709b_1_38475	TEST-EXP-162
 read_group	2023065	179_8_8		150	150	307		PD14709b_1_38475	TEST-EXP-162
 read_group	2023139	371_8_1		150	150	307		PD14709b_1_38475	TEST-EXP-162

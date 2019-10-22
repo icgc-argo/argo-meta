@@ -1,4 +1,4 @@
-type	submitter_id	platform_unit	is_paired_end	read_length_r1	read_length_r2	insert_size	sample_barcode	library_name	experiment_submitter_id
+type	submitter_read_group_id	platform_unit	is_paired_end	read_length_r1	read_length_r2	insert_size	sample_barcode	library_name	submitter_sequencing_experiment_id
 read_group	1359347	HS2000-1111_193_5		150	150	307		LP6005341-DNA_E02_lib_28731	TEST-EXP-160
 read_group	1360411	HS2000-1111_193_8		150	150	307		LP6005341-DNA_E02_lib_28731	TEST-EXP-160
 read_group	1361163	HS2000-1273_131_1		150	150	307		LP6005341-DNA_E02_lib_28731	TEST-EXP-160
