@@ -1,0 +1,2 @@
+type	submitter_read_group_id	platform_unit	is_paired_end	read_length_r1	read_length_r2	insert_size	sample_barcode	library_name	submitter_sequencing_experiment_id
+read_group	110630_SN203_0118_AC00FLACXX_1_CAGATC	110630_SN203_0118_AC00FLACXX_1_CAGATC		150	150	290		PCSI_0018_Pa_X_PE_364_EX	TEST-EXP-123

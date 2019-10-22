@@ -1,0 +1,2 @@
+name	size	submitter_read_group_id	checksum	checksum_type	path	format	type
+67e11a289b175eaee91b77e57b2c2ffa.PCSI_0047_Ly_R_PE_437_EX_TGACCA_5_111209_h239_0135_BD0GRMACXX.bam	10777332802	111209_h239_0135_BD0GRMACXX_5_TGACCA	67e11a289b175eaee91b77e57b2c2ffa	md5	score://collab/EGAR00001225549/06a9c8cf-1414-51e6-af81-b256dbee6db8	BAM	sequencing_file

@@ -1,3 +1,3 @@
-name	size	submitter_read_group_id	checksum	checksum_type	local_path	format	type
+name	size	submitter_read_group_id	checksum	checksum_type	path	format	type
 af359437c2c236499406416d53b4d0ff.WXS_PAIRED_blood_7EP30_merged.bam.rmdup.bam	6573098787	130926_SN7001397_0092_BD2G9YACXX_7EP30_BL_CGATGT_L004	af359437c2c236499406416d53b4d0ff	md5	score://collab/EGAZ00001019407/e4a5da70-027a-5634-8912-8f2c0422ed3c	BAM	sequencing_file
 af359437c2c236499406416d53b4d0ff.WXS_PAIRED_blood_7EP30_merged.bam.rmdup.bam	6573098787	130926_SN7001397_0092_BD2G9YACXX_7EP30_BL_CGATGT_L005	af359437c2c236499406416d53b4d0ff	md5	score://collab/EGAZ00001019407/e4a5da70-027a-5634-8912-8f2c0422ed3c	BAM	sequencing_file

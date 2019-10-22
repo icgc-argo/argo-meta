@@ -1,3 +1,3 @@
-name	size	submitter_read_group_id	checksum	checksum_type	local_path	format	type
+name	size	submitter_read_group_id	checksum	checksum_type	path	format	type
 abc930d864064461858c53a11c373fea.WXS_PAIRED_tumor_7EP15_merged.bam.rmdup.bam	7035465336	130924_SN7001149_0165_BC2EWBACXX_7EP15_GATCAG_L006	abc930d864064461858c53a11c373fea	md5	score://collab/EGAZ00001019441/0afde1c9-c08b-5626-9fc5-819ad68266bd	BAM	sequencing_file
 abc930d864064461858c53a11c373fea.WXS_PAIRED_tumor_7EP15_merged.bam.rmdup.bam	7035465336	130924_SN7001149_0165_BC2EWBACXX_7EP15_GATCAG_L007	abc930d864064461858c53a11c373fea	md5	score://collab/EGAZ00001019441/0afde1c9-c08b-5626-9fc5-819ad68266bd	BAM	sequencing_file

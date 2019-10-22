@@ -1,0 +1,2 @@
+name	size	submitter_read_group_id	checksum	checksum_type	path	format	type
+cf83b3e33f3681425926e438b9636ff1.PCSI_0044_Ly_R_PE_359_EX_GCCAAT_4_110630_SN203_0118_AC00FLACXX.bam	30252543908	110630_SN203_0118_AC00FLACXX_4_GCCAAT	cf83b3e33f3681425926e438b9636ff1	md5	score://collab/EGAR00001229028/52b58b12-7b1b-5fe1-925f-0ef7c4fe60cf	BAM	sequencing_file

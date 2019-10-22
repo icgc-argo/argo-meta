@@ -1,0 +1,2 @@
+type	submitter_read_group_id	platform_unit	is_paired_end	read_length_r1	read_length_r2	insert_size	sample_barcode	library_name	submitter_sequencing_experiment_id
+read_group	120418_SN801_0072_AC0M13ACXX_3_NoIndex	120418_SN801_0072_AC0M13ACXX_3_NoIndex		150	150	290		MPCC_0032_Pa_C_PE_374_EX	TEST-EXP-155

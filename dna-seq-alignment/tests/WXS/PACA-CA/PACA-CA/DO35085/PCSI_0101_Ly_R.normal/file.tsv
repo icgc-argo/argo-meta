@@ -1,0 +1,2 @@
+name	size	submitter_read_group_id	checksum	checksum_type	path	format	type
+17754da31ad0077a4e8ab2b47a03b49a.PCSI_0101_Ly_R_PE_359_EX_TTAGGC_1_111209_h239_0135_BD0GRMACXX.bam	8668544180	111209_h239_0135_BD0GRMACXX_1_TTAGGC	17754da31ad0077a4e8ab2b47a03b49a	md5	score://collab/EGAR00001229393/c0e69a93-c02d-5dc3-9705-480a1e4d41ba	BAM	sequencing_file

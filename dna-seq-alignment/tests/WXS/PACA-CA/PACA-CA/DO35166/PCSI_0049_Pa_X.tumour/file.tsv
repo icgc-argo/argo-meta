@@ -1,0 +1,2 @@
+name	size	submitter_read_group_id	checksum	checksum_type	path	format	type
+88b714ad82c6ccb8af8d2d26d2c5f38b.PCSI_0049_Pa_X_PE_291_EX_ACAGTG_8_110527_I581_00033_62RY2_AP.bam	4444833948	110527_I581_00033_62RY2_AP_8_ACAGTG	88b714ad82c6ccb8af8d2d26d2c5f38b	md5	score://collab/EGAR00001225865/79b2810c-8065-5a0f-a3d7-cc610254c077	BAM	sequencing_file

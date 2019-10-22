@@ -1,0 +1,2 @@
+type	submitter_read_group_id	platform_unit	is_paired_end	read_length_r1	read_length_r2	insert_size	sample_barcode	library_name	submitter_sequencing_experiment_id
+read_group	110406_SN801_0046_BB0809ABXX_5_NoIndex	110406_SN801_0046_BB0809ABXX_5_NoIndex		150	150	290		PCSI_0018_St_R_PE_241_EX	TEST-EXP-124

@@ -1,0 +1,2 @@
+name	size	submitter_read_group_id	checksum	checksum_type	path	format	type
+8d7fb42759c54a3cef7ad453a5260511.PCSI_0082_Ly_R_PE_447_EX_GCCAAT_7_110625_SN804_0061_AD04C4ACXX.bam	32863808545	110625_SN804_0061_AD04C4ACXX_7_GCCAAT	8d7fb42759c54a3cef7ad453a5260511	md5	score://collab/EGAR00001228400/86ee33fc-be33-50c7-81a8-5c7da72b369f	BAM	sequencing_file

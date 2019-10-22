@@ -1,4 +1,4 @@
-name	size	submitter_read_group_id	checksum	checksum_type	local_path	format	type
+name	size	submitter_read_group_id	checksum	checksum_type	path	format	type
 07e782c6692c30ec3341bba7916c93e0.180183_icgc.bam	156206086619	1163354	07e782c6692c30ec3341bba7916c93e0	md5	score://collab/EGAR00001270624/d24b98d2-2a44-5fa3-85f1-890a583232fa	BAM	sequencing_file
 07e782c6692c30ec3341bba7916c93e0.180183_icgc.bam	156206086619	1163605	07e782c6692c30ec3341bba7916c93e0	md5	score://collab/EGAR00001270624/d24b98d2-2a44-5fa3-85f1-890a583232fa	BAM	sequencing_file
 07e782c6692c30ec3341bba7916c93e0.180183_icgc.bam	156206086619	1170981	07e782c6692c30ec3341bba7916c93e0	md5	score://collab/EGAR00001270624/d24b98d2-2a44-5fa3-85f1-890a583232fa	BAM	sequencing_file

@@ -1,0 +1,2 @@
+name	size	submitter_read_group_id	checksum	checksum_type	path	format	type
+df10f83b3445dbeef955a4d9c85ab57b.PCSI_0100_Ly_R_PE_446_EX_ATCACG_7_111027_SN203_0127_BC08J8ACXX.bam	10659303898	111027_SN203_0127_BC08J8ACXX_7_ATCACG	df10f83b3445dbeef955a4d9c85ab57b	md5	score://collab/EGAR00001225539/24d28277-109c-5fa5-9585-3f7e73ce60f6	BAM	sequencing_file

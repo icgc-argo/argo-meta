@@ -1,0 +1,2 @@
+type	submitter_read_group_id	platform_unit	is_paired_end	read_length_r1	read_length_r2	insert_size	sample_barcode	library_name	submitter_sequencing_experiment_id
+read_group	110513_I1551_00025_70C97_LT_4_NoIndex	110513_I1551_00025_70C97_LT_4_NoIndex		150	150	290		PCSI_0077_Pa_X_PE_333_EX	TEST-EXP-87

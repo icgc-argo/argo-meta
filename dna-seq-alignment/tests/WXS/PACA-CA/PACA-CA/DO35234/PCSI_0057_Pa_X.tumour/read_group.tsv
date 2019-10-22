@@ -1,0 +1,2 @@
+type	submitter_read_group_id	platform_unit	is_paired_end	read_length_r1	read_length_r2	insert_size	sample_barcode	library_name	submitter_sequencing_experiment_id
+read_group	121005_h804_0096_AD0V4NACXX_4_NoIndex	h804		150	150	290		PCSI_0057_Pa_X_PE_401_EX	TEST-EXP-69

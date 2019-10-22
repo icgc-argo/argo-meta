@@ -1,0 +1,2 @@
+name	size	submitter_read_group_id	checksum	checksum_type	path	format	type
+4082300a9c91861f2a8e7df94f7ce386.PCSI_0139_Pa_X_PE_427_EX_NoIndex_2_120215_SN1080_0099_AC0GHPACXX.bam	26690353502	120215_SN1080_0099_AC0GHPACXX_2_NoIndex	4082300a9c91861f2a8e7df94f7ce386	md5	score://collab/EGAR00001225635/49b829a7-d75f-5b7d-9281-7dff825a9c71	BAM	sequencing_file

@@ -1,0 +1,2 @@
+name	size	submitter_read_group_id	checksum	checksum_type	path	format	type
+095f51aedd4b1a3cbb4aa819e43e64e0.PCSI_0058_Pa_X_PE_396_EX_CTTGTA_1_110513_I1551_00025_70C97_LT.bam	6071954488	110513_I1551_00025_70C97_LT_1_CTTGTA	095f51aedd4b1a3cbb4aa819e43e64e0	md5	score://collab/EGAR00001227692/61fe7383-1023-53e1-9a4b-7ffdd9cdc6e6	BAM	sequencing_file

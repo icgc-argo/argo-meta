@@ -1,0 +1,2 @@
+name	size	submitter_read_group_id	checksum	checksum_type	path	format	type
+455181ddc4b90a4fded0f11af62117f7.PCSI_0192_Pa_P_PE_402_EX_NoIndex_5_121031_h239_0164_AC1F4JACXX.bam	34267256615	121031_h239_0164_AC1F4JACXX_5_NoIndex	455181ddc4b90a4fded0f11af62117f7	md5	score://collab/EGAR00001227665/4e313257-ef05-5844-b1b6-31d74ad35ffb	BAM	sequencing_file
