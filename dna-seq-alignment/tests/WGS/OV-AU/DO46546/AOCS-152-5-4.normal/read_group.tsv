@@ -1,4 +1,4 @@
-type	submitter_id	platform_unit	is_paired_end	read_length_r1	read_length_r2	insert_size	sample_barcode	library_name	experiment_submitter_id
+type	submitter_read_group_id	platform_unit	is_paired_end	read_length_r1	read_length_r2	insert_size	sample_barcode	library_name	submitter_sequencing_experiment_id
 read_group	20130312043828226	lane_1.nobc		150	150	290		LP6005311-DNA_G01	TEST-EXP-11
 read_group	20130312021120679	lane_7.nobc		150	150	290		LP6005311-DNA_G01	TEST-EXP-11
 read_group	20130312030618493	lane_8.nobc		150	150	290		LP6005311-DNA_G01	TEST-EXP-11
