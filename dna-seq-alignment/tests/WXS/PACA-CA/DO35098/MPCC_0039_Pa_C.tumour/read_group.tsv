@@ -1,2 +1,2 @@
-type	submitter_id	platform_unit	is_paired_end	read_length_r1	read_length_r2	insert_size	sample_barcode	library_name	experiment_submitter_id
+type	submitter_read_group_id	platform_unit	is_paired_end	read_length_r1	read_length_r2	insert_size	sample_barcode	library_name	submitter_sequencing_experiment_id
 read_group	120711_SN1068_0092_AC0T07ACXX_5_NoIndex	120711_SN1068_0092_AC0T07ACXX_5_NoIndex		150	150	290		MPCC_0039_Pa_C_PE_412_EX	TEST-EXP-50

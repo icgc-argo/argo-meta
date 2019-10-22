@@ -1,4 +1,4 @@
-name	size	read_group_submitter_id	checksum	checksum_type	local_path	format	type
+name	size	submitter_read_group_id	checksum	checksum_type	local_path	format	type
 4744d5663e89880fc9115b5430082f37.WXS_PAIRED_tumor_4EP31_T_merged.bam.rmdup.bam	7417855051	run110506_HWUSI-EAS702_00052_FC_70GWTAAXX_s_2	4744d5663e89880fc9115b5430082f37	md5	score://collab/EGAZ00001019430/22ca2e89-007d-537d-b56b-fc4b2287b0fb	BAM	sequencing_file
 4744d5663e89880fc9115b5430082f37.WXS_PAIRED_tumor_4EP31_T_merged.bam.rmdup.bam	7417855051	run110812_SN750_0090_Ac03hnacxx_lan	4744d5663e89880fc9115b5430082f37	md5	score://collab/EGAZ00001019430/22ca2e89-007d-537d-b56b-fc4b2287b0fb	BAM	sequencing_file
 4744d5663e89880fc9115b5430082f37.WXS_PAIRED_tumor_4EP31_T_merged.bam.rmdup.bam	7417855051	run130621_SN7001153_0132_AC272CACXX_2_CGATGT_L002	4744d5663e89880fc9115b5430082f37	md5	score://collab/EGAZ00001019430/22ca2e89-007d-537d-b56b-fc4b2287b0fb	BAM	sequencing_file

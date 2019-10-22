@@ -1,2 +1,2 @@
-name	size	read_group_submitter_id	checksum	checksum_type	local_path	format	type
+name	size	submitter_read_group_id	checksum	checksum_type	local_path	format	type
 9df915d988d92363b09a6c81cb7d5d1c.PCSI_0073_Pa_X_PE_431_EX_GCCAAT_1_110819_SN393_0183_AB02B9ACXX.bam	23009066713	110819_SN393_0183_AB02B9ACXX_1_GCCAAT	9df915d988d92363b09a6c81cb7d5d1c	md5	score://collab/EGAR00001232114/3eaca240-7dd5-5cab-904c-1fb68a1652b2	BAM	sequencing_file

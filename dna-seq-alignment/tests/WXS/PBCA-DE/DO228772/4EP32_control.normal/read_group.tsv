@@ -1,3 +1,3 @@
-type	submitter_id	platform_unit	is_paired_end	read_length_r1	read_length_r2	insert_size	sample_barcode	library_name	experiment_submitter_id
+type	submitter_read_group_id	platform_unit	is_paired_end	read_length_r1	read_length_r2	insert_size	sample_barcode	library_name	submitter_sequencing_experiment_id
 read_group	run130404_SN7001393_0053_AH0EJDADXX_CEF-EP-023_TAGCTT_L001			150	150	290		blood_4EP32_T	TEST-EXP-77
 read_group	run130404_SN7001393_0053_AH0EJDADXX_CEF-EP-023_TAGCTT_L002			150	150	290		blood_4EP32_T	TEST-EXP-77

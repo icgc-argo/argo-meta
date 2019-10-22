@@ -1,2 +1,2 @@
-type	submitter_id	platform_unit	is_paired_end	read_length_r1	read_length_r2	insert_size	sample_barcode	library_name	experiment_submitter_id
-read_group	1	100611_IL13_4850_8		150	150	290		PD4113a_pd 241159	TEST-EXP-215
+type	submitter_read_group_id	platform_unit	is_paired_end	read_length_r1	read_length_r2	insert_size	sample_barcode	library_name	submitter_sequencing_experiment_id
+read_group	1	100611_IL13_4850_8		150	150	183		PD4113a_pd 241159	TEST-EXP-215

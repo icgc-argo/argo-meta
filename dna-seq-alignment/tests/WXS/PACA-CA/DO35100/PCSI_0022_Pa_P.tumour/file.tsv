@@ -1,2 +1,2 @@
-name	size	read_group_submitter_id	checksum	checksum_type	local_path	format	type
+name	size	submitter_read_group_id	checksum	checksum_type	local_path	format	type
 a451bab41f5e4893075e26ae366f1548.PCSI_0022_Pa_P_PE_250_EX_NoIndex_3_100115_i278_61FW5_LT.bam	4391861052	100115_i278_61FW5_LT_3_NoIndex	a451bab41f5e4893075e26ae366f1548	md5	score://collab/EGAR00001230012/471a1b0d-dd9a-5583-8f89-39793a9f4241	BAM	sequencing_file

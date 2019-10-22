@@ -1,4 +1,4 @@
-type	submitter_id	platform_unit	is_paired_end	read_length_r1	read_length_r2	insert_size	sample_barcode	library_name	experiment_submitter_id
+type	submitter_read_group_id	platform_unit	is_paired_end	read_length_r1	read_length_r2	insert_size	sample_barcode	library_name	submitter_sequencing_experiment_id
 read_group	run110506_HWUSI-EAS702_00052_FC_70GWTAAXX_s_1			150	150	290		tumor_121111	TEST-EXP-14
 read_group	run110901_SN952_0041_AD0883ACXX_7_NoIndex_L007			150	150	290		tumor_121111	TEST-EXP-14
 read_group	run130621_SN7001153_0132_AC272CACXX_1_CTTGTA_L001			150	150	290		tumor_4EP35_T	TEST-EXP-14

@@ -1,2 +1,2 @@
-type	submitter_id	platform_unit	is_paired_end	read_length_r1	read_length_r2	insert_size	sample_barcode	library_name	experiment_submitter_id
+type	submitter_read_group_id	platform_unit	is_paired_end	read_length_r1	read_length_r2	insert_size	sample_barcode	library_name	submitter_sequencing_experiment_id
 read_group	111118_h803_0071_AC08E3ACXX_7_NoIndex	h803		150	150	290		PCSI_0081_Ly_R_PE_418_EX	TEST-EXP-91

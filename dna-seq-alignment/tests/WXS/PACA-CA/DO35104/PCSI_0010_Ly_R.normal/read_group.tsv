@@ -1,2 +1,2 @@
-type	submitter_id	platform_unit	is_paired_end	read_length_r1	read_length_r2	insert_size	sample_barcode	library_name	experiment_submitter_id
+type	submitter_read_group_id	platform_unit	is_paired_end	read_length_r1	read_length_r2	insert_size	sample_barcode	library_name	submitter_sequencing_experiment_id
 read_group	110406_SN801_0045_AB07R4ABXX_7_NoIndex	SN801		150	150	290		PCSI_0010_Ly_R_PE_229_EX	TEST-EXP-148

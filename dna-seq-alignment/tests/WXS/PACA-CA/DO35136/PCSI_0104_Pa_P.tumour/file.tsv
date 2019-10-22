@@ -1,2 +1,2 @@
-name	size	read_group_submitter_id	checksum	checksum_type	local_path	format	type
+name	size	submitter_read_group_id	checksum	checksum_type	local_path	format	type
 2b6e0730803a68650417b2d3372c87c1.PCSI_0104_Pa_P_PE_360_EX_ATCACG_4_110909_SN393_0184_BC00ERACXX.bam	10014863165	110909_SN393_0184_BC00ERACXX_4_ATCACG	2b6e0730803a68650417b2d3372c87c1	md5	score://collab/EGAR00001225749/c494b018-4b99-5768-9718-f0b3cd2ad8ae	BAM	sequencing_file

@@ -1,4 +1,4 @@
-type	submitter_id	platform_unit	is_paired_end	read_length_r1	read_length_r2	insert_size	sample_barcode	library_name	experiment_submitter_id
+type	submitter_read_group_id	platform_unit	is_paired_end	read_length_r1	read_length_r2	insert_size	sample_barcode	library_name	submitter_sequencing_experiment_id
 read_group	130926_SN7001397_0092_BD2G9YACXX_7EP2_BL_CGATGT_L006			150	150	290		blood_7EP2	TEST-EXP-62
 read_group	130926_SN7001397_0092_BD2G9YACXX_7EP2_BL_CGATGT_L007			150	150	290		blood_7EP2	TEST-EXP-62
 read_group	130926_SN7001397_0092_BD2G9YACXX_7EP2_BL_CGATGT_L008			150	150	290		blood_7EP2	TEST-EXP-62

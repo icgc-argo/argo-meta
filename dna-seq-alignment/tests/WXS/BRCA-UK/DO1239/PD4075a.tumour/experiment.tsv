@@ -1,2 +1,2 @@
-type	program	submitter_id	sample_submitter_id	sequencing_center	platform	platform_model	library_strategy	sequencing_date	read_group_count	specimen_type	donor_submitter_id
+type	program_id	submitter_sequencing_experiment_id	submitter_sample_id	sequencing_center	platform	platform_model	library_strategy	sequencing_date	read_group_count	tumour_normal_designation	submitter_donor_id
 sequencing_experiment	BRCA-UK	TEST-EXP-347	PD4075a	SC	ILLUMINA		WXS	2011-03-18T20:00:00-0400	1	Primary tumour - solid tissue	CGP_donor_1187020

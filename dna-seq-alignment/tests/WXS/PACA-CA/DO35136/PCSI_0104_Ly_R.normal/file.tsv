@@ -1,2 +1,2 @@
-name	size	read_group_submitter_id	checksum	checksum_type	local_path	format	type
+name	size	submitter_read_group_id	checksum	checksum_type	local_path	format	type
 d10e83a93d84f4ddcba97d119949875f.PCSI_0104_Ly_R_PE_341_EX_TGACCA_6_110909_SN393_0184_BC00ERACXX.bam	9734251075	110909_SN393_0184_BC00ERACXX_6_TGACCA	d10e83a93d84f4ddcba97d119949875f	md5	score://collab/EGAR00001229784/64830bc8-80be-5e1a-b092-066ed1120d10	BAM	sequencing_file

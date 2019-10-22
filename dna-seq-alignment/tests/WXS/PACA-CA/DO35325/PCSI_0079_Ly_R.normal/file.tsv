@@ -1,2 +1,2 @@
-name	size	read_group_submitter_id	checksum	checksum_type	local_path	format	type
+name	size	submitter_read_group_id	checksum	checksum_type	local_path	format	type
 e9a165413f8d049365a75d1df196c561.PCSI_0079_Ly_R_PE_490_EX_ACAGTG_6_110625_SN804_0061_AD04C4ACXX.bam	35171287695	110625_SN804_0061_AD04C4ACXX_6_ACAGTG	e9a165413f8d049365a75d1df196c561	md5	score://collab/EGAR00001228391/66b33aa1-cc3c-509f-8b5b-bd702361df8f	BAM	sequencing_file
