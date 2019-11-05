@@ -1,0 +1,4 @@
+name	size	submitter_read_group_id	checksum	checksum_type	path	format	type
+d1c47db94cc9bcdd372650f74a8960bf.PCSI_0101_Si_R.bam	120806878189	140828_D00343_0065_AC4PK5ANXX_7_NoIndex	d1c47db94cc9bcdd372650f74a8960bf	md5	score://collab/EGAZ00001315230/8d469646-f922-5d79-9e90-01f5a4ab0db5	BAM	sequencing_file
+d1c47db94cc9bcdd372650f74a8960bf.PCSI_0101_Si_R.bam	120806878189	140828_D00343_0065_AC4PK5ANXX_8_NoIndex	d1c47db94cc9bcdd372650f74a8960bf	md5	score://collab/EGAZ00001315230/8d469646-f922-5d79-9e90-01f5a4ab0db5	BAM	sequencing_file
+d1c47db94cc9bcdd372650f74a8960bf.PCSI_0101_Si_R.bam	120806878189	140829_D00355_0064_AC4PEWANXX_6_NoIndex	d1c47db94cc9bcdd372650f74a8960bf	md5	score://collab/EGAZ00001315230/8d469646-f922-5d79-9e90-01f5a4ab0db5	BAM	sequencing_file

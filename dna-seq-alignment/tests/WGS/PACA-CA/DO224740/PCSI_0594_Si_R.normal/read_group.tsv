@@ -1,0 +1,3 @@
+type	submitter_read_group_id	platform_unit	is_paired_end	read_length_r1	read_length_r2	insert_size	sample_barcode	library_name	submitter_sequencing_experiment_id
+read_group	150818_D00343_0091_AC6R41ANXX_3_TTAGGC	150818_D00343_0091_AC6R41ANXX_3_TTAGGC		150	150	290		PCSI_0594_Si_R_PE_628_WG	TEST-EXP-72
+read_group	150826_D00353_0106_BC6VRJANXX_4_TTAGGC	150826_D00353_0106_BC6VRJANXX_4_TTAGGC		150	150	290		PCSI_0594_Si_R_PE_628_WG	TEST-EXP-72
