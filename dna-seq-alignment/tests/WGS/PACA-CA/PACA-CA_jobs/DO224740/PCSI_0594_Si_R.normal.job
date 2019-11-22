@@ -1,0 +1,9 @@
+{
+  "name": "DO224740.PACA-CA.WGS.normal",
+  "exp_tsv": "[exp.tsv]https://raw.githubusercontent.com/icgc-argo/argo-meta/master/dna-seq-alignment/tests/WGS/PACA-CA/DO224740/PCSI_0594_Si_R.normal/experiment.tsv",
+  "file_tsv": "[file.tsv]https://raw.githubusercontent.com/icgc-argo/argo-meta/master/dna-seq-alignment/tests/WGS/PACA-CA/DO224740/PCSI_0594_Si_R.normal/file.tsv",
+  "seq_files": [],
+  "rg_tsv": "[read_group.tsv]https://raw.githubusercontent.com/icgc-argo/argo-meta/master/dna-seq-alignment/tests/WGS/PACA-CA/DO224740/PCSI_0594_Si_R.normal/read_group.tsv",
+  "ref_genome": "/home/ubuntu/GRCh38_hla_decoy_ebv/GRCh38_hla_decoy_ebv.fa",
+  "ref_genome_gz": "/home/ubuntu/GRCh38_hla_decoy_ebv/GRCh38_hla_decoy_ebv.fa.gz"
+}
