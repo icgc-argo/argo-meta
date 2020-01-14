@@ -1,0 +1,80 @@
+{
+    "studyId": "PACA-CA",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "PCSI_0616_Si_R",
+            "matchedNormalSubmitterSampleId": null,
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "PCSI_0616_Si_R",
+                "specimenType": "Normal",
+                "tumourNormalDesignation": "Normal",
+                "specimenTissueSource": "Solid tissue"
+            },
+            "donor": {
+                "submitterDonorId": "PCSI_0616",
+                "gender": "Male"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "submittedReads",
+            "fileName": "78d541e06c3d80532cbd1d2f8eab5534.PCSI_0616_Si_R.bam",
+            "fileSize": 69627629593,
+            "fileType": "BAM",
+            "fileMd5sum": "78d541e06c3d80532cbd1d2f8eab5534",
+            "fileAccess": "controlled"
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "78d541e06c3d80532cbd1d2f8eab5534.PCSI_0616_Si_R.bam",
+            "file_r2": "78d541e06c3d80532cbd1d2f8eab5534.PCSI_0616_Si_R.bam",
+            "insert_size": null,
+            "is_paired_end": true,
+            "library_name": "PCSI_0616_Si_R_PE_592_WG",
+            "platform_unit": "151120_D00331_0146_AC85A9ANXX_4_ACAGTG",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "151120_D00331_0146_AC85A9ANXX_4_ACAGTG"
+        },
+        {
+            "file_r1": "78d541e06c3d80532cbd1d2f8eab5534.PCSI_0616_Si_R.bam",
+            "file_r2": "78d541e06c3d80532cbd1d2f8eab5534.PCSI_0616_Si_R.bam",
+            "insert_size": null,
+            "is_paired_end": true,
+            "library_name": "PCSI_0616_Si_R_PE_592_WG",
+            "platform_unit": "160115_D00353_0124_BC8L4BANXX_7_ACAGTG",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "160115_D00353_0124_BC8L4BANXX_7_ACAGTG"
+        },
+        {
+            "file_r1": "78d541e06c3d80532cbd1d2f8eab5534.PCSI_0616_Si_R.bam",
+            "file_r2": "78d541e06c3d80532cbd1d2f8eab5534.PCSI_0616_Si_R.bam",
+            "insert_size": null,
+            "is_paired_end": true,
+            "library_name": "PCSI_0616_Si_R_PE_652_WG",
+            "platform_unit": "160517_D00343_0119_AC908KANXX_6_CACCGG",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "160517_D00343_0119_AC908KANXX_6_CACCGG"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "TEST-EXP-88",
+        "library_strategy": "WGS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 3
+}

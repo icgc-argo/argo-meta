@@ -1,0 +1,104 @@
+{
+    "studyId": "PACA-CA",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "PCSI_0357_St_R",
+            "matchedNormalSubmitterSampleId": null,
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "PCSI_0357_St_R",
+                "specimenType": "Normal",
+                "tumourNormalDesignation": "Normal",
+                "specimenTissueSource": "Solid tissue"
+            },
+            "donor": {
+                "submitterDonorId": "PCSI_0357",
+                "gender": "Female"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "submittedReads",
+            "fileName": "ac62dd1160c7b6a53611098cc6bccf24.PCSI_0357_St_R.bam",
+            "fileSize": 154509393412,
+            "fileType": "BAM",
+            "fileMd5sum": "ac62dd1160c7b6a53611098cc6bccf24",
+            "fileAccess": "controlled"
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "ac62dd1160c7b6a53611098cc6bccf24.PCSI_0357_St_R.bam",
+            "file_r2": "ac62dd1160c7b6a53611098cc6bccf24.PCSI_0357_St_R.bam",
+            "insert_size": null,
+            "is_paired_end": true,
+            "library_name": "PCSI_0357_St_R_PE_648_WG",
+            "platform_unit": "130711_h239_0200_AC28JHACXX_7_NoIndex",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "130711_h239_0200_AC28JHACXX_7_NoIndex"
+        },
+        {
+            "file_r1": "ac62dd1160c7b6a53611098cc6bccf24.PCSI_0357_St_R.bam",
+            "file_r2": "ac62dd1160c7b6a53611098cc6bccf24.PCSI_0357_St_R.bam",
+            "insert_size": null,
+            "is_paired_end": true,
+            "library_name": "PCSI_0357_St_R_PE_666_WG",
+            "platform_unit": "130711_h239_0200_AC28JHACXX_8_NoIndex",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "130711_h239_0200_AC28JHACXX_8_NoIndex"
+        },
+        {
+            "file_r1": "ac62dd1160c7b6a53611098cc6bccf24.PCSI_0357_St_R.bam",
+            "file_r2": "ac62dd1160c7b6a53611098cc6bccf24.PCSI_0357_St_R.bam",
+            "insert_size": null,
+            "is_paired_end": true,
+            "library_name": "PCSI_0357_St_R_PE_648_WG",
+            "platform_unit": "130717_SN801_0117_BD28V0ACXX_7_NoIndex",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "130717_SN801_0117_BD28V0ACXX_7_NoIndex"
+        },
+        {
+            "file_r1": "ac62dd1160c7b6a53611098cc6bccf24.PCSI_0357_St_R.bam",
+            "file_r2": "ac62dd1160c7b6a53611098cc6bccf24.PCSI_0357_St_R.bam",
+            "insert_size": null,
+            "is_paired_end": true,
+            "library_name": "PCSI_0357_St_R_PE_666_WG",
+            "platform_unit": "130717_SN801_0117_BD28V0ACXX_8_NoIndex",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "130717_SN801_0117_BD28V0ACXX_8_NoIndex"
+        },
+        {
+            "file_r1": "ac62dd1160c7b6a53611098cc6bccf24.PCSI_0357_St_R.bam",
+            "file_r2": "ac62dd1160c7b6a53611098cc6bccf24.PCSI_0357_St_R.bam",
+            "insert_size": null,
+            "is_paired_end": true,
+            "library_name": "PCSI_0357_St_R_PE_666_WG",
+            "platform_unit": "131010_h239_0211_AC2RJDACXX_8_NoIndex",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "131010_h239_0211_AC2RJDACXX_8_NoIndex"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "TEST-EXP-113",
+        "library_strategy": "WGS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 5
+}

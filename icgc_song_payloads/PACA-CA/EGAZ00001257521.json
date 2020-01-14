@@ -1,0 +1,68 @@
+{
+    "studyId": "PACA-CA",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "PCSI_0107_Si_R_526",
+            "matchedNormalSubmitterSampleId": null,
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "PCSI_0107_Si_R_526",
+                "specimenType": "Normal",
+                "tumourNormalDesignation": "Normal",
+                "specimenTissueSource": "Solid tissue"
+            },
+            "donor": {
+                "submitterDonorId": "PCSI_0107",
+                "gender": "Male"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "submittedReads",
+            "fileName": "6c282c2cb3b645e81ce781570cd41109.PCSI_0107_Si_R_526.bam",
+            "fileSize": 75000250300,
+            "fileType": "BAM",
+            "fileMd5sum": "6c282c2cb3b645e81ce781570cd41109",
+            "fileAccess": "controlled"
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "6c282c2cb3b645e81ce781570cd41109.PCSI_0107_Si_R_526.bam",
+            "file_r2": "6c282c2cb3b645e81ce781570cd41109.PCSI_0107_Si_R_526.bam",
+            "insert_size": null,
+            "is_paired_end": true,
+            "library_name": "PCSI_0107_Si_R_PE_561_WG",
+            "platform_unit": "150512_D00355_0085_AC710WANXX_5_GCCAAT",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "150512_D00355_0085_AC710WANXX_5_GCCAAT"
+        },
+        {
+            "file_r1": "6c282c2cb3b645e81ce781570cd41109.PCSI_0107_Si_R_526.bam",
+            "file_r2": "6c282c2cb3b645e81ce781570cd41109.PCSI_0107_Si_R_526.bam",
+            "insert_size": null,
+            "is_paired_end": true,
+            "library_name": "PCSI_0107_Si_R_PE_561_WG",
+            "platform_unit": "150521_D00331_0136_BC6VP5ANXX_2_GCCAAT",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "150521_D00331_0136_BC6VP5ANXX_2_GCCAAT"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "TEST-EXP-7",
+        "library_strategy": "WGS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 2
+}

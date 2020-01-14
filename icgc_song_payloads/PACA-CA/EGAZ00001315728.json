@@ -1,0 +1,260 @@
+{
+    "studyId": "PACA-CA",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "PCSI_0019_Pa_X",
+            "matchedNormalSubmitterSampleId": "PCSI_0019_St_R",
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "PCSI_0019_Pa_X",
+                "specimenType": "Xenograft - derived from primary tumour",
+                "tumourNormalDesignation": "Tumour",
+                "specimenTissueSource": "Other"
+            },
+            "donor": {
+                "submitterDonorId": "PCSI_0019",
+                "gender": "Male"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "submittedReads",
+            "fileName": "3ba9eac3c2b9976a54367bebfef2fac2.PCSI_0019_Pa_X.bam",
+            "fileSize": 66034242216,
+            "fileType": "BAM",
+            "fileMd5sum": "3ba9eac3c2b9976a54367bebfef2fac2",
+            "fileAccess": "controlled"
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "3ba9eac3c2b9976a54367bebfef2fac2.PCSI_0019_Pa_X.bam",
+            "file_r2": "3ba9eac3c2b9976a54367bebfef2fac2.PCSI_0019_Pa_X.bam",
+            "insert_size": null,
+            "is_paired_end": true,
+            "library_name": "PCSI_0019_Pa_X_PE_402_WG",
+            "platform_unit": "100928_I278_00019_62F4N_LT_5_NoIndex",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "100928_I278_00019_62F4N_LT_5_NoIndex"
+        },
+        {
+            "file_r1": "3ba9eac3c2b9976a54367bebfef2fac2.PCSI_0019_Pa_X.bam",
+            "file_r2": "3ba9eac3c2b9976a54367bebfef2fac2.PCSI_0019_Pa_X.bam",
+            "insert_size": null,
+            "is_paired_end": true,
+            "library_name": "PCSI_0019_Pa_X_PE_502_WG",
+            "platform_unit": "100928_I278_00019_62F4N_LT_6_NoIndex",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "100928_I278_00019_62F4N_LT_6_NoIndex"
+        },
+        {
+            "file_r1": "3ba9eac3c2b9976a54367bebfef2fac2.PCSI_0019_Pa_X.bam",
+            "file_r2": "3ba9eac3c2b9976a54367bebfef2fac2.PCSI_0019_Pa_X.bam",
+            "insert_size": null,
+            "is_paired_end": true,
+            "library_name": "PCSI_0019_Pa_X_PE_401_WG",
+            "platform_unit": "100930_h239_0097_A808BWABXX_1_NoIndex",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "100930_h239_0097_A808BWABXX_1_NoIndex"
+        },
+        {
+            "file_r1": "3ba9eac3c2b9976a54367bebfef2fac2.PCSI_0019_Pa_X.bam",
+            "file_r2": "3ba9eac3c2b9976a54367bebfef2fac2.PCSI_0019_Pa_X.bam",
+            "insert_size": null,
+            "is_paired_end": true,
+            "library_name": "PCSI_0019_Pa_X_PE_401_WG",
+            "platform_unit": "100930_h239_0097_A808BWABXX_2_NoIndex",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "100930_h239_0097_A808BWABXX_2_NoIndex"
+        },
+        {
+            "file_r1": "3ba9eac3c2b9976a54367bebfef2fac2.PCSI_0019_Pa_X.bam",
+            "file_r2": "3ba9eac3c2b9976a54367bebfef2fac2.PCSI_0019_Pa_X.bam",
+            "insert_size": null,
+            "is_paired_end": true,
+            "library_name": "PCSI_0019_Pa_X_PE_401_WG",
+            "platform_unit": "100930_h239_0097_A808BWABXX_3_NoIndex",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "100930_h239_0097_A808BWABXX_3_NoIndex"
+        },
+        {
+            "file_r1": "3ba9eac3c2b9976a54367bebfef2fac2.PCSI_0019_Pa_X.bam",
+            "file_r2": "3ba9eac3c2b9976a54367bebfef2fac2.PCSI_0019_Pa_X.bam",
+            "insert_size": null,
+            "is_paired_end": true,
+            "library_name": "PCSI_0019_Pa_X_PE_401_WG",
+            "platform_unit": "100930_h239_0097_A808BWABXX_4_NoIndex",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "100930_h239_0097_A808BWABXX_4_NoIndex"
+        },
+        {
+            "file_r1": "3ba9eac3c2b9976a54367bebfef2fac2.PCSI_0019_Pa_X.bam",
+            "file_r2": "3ba9eac3c2b9976a54367bebfef2fac2.PCSI_0019_Pa_X.bam",
+            "insert_size": null,
+            "is_paired_end": true,
+            "library_name": "PCSI_0019_Pa_X_PE_501_WG",
+            "platform_unit": "100930_h239_0097_A808BWABXX_5_NoIndex",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "100930_h239_0097_A808BWABXX_5_NoIndex"
+        },
+        {
+            "file_r1": "3ba9eac3c2b9976a54367bebfef2fac2.PCSI_0019_Pa_X.bam",
+            "file_r2": "3ba9eac3c2b9976a54367bebfef2fac2.PCSI_0019_Pa_X.bam",
+            "insert_size": null,
+            "is_paired_end": true,
+            "library_name": "PCSI_0019_Pa_X_PE_501_WG",
+            "platform_unit": "100930_h239_0097_A808BWABXX_6_NoIndex",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "100930_h239_0097_A808BWABXX_6_NoIndex"
+        },
+        {
+            "file_r1": "3ba9eac3c2b9976a54367bebfef2fac2.PCSI_0019_Pa_X.bam",
+            "file_r2": "3ba9eac3c2b9976a54367bebfef2fac2.PCSI_0019_Pa_X.bam",
+            "insert_size": null,
+            "is_paired_end": true,
+            "library_name": "PCSI_0019_Pa_X_PE_501_WG",
+            "platform_unit": "100930_h239_0097_A808BWABXX_7_NoIndex",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "100930_h239_0097_A808BWABXX_7_NoIndex"
+        },
+        {
+            "file_r1": "3ba9eac3c2b9976a54367bebfef2fac2.PCSI_0019_Pa_X.bam",
+            "file_r2": "3ba9eac3c2b9976a54367bebfef2fac2.PCSI_0019_Pa_X.bam",
+            "insert_size": null,
+            "is_paired_end": true,
+            "library_name": "PCSI_0019_Pa_X_PE_501_WG",
+            "platform_unit": "100930_h239_0097_A808BWABXX_8_NoIndex",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "100930_h239_0097_A808BWABXX_8_NoIndex"
+        },
+        {
+            "file_r1": "3ba9eac3c2b9976a54367bebfef2fac2.PCSI_0019_Pa_X.bam",
+            "file_r2": "3ba9eac3c2b9976a54367bebfef2fac2.PCSI_0019_Pa_X.bam",
+            "insert_size": null,
+            "is_paired_end": true,
+            "library_name": "PCSI_0019_Pa_X_PE_319_WG",
+            "platform_unit": "101015_h239_0098_A801DDABXX_1_NoIndex",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "101015_h239_0098_A801DDABXX_1_NoIndex"
+        },
+        {
+            "file_r1": "3ba9eac3c2b9976a54367bebfef2fac2.PCSI_0019_Pa_X.bam",
+            "file_r2": "3ba9eac3c2b9976a54367bebfef2fac2.PCSI_0019_Pa_X.bam",
+            "insert_size": null,
+            "is_paired_end": true,
+            "library_name": "PCSI_0019_Pa_X_PE_319_WG",
+            "platform_unit": "101015_h239_0098_A801DDABXX_2_NoIndex",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "101015_h239_0098_A801DDABXX_2_NoIndex"
+        },
+        {
+            "file_r1": "3ba9eac3c2b9976a54367bebfef2fac2.PCSI_0019_Pa_X.bam",
+            "file_r2": "3ba9eac3c2b9976a54367bebfef2fac2.PCSI_0019_Pa_X.bam",
+            "insert_size": null,
+            "is_paired_end": true,
+            "library_name": "PCSI_0019_Pa_X_PE_319_WG",
+            "platform_unit": "101015_h239_0098_A801DDABXX_3_NoIndex",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "101015_h239_0098_A801DDABXX_3_NoIndex"
+        },
+        {
+            "file_r1": "3ba9eac3c2b9976a54367bebfef2fac2.PCSI_0019_Pa_X.bam",
+            "file_r2": "3ba9eac3c2b9976a54367bebfef2fac2.PCSI_0019_Pa_X.bam",
+            "insert_size": null,
+            "is_paired_end": true,
+            "library_name": "PCSI_0019_Pa_X_PE_319_WG",
+            "platform_unit": "101015_h239_0098_A801DDABXX_4_NoIndex",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "101015_h239_0098_A801DDABXX_4_NoIndex"
+        },
+        {
+            "file_r1": "3ba9eac3c2b9976a54367bebfef2fac2.PCSI_0019_Pa_X.bam",
+            "file_r2": "3ba9eac3c2b9976a54367bebfef2fac2.PCSI_0019_Pa_X.bam",
+            "insert_size": null,
+            "is_paired_end": true,
+            "library_name": "PCSI_0019_Pa_X_PE_419_WG",
+            "platform_unit": "101015_h239_0098_A801DDABXX_5_NoIndex",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "101015_h239_0098_A801DDABXX_5_NoIndex"
+        },
+        {
+            "file_r1": "3ba9eac3c2b9976a54367bebfef2fac2.PCSI_0019_Pa_X.bam",
+            "file_r2": "3ba9eac3c2b9976a54367bebfef2fac2.PCSI_0019_Pa_X.bam",
+            "insert_size": null,
+            "is_paired_end": true,
+            "library_name": "PCSI_0019_Pa_X_PE_419_WG",
+            "platform_unit": "101015_h239_0098_A801DDABXX_6_NoIndex",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "101015_h239_0098_A801DDABXX_6_NoIndex"
+        },
+        {
+            "file_r1": "3ba9eac3c2b9976a54367bebfef2fac2.PCSI_0019_Pa_X.bam",
+            "file_r2": "3ba9eac3c2b9976a54367bebfef2fac2.PCSI_0019_Pa_X.bam",
+            "insert_size": null,
+            "is_paired_end": true,
+            "library_name": "PCSI_0019_Pa_X_PE_419_WG",
+            "platform_unit": "101015_h239_0098_A801DDABXX_7_NoIndex",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "101015_h239_0098_A801DDABXX_7_NoIndex"
+        },
+        {
+            "file_r1": "3ba9eac3c2b9976a54367bebfef2fac2.PCSI_0019_Pa_X.bam",
+            "file_r2": "3ba9eac3c2b9976a54367bebfef2fac2.PCSI_0019_Pa_X.bam",
+            "insert_size": null,
+            "is_paired_end": true,
+            "library_name": "PCSI_0019_Pa_X_PE_419_WG",
+            "platform_unit": "101015_h239_0098_A801DDABXX_8_NoIndex",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "101015_h239_0098_A801DDABXX_8_NoIndex"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "TEST-EXP-168",
+        "library_strategy": "WGS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 18
+}

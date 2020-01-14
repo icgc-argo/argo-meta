@@ -1,0 +1,56 @@
+{
+    "studyId": "PACA-CA",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "PCSI_0102_Ly_R",
+            "matchedNormalSubmitterSampleId": null,
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "PCSI_0102_Ly_R",
+                "specimenType": "Normal",
+                "tumourNormalDesignation": "Normal",
+                "specimenTissueSource": "Blood derived"
+            },
+            "donor": {
+                "submitterDonorId": "PCSI_0102",
+                "gender": "Female"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "submittedReads",
+            "fileName": "0d11411dd018597ff50b88b9d4159243.PCSI_0102_Ly_R_PE_639_WG_NoIndex_3_141007_D00343_0071_AC4PM5ANXX.bam",
+            "fileSize": 30653409558,
+            "fileType": "BAM",
+            "fileMd5sum": "0d11411dd018597ff50b88b9d4159243",
+            "fileAccess": "controlled"
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "0d11411dd018597ff50b88b9d4159243.PCSI_0102_Ly_R_PE_639_WG_NoIndex_3_141007_D00343_0071_AC4PM5ANXX.bam",
+            "file_r2": "0d11411dd018597ff50b88b9d4159243.PCSI_0102_Ly_R_PE_639_WG_NoIndex_3_141007_D00343_0071_AC4PM5ANXX.bam",
+            "insert_size": null,
+            "is_paired_end": true,
+            "library_name": "PCSI_0102_Ly_R_PE_639_WG",
+            "platform_unit": "141007_D00343_0071_AC4PM5ANXX_3_NoIndex",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "141007_D00343_0071_AC4PM5ANXX_3_NoIndex"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "TEST-EXP-206",
+        "library_strategy": "WGS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 1
+}

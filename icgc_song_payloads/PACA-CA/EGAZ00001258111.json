@@ -1,0 +1,104 @@
+{
+    "studyId": "PACA-CA",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "RAMP_0004_Ln_M_526",
+            "matchedNormalSubmitterSampleId": "RAMP_0004_Mu_R",
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "RAMP_0004_Ln_M_526",
+                "specimenType": "Metastatic tumour",
+                "tumourNormalDesignation": "Tumour",
+                "specimenTissueSource": "Lymph node"
+            },
+            "donor": {
+                "submitterDonorId": "PCSI_0380",
+                "gender": "Male"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "submittedReads",
+            "fileName": "069a714a33b46458d7117a650e5cded7.RAMP_0004_Ln_M_526.bam",
+            "fileSize": 187469410734,
+            "fileType": "BAM",
+            "fileMd5sum": "069a714a33b46458d7117a650e5cded7",
+            "fileAccess": "controlled"
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "069a714a33b46458d7117a650e5cded7.RAMP_0004_Ln_M_526.bam",
+            "file_r2": "069a714a33b46458d7117a650e5cded7.RAMP_0004_Ln_M_526.bam",
+            "insert_size": null,
+            "is_paired_end": true,
+            "library_name": "RAMP_0004_Ln_M_PE_660_WG",
+            "platform_unit": "150209_D00331_0123_AC6DNCANXX_7_AGTTCC",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "150209_D00331_0123_AC6DNCANXX_7_AGTTCC"
+        },
+        {
+            "file_r1": "069a714a33b46458d7117a650e5cded7.RAMP_0004_Ln_M_526.bam",
+            "file_r2": "069a714a33b46458d7117a650e5cded7.RAMP_0004_Ln_M_526.bam",
+            "insert_size": null,
+            "is_paired_end": true,
+            "library_name": "RAMP_0004_Ln_M_PE_660_WG",
+            "platform_unit": "150210_D00353_0094_AC6DNRANXX_4_AGTTCC",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "150210_D00353_0094_AC6DNRANXX_4_AGTTCC"
+        },
+        {
+            "file_r1": "069a714a33b46458d7117a650e5cded7.RAMP_0004_Ln_M_526.bam",
+            "file_r2": "069a714a33b46458d7117a650e5cded7.RAMP_0004_Ln_M_526.bam",
+            "insert_size": null,
+            "is_paired_end": true,
+            "library_name": "RAMP_0004_Ln_M_PE_649_WG",
+            "platform_unit": "150210_D00353_0094_AC6DNRANXX_8_ATGTCA",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "150210_D00353_0094_AC6DNRANXX_8_ATGTCA"
+        },
+        {
+            "file_r1": "069a714a33b46458d7117a650e5cded7.RAMP_0004_Ln_M_526.bam",
+            "file_r2": "069a714a33b46458d7117a650e5cded7.RAMP_0004_Ln_M_526.bam",
+            "insert_size": null,
+            "is_paired_end": true,
+            "library_name": "RAMP_0004_Ln_M_PE_660_WG",
+            "platform_unit": "160217_D00355_0112_AC8T11ANXX_6_AGTTCC",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "160217_D00355_0112_AC8T11ANXX_6_AGTTCC"
+        },
+        {
+            "file_r1": "069a714a33b46458d7117a650e5cded7.RAMP_0004_Ln_M_526.bam",
+            "file_r2": "069a714a33b46458d7117a650e5cded7.RAMP_0004_Ln_M_526.bam",
+            "insert_size": null,
+            "is_paired_end": true,
+            "library_name": "RAMP_0004_Ln_M_PE_660_WG",
+            "platform_unit": "160217_D00355_0112_AC8T11ANXX_7_AGTTCC",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "160217_D00355_0112_AC8T11ANXX_7_AGTTCC"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "TEST-EXP-50",
+        "library_strategy": "WGS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 5
+}
