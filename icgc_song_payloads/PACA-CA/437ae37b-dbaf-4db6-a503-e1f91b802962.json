@@ -1,0 +1,104 @@
+{
+    "studyId": "PACA-CA",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "PCSI_0077_Pa_P_526",
+            "matchedNormalSubmitterSampleId": "PCSI_0077_St_R",
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "PCSI_0077_Pa_P_526",
+                "specimenType": "Primary tumour",
+                "tumourNormalDesignation": "Tumour",
+                "specimenTissueSource": "Other"
+            },
+            "donor": {
+                "submitterDonorId": "PCSI_0077",
+                "gender": "Male"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "submittedReads",
+            "fileName": "mini-45b78532d4e2d03c3618de4968b02b1c.bam",
+            "fileSize": 368689328,
+            "fileType": "BAM",
+            "fileMd5sum": "d5bf140dc45d325ab2da3bb427dc7f23",
+            "fileAccess": "controlled"
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "mini-45b78532d4e2d03c3618de4968b02b1c.bam",
+            "file_r2": "mini-45b78532d4e2d03c3618de4968b02b1c.bam",
+            "insert_size": 658,
+            "is_paired_end": true,
+            "library_name": "WGS:OICR:PCSI_0077_Pa_P_PE_658_WG",
+            "platform_unit": "OICR:131127_h803_0156_BC3H63ACXX_3",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "OICR:131127_h803_0156_BC3H63ACXX_3_NoIndex"
+        },
+        {
+            "file_r1": "mini-45b78532d4e2d03c3618de4968b02b1c.bam",
+            "file_r2": "mini-45b78532d4e2d03c3618de4968b02b1c.bam",
+            "insert_size": 658,
+            "is_paired_end": true,
+            "library_name": "WGS:OICR:PCSI_0077_Pa_P_PE_658_WG",
+            "platform_unit": "OICR:131128_SN802_0152_BC3H4AACXX_1",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "OICR:131128_SN802_0152_BC3H4AACXX_1_NoIndex"
+        },
+        {
+            "file_r1": "mini-45b78532d4e2d03c3618de4968b02b1c.bam",
+            "file_r2": "mini-45b78532d4e2d03c3618de4968b02b1c.bam",
+            "insert_size": 642,
+            "is_paired_end": true,
+            "library_name": "WGS:OICR:PCSI_0077_Pa_P_PE_642_WG",
+            "platform_unit": "OICR:131206_SN7001205_0194_BC3E4YACXX_1",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "OICR:131206_SN7001205_0194_BC3E4YACXX_1_NoIndex"
+        },
+        {
+            "file_r1": "mini-45b78532d4e2d03c3618de4968b02b1c.bam",
+            "file_r2": "mini-45b78532d4e2d03c3618de4968b02b1c.bam",
+            "insert_size": 642,
+            "is_paired_end": true,
+            "library_name": "WGS:OICR:PCSI_0077_Pa_P_PE_642_WG",
+            "platform_unit": "OICR:131211_SN802_0154_AC3EBNACXX_1",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "OICR:131211_SN802_0154_AC3EBNACXX_1_NoIndex"
+        },
+        {
+            "file_r1": "mini-45b78532d4e2d03c3618de4968b02b1c.bam",
+            "file_r2": "mini-45b78532d4e2d03c3618de4968b02b1c.bam",
+            "insert_size": 642,
+            "is_paired_end": true,
+            "library_name": "WGS:OICR:PCSI_0077_Pa_P_PE_642_WG",
+            "platform_unit": "OICR:131211_SN802_0154_AC3EBNACXX_2",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "OICR:131211_SN802_0154_AC3EBNACXX_2_NoIndex"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "TEST-EXP-315",
+        "library_strategy": "WGS",
+        "sequencing_center": "OICR",
+        "platform": "ILLUMINA",
+        "platform_model": "Illumina HiSeq 2000",
+        "sequencing_date": "2013-12-10"
+    },
+    "read_group_count": 5
+}

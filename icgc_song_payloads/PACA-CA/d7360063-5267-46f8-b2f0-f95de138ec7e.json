@@ -1,0 +1,80 @@
+{
+    "studyId": "PACA-CA",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "PCSI_0531_Ly_R",
+            "matchedNormalSubmitterSampleId": null,
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "PCSI_0531_Ly_R",
+                "specimenType": "Normal",
+                "tumourNormalDesignation": "Normal",
+                "specimenTissueSource": "Blood derived"
+            },
+            "donor": {
+                "submitterDonorId": "PCSI_0531",
+                "gender": "Male"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "submittedReads",
+            "fileName": "mini-4b61243356162088fa7babf35e37cbdc.bam",
+            "fileSize": 498446208,
+            "fileType": "BAM",
+            "fileMd5sum": "38035b91d058e0aaac93e76bdc5771f5",
+            "fileAccess": "controlled"
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "mini-4b61243356162088fa7babf35e37cbdc.bam",
+            "file_r2": "mini-4b61243356162088fa7babf35e37cbdc.bam",
+            "insert_size": 660,
+            "is_paired_end": true,
+            "library_name": "WGS:OICR:PCSI_0531_Ly_R_PE_660_WG",
+            "platform_unit": "OICR:141107_D00353_0084_AC5U8TANXX_4",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "OICR:141107_D00353_0084_AC5U8TANXX_4_NoIndex"
+        },
+        {
+            "file_r1": "mini-4b61243356162088fa7babf35e37cbdc.bam",
+            "file_r2": "mini-4b61243356162088fa7babf35e37cbdc.bam",
+            "insert_size": 752,
+            "is_paired_end": true,
+            "library_name": "WGS:OICR:PCSI_0531_Ly_R_PE_752_WG",
+            "platform_unit": "OICR:141112_D00355_0076_AC4PJTANXX_5",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "OICR:141112_D00355_0076_AC4PJTANXX_5_NoIndex"
+        },
+        {
+            "file_r1": "mini-4b61243356162088fa7babf35e37cbdc.bam",
+            "file_r2": "mini-4b61243356162088fa7babf35e37cbdc.bam",
+            "insert_size": 660,
+            "is_paired_end": true,
+            "library_name": "WGS:OICR:PCSI_0531_Ly_R_PE_660_WG",
+            "platform_unit": "OICR:141112_D00355_0076_AC4PJTANXX_6",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "OICR:141112_D00355_0076_AC4PJTANXX_6_NoIndex"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "TEST-EXP-451",
+        "library_strategy": "WGS",
+        "sequencing_center": "OICR",
+        "platform": "ILLUMINA",
+        "platform_model": "Illumina HiSeq 2000",
+        "sequencing_date": "2014-11-11"
+    },
+    "read_group_count": 3
+}

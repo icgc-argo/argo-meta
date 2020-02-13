@@ -1,0 +1,164 @@
+{
+    "studyId": "PACA-CA",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "PCSI_0109_Pa_P",
+            "matchedNormalSubmitterSampleId": "PCSI_0109_Ly_R",
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "PCSI_0109_Pa_P",
+                "specimenType": "Primary tumour",
+                "tumourNormalDesignation": "Tumour",
+                "specimenTissueSource": "Solid tissue"
+            },
+            "donor": {
+                "submitterDonorId": "PCSI_0109",
+                "gender": "Male"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "submittedReads",
+            "fileName": "mini-9b71f2fdd0e7780015801142eda64178.bam",
+            "fileSize": 612925910,
+            "fileType": "BAM",
+            "fileMd5sum": "80c707a2b281af2c2d4065631cc307c1",
+            "fileAccess": "controlled"
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "mini-9b71f2fdd0e7780015801142eda64178.bam",
+            "file_r2": "mini-9b71f2fdd0e7780015801142eda64178.bam",
+            "insert_size": 700,
+            "is_paired_end": true,
+            "library_name": "WGS:OICR:PCSI_0109_Pa_P_PE_700_WG",
+            "platform_unit": "OICR:120808_SN1068_0094_AC078AACXX_4",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "OICR:120808_SN1068_0094_AC078AACXX_4_NoIndex"
+        },
+        {
+            "file_r1": "mini-9b71f2fdd0e7780015801142eda64178.bam",
+            "file_r2": "mini-9b71f2fdd0e7780015801142eda64178.bam",
+            "insert_size": 580,
+            "is_paired_end": true,
+            "library_name": "WGS:OICR:PCSI_0109_Pa_P_PE_580_WG",
+            "platform_unit": "OICR:120828_SN801_0080_BD181TACXX_5",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "OICR:120828_SN801_0080_BD181TACXX_5_NoIndex"
+        },
+        {
+            "file_r1": "mini-9b71f2fdd0e7780015801142eda64178.bam",
+            "file_r2": "mini-9b71f2fdd0e7780015801142eda64178.bam",
+            "insert_size": 580,
+            "is_paired_end": true,
+            "library_name": "WGS:OICR:PCSI_0109_Pa_P_PE_580_WG",
+            "platform_unit": "OICR:121004_h803_0099_BC14EJACXX_5",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "OICR:121004_h803_0099_BC14EJACXX_5_NoIndex"
+        },
+        {
+            "file_r1": "mini-9b71f2fdd0e7780015801142eda64178.bam",
+            "file_r2": "mini-9b71f2fdd0e7780015801142eda64178.bam",
+            "insert_size": 580,
+            "is_paired_end": true,
+            "library_name": "WGS:OICR:PCSI_0109_Pa_P_PE_580_WG",
+            "platform_unit": "OICR:121004_h803_0099_BC14EJACXX_6",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "OICR:121004_h803_0099_BC14EJACXX_6_NoIndex"
+        },
+        {
+            "file_r1": "mini-9b71f2fdd0e7780015801142eda64178.bam",
+            "file_r2": "mini-9b71f2fdd0e7780015801142eda64178.bam",
+            "insert_size": 580,
+            "is_paired_end": true,
+            "library_name": "WGS:OICR:PCSI_0109_Pa_P_PE_580_WG",
+            "platform_unit": "OICR:121004_h803_0099_BC14EJACXX_7",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "OICR:121004_h803_0099_BC14EJACXX_7_NoIndex"
+        },
+        {
+            "file_r1": "mini-9b71f2fdd0e7780015801142eda64178.bam",
+            "file_r2": "mini-9b71f2fdd0e7780015801142eda64178.bam",
+            "insert_size": 580,
+            "is_paired_end": true,
+            "library_name": "WGS:OICR:PCSI_0109_Pa_P_PE_580_WG",
+            "platform_unit": "OICR:121004_h803_0099_BC14EJACXX_8",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "OICR:121004_h803_0099_BC14EJACXX_8_NoIndex"
+        },
+        {
+            "file_r1": "mini-9b71f2fdd0e7780015801142eda64178.bam",
+            "file_r2": "mini-9b71f2fdd0e7780015801142eda64178.bam",
+            "insert_size": 700,
+            "is_paired_end": true,
+            "library_name": "WGS:OICR:PCSI_0109_Pa_P_PE_700_WG",
+            "platform_unit": "OICR:121017_SN1080_0124_BD1GREACXX_1",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "OICR:121017_SN1080_0124_BD1GREACXX_1_NoIndex"
+        },
+        {
+            "file_r1": "mini-9b71f2fdd0e7780015801142eda64178.bam",
+            "file_r2": "mini-9b71f2fdd0e7780015801142eda64178.bam",
+            "insert_size": 700,
+            "is_paired_end": true,
+            "library_name": "WGS:OICR:PCSI_0109_Pa_P_PE_700_WG",
+            "platform_unit": "OICR:121017_SN1080_0124_BD1GREACXX_2",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "OICR:121017_SN1080_0124_BD1GREACXX_2_NoIndex"
+        },
+        {
+            "file_r1": "mini-9b71f2fdd0e7780015801142eda64178.bam",
+            "file_r2": "mini-9b71f2fdd0e7780015801142eda64178.bam",
+            "insert_size": 700,
+            "is_paired_end": true,
+            "library_name": "WGS:OICR:PCSI_0109_Pa_P_PE_700_WG",
+            "platform_unit": "OICR:121017_SN1080_0124_BD1GREACXX_3",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "OICR:121017_SN1080_0124_BD1GREACXX_3_NoIndex"
+        },
+        {
+            "file_r1": "mini-9b71f2fdd0e7780015801142eda64178.bam",
+            "file_r2": "mini-9b71f2fdd0e7780015801142eda64178.bam",
+            "insert_size": 700,
+            "is_paired_end": true,
+            "library_name": "WGS:OICR:PCSI_0109_Pa_P_PE_700_WG",
+            "platform_unit": "OICR:121017_SN1080_0124_BD1GREACXX_4",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "OICR:121017_SN1080_0124_BD1GREACXX_4_NoIndex"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "TEST-EXP-557",
+        "library_strategy": "WGS",
+        "sequencing_center": "OICR",
+        "platform": "ILLUMINA",
+        "platform_model": "Illumina HiSeq 2000",
+        "sequencing_date": "2012-10-16"
+    },
+    "read_group_count": 10
+}

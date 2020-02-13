@@ -1,0 +1,104 @@
+{
+    "studyId": "PACA-CA",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "PCSI_0072_Si_R",
+            "matchedNormalSubmitterSampleId": null,
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "PCSI_0072_Si_R",
+                "specimenType": "Normal",
+                "tumourNormalDesignation": "Normal",
+                "specimenTissueSource": "Solid tissue"
+            },
+            "donor": {
+                "submitterDonorId": "PCSI_0072",
+                "gender": "Male"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "submittedReads",
+            "fileName": "e3a83109443e3739f3b9fb45ae3339fe.bam",
+            "fileSize": 159110866508,
+            "fileType": "BAM",
+            "fileMd5sum": "e3a83109443e3739f3b9fb45ae3339fe",
+            "fileAccess": "controlled"
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "e3a83109443e3739f3b9fb45ae3339fe.bam",
+            "file_r2": "e3a83109443e3739f3b9fb45ae3339fe.bam",
+            "insert_size": 688,
+            "is_paired_end": true,
+            "library_name": "WGS:OICR:PCSI_0072_Si_R_PE_688_WG",
+            "platform_unit": "OICR:130808_SN804_0125_BD2DY8ACXX_2",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "OICR:130808_SN804_0125_BD2DY8ACXX_2_NoIndex"
+        },
+        {
+            "file_r1": "e3a83109443e3739f3b9fb45ae3339fe.bam",
+            "file_r2": "e3a83109443e3739f3b9fb45ae3339fe.bam",
+            "insert_size": 762,
+            "is_paired_end": true,
+            "library_name": "WGS:OICR:PCSI_0072_Si_R_PE_762_WG",
+            "platform_unit": "OICR:130808_SN804_0125_BD2DY8ACXX_3",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "OICR:130808_SN804_0125_BD2DY8ACXX_3_NoIndex"
+        },
+        {
+            "file_r1": "e3a83109443e3739f3b9fb45ae3339fe.bam",
+            "file_r2": "e3a83109443e3739f3b9fb45ae3339fe.bam",
+            "insert_size": 688,
+            "is_paired_end": true,
+            "library_name": "WGS:OICR:PCSI_0072_Si_R_PE_688_WG",
+            "platform_unit": "OICR:130905_SN801_0125_AC2D9BACXX_5",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "OICR:130905_SN801_0125_AC2D9BACXX_5_NoIndex"
+        },
+        {
+            "file_r1": "e3a83109443e3739f3b9fb45ae3339fe.bam",
+            "file_r2": "e3a83109443e3739f3b9fb45ae3339fe.bam",
+            "insert_size": 762,
+            "is_paired_end": true,
+            "library_name": "WGS:OICR:PCSI_0072_Si_R_PE_762_WG",
+            "platform_unit": "OICR:130905_SN801_0125_AC2D9BACXX_6",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "OICR:130905_SN801_0125_AC2D9BACXX_6_NoIndex"
+        },
+        {
+            "file_r1": "e3a83109443e3739f3b9fb45ae3339fe.bam",
+            "file_r2": "e3a83109443e3739f3b9fb45ae3339fe.bam",
+            "insert_size": 688,
+            "is_paired_end": true,
+            "library_name": "WGS:OICR:PCSI_0072_Si_R_PE_688_WG",
+            "platform_unit": "OICR:131022_h239_0212_BC2LAGACXX_1",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "OICR:131022_h239_0212_BC2LAGACXX_1_NoIndex"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "TEST-EXP-102",
+        "library_strategy": "WGS",
+        "sequencing_center": "OICR",
+        "platform": "ILLUMINA",
+        "platform_model": "Illumina HiSeq 2000",
+        "sequencing_date": "2013-10-21"
+    },
+    "read_group_count": 5
+}

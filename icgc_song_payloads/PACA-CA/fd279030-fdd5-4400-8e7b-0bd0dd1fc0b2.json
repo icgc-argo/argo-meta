@@ -1,0 +1,104 @@
+{
+    "studyId": "PACA-CA",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "PCSI_0082_Pa_P_526",
+            "matchedNormalSubmitterSampleId": "PCSI_0082_Du_R",
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "PCSI_0082_Pa_P_526",
+                "specimenType": "Primary tumour",
+                "tumourNormalDesignation": "Tumour",
+                "specimenTissueSource": "Other"
+            },
+            "donor": {
+                "submitterDonorId": "PCSI_0082",
+                "gender": "Female"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "submittedReads",
+            "fileName": "d06bcafec0fb3dd959d1dec70de95967.bam",
+            "fileSize": 192690131275,
+            "fileType": "BAM",
+            "fileMd5sum": "d06bcafec0fb3dd959d1dec70de95967",
+            "fileAccess": "controlled"
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "d06bcafec0fb3dd959d1dec70de95967.bam",
+            "file_r2": "d06bcafec0fb3dd959d1dec70de95967.bam",
+            "insert_size": 627,
+            "is_paired_end": true,
+            "library_name": "WGS:OICR:PCSI_0082_Pa_P_PE_627_WG",
+            "platform_unit": "OICR:131203_SN7001179_0157_AC39NJACXX_7",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "OICR:131203_SN7001179_0157_AC39NJACXX_7_NoIndex"
+        },
+        {
+            "file_r1": "d06bcafec0fb3dd959d1dec70de95967.bam",
+            "file_r2": "d06bcafec0fb3dd959d1dec70de95967.bam",
+            "insert_size": 627,
+            "is_paired_end": true,
+            "library_name": "WGS:OICR:PCSI_0082_Pa_P_PE_627_WG",
+            "platform_unit": "OICR:131212_SN203_0208_BC3GWBACXX_2",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "OICR:131212_SN203_0208_BC3GWBACXX_2_NoIndex"
+        },
+        {
+            "file_r1": "d06bcafec0fb3dd959d1dec70de95967.bam",
+            "file_r2": "d06bcafec0fb3dd959d1dec70de95967.bam",
+            "insert_size": 598,
+            "is_paired_end": true,
+            "library_name": "WGS:OICR:PCSI_0082_Pa_P_PE_598_WG",
+            "platform_unit": "OICR:140103_D00353_0030_AC3A9YACXX_5",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "OICR:140103_D00353_0030_AC3A9YACXX_5_NoIndex"
+        },
+        {
+            "file_r1": "d06bcafec0fb3dd959d1dec70de95967.bam",
+            "file_r2": "d06bcafec0fb3dd959d1dec70de95967.bam",
+            "insert_size": 627,
+            "is_paired_end": true,
+            "library_name": "WGS:OICR:PCSI_0082_Pa_P_PE_627_WG",
+            "platform_unit": "OICR:140109_SN804_0171_AC3KVTACXX_4",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "OICR:140109_SN804_0171_AC3KVTACXX_4_NoIndex"
+        },
+        {
+            "file_r1": "d06bcafec0fb3dd959d1dec70de95967.bam",
+            "file_r2": "d06bcafec0fb3dd959d1dec70de95967.bam",
+            "insert_size": 598,
+            "is_paired_end": true,
+            "library_name": "WGS:OICR:PCSI_0082_Pa_P_PE_598_WG",
+            "platform_unit": "OICR:140109_SN804_0171_AC3KVTACXX_6",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "OICR:140109_SN804_0171_AC3KVTACXX_6_NoIndex"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "TEST-EXP-283",
+        "library_strategy": "WGS",
+        "sequencing_center": "OICR",
+        "platform": "ILLUMINA",
+        "platform_model": "Illumina HiSeq 2000",
+        "sequencing_date": "2014-01-08"
+    },
+    "read_group_count": 5
+}
