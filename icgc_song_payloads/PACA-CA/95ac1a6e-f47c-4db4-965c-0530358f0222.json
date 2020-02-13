@@ -105,7 +105,7 @@
         }
     ],
     "experiment": {
-        "submitter_sequencing_experiment_id": "TEST-EXP-448",
+        "submitter_sequencing_experiment_id": "TEST-EXP-670",
         "library_strategy": "WGS",
         "sequencing_center": "OICR",
         "platform": "ILLUMINA",
