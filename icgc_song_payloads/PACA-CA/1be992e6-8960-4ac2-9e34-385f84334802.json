@@ -398,7 +398,7 @@
         "sequencing_center": "OICR",
         "platform": "ILLUMINA",
         "platform_model": "Illumina HiSeq 2000",
-        "sequencing_date": "2012-10-15T20:00:00-0400"
+        "sequencing_date": "2012-10-15"
     },
     "read_group_count": 30
 }
