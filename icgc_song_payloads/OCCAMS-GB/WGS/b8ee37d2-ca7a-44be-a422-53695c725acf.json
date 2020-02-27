@@ -1,0 +1,68 @@
+{
+    "studyId": "OCCAMS-GB",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "LP6007539-DNA_A01",
+            "matchedNormalSubmitterSampleId": null,
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "OC-AH-042-B-F1",
+                "specimenType": "Normal",
+                "tumourNormalDesignation": "Normal",
+                "specimenTissueSource": "Blood derived"
+            },
+            "donor": {
+                "submitterDonorId": "OCCAMS-AH-042",
+                "gender": "Male"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "submittedReads",
+            "fileName": "0b7983f4d85911b7351f5136819c96f1.bam",
+            "fileSize": 95556436541,
+            "fileType": "BAM",
+            "fileMd5sum": "0b7983f4d85911b7351f5136819c96f1",
+            "fileAccess": "controlled"
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "0b7983f4d85911b7351f5136819c96f1.bam",
+            "file_r2": "0b7983f4d85911b7351f5136819c96f1.bam",
+            "insert_size": 0,
+            "is_paired_end": true,
+            "library_name": "WGS:CRUK-CI:LP6007539-DNA_A01",
+            "platform_unit": "CRUK-CI:HS2000-1259_132_6",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "CRUK-CI:HS2000-1259_132_6"
+        },
+        {
+            "file_r1": "0b7983f4d85911b7351f5136819c96f1.bam",
+            "file_r2": "0b7983f4d85911b7351f5136819c96f1.bam",
+            "insert_size": 0,
+            "is_paired_end": true,
+            "library_name": "WGS:CRUK-CI:LP6007539-DNA_A01",
+            "platform_unit": "CRUK-CI:HS2000-1259_132_7",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "CRUK-CI:HS2000-1259_132_7"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "TEST-EXP-969",
+        "library_strategy": "WGS",
+        "sequencing_center": "CRUK-CI",
+        "platform": "ILLUMINA",
+        "platform_model": "Illumina HiSeq 2000",
+        "sequencing_date": "2014-07-23"
+    },
+    "read_group_count": 2
+}
