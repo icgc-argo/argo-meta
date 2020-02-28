@@ -1,0 +1,119 @@
+{
+    "studyId": "OCCAMS-UK",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "LP6007594",
+            "matchedNormalSubmitterSampleId": "LP6007593",
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "Cou1-096-08082011-lesion",
+                "specimenType": "Primary tumour",
+                "tumourNormalDesignation": "Tumour",
+                "specimenTissueSource": "Solid tissue"
+            },
+            "donor": {
+                "submitterDonorId": "OCCAMS-AH-047",
+                "gender": "Male"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "submitted_reads",
+            "fileName": "931205bde828ae2731cf37cb8444abb3.bam",
+            "fileSize": 187421328976,
+            "fileType": "BAM",
+            "fileMd5sum": "931205bde828ae2731cf37cb8444abb3",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "d0e43fb9-e3a9-42ba-bb44-80cd21feeda8"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "931205bde828ae2731cf37cb8444abb3.bam",
+            "file_r2": "931205bde828ae2731cf37cb8444abb3.bam",
+            "insert_size": null,
+            "is_paired_end": true,
+            "library_name": "WGS:CRUK-CI:LP6007594",
+            "platform_unit": "CRUK-CI:LP6007594_1",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "CRUK-CI:LP6007594"
+        },
+        {
+            "file_r1": "931205bde828ae2731cf37cb8444abb3.bam",
+            "file_r2": "931205bde828ae2731cf37cb8444abb3.bam",
+            "insert_size": null,
+            "is_paired_end": true,
+            "library_name": "WGS:CRUK-CI:LP6007594",
+            "platform_unit": "CRUK-CI:LP6007594_3",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "CRUK-CI:LP6007594_1"
+        },
+        {
+            "file_r1": "931205bde828ae2731cf37cb8444abb3.bam",
+            "file_r2": "931205bde828ae2731cf37cb8444abb3.bam",
+            "insert_size": null,
+            "is_paired_end": true,
+            "library_name": "WGS:CRUK-CI:LP6007594",
+            "platform_unit": "CRUK-CI:LP6007594_5",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "CRUK-CI:LP6007594_2"
+        },
+        {
+            "file_r1": "931205bde828ae2731cf37cb8444abb3.bam",
+            "file_r2": "931205bde828ae2731cf37cb8444abb3.bam",
+            "insert_size": null,
+            "is_paired_end": true,
+            "library_name": "WGS:CRUK-CI:LP6007594",
+            "platform_unit": "CRUK-CI:LP6007594_6",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "CRUK-CI:LP6007594_3"
+        },
+        {
+            "file_r1": "931205bde828ae2731cf37cb8444abb3.bam",
+            "file_r2": "931205bde828ae2731cf37cb8444abb3.bam",
+            "insert_size": null,
+            "is_paired_end": true,
+            "library_name": "WGS:CRUK-CI:LP6007594",
+            "platform_unit": "CRUK-CI:LP6007594_7",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "CRUK-CI:LP6007594_4"
+        },
+        {
+            "file_r1": "931205bde828ae2731cf37cb8444abb3.bam",
+            "file_r2": "931205bde828ae2731cf37cb8444abb3.bam",
+            "insert_size": null,
+            "is_paired_end": true,
+            "library_name": "WGS:CRUK-CI:LP6007594",
+            "platform_unit": "CRUK-CI:LP6007594_8",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "CRUK-CI:LP6007594_5"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "TEST-EXP-917",
+        "library_strategy": "WGS",
+        "sequencing_center": "CRUK-CI",
+        "platform": "ILLUMINA",
+        "platform_model": "Illumina HiSeq 2000",
+        "sequencing_date": "2014-08-02"
+    },
+    "read_group_count": 6
+}

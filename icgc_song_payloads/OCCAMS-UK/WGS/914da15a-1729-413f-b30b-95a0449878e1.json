@@ -1,0 +1,107 @@
+{
+    "studyId": "OCCAMS-UK",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "LP6005690-DNA_E01",
+            "matchedNormalSubmitterSampleId": "LP6005689-DNA_E01",
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "OC-RS-024-E-T1",
+                "specimenType": "Primary tumour",
+                "tumourNormalDesignation": "Tumour",
+                "specimenTissueSource": "Solid tissue"
+            },
+            "donor": {
+                "submitterDonorId": "OCCAMS-RS-024",
+                "gender": "Male"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "submitted_reads",
+            "fileName": "cbbba74222441fa3ca729518f0aa851d.bam",
+            "fileSize": 171288700042,
+            "fileType": "BAM",
+            "fileMd5sum": "cbbba74222441fa3ca729518f0aa851d",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "914da15a-1729-413f-b30b-95a0449878e1"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "cbbba74222441fa3ca729518f0aa851d.bam",
+            "file_r2": "cbbba74222441fa3ca729518f0aa851d.bam",
+            "insert_size": null,
+            "is_paired_end": true,
+            "library_name": "WGS:CRUK-CI:LP6005690-DNA_E01",
+            "platform_unit": "CRUK-CI:LP6005690-DNA_E01_1",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "CRUK-CI:LP6005690-DNA_E01"
+        },
+        {
+            "file_r1": "cbbba74222441fa3ca729518f0aa851d.bam",
+            "file_r2": "cbbba74222441fa3ca729518f0aa851d.bam",
+            "insert_size": null,
+            "is_paired_end": true,
+            "library_name": "WGS:CRUK-CI:LP6005690-DNA_E01",
+            "platform_unit": "CRUK-CI:LP6005690-DNA_E01_5",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "CRUK-CI:LP6005690-DNA_E01_1"
+        },
+        {
+            "file_r1": "cbbba74222441fa3ca729518f0aa851d.bam",
+            "file_r2": "cbbba74222441fa3ca729518f0aa851d.bam",
+            "insert_size": null,
+            "is_paired_end": true,
+            "library_name": "WGS:CRUK-CI:LP6005690-DNA_E01",
+            "platform_unit": "CRUK-CI:LP6005690-DNA_E01_6",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "CRUK-CI:LP6005690-DNA_E01_2"
+        },
+        {
+            "file_r1": "cbbba74222441fa3ca729518f0aa851d.bam",
+            "file_r2": "cbbba74222441fa3ca729518f0aa851d.bam",
+            "insert_size": null,
+            "is_paired_end": true,
+            "library_name": "WGS:CRUK-CI:LP6005690-DNA_E01",
+            "platform_unit": "CRUK-CI:LP6005690-DNA_E01_7",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "CRUK-CI:LP6005690-DNA_E01_3"
+        },
+        {
+            "file_r1": "cbbba74222441fa3ca729518f0aa851d.bam",
+            "file_r2": "cbbba74222441fa3ca729518f0aa851d.bam",
+            "insert_size": null,
+            "is_paired_end": true,
+            "library_name": "WGS:CRUK-CI:LP6005690-DNA_E01",
+            "platform_unit": "CRUK-CI:LP6005690-DNA_E01_8",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "CRUK-CI:LP6005690-DNA_E01_4"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "TEST-EXP-826",
+        "library_strategy": "WGS",
+        "sequencing_center": "CRUK-CI",
+        "platform": "ILLUMINA",
+        "platform_model": "Illumina HiSeq 2000",
+        "sequencing_date": "2014-07-31"
+    },
+    "read_group_count": 5
+}
