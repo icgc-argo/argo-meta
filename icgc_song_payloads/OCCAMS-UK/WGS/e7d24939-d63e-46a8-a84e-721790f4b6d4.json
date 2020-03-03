@@ -192,7 +192,7 @@
         }
     ],
     "experiment": {
-        "submitter_sequencing_experiment_id": "TEST-EXP-819",
+        "submitter_sequencing_experiment_id": "TEST-EXP-23",
         "library_strategy": "WGS",
         "sequencing_center": "CRUK-CI",
         "platform": "ILLUMINA",
