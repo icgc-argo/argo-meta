@@ -1,0 +1,107 @@
+{
+    "studyId": "OCCAMS-GB",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "LP6005334-DNA_G03",
+            "matchedNormalSubmitterSampleId": "LP6005333-DNA_G03",
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "OC-ST-036-E-T3",
+                "specimenType": "Primary tumour",
+                "tumourNormalDesignation": "Tumour",
+                "specimenTissueSource": "Solid tissue"
+            },
+            "donor": {
+                "submitterDonorId": "OCCAMS-ST-036",
+                "gender": "Female"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "submitted_reads",
+            "fileName": "4ec65eb85b93fe1e7aaaec76908c4e2b.bam",
+            "fileSize": 191431472593,
+            "fileType": "BAM",
+            "fileMd5sum": "4ec65eb85b93fe1e7aaaec76908c4e2b",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "d63399ca-83bd-41c7-8c7b-03ce82b9e3e7"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "4ec65eb85b93fe1e7aaaec76908c4e2b.bam",
+            "file_r2": "4ec65eb85b93fe1e7aaaec76908c4e2b.bam",
+            "insert_size": null,
+            "is_paired_end": true,
+            "library_name": "WGS:CRUK-CI:LP6005334-DNA_G03",
+            "platform_unit": "CRUK-CI:HS2000-1248_154_2",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "CRUK-CI:HS2000-1248_154_2"
+        },
+        {
+            "file_r1": "4ec65eb85b93fe1e7aaaec76908c4e2b.bam",
+            "file_r2": "4ec65eb85b93fe1e7aaaec76908c4e2b.bam",
+            "insert_size": null,
+            "is_paired_end": true,
+            "library_name": "WGS:CRUK-CI:LP6005334-DNA_G03",
+            "platform_unit": "CRUK-CI:HS2000-1248_154_3",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "CRUK-CI:HS2000-1248_154_3"
+        },
+        {
+            "file_r1": "4ec65eb85b93fe1e7aaaec76908c4e2b.bam",
+            "file_r2": "4ec65eb85b93fe1e7aaaec76908c4e2b.bam",
+            "insert_size": null,
+            "is_paired_end": true,
+            "library_name": "WGS:CRUK-CI:LP6005334-DNA_G03",
+            "platform_unit": "CRUK-CI:HS2000-1248_154_4",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "CRUK-CI:HS2000-1248_154_4"
+        },
+        {
+            "file_r1": "4ec65eb85b93fe1e7aaaec76908c4e2b.bam",
+            "file_r2": "4ec65eb85b93fe1e7aaaec76908c4e2b.bam",
+            "insert_size": null,
+            "is_paired_end": true,
+            "library_name": "WGS:CRUK-CI:LP6005334-DNA_G03",
+            "platform_unit": "CRUK-CI:HS2000-1248_154_5",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "CRUK-CI:HS2000-1248_154_5"
+        },
+        {
+            "file_r1": "4ec65eb85b93fe1e7aaaec76908c4e2b.bam",
+            "file_r2": "4ec65eb85b93fe1e7aaaec76908c4e2b.bam",
+            "insert_size": null,
+            "is_paired_end": true,
+            "library_name": "WGS:CRUK-CI:LP6005334-DNA_G03",
+            "platform_unit": "CRUK-CI:HS2000-1248_154_6",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "CRUK-CI:HS2000-1248_154_6"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "TEST-EXP-67",
+        "library_strategy": "WGS",
+        "sequencing_center": "CRUK-CI",
+        "platform": "ILLUMINA",
+        "platform_model": "Illumina HiSeq 2000",
+        "sequencing_date": "2014-07-26"
+    },
+    "read_group_count": 5
+}

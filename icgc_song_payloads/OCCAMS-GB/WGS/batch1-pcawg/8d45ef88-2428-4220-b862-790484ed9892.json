@@ -1,0 +1,83 @@
+{
+    "studyId": "OCCAMS-GB",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "LP6005408-DNA_E01",
+            "matchedNormalSubmitterSampleId": null,
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "OC-AH-061-B-F1",
+                "specimenType": "Normal",
+                "tumourNormalDesignation": "Normal",
+                "specimenTissueSource": "Blood derived"
+            },
+            "donor": {
+                "submitterDonorId": "OCCAMS-AH-061",
+                "gender": "Male"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "submitted_reads",
+            "fileName": "33ad005820e542772c8fbcda28dd9f58.bam",
+            "fileSize": 118653033969,
+            "fileType": "BAM",
+            "fileMd5sum": "33ad005820e542772c8fbcda28dd9f58",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "8d45ef88-2428-4220-b862-790484ed9892"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "33ad005820e542772c8fbcda28dd9f58.bam",
+            "file_r2": "33ad005820e542772c8fbcda28dd9f58.bam",
+            "insert_size": null,
+            "is_paired_end": true,
+            "library_name": "WGS:CRUK-CI:LP6005408-DNA_E01",
+            "platform_unit": "CRUK-CI:LP6005408-DNA_E01_1",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "CRUK-CI:LP6005408-DNA_E01"
+        },
+        {
+            "file_r1": "33ad005820e542772c8fbcda28dd9f58.bam",
+            "file_r2": "33ad005820e542772c8fbcda28dd9f58.bam",
+            "insert_size": null,
+            "is_paired_end": true,
+            "library_name": "WGS:CRUK-CI:LP6005408-DNA_E01",
+            "platform_unit": "CRUK-CI:LP6005408-DNA_E01_2",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "CRUK-CI:LP6005408-DNA_E01_1"
+        },
+        {
+            "file_r1": "33ad005820e542772c8fbcda28dd9f58.bam",
+            "file_r2": "33ad005820e542772c8fbcda28dd9f58.bam",
+            "insert_size": null,
+            "is_paired_end": true,
+            "library_name": "WGS:CRUK-CI:LP6005408-DNA_E01",
+            "platform_unit": "CRUK-CI:LP6005408-DNA_E01_3",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "CRUK-CI:LP6005408-DNA_E01_2"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "TEST-EXP-99",
+        "library_strategy": "WGS",
+        "sequencing_center": "CRUK-CI",
+        "platform": "ILLUMINA",
+        "platform_model": "Illumina HiSeq 2000",
+        "sequencing_date": "2014-07-27"
+    },
+    "read_group_count": 3
+}

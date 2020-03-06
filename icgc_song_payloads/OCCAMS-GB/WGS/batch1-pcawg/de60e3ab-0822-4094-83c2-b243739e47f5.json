@@ -1,0 +1,119 @@
+{
+    "studyId": "OCCAMS-GB",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "LP6005500-DNA_G03",
+            "matchedNormalSubmitterSampleId": "LP6005499-DNA_G03",
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "OC-AH-146-R-T1",
+                "specimenType": "Primary tumour",
+                "tumourNormalDesignation": "Tumour",
+                "specimenTissueSource": "Solid tissue"
+            },
+            "donor": {
+                "submitterDonorId": "OCCAMS-AH-146",
+                "gender": "Female"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "submitted_reads",
+            "fileName": "af71d29022bc62b7a5afd6bb8352645e.bam",
+            "fileSize": 194442326071,
+            "fileType": "BAM",
+            "fileMd5sum": "af71d29022bc62b7a5afd6bb8352645e",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "de60e3ab-0822-4094-83c2-b243739e47f5"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "af71d29022bc62b7a5afd6bb8352645e.bam",
+            "file_r2": "af71d29022bc62b7a5afd6bb8352645e.bam",
+            "insert_size": null,
+            "is_paired_end": true,
+            "library_name": "WGS:CRUK-CI:LP6005500-DNA_G03",
+            "platform_unit": "CRUK-CI:LP6005500-DNA_G03_1",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "CRUK-CI:LP6005500-DNA_G03"
+        },
+        {
+            "file_r1": "af71d29022bc62b7a5afd6bb8352645e.bam",
+            "file_r2": "af71d29022bc62b7a5afd6bb8352645e.bam",
+            "insert_size": null,
+            "is_paired_end": true,
+            "library_name": "WGS:CRUK-CI:LP6005500-DNA_G03",
+            "platform_unit": "CRUK-CI:LP6005500-DNA_G03_2",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "CRUK-CI:LP6005500-DNA_G03_1"
+        },
+        {
+            "file_r1": "af71d29022bc62b7a5afd6bb8352645e.bam",
+            "file_r2": "af71d29022bc62b7a5afd6bb8352645e.bam",
+            "insert_size": null,
+            "is_paired_end": true,
+            "library_name": "WGS:CRUK-CI:LP6005500-DNA_G03",
+            "platform_unit": "CRUK-CI:LP6005500-DNA_G03_3",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "CRUK-CI:LP6005500-DNA_G03_2"
+        },
+        {
+            "file_r1": "af71d29022bc62b7a5afd6bb8352645e.bam",
+            "file_r2": "af71d29022bc62b7a5afd6bb8352645e.bam",
+            "insert_size": null,
+            "is_paired_end": true,
+            "library_name": "WGS:CRUK-CI:LP6005500-DNA_G03",
+            "platform_unit": "CRUK-CI:LP6005500-DNA_G03_4",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "CRUK-CI:LP6005500-DNA_G03_3"
+        },
+        {
+            "file_r1": "af71d29022bc62b7a5afd6bb8352645e.bam",
+            "file_r2": "af71d29022bc62b7a5afd6bb8352645e.bam",
+            "insert_size": null,
+            "is_paired_end": true,
+            "library_name": "WGS:CRUK-CI:LP6005500-DNA_G03",
+            "platform_unit": "CRUK-CI:LP6005500-DNA_G03_5",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "CRUK-CI:LP6005500-DNA_G03_4"
+        },
+        {
+            "file_r1": "af71d29022bc62b7a5afd6bb8352645e.bam",
+            "file_r2": "af71d29022bc62b7a5afd6bb8352645e.bam",
+            "insert_size": null,
+            "is_paired_end": true,
+            "library_name": "WGS:CRUK-CI:LP6005500-DNA_G03",
+            "platform_unit": "CRUK-CI:LP6005500-DNA_G03_6",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "CRUK-CI:LP6005500-DNA_G03_5"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "TEST-EXP-78",
+        "library_strategy": "WGS",
+        "sequencing_center": "CRUK-CI",
+        "platform": "ILLUMINA",
+        "platform_model": "Illumina HiSeq 2000",
+        "sequencing_date": "2014-07-31"
+    },
+    "read_group_count": 6
+}
