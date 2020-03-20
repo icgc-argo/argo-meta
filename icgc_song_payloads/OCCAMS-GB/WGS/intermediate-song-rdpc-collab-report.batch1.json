@@ -1,583 +1,7 @@
 {
   "success" : [ {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/2463354b-dd5e-49e2-abcb-6698d831368a.json",
-    "targetAnalysisId" : "87d8b0e6-0aa8-4e64-98b0-e60aa86e649b",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "2463354b-dd5e-49e2-abcb-6698d831368a" ],
-    "objectIdsMigrated" : [ "543d3ad7-3f74-562e-9b2e-17531f7821be" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/52a47d31-daa2-4782-b8ce-9c7928af4a9a.json",
-    "targetAnalysisId" : "e6c498b8-d9ad-445e-8498-b8d9ad545ee8",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "52a47d31-daa2-4782-b8ce-9c7928af4a9a" ],
-    "objectIdsMigrated" : [ "c9c3838d-70c3-50d3-a9e1-55b648f314c2" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/45771bde-d4b8-444c-b72c-64089b0aea9c.json",
-    "targetAnalysisId" : "5015801f-c1d4-4d51-9580-1fc1d4ad519d",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "45771bde-d4b8-444c-b72c-64089b0aea9c" ],
-    "objectIdsMigrated" : [ "dec5b55f-06d7-557d-a3c7-93363b4f0742" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/1cd88365-45fb-47a5-a662-0a1056a192c5.json",
-    "targetAnalysisId" : "a55f0e6c-f91b-48a0-9f0e-6cf91b98a0d0",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "1cd88365-45fb-47a5-a662-0a1056a192c5" ],
-    "objectIdsMigrated" : [ "759cc0ea-e7ba-59dc-a538-18e788853c37" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/f7b5e1a9-f5c6-4ec6-9725-f0d2195c3721.json",
-    "targetAnalysisId" : "27e586fb-f141-49b6-a586-fbf141c9b654",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "f7b5e1a9-f5c6-4ec6-9725-f0d2195c3721" ],
-    "objectIdsMigrated" : [ "b1dae408-2d58-5d55-bbf9-501f2d17f844" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/69a4beb0-7b55-4c0e-a416-b870662c12c1.json",
-    "targetAnalysisId" : "aaa569b4-87f8-49f6-a569-b487f8c9f663",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "69a4beb0-7b55-4c0e-a416-b870662c12c1" ],
-    "objectIdsMigrated" : [ "e0849ba7-cafa-52f1-93fe-c1ef334255d6" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/ab3fd6b0-23a5-45ec-b0c3-7269d09d72a9.json",
-    "targetAnalysisId" : "8a030e35-c59c-4368-830e-35c59c8368b4",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "ab3fd6b0-23a5-45ec-b0c3-7269d09d72a9" ],
-    "objectIdsMigrated" : [ "fcf25315-9b85-5567-b59d-27ba04fa172b" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/efc12cd3-7f02-4b34-937e-2501498521bd.json",
-    "targetAnalysisId" : "1163a44a-cb9a-4be3-a3a4-4acb9a1be310",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "efc12cd3-7f02-4b34-937e-2501498521bd" ],
-    "objectIdsMigrated" : [ "d6ddd87b-4392-5667-b6a8-137984867c0f" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/d63399ca-83bd-41c7-8c7b-03ce82b9e3e7.json",
-    "targetAnalysisId" : "a0b24c42-6340-47e7-b24c-42634047e723",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "d63399ca-83bd-41c7-8c7b-03ce82b9e3e7" ],
-    "objectIdsMigrated" : [ "b36db9e2-7c7e-5bc8-8aa0-47923147ff7a" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/e7d24939-d63e-46a8-a84e-721790f4b6d4.json",
-    "targetAnalysisId" : "168d57fa-873b-4aa8-8d57-fa873b8aa898",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "e7d24939-d63e-46a8-a84e-721790f4b6d4" ],
-    "objectIdsMigrated" : [ "a7462fe5-5434-56dd-90e3-34ee34996993" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/251a1f7d-b2b8-4d26-860e-717099f8b47c.json",
-    "targetAnalysisId" : "801ae2e3-5b24-4559-9ae2-e35b24c55959",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "251a1f7d-b2b8-4d26-860e-717099f8b47c" ],
-    "objectIdsMigrated" : [ "05a5016c-ce09-5dbc-a035-8f3383f609ca" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/3b2095fa-ca4c-4938-95e3-2628447682fb.json",
-    "targetAnalysisId" : "781302f9-82b2-4d69-9302-f982b2bd69f1",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "3b2095fa-ca4c-4938-95e3-2628447682fb" ],
-    "objectIdsMigrated" : [ "6a152c7a-46f2-59ff-a65f-a0aebcdcdc17" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/1e75385d-1c1e-4a50-841f-3b2f5766159b.json",
-    "targetAnalysisId" : "bda57886-97f7-4ab7-a578-8697f7bab762",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "1e75385d-1c1e-4a50-841f-3b2f5766159b" ],
-    "objectIdsMigrated" : [ "7ac69d43-a7d9-5162-9726-4889dfa18fa9" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/2f38fab1-06b2-40d7-a2c2-ea3eb3389903.json",
-    "targetAnalysisId" : "1e3ae558-d4f0-4c47-bae5-58d4f07c4761",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "2f38fab1-06b2-40d7-a2c2-ea3eb3389903" ],
-    "objectIdsMigrated" : [ "fec83212-1ae0-5cd4-aafe-e6da526a3c91" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/8687aab8-31af-4e14-9c5e-91489ea17727.json",
-    "targetAnalysisId" : "54600a39-dd81-407d-a00a-39dd81107d6a",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "8687aab8-31af-4e14-9c5e-91489ea17727" ],
-    "objectIdsMigrated" : [ "5bca41a3-f4a4-510f-85e6-ad02f553a9f9" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/c9c8fa5f-c551-4565-ba3d-43ceddc2fdeb.json",
-    "targetAnalysisId" : "9c361d27-f56a-4190-b61d-27f56ac190c9",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "c9c8fa5f-c551-4565-ba3d-43ceddc2fdeb" ],
-    "objectIdsMigrated" : [ "cd3f2965-98a5-55ce-a113-205701ce326a" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/0ffc653d-1555-4cf4-ac0a-fe05ce0cbe7f.json",
-    "targetAnalysisId" : "d2d04c71-32be-4a05-904c-7132beea059d",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "0ffc653d-1555-4cf4-ac0a-fe05ce0cbe7f" ],
-    "objectIdsMigrated" : [ "ee078e14-3588-552b-9228-60d935e32beb" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/eccbe671-1037-4648-8604-263b5c90b61d.json",
-    "targetAnalysisId" : "40e3b724-fcb3-4b6e-a3b7-24fcb33b6ee9",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "eccbe671-1037-4648-8604-263b5c90b61d" ],
-    "objectIdsMigrated" : [ "9248c921-cc8e-5f00-af14-d98cffd4258b" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/4ea1acd0-84c3-438b-8f43-9d23cb622890.json",
-    "targetAnalysisId" : "c6cfe45e-1139-4d87-8fe4-5e11393d8728",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "4ea1acd0-84c3-438b-8f43-9d23cb622890" ],
-    "objectIdsMigrated" : [ "123f9473-1376-5e92-a8c5-61880e15e0bf" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/d7d23604-8e5b-4358-9f12-53bbe0287621.json",
-    "targetAnalysisId" : "c2e2b632-71eb-4a1f-a2b6-3271eb3a1ff0",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "d7d23604-8e5b-4358-9f12-53bbe0287621" ],
-    "objectIdsMigrated" : [ "dd4b7a6f-6c7d-568f-ab7c-aebc53866e06" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/957d50f8-b00b-4e34-94a9-4efe177f07e5.json",
-    "targetAnalysisId" : "d7e87f68-41ff-4e1a-a87f-6841fffe1a29",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "957d50f8-b00b-4e34-94a9-4efe177f07e5" ],
-    "objectIdsMigrated" : [ "108e9270-2966-56b2-a480-ae099b0833be" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/2167d627-7d28-41a1-b413-4c86a9ac2147.json",
-    "targetAnalysisId" : "2cbf722f-28a4-435a-bf72-2f28a4835aa5",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "2167d627-7d28-41a1-b413-4c86a9ac2147" ],
-    "objectIdsMigrated" : [ "abda3491-3648-5a92-bdf5-74bd70e2597a" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/e9c9e89d-0a90-4017-bdfd-84b4fb61c02b.json",
-    "targetAnalysisId" : "e1a3e1cd-c457-40a5-a3e1-cdc45760a54f",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "e9c9e89d-0a90-4017-bdfd-84b4fb61c02b" ],
-    "objectIdsMigrated" : [ "3198366f-659c-542f-ae96-4ad773aed75c" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/e5db6d63-3e9b-400e-9cce-8eee015281d8.json",
-    "targetAnalysisId" : "9f38cd1d-cd27-4379-b8cd-1dcd2733797e",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "e5db6d63-3e9b-400e-9cce-8eee015281d8" ],
-    "objectIdsMigrated" : [ "23c93f0f-9182-5619-923c-e6b2baf80407" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/13456874-37ee-441a-8771-a1df7e409ac0.json",
-    "targetAnalysisId" : "4139f321-19b3-41e1-b9f3-2119b3d1e159",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "13456874-37ee-441a-8771-a1df7e409ac0" ],
-    "objectIdsMigrated" : [ "523d48b2-63d5-5117-ba86-33a4f06fd35a" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/e078528d-4f6e-4a4e-ba68-8983156bc987.json",
-    "targetAnalysisId" : "16e23057-b31f-455d-a230-57b31fe55daa",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "e078528d-4f6e-4a4e-ba68-8983156bc987" ],
-    "objectIdsMigrated" : [ "39e2b3a3-1067-5479-b600-1b131a166f07" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/e6002822-7f48-40e8-8ce9-88fb6030f6d0.json",
-    "targetAnalysisId" : "ebbd217b-bef1-4efa-bd21-7bbef15efa1a",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "e6002822-7f48-40e8-8ce9-88fb6030f6d0" ],
-    "objectIdsMigrated" : [ "8b4a1c69-8926-5f68-bcac-ce30d44d6483" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/cf52f15b-825c-47dc-a0f3-bfe599c76c3d.json",
-    "targetAnalysisId" : "e765aaec-d8c5-4a20-a5aa-ecd8c5fa2036",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "cf52f15b-825c-47dc-a0f3-bfe599c76c3d" ],
-    "objectIdsMigrated" : [ "fb8be7d9-6d12-5f0c-bf06-ba2dacdd4f76" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/6f134d5f-003d-4216-b96d-bc47702a5e94.json",
-    "targetAnalysisId" : "fff2831a-18b1-421a-b283-1a18b1a21a41",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "6f134d5f-003d-4216-b96d-bc47702a5e94" ],
-    "objectIdsMigrated" : [ "d147669d-e064-591d-8269-a538f545c44d" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/99726e08-a060-4398-aedc-bf642e64008e.json",
-    "targetAnalysisId" : "4855389e-2386-45f1-9538-9e238645f14b",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "99726e08-a060-4398-aedc-bf642e64008e" ],
-    "objectIdsMigrated" : [ "8b95b865-7995-54ae-8926-00b4dfddfbf8" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/7d79bef5-f9b7-4d65-9e40-07e5f6e7775e.json",
-    "targetAnalysisId" : "98cab79b-ce52-46cf-8ab7-9bce52e6cfe5",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "7d79bef5-f9b7-4d65-9e40-07e5f6e7775e" ],
-    "objectIdsMigrated" : [ "3877acac-51fe-5458-9086-71c77a4268d1" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/39f09c5a-1351-46d6-a4eb-65a1fcdf9f23.json",
-    "targetAnalysisId" : "07ed5738-9945-4337-ad57-38994543370b",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "39f09c5a-1351-46d6-a4eb-65a1fcdf9f23" ],
-    "objectIdsMigrated" : [ "32be689f-4963-5d78-b354-2cddeea3c971" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/e6d4bfbd-3990-4fc6-ab5c-a4e06a1b2890.json",
-    "targetAnalysisId" : "c4883e51-2ad0-4419-883e-512ad0d41990",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "e6d4bfbd-3990-4fc6-ab5c-a4e06a1b2890" ],
-    "objectIdsMigrated" : [ "956a1793-ec2d-59c1-ab66-7c15659e815e" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/6a7aded5-d62a-48d9-b72b-429389ce5418.json",
-    "targetAnalysisId" : "86695fb1-754a-478c-a95f-b1754ad78c29",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "6a7aded5-d62a-48d9-b72b-429389ce5418" ],
-    "objectIdsMigrated" : [ "fd93dfd3-d85d-5f90-8e25-c8a8c26a9b54" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/e2a7e454-734d-4cf0-8a48-3d7d5cf1d4a0.json",
-    "targetAnalysisId" : "9835fd53-c37f-476b-b5fd-53c37fd76b7b",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "e2a7e454-734d-4cf0-8a48-3d7d5cf1d4a0" ],
-    "objectIdsMigrated" : [ "d6b0ab2f-1265-5110-b1b5-0c70ce4e7cbb" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/d5f94e27-09d5-4f7b-b36f-9e92ee2f59ce.json",
-    "targetAnalysisId" : "60b765bd-0442-4ebe-b765-bd0442eebe4d",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "d5f94e27-09d5-4f7b-b36f-9e92ee2f59ce" ],
-    "objectIdsMigrated" : [ "ed1c0600-74b4-5b9b-9b8f-ccae767f4722" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/f97c6322-9fcc-4987-b97e-8983f9231cb8.json",
-    "targetAnalysisId" : "bd120d84-3ed0-4630-920d-843ed03630e7",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "f97c6322-9fcc-4987-b97e-8983f9231cb8" ],
-    "objectIdsMigrated" : [ "845f0cf3-8db2-5f85-9493-644e2878ae3d" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/0b29b6eb-8e48-400d-883e-3361ddf378b8.json",
-    "targetAnalysisId" : "dabdca8e-e135-48ab-bdca-8ee135d8ab8b",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "0b29b6eb-8e48-400d-883e-3361ddf378b8" ],
-    "objectIdsMigrated" : [ "363c9f6f-1532-5c78-83b0-ca745b060efa" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/d3afe616-669d-4bff-bf35-5f559538e94d.json",
-    "targetAnalysisId" : "9f1331be-1ae5-4e4a-9331-be1ae54e4ab2",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "d3afe616-669d-4bff-bf35-5f559538e94d" ],
-    "objectIdsMigrated" : [ "b7792252-a7de-5237-9781-a5d0eaa89099" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/e82253a5-7a18-4f47-bf2e-a25abf816fc2.json",
-    "targetAnalysisId" : "671d8ef5-6852-44e2-9d8e-f5685224e2ce",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "e82253a5-7a18-4f47-bf2e-a25abf816fc2" ],
-    "objectIdsMigrated" : [ "11ad42f7-7fce-5534-8b83-5865a39a54f4" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/8b62045d-9493-40ce-8947-92ac9004717a.json",
-    "targetAnalysisId" : "692ba9f5-90a9-4b46-aba9-f590a99b460d",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "8b62045d-9493-40ce-8947-92ac9004717a" ],
-    "objectIdsMigrated" : [ "28d2d4a5-54c0-50a9-a419-1bd35c27226d" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/3c128ac0-6c6a-4977-aeae-e4d2c0fb912c.json",
-    "targetAnalysisId" : "88ab94f2-7f71-4c3a-ab94-f27f71ac3afe",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "3c128ac0-6c6a-4977-aeae-e4d2c0fb912c" ],
-    "objectIdsMigrated" : [ "c02bf17e-b5d2-5727-95ea-687872b4f629" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/948135a7-7abb-488e-b5ef-89cc5203e849.json",
-    "targetAnalysisId" : "cee24c64-bd0f-4ce2-a24c-64bd0f9ce225",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "948135a7-7abb-488e-b5ef-89cc5203e849" ],
-    "objectIdsMigrated" : [ "56822130-d16e-521b-b7c7-97130385bc6a" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/0750664e-9cd1-47c2-bf87-730c43674217.json",
-    "targetAnalysisId" : "ee190406-bac3-439d-9904-06bac3d39da8",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "0750664e-9cd1-47c2-bf87-730c43674217" ],
-    "objectIdsMigrated" : [ "d3641940-816a-5393-9cd2-f6605a675eee" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/a2f5530e-68ac-4935-8ee4-833fa09e4913.json",
-    "targetAnalysisId" : "09f8116a-6d79-4c2c-b811-6a6d79fc2c30",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "a2f5530e-68ac-4935-8ee4-833fa09e4913" ],
-    "objectIdsMigrated" : [ "89a48444-4f3a-503e-abea-6239f98f50a5" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/f64ba1bf-0964-42e7-a877-f51d0ed65eea.json",
-    "targetAnalysisId" : "f62f3f92-a911-43cf-af3f-92a91123cfef",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "f64ba1bf-0964-42e7-a877-f51d0ed65eea" ],
-    "objectIdsMigrated" : [ "28108176-0703-5355-90eb-cc62ab9e4596" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/a0c609ba-2055-473f-9858-70ff7fcc5e8b.json",
-    "targetAnalysisId" : "b4f5b388-f9c6-4ec8-b5b3-88f9c63ec815",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "a0c609ba-2055-473f-9858-70ff7fcc5e8b" ],
-    "objectIdsMigrated" : [ "4e5adca2-5683-5760-8c51-963f84cbbcb8" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/8d45ef88-2428-4220-b862-790484ed9892.json",
-    "targetAnalysisId" : "c5e525c5-70e2-4d83-a525-c570e27d83fe",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "8d45ef88-2428-4220-b862-790484ed9892" ],
-    "objectIdsMigrated" : [ "330dc5db-abf9-532d-85f7-1173530b90d4" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/2ca7ede6-55fb-42b9-9793-910bfa03b309.json",
-    "targetAnalysisId" : "d81fffb3-5968-432b-9fff-b35968232b4b",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "2ca7ede6-55fb-42b9-9793-910bfa03b309" ],
-    "objectIdsMigrated" : [ "746cf67d-9794-5513-8009-e4d0118b49c9" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/199b3a6f-a45e-4339-a3b3-79616a4a1c03.json",
-    "targetAnalysisId" : "4cf0730d-f279-4707-b073-0df2791707d8",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "199b3a6f-a45e-4339-a3b3-79616a4a1c03" ],
-    "objectIdsMigrated" : [ "937e4c40-fe8b-507d-9258-f02777d5f93a" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/cb13a59c-7c77-4d39-aab1-a9fe6ce9a923.json",
-    "targetAnalysisId" : "c479bd99-02c6-429b-b9bd-9902c6029b65",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "cb13a59c-7c77-4d39-aab1-a9fe6ce9a923" ],
-    "objectIdsMigrated" : [ "942cf66f-097d-5691-8e38-eaaf6aa3ddd2" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/eb03efe2-76d9-4d02-b583-4d397bfd4643.json",
-    "targetAnalysisId" : "ecec809f-2565-4713-ac80-9f2565f71328",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "eb03efe2-76d9-4d02-b583-4d397bfd4643" ],
-    "objectIdsMigrated" : [ "c714ddcc-43ac-557b-869e-dd9144abe412" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/aa223c15-4b97-4617-af92-09d5939863e3.json",
-    "targetAnalysisId" : "8f9d4857-acc3-4e25-9d48-57acc39e25ce",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "aa223c15-4b97-4617-af92-09d5939863e3" ],
-    "objectIdsMigrated" : [ "869bf7ec-95f6-5557-a3ef-718d491baede" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/415bdd88-8474-4e44-9888-d947a868db45.json",
-    "targetAnalysisId" : "3ff2f324-1778-4b10-b2f3-2417781b1079",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "415bdd88-8474-4e44-9888-d947a868db45" ],
-    "objectIdsMigrated" : [ "1b85d1fa-9e45-51f3-8055-556eebe2d808" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/59f49c72-e49f-42c3-83f2-9396e78cb8d1.json",
-    "targetAnalysisId" : "d4c9d385-4c22-457f-89d3-854c22957fc1",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "59f49c72-e49f-42c3-83f2-9396e78cb8d1" ],
-    "objectIdsMigrated" : [ "e78cb982-a4f0-5b03-b809-a619f9481cd4" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/7e9c85db-cbe9-42c6-9a7d-d46473addea5.json",
-    "targetAnalysisId" : "6a9cf088-3446-4b20-9cf0-883446cb205f",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "7e9c85db-cbe9-42c6-9a7d-d46473addea5" ],
-    "objectIdsMigrated" : [ "7e7a4915-f9b3-5618-bbd6-6dcdc38cacfe" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/7e40ac07-6e9a-47c6-81e9-31f2907e52df.json",
-    "targetAnalysisId" : "a18dddbf-1170-44fc-8ddd-bf117014fccd",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "7e40ac07-6e9a-47c6-81e9-31f2907e52df" ],
-    "objectIdsMigrated" : [ "33971bb7-5f4b-5245-ae2d-eb65a9389154" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/8caa685d-f335-43e9-b5be-4f19b14f4046.json",
-    "targetAnalysisId" : "7e3a0c7c-148b-4745-ba0c-7c148b0745b6",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "8caa685d-f335-43e9-b5be-4f19b14f4046" ],
-    "objectIdsMigrated" : [ "633dbc7a-bab1-5d69-a979-2ff9a115729e" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/cd456753-a059-4d99-9457-c2c6544a345b.json",
-    "targetAnalysisId" : "4b0675d6-3f8c-4d61-8675-d63f8ccd611f",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "cd456753-a059-4d99-9457-c2c6544a345b" ],
-    "objectIdsMigrated" : [ "b5835f9a-df00-542d-a912-df3321998ac6" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/175b3370-593b-4284-b269-cff4dcbf3147.json",
-    "targetAnalysisId" : "8347530b-4762-46be-8753-0b476226beaf",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "175b3370-593b-4284-b269-cff4dcbf3147" ],
-    "objectIdsMigrated" : [ "b805982d-aee4-5135-8424-93fafd5691fd" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/dea58956-b336-4b04-9bf4-84b6360ba036.json",
-    "targetAnalysisId" : "39236f04-c113-46ed-a36f-04c11316ed02",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "dea58956-b336-4b04-9bf4-84b6360ba036" ],
-    "objectIdsMigrated" : [ "ee2f8391-7c89-54c8-bda9-65e018d421d6" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/4931c3f3-f672-4add-9007-34e6e3424f44.json",
-    "targetAnalysisId" : "6d671e35-3b7e-4e36-a71e-353b7e9e36df",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "4931c3f3-f672-4add-9007-34e6e3424f44" ],
-    "objectIdsMigrated" : [ "481b2190-193c-504f-8a50-6d234614b8bc" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/155ff477-c7b9-4f07-b17b-a25678b1ed60.json",
-    "targetAnalysisId" : "e2fc7201-4d9a-4d1a-bc72-014d9aed1a58",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "155ff477-c7b9-4f07-b17b-a25678b1ed60" ],
-    "objectIdsMigrated" : [ "2b054287-31be-5385-91e2-29a4c42c0c92" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/f7d08356-987d-4617-947f-1948033a84b9.json",
-    "targetAnalysisId" : "ccc8ed4d-bafa-401a-88ed-4dbafa901acb",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "f7d08356-987d-4617-947f-1948033a84b9" ],
-    "objectIdsMigrated" : [ "5b8f8860-4b95-5448-8cda-5a99f5ac9542" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/b8ee37d2-ca7a-44be-a422-53695c725acf.json",
-    "targetAnalysisId" : "c08b2174-7f00-40fb-8b21-747f0030fbf1",
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/b8ee37d2-ca7a-44be-a422-53695c725acf.json",
+    "targetAnalysisId" : "072c8128-e2dd-44c3-ac81-28e2ddf4c3b2",
     "targetStudyId" : "OCCAMS-GB",
     "targetAnalysisState" : "PUBLISHED",
     "legacyStudyId" : "ESAD-UK",
@@ -585,44 +9,17 @@
     "objectIdsMigrated" : [ "f0ee359a-2746-51f4-81d1-7cbed75623b9" ],
     "allObjectIdsMigrated" : true
   }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/975de353-d2ad-4eb3-91fe-276bb04d0e44.json",
-    "targetAnalysisId" : "bd11d7b5-6296-4f2f-91d7-b562960f2ffa",
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/e078528d-4f6e-4a4e-ba68-8983156bc987.json",
+    "targetAnalysisId" : "a491d8cb-157c-4bff-91d8-cb157cdbff0c",
     "targetStudyId" : "OCCAMS-GB",
     "targetAnalysisState" : "PUBLISHED",
     "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "975de353-d2ad-4eb3-91fe-276bb04d0e44" ],
-    "objectIdsMigrated" : [ "8e194fdd-8d83-5ca8-be2a-74b3fb7f8930" ],
+    "legacyAnalysisIds" : [ "e078528d-4f6e-4a4e-ba68-8983156bc987" ],
+    "objectIdsMigrated" : [ "39e2b3a3-1067-5479-b600-1b131a166f07" ],
     "allObjectIdsMigrated" : true
   }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/1ecce870-cdb8-4a86-a5af-ece60eb9636e.json",
-    "targetAnalysisId" : "b923de4b-9371-4db8-a3de-4b93710db87f",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "1ecce870-cdb8-4a86-a5af-ece60eb9636e" ],
-    "objectIdsMigrated" : [ "0f58bafd-fbb8-52ec-85b1-2a3d83dc131c" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/b0abcbc5-2348-49a7-a26d-9f9c4c3c446c.json",
-    "targetAnalysisId" : "0a94963c-7697-4343-9496-3c7697334355",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "b0abcbc5-2348-49a7-a26d-9f9c4c3c446c" ],
-    "objectIdsMigrated" : [ "148c9451-7f13-51be-a593-1f264ebdf47f" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/cc0a8a9c-7024-46e1-a2df-aac185209697.json",
-    "targetAnalysisId" : "0696a72c-2ed2-42aa-96a7-2c2ed212aa6f",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "cc0a8a9c-7024-46e1-a2df-aac185209697" ],
-    "objectIdsMigrated" : [ "177c5e63-0d2d-5e0b-99f5-d1ec01bac9ed" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/403b24cd-0a67-4cf7-96be-a8eab1cb9173.json",
-    "targetAnalysisId" : "5fc96164-57fc-4ea8-8961-6457fcaea853",
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/403b24cd-0a67-4cf7-96be-a8eab1cb9173.json",
+    "targetAnalysisId" : "fcd87cef-bf8f-493a-987c-efbf8f793a22",
     "targetStudyId" : "OCCAMS-GB",
     "targetAnalysisState" : "PUBLISHED",
     "legacyStudyId" : "ESAD-UK",
@@ -630,494 +27,8 @@
     "objectIdsMigrated" : [ "6a2e6c1a-8644-556b-b6f2-b7bb8aaa83a6" ],
     "allObjectIdsMigrated" : true
   }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/d6b0c11d-a30d-4d28-acf3-a8ec992a7d45.json",
-    "targetAnalysisId" : "d2b870dc-6f30-4e16-b870-dc6f307e168e",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "d6b0c11d-a30d-4d28-acf3-a8ec992a7d45" ],
-    "objectIdsMigrated" : [ "f72312d0-e885-5662-b432-bf8e0af6f3c3" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/3e5c2340-7eaa-4984-a1f0-75da3828fcd7.json",
-    "targetAnalysisId" : "8202db97-d7ec-40fe-82db-97d7ec20fed1",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "3e5c2340-7eaa-4984-a1f0-75da3828fcd7" ],
-    "objectIdsMigrated" : [ "665536f2-e1de-5d88-b01c-443804b0ec89" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/136d60db-bd21-4fbc-9a28-59ea70c06f27.json",
-    "targetAnalysisId" : "ade5f296-57b4-46d0-a5f2-9657b4c6d03a",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "136d60db-bd21-4fbc-9a28-59ea70c06f27" ],
-    "objectIdsMigrated" : [ "e09a49a8-6381-55ca-ad62-46290e5b7590" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/6b996361-4db5-444f-bc12-aa2075d22331.json",
-    "targetAnalysisId" : "4e617768-03ac-4120-a177-6803ac512023",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "6b996361-4db5-444f-bc12-aa2075d22331" ],
-    "objectIdsMigrated" : [ "9267140d-693c-54ed-9888-db15e797cdb4" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/cfbe4a1e-5d7d-434c-86b8-0faf775eced1.json",
-    "targetAnalysisId" : "19189d60-f1a1-470d-989d-60f1a1870d4d",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "cfbe4a1e-5d7d-434c-86b8-0faf775eced1" ],
-    "objectIdsMigrated" : [ "90acaad1-5d8b-5dbe-9011-34a89b70ccac" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/6e575a3b-86bd-46a8-a3ee-ae0878764178.json",
-    "targetAnalysisId" : "c9200ea0-cbe9-4588-a00e-a0cbe915888d",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "6e575a3b-86bd-46a8-a3ee-ae0878764178" ],
-    "objectIdsMigrated" : [ "b2930a43-fee5-5cde-9916-3f5f1c17d7d4" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/d877d96c-66a4-4290-88c5-da440c58d9c7.json",
-    "targetAnalysisId" : "1a1ad7a3-4050-48ca-9ad7-a3405088ca88",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "d877d96c-66a4-4290-88c5-da440c58d9c7" ],
-    "objectIdsMigrated" : [ "c9f9e4e7-fa22-56f8-b077-1b236c619653" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/4421cdcc-1cdc-4b7c-b68b-8cda65a3f93e.json",
-    "targetAnalysisId" : "f179333e-a34b-49c8-b933-3ea34b99c86f",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "4421cdcc-1cdc-4b7c-b68b-8cda65a3f93e" ],
-    "objectIdsMigrated" : [ "6b0a0b4f-b24f-5628-ab61-7daaad9bcb91" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/8d2daad6-ad5a-4c1d-9e3b-e2b08b669e90.json",
-    "targetAnalysisId" : "47b440cd-1e02-46e5-b440-cd1e02c6e5b9",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "8d2daad6-ad5a-4c1d-9e3b-e2b08b669e90" ],
-    "objectIdsMigrated" : [ "cee5cf1e-6da1-560d-9803-992ba866a6a9" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/ddf189ed-3e35-49e9-be6f-9e035d8f01f8.json",
-    "targetAnalysisId" : "c4182242-1baf-4935-9822-421baf293558",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "ddf189ed-3e35-49e9-be6f-9e035d8f01f8" ],
-    "objectIdsMigrated" : [ "dd0915ff-b5cd-596d-87f8-d31f8cb1eca2" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/7f652539-ffdf-483b-bc00-9c11e178476c.json",
-    "targetAnalysisId" : "2a4ee9e9-af41-4a3b-8ee9-e9af415a3bac",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "7f652539-ffdf-483b-bc00-9c11e178476c" ],
-    "objectIdsMigrated" : [ "fb0abf55-f51f-5301-bd05-7958b69a6e47" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/1ff987a9-88cd-42f6-a7be-679534aebe2f.json",
-    "targetAnalysisId" : "a2b87dd7-b943-491a-b87d-d7b943e91a35",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "1ff987a9-88cd-42f6-a7be-679534aebe2f" ],
-    "objectIdsMigrated" : [ "b642f81f-66f9-5f58-a16a-14326995ea5a" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/27cd3cee-d7ab-4a30-aa5e-bc6b45c0da4a.json",
-    "targetAnalysisId" : "873efcc3-6689-4633-befc-c36689a63371",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "27cd3cee-d7ab-4a30-aa5e-bc6b45c0da4a" ],
-    "objectIdsMigrated" : [ "76f3aae2-eb42-5bf4-b800-bc70f10eda2c" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/a7da3429-6cf3-4cd4-b430-d8a7c69c4ecc.json",
-    "targetAnalysisId" : "10c88a9b-8d2d-417b-888a-9b8d2d717b80",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "a7da3429-6cf3-4cd4-b430-d8a7c69c4ecc" ],
-    "objectIdsMigrated" : [ "3fc61875-138c-5167-ac92-4b949691653c" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/2a8b5dc5-7d9f-42d0-b98d-20b069e85ad5.json",
-    "targetAnalysisId" : "dedcaf22-7e46-4268-9caf-227e469268be",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "2a8b5dc5-7d9f-42d0-b98d-20b069e85ad5" ],
-    "objectIdsMigrated" : [ "c0238ff4-edb2-5763-9823-9146f906d455" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/9d8ce47e-7fe4-47a0-8acc-9998907ab95c.json",
-    "targetAnalysisId" : "42e5d86a-c37c-4396-a5d8-6ac37c439650",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "9d8ce47e-7fe4-47a0-8acc-9998907ab95c" ],
-    "objectIdsMigrated" : [ "1143d01c-523d-5e2f-9ba6-ca110ba9626c" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/03504817-facf-4e99-9f61-153f264be342.json",
-    "targetAnalysisId" : "bf4fe973-b603-42f8-8fe9-73b60382f81c",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "03504817-facf-4e99-9f61-153f264be342" ],
-    "objectIdsMigrated" : [ "e4e8dc45-1c22-5e95-bdc7-88255291aa4e" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/a1dfaec1-cc4c-49f2-a052-51bc220cfb41.json",
-    "targetAnalysisId" : "d602230a-709f-40e6-8223-0a709f00e638",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "a1dfaec1-cc4c-49f2-a052-51bc220cfb41" ],
-    "objectIdsMigrated" : [ "017c5670-b37a-5de8-aa25-f84167800809" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/6616b32e-fc70-445b-9c6a-2443c971ef06.json",
-    "targetAnalysisId" : "de2e8442-0827-4855-ae84-420827f855d4",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "6616b32e-fc70-445b-9c6a-2443c971ef06" ],
-    "objectIdsMigrated" : [ "d267a27e-fc6d-54bb-8ead-cc2b8072146d" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/908e7b7f-2453-499b-bc1b-234e805a80c6.json",
-    "targetAnalysisId" : "6158eda7-eaa8-4213-98ed-a7eaa8e21341",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "908e7b7f-2453-499b-bc1b-234e805a80c6" ],
-    "objectIdsMigrated" : [ "7132f0bc-80e6-5f41-bd2d-450f369dafe4" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/f7ccb441-976e-415a-b09d-ee81bb08de13.json",
-    "targetAnalysisId" : "0ef6718c-c9b3-4f56-b671-8cc9b31f569c",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "f7ccb441-976e-415a-b09d-ee81bb08de13" ],
-    "objectIdsMigrated" : [ "4b3f0143-4a8f-56d6-8242-fe3ab513a265" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/0f4334eb-8837-4992-9558-9df26f909dbc.json",
-    "targetAnalysisId" : "00342613-c2bb-44ba-b426-13c2bb34bae0",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "0f4334eb-8837-4992-9558-9df26f909dbc" ],
-    "objectIdsMigrated" : [ "d7b119f3-23a1-53e5-84b7-0ba92498cb1b" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/fa9fc41d-7b27-43d5-8c14-4138aa561c5b.json",
-    "targetAnalysisId" : "c6900c6d-4f78-4658-900c-6d4f78a6584c",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "fa9fc41d-7b27-43d5-8c14-4138aa561c5b" ],
-    "objectIdsMigrated" : [ "7d4c9cf9-4a41-5ed3-9bd7-0b304e6ecf4d" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/3c3fdec4-ffd4-4928-acc7-87e4cd707b94.json",
-    "targetAnalysisId" : "230e5612-cd19-4c96-8e56-12cd194c967e",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "3c3fdec4-ffd4-4928-acc7-87e4cd707b94" ],
-    "objectIdsMigrated" : [ "8c50197c-ef34-515a-ae6e-fc79ca075b4f" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/88156c15-4ff8-4138-bb2f-62c2c4446fca.json",
-    "targetAnalysisId" : "69ed2de4-16b2-4309-ad2d-e416b2530989",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "88156c15-4ff8-4138-bb2f-62c2c4446fca" ],
-    "objectIdsMigrated" : [ "0d9a6d2a-4365-5683-96a0-3938df2318b8" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/4526cdd8-3eb7-4fda-84c3-ebcaf6f5e316.json",
-    "targetAnalysisId" : "151ece5f-b38f-4b0c-9ece-5fb38f6b0c90",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "4526cdd8-3eb7-4fda-84c3-ebcaf6f5e316" ],
-    "objectIdsMigrated" : [ "ff6f202b-75d0-59e7-b04d-90cec94d2f17" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/2a8fd12c-f719-45b6-bf37-75befa939e29.json",
-    "targetAnalysisId" : "aef99fc6-9776-4743-b99f-c6977687430b",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "2a8fd12c-f719-45b6-bf37-75befa939e29" ],
-    "objectIdsMigrated" : [ "4f62c204-7634-5176-8bea-8d265cc7bbe0" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/f29671e7-f79a-4213-9630-40293ce15348.json",
-    "targetAnalysisId" : "c49db0cc-34b7-4ce8-9db0-cc34b76ce8a1",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "f29671e7-f79a-4213-9630-40293ce15348" ],
-    "objectIdsMigrated" : [ "64d38396-f870-5ac5-9dbb-45276a66aca9" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/eea32957-d464-415c-886e-c18cc2807765.json",
-    "targetAnalysisId" : "e96e86e0-e4f6-4212-ae86-e0e4f6721226",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "eea32957-d464-415c-886e-c18cc2807765" ],
-    "objectIdsMigrated" : [ "651f9613-7ada-5e7c-b627-21b3d6afb39d" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/b07fd886-9b8c-44ee-8549-f875b5ed069c.json",
-    "targetAnalysisId" : "882a4eb1-610b-4008-aa4e-b1610b200826",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "b07fd886-9b8c-44ee-8549-f875b5ed069c" ],
-    "objectIdsMigrated" : [ "00fe33f0-06a8-5297-9712-d1f1ad79740a" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/01fcb0f7-c9d3-490a-adcb-ba866e9eb4b4.json",
-    "targetAnalysisId" : "de67b59d-e6fb-468c-a7b5-9de6fb368ca4",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "01fcb0f7-c9d3-490a-adcb-ba866e9eb4b4" ],
-    "objectIdsMigrated" : [ "cb310435-aacf-53a8-8265-379408c16946" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/eb7fb116-8df1-472c-856b-34adb0f20e5f.json",
-    "targetAnalysisId" : "ddf3ec12-cd7d-4626-b3ec-12cd7dc62666",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "eb7fb116-8df1-472c-856b-34adb0f20e5f" ],
-    "objectIdsMigrated" : [ "02499609-b564-59cb-a8f8-92eacf6d31eb" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/ce112541-b066-4c15-9b60-a586fdcacdc1.json",
-    "targetAnalysisId" : "bb751899-4fcb-4fa3-b518-994fcb4fa337",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "ce112541-b066-4c15-9b60-a586fdcacdc1" ],
-    "objectIdsMigrated" : [ "a9e4fcdf-24e1-58fb-a40e-6b02ed42ff70" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/c041db67-cb4e-4849-bb35-74ce9f8adc85.json",
-    "targetAnalysisId" : "1edc95be-8d1a-4e99-9c95-be8d1a6e99cf",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "c041db67-cb4e-4849-bb35-74ce9f8adc85" ],
-    "objectIdsMigrated" : [ "7ac79666-bd17-5001-993a-51f6bc941106" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/d0e43fb9-e3a9-42ba-bb44-80cd21feeda8.json",
-    "targetAnalysisId" : "d60a4893-e6a9-43b9-8a48-93e6a943b901",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "d0e43fb9-e3a9-42ba-bb44-80cd21feeda8" ],
-    "objectIdsMigrated" : [ "4164ad5d-0298-55ef-88f9-112d36ae824b" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/25691ae5-7091-4315-a1ce-8dd500575ca3.json",
-    "targetAnalysisId" : "a75898b2-5275-47ff-9898-b2527537ff3e",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "25691ae5-7091-4315-a1ce-8dd500575ca3" ],
-    "objectIdsMigrated" : [ "9bea66a6-013d-56d3-baa8-0a299159b83a" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/87bae839-2460-4a86-8f10-92b63c363f7a.json",
-    "targetAnalysisId" : "3c1a299d-a285-4d91-9a29-9da285dd915c",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "87bae839-2460-4a86-8f10-92b63c363f7a" ],
-    "objectIdsMigrated" : [ "9d90611c-731d-5666-84aa-92a6e2b062b9" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/b8e821ce-bfd1-487c-8d44-7180b3c952fd.json",
-    "targetAnalysisId" : "f7e25fe1-96df-43d1-a25f-e196dff3d1ed",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "b8e821ce-bfd1-487c-8d44-7180b3c952fd" ],
-    "objectIdsMigrated" : [ "35040410-7e9a-59ea-95ba-2800f6904a28" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/0d8605fc-6510-4b3d-91e9-11c7c771d2f3.json",
-    "targetAnalysisId" : "24399f69-1a3c-4055-b99f-691a3cb05524",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "0d8605fc-6510-4b3d-91e9-11c7c771d2f3" ],
-    "objectIdsMigrated" : [ "2c4c680d-22a7-5dc3-84f6-a7e7a3783bcf" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/124f91b5-8ed1-46c7-aa88-9279e9b83c4e.json",
-    "targetAnalysisId" : "a2976831-2bae-4db7-9768-312baebdb755",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "124f91b5-8ed1-46c7-aa88-9279e9b83c4e" ],
-    "objectIdsMigrated" : [ "a6540217-fabe-5eda-b99f-a9c9246eaea9" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/7b994104-64b6-421f-83da-86bf2b70c991.json",
-    "targetAnalysisId" : "d4f477bd-bf0e-4477-b477-bdbf0e547763",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "7b994104-64b6-421f-83da-86bf2b70c991" ],
-    "objectIdsMigrated" : [ "590d0c53-c631-5db7-a90f-47623a9fd3a2" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/4406bad5-4dfe-4212-bf67-ef03bbfeffe4.json",
-    "targetAnalysisId" : "c561070d-ee4b-46a4-a107-0dee4b26a47a",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "4406bad5-4dfe-4212-bf67-ef03bbfeffe4" ],
-    "objectIdsMigrated" : [ "2bcfe607-8ef0-5f92-8589-eb8c9ff7d267" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/1c125f87-537c-4dcf-8a74-11785df2507d.json",
-    "targetAnalysisId" : "56b3408b-259f-406e-b340-8b259f606ed8",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "1c125f87-537c-4dcf-8a74-11785df2507d" ],
-    "objectIdsMigrated" : [ "e62256d9-5eeb-5abb-bf16-8460a915f877" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/1bdc5173-322d-404d-9a03-89e6e11ca008.json",
-    "targetAnalysisId" : "acaeab33-50da-4cb5-aeab-3350dabcb579",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "1bdc5173-322d-404d-9a03-89e6e11ca008" ],
-    "objectIdsMigrated" : [ "303586e7-b4b8-5873-a739-73a085da9756" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/7e39feb6-c04e-47a3-b5a6-b7b59a7fc013.json",
-    "targetAnalysisId" : "b79bafbd-dae0-4a3c-9baf-bddae02a3c35",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "7e39feb6-c04e-47a3-b5a6-b7b59a7fc013" ],
-    "objectIdsMigrated" : [ "636d2992-c213-54e2-aa1c-d9dff03c1b94" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/3c10f2ff-4458-4e54-9b0f-f0757de7b5eb.json",
-    "targetAnalysisId" : "d5d71b59-b126-42af-971b-59b12662af7b",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "3c10f2ff-4458-4e54-9b0f-f0757de7b5eb" ],
-    "objectIdsMigrated" : [ "d0b01315-7ebf-55c5-b9c2-44ca3de0fb3d" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/4b9c0467-bc2b-4b16-a57a-8da61fc96156.json",
-    "targetAnalysisId" : "77a732b4-3ea7-4d26-a732-b43ea73d268d",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "4b9c0467-bc2b-4b16-a57a-8da61fc96156" ],
-    "objectIdsMigrated" : [ "073e7070-f0b2-5eac-86b4-99db5c24ff75" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/f6d6fb42-afab-46ca-b654-f30cc0155f57.json",
-    "targetAnalysisId" : "0ad965cc-b59d-483e-9965-ccb59df83e78",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "f6d6fb42-afab-46ca-b654-f30cc0155f57" ],
-    "objectIdsMigrated" : [ "a49903b1-83d9-561a-94f0-d83c4a30dcc4" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/ca87231f-cfdf-459c-bc20-8bc79ba3db19.json",
-    "targetAnalysisId" : "c51bde97-400d-4a62-9bde-97400d6a626c",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "ca87231f-cfdf-459c-bc20-8bc79ba3db19" ],
-    "objectIdsMigrated" : [ "4fb796fd-8488-5547-bf93-ac1b57a9be70" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/689ec364-707a-468b-a8c9-3569116d4fd3.json",
-    "targetAnalysisId" : "9fd40ba6-c172-44e7-940b-a6c17264e7c6",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "689ec364-707a-468b-a8c9-3569116d4fd3" ],
-    "objectIdsMigrated" : [ "a25ee881-9312-5cc2-85b3-484a2b86e4bc" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/0530bbac-422e-410c-b426-7d6c613acbb7.json",
-    "targetAnalysisId" : "2cae345e-e21f-4614-ae34-5ee21f961475",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "0530bbac-422e-410c-b426-7d6c613acbb7" ],
-    "objectIdsMigrated" : [ "1dfe5a32-285b-55db-aaa0-ab1f64e3468d" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/5c2e205f-be1c-4788-8901-a0c40a9cc203.json",
-    "targetAnalysisId" : "9359f4ff-a440-475f-99f4-ffa440175ffd",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "5c2e205f-be1c-4788-8901-a0c40a9cc203" ],
-    "objectIdsMigrated" : [ "f9b3c7e1-c798-50f4-bdad-d9a31f946598" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/367eb2ad-3933-4cac-ab2f-3708acc636dd.json",
-    "targetAnalysisId" : "85db42cb-30ce-42b9-9b42-cb30ce52b9cc",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "367eb2ad-3933-4cac-ab2f-3708acc636dd" ],
-    "objectIdsMigrated" : [ "de38e630-9bfe-5671-b95b-8e18834f9dda" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/7aebb1e0-6ea8-44b6-b979-aa96265d70bc.json",
-    "targetAnalysisId" : "5a8ebaee-65f8-4055-8eba-ee65f88055b6",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "7aebb1e0-6ea8-44b6-b979-aa96265d70bc" ],
-    "objectIdsMigrated" : [ "6d10cf24-a2d9-5bfa-819c-5a80bf2446bf" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/6d4e6101-4d85-4c54-98cd-2c0c04ea3c7f.json",
-    "targetAnalysisId" : "4919d625-5616-4564-99d6-255616c5646a",
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/6d4e6101-4d85-4c54-98cd-2c0c04ea3c7f.json",
+    "targetAnalysisId" : "a7dd2da0-8aac-41de-9d2d-a08aacd1de5b",
     "targetStudyId" : "OCCAMS-GB",
     "targetAnalysisState" : "PUBLISHED",
     "legacyStudyId" : "ESAD-UK",
@@ -1125,44 +36,8 @@
     "objectIdsMigrated" : [ "69d4920c-cc2c-5ba2-80e1-680ec15c5f7d" ],
     "allObjectIdsMigrated" : true
   }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/92570870-bc3b-40c0-ab5f-25121d126a39.json",
-    "targetAnalysisId" : "fb8a17cb-b8fd-4c0e-8a17-cbb8fd9c0ed4",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "92570870-bc3b-40c0-ab5f-25121d126a39" ],
-    "objectIdsMigrated" : [ "7a89c9d7-ee54-5a5a-9962-41f1dec242fc" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/15d0a648-3637-499f-b82f-57a8d3b64a91.json",
-    "targetAnalysisId" : "4a7d9b91-4ff4-48bd-bd9b-914ff488bd3e",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "15d0a648-3637-499f-b82f-57a8d3b64a91" ],
-    "objectIdsMigrated" : [ "f6f3d28d-46aa-59d6-8089-b051ede3721c" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/1eb36468-c560-4041-b2d9-89c464425a6e.json",
-    "targetAnalysisId" : "1f5bd1d2-822a-4f03-9bd1-d2822adf038c",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "1eb36468-c560-4041-b2d9-89c464425a6e" ],
-    "objectIdsMigrated" : [ "cdf94880-94dd-552a-a202-f260f1679ee5" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/4e04d680-da1d-497f-988a-69508642b617.json",
-    "targetAnalysisId" : "9b450fe5-6a82-45b0-850f-e56a8225b0dc",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "4e04d680-da1d-497f-988a-69508642b617" ],
-    "objectIdsMigrated" : [ "0b40488f-2ea4-59e1-a60a-e1c4cfbc5f7f" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/43d3d313-569b-4feb-a4af-7adc24d12849.json",
-    "targetAnalysisId" : "19fdbc96-2c70-4dc1-bdbc-962c70bdc171",
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/43d3d313-569b-4feb-a4af-7adc24d12849.json",
+    "targetAnalysisId" : "ea12eaa5-b416-4989-92ea-a5b416598942",
     "targetStudyId" : "OCCAMS-GB",
     "targetAnalysisState" : "PUBLISHED",
     "legacyStudyId" : "ESAD-UK",
@@ -1170,440 +45,26 @@
     "objectIdsMigrated" : [ "96e4dd8e-7eea-572a-a066-5b419feefc78" ],
     "allObjectIdsMigrated" : true
   }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/b4587aa4-5267-49fc-91a4-317f51d3b20b.json",
-    "targetAnalysisId" : "61d4fb78-c862-4ed8-94fb-78c862eed891",
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/1eb36468-c560-4041-b2d9-89c464425a6e.json",
+    "targetAnalysisId" : "4ec86535-33b2-47fb-8865-3533b2f7fb54",
     "targetStudyId" : "OCCAMS-GB",
     "targetAnalysisState" : "PUBLISHED",
     "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "b4587aa4-5267-49fc-91a4-317f51d3b20b" ],
-    "objectIdsMigrated" : [ "beebd0ea-b49f-56b7-9e27-d7fc4d8cc088" ],
+    "legacyAnalysisIds" : [ "1eb36468-c560-4041-b2d9-89c464425a6e" ],
+    "objectIdsMigrated" : [ "cdf94880-94dd-552a-a202-f260f1679ee5" ],
     "allObjectIdsMigrated" : true
   }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/6a6214ce-6cae-4acf-85f7-5bf6534d37ce.json",
-    "targetAnalysisId" : "70225386-b196-4b55-a253-86b1961b5586",
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/3c3fdec4-ffd4-4928-acc7-87e4cd707b94.json",
+    "targetAnalysisId" : "4e35086b-050f-4b79-b508-6b050fcb79c0",
     "targetStudyId" : "OCCAMS-GB",
     "targetAnalysisState" : "PUBLISHED",
     "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "6a6214ce-6cae-4acf-85f7-5bf6534d37ce" ],
-    "objectIdsMigrated" : [ "f566a769-2694-5481-9a99-c7f6469e20a1" ],
+    "legacyAnalysisIds" : [ "3c3fdec4-ffd4-4928-acc7-87e4cd707b94" ],
+    "objectIdsMigrated" : [ "8c50197c-ef34-515a-ae6e-fc79ca075b4f" ],
     "allObjectIdsMigrated" : true
   }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/685feb5c-2f35-4e42-bbd1-1c5869880d51.json",
-    "targetAnalysisId" : "9c4c777f-c04b-4522-8c77-7fc04be522d5",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "685feb5c-2f35-4e42-bbd1-1c5869880d51" ],
-    "objectIdsMigrated" : [ "c69c0fd3-61b9-55d1-a631-ee04f33f96b8" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/ce8fd3aa-31a0-441f-ae4a-8e3114942f16.json",
-    "targetAnalysisId" : "ebff5aa1-7620-4c9d-bf5a-a176202c9d4d",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "ce8fd3aa-31a0-441f-ae4a-8e3114942f16" ],
-    "objectIdsMigrated" : [ "1b35050c-07fe-5155-bcbc-3d4cbd2ad830" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/29e4cff3-93ad-4cd0-8d17-22d86564d6b2.json",
-    "targetAnalysisId" : "1b315737-2f45-42cf-b157-372f4572cf54",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "29e4cff3-93ad-4cd0-8d17-22d86564d6b2" ],
-    "objectIdsMigrated" : [ "3b621f80-0b3e-557e-90a0-772f363f8266" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/7ed788a2-67d8-46a1-9731-9bb0aa0ed368.json",
-    "targetAnalysisId" : "974e41a8-a219-46c2-8e41-a8a219a6c25b",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "7ed788a2-67d8-46a1-9731-9bb0aa0ed368" ],
-    "objectIdsMigrated" : [ "ce7cf8a9-bd00-544d-a183-eb4ce358d264" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/90f6477d-f246-4fcf-bda2-346b636f9c06.json",
-    "targetAnalysisId" : "bb46f6d4-ca1e-4cd0-86f6-d4ca1efcd01c",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "90f6477d-f246-4fcf-bda2-346b636f9c06" ],
-    "objectIdsMigrated" : [ "b2d12364-9fe8-55f5-80ce-d828f1840000" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/f3799cfb-5d82-41fc-97bc-26860998f980.json",
-    "targetAnalysisId" : "b3844b4c-7a95-4cf1-844b-4c7a959cf1c8",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "f3799cfb-5d82-41fc-97bc-26860998f980" ],
-    "objectIdsMigrated" : [ "70457762-cb25-5aad-bd6e-5d1a78202631" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/6a771265-122b-43e0-8483-06be76e5e5ab.json",
-    "targetAnalysisId" : "5f0cfd8a-9faa-4409-8cfd-8a9faa64092d",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "6a771265-122b-43e0-8483-06be76e5e5ab" ],
-    "objectIdsMigrated" : [ "8432fc18-30d6-52ac-8292-7a4526766e4b" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/b9be76fd-15c5-489d-a739-181af646f6fb.json",
-    "targetAnalysisId" : "e1c18887-0f4d-493d-8188-870f4d193dc4",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "b9be76fd-15c5-489d-a739-181af646f6fb" ],
-    "objectIdsMigrated" : [ "3bf9b47c-d2ac-5c9c-8c8d-811d62232d37" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/73563b54-2012-42c7-b249-eca480d20ac3.json",
-    "targetAnalysisId" : "85dec79c-99fe-459e-9ec7-9c99fed59e1f",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "73563b54-2012-42c7-b249-eca480d20ac3" ],
-    "objectIdsMigrated" : [ "a829c0bc-b80f-5669-a349-7a68f1ccbad1" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/0c46aece-e99f-4206-b08e-fe33406dd270.json",
-    "targetAnalysisId" : "031a9726-1aa7-4d96-9a97-261aa74d96a6",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "0c46aece-e99f-4206-b08e-fe33406dd270" ],
-    "objectIdsMigrated" : [ "9d726cf0-7414-5cb2-88c7-cef386f4040b" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/48f2432b-4a59-43b5-a372-0addffbdf5ca.json",
-    "targetAnalysisId" : "5c2d68ae-4eb8-4694-ad68-ae4eb86694e9",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "48f2432b-4a59-43b5-a372-0addffbdf5ca" ],
-    "objectIdsMigrated" : [ "6dfbc175-2ca3-5e81-85e7-1247c25b79d9" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/bac9ffc4-c217-43b2-a1a8-a80c9415d2ac.json",
-    "targetAnalysisId" : "397c4900-43c8-4bcd-bc49-0043c86bcd92",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "bac9ffc4-c217-43b2-a1a8-a80c9415d2ac" ],
-    "objectIdsMigrated" : [ "3e6439a5-6cad-55cb-8352-5e2ce172fde2" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/8ee3278a-d9d7-4d02-bd87-5a7f55365260.json",
-    "targetAnalysisId" : "b71e6708-d1e3-4905-9e67-08d1e3f90509",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "8ee3278a-d9d7-4d02-bd87-5a7f55365260" ],
-    "objectIdsMigrated" : [ "010ac6f1-9d66-5d86-b03d-972b32f46eb8" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/749ee621-c14c-4500-9bc3-8658c3e7076f.json",
-    "targetAnalysisId" : "5f7e6f22-79a7-4389-be6f-2279a763892c",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "749ee621-c14c-4500-9bc3-8658c3e7076f" ],
-    "objectIdsMigrated" : [ "7feb5519-4fde-5b90-ae47-576c53837320" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/c375d937-79f8-4c56-a3bc-844f7bc668a7.json",
-    "targetAnalysisId" : "32a59bc5-54c4-46e3-a59b-c554c4f6e32d",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "c375d937-79f8-4c56-a3bc-844f7bc668a7" ],
-    "objectIdsMigrated" : [ "1a69cdf3-4fb5-5800-8991-02f70a054523" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/555fe7f2-029b-47b0-8aa6-30a594da3d9a.json",
-    "targetAnalysisId" : "3628377f-d4f1-47aa-a837-7fd4f167aaee",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "555fe7f2-029b-47b0-8aa6-30a594da3d9a" ],
-    "objectIdsMigrated" : [ "3ffe43e5-3ecb-5546-9a9b-cbb4fd30db1c" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/5c3c2e48-c5e3-4e7f-9786-74db3d63a930.json",
-    "targetAnalysisId" : "4bde8bd6-8260-4ed5-9e8b-d682600ed532",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "5c3c2e48-c5e3-4e7f-9786-74db3d63a930" ],
-    "objectIdsMigrated" : [ "61a9a15f-e107-57cf-93c8-36a4778325ca" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/7867d1aa-c1b4-41fc-9ff1-c45467ce0ad9.json",
-    "targetAnalysisId" : "1cec66d6-e93c-49e0-ac66-d6e93c29e03f",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "7867d1aa-c1b4-41fc-9ff1-c45467ce0ad9" ],
-    "objectIdsMigrated" : [ "87681022-98dc-5e23-93a1-516a414087f8" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/c7ea07d8-026d-4a9b-bbf4-1b8553bb2217.json",
-    "targetAnalysisId" : "3e55336b-9744-4e3f-9533-6b9744de3f79",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "c7ea07d8-026d-4a9b-bbf4-1b8553bb2217" ],
-    "objectIdsMigrated" : [ "d28dc25e-3b6e-51c5-b049-261327c7b782" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/9084e2e1-c14a-487a-9ead-a847526b55a6.json",
-    "targetAnalysisId" : "0f70d13c-9b23-47c6-b0d1-3c9b2397c64b",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "9084e2e1-c14a-487a-9ead-a847526b55a6" ],
-    "objectIdsMigrated" : [ "7ca39501-0069-564e-a173-d9eec97a40c2" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/7aa378d7-2cb4-449a-8402-6f10ec5abacd.json",
-    "targetAnalysisId" : "4f8d6c1a-fee6-45fc-8d6c-1afee6a5fcc1",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "7aa378d7-2cb4-449a-8402-6f10ec5abacd" ],
-    "objectIdsMigrated" : [ "cb8991ba-3d62-5100-a136-cf9dc155b151" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/2fb5c74d-3178-4124-9221-2d70379afc91.json",
-    "targetAnalysisId" : "316bd5c7-11ad-442d-abd5-c711ad042de5",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "2fb5c74d-3178-4124-9221-2d70379afc91" ],
-    "objectIdsMigrated" : [ "94cfcf3b-07fb-554c-97ce-d6f118a1eb2c" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/2bbf1763-2401-44d2-98a7-478f5c95f371.json",
-    "targetAnalysisId" : "3c697743-e600-47cf-a977-43e60047cf09",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "2bbf1763-2401-44d2-98a7-478f5c95f371" ],
-    "objectIdsMigrated" : [ "f07a3438-89dd-5f83-8e79-cf0e4c3ed54a" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/a23ccb74-ef1c-4134-8397-35380e8e9e08.json",
-    "targetAnalysisId" : "3f7db69c-afa5-4002-bdb6-9cafa520028c",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "a23ccb74-ef1c-4134-8397-35380e8e9e08" ],
-    "objectIdsMigrated" : [ "d567bd45-8a7a-5c4a-83db-2665502257f8" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/90c2be4f-3251-469c-8d42-b5c29d3b628f.json",
-    "targetAnalysisId" : "d2f4765d-6e36-4d2c-b476-5d6e369d2cfc",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "90c2be4f-3251-469c-8d42-b5c29d3b628f" ],
-    "objectIdsMigrated" : [ "205f40d0-a9f2-5eb7-a997-9a1cc62504f0" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/727e9318-1d2b-4990-8861-8f03902b6f87.json",
-    "targetAnalysisId" : "82db2315-c59a-4e6e-9b23-15c59a2e6ed6",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "727e9318-1d2b-4990-8861-8f03902b6f87" ],
-    "objectIdsMigrated" : [ "1081a6f7-c800-590a-931c-fcd91e2a83b3" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/3b4a1233-7fad-4359-b371-36029f8e1f8d.json",
-    "targetAnalysisId" : "8e25b9a3-b2bc-404e-a5b9-a3b2bc904ee7",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "3b4a1233-7fad-4359-b371-36029f8e1f8d" ],
-    "objectIdsMigrated" : [ "5d4c4d81-bfd2-5e0f-b2cb-627f18d67533" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/0c74d3ea-1aa2-4e66-98d4-a12b38ee3665.json",
-    "targetAnalysisId" : "ef4e4310-70ac-4f75-8e43-1070ac8f7547",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "0c74d3ea-1aa2-4e66-98d4-a12b38ee3665" ],
-    "objectIdsMigrated" : [ "445eea77-bd64-5037-8580-2d4066aa4056" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/82cd3972-6632-4f33-981f-99d657053551.json",
-    "targetAnalysisId" : "e4b1c0c0-fdfb-405e-b1c0-c0fdfba05e1b",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "82cd3972-6632-4f33-981f-99d657053551" ],
-    "objectIdsMigrated" : [ "d4501d3b-74dc-516f-baa5-f1c83063dbf1" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/4a8c59ac-32e0-4f9d-ba35-ae1bd256c0e1.json",
-    "targetAnalysisId" : "059dcfc5-229d-4f64-9dcf-c5229def64b1",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "4a8c59ac-32e0-4f9d-ba35-ae1bd256c0e1" ],
-    "objectIdsMigrated" : [ "19c9ae2a-ae40-54c1-b585-0468f66b0db7" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/b5178ce3-bb25-4893-824a-58142dae29a3.json",
-    "targetAnalysisId" : "3a5ea835-31fe-4f38-9ea8-3531fe8f38bc",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "b5178ce3-bb25-4893-824a-58142dae29a3" ],
-    "objectIdsMigrated" : [ "6a9230b2-d544-5801-a237-5260b425436b" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/1c126967-57bf-4896-b9b8-15f6a5c0135a.json",
-    "targetAnalysisId" : "5094175f-0c0f-46b0-9417-5f0c0f86b0e2",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "1c126967-57bf-4896-b9b8-15f6a5c0135a" ],
-    "objectIdsMigrated" : [ "b588a8fd-e840-5bb5-b451-831e48c18262" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/4b1e0617-2708-4287-aae7-9e4a6ecda16c.json",
-    "targetAnalysisId" : "3d268b1f-a13a-4482-a68b-1fa13a948205",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "4b1e0617-2708-4287-aae7-9e4a6ecda16c" ],
-    "objectIdsMigrated" : [ "1f9009a0-c2cd-51f8-9c2e-67adf929f156" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/318cc24a-0388-4da4-a079-d25af082fbf9.json",
-    "targetAnalysisId" : "fd76df11-2b14-4b9e-b6df-112b140b9e00",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "318cc24a-0388-4da4-a079-d25af082fbf9" ],
-    "objectIdsMigrated" : [ "c3e50f5d-dab4-50db-9ee8-09a8d981edce" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/55bd0a3d-c41d-4664-9ca7-c535b212cc39.json",
-    "targetAnalysisId" : "d37341f8-056d-4bed-b341-f8056ddbed86",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "55bd0a3d-c41d-4664-9ca7-c535b212cc39" ],
-    "objectIdsMigrated" : [ "ace74545-3aed-5e49-adc0-12bbb7a93dd8" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/389dc101-d1c1-44ef-ac45-3af34576f188.json",
-    "targetAnalysisId" : "204b8ce0-da23-46a6-8b8c-e0da2356a6a1",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "389dc101-d1c1-44ef-ac45-3af34576f188" ],
-    "objectIdsMigrated" : [ "96ad6d84-41be-5cc4-8d02-b508641fa3e0" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/629a77c6-1b60-4e37-8cea-031ff1242517.json",
-    "targetAnalysisId" : "130595fd-ed05-4387-8595-fded05238784",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "629a77c6-1b60-4e37-8cea-031ff1242517" ],
-    "objectIdsMigrated" : [ "cc92c0ae-ca88-55a2-8f81-e78f726ac633" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/e3412e0f-ed90-4b4e-812d-5f8f0a626c6c.json",
-    "targetAnalysisId" : "22c43edf-b697-4125-843e-dfb6971125cc",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "e3412e0f-ed90-4b4e-812d-5f8f0a626c6c" ],
-    "objectIdsMigrated" : [ "87c6ab96-2ab7-51a6-88d3-77fa8b0caded" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/74d16ad6-7de9-472d-bc7c-94a954bec156.json",
-    "targetAnalysisId" : "7671da27-3d1d-42e0-b1da-273d1da2e09e",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "74d16ad6-7de9-472d-bc7c-94a954bec156" ],
-    "objectIdsMigrated" : [ "ba7b40d8-a51d-528f-888d-8e998b7e40d0" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/b364da0c-19dc-4d6d-8375-bcba9a1c4eda.json",
-    "targetAnalysisId" : "760e40d7-fbd2-4ae1-8e40-d7fbd27ae13e",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "b364da0c-19dc-4d6d-8375-bcba9a1c4eda" ],
-    "objectIdsMigrated" : [ "cd0edf5c-8eef-5da6-9472-ee7cd393eb2c" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/de60e3ab-0822-4094-83c2-b243739e47f5.json",
-    "targetAnalysisId" : "64b7fb89-4a24-47e7-b7fb-894a2457e7d4",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "de60e3ab-0822-4094-83c2-b243739e47f5" ],
-    "objectIdsMigrated" : [ "874c4105-5896-58e6-ba06-b551a48c45c2" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/d5e3cf62-1192-48ed-9d56-dfde401b35e8.json",
-    "targetAnalysisId" : "8a2ca3a6-5426-43ea-aca3-a6542643ea21",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "d5e3cf62-1192-48ed-9d56-dfde401b35e8" ],
-    "objectIdsMigrated" : [ "3e6b511c-6865-5323-adab-138b74e52617" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/8c70e93f-022d-4584-ad2c-d95e1ecd4f0b.json",
-    "targetAnalysisId" : "39805594-7c5d-47c9-8055-947c5d67c938",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "8c70e93f-022d-4584-ad2c-d95e1ecd4f0b" ],
-    "objectIdsMigrated" : [ "7cd54ee2-e177-55fb-bf94-1b96bc8d1864" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/1d533670-0dc5-4380-afc7-db78b6ed4f0d.json",
-    "targetAnalysisId" : "7d0e5052-693f-490d-8e50-52693f590d38",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "1d533670-0dc5-4380-afc7-db78b6ed4f0d" ],
-    "objectIdsMigrated" : [ "f34a8985-cae4-5346-8c47-351d53bfce7f" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/c8ebac3d-6802-462b-a26b-637fe3aa3a9a.json",
-    "targetAnalysisId" : "c2324036-cd76-4962-b240-36cd769962c7",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "c8ebac3d-6802-462b-a26b-637fe3aa3a9a" ],
-    "objectIdsMigrated" : [ "ad2dceab-09f4-59d3-834d-8573d6f2237f" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/0bef43a2-352a-42c6-99ff-d97e2675a527.json",
-    "targetAnalysisId" : "78473eca-5c1c-48cc-873e-ca5c1ca8cc60",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "0bef43a2-352a-42c6-99ff-d97e2675a527" ],
-    "objectIdsMigrated" : [ "78d071c5-a0f5-5bd1-8e05-9850bf326e93" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/ef187b8d-c0cb-408e-ab79-06c77767f9ee.json",
-    "targetAnalysisId" : "44559a3e-1813-4436-959a-3e1813c436e1",
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/ef187b8d-c0cb-408e-ab79-06c77767f9ee.json",
+    "targetAnalysisId" : "6d602c9a-c363-4389-a02c-9ac36353898c",
     "targetStudyId" : "OCCAMS-GB",
     "targetAnalysisState" : "PUBLISHED",
     "legacyStudyId" : "ESAD-UK",
@@ -1611,8 +72,44 @@
     "objectIdsMigrated" : [ "17fe21ff-1b0b-5d8d-8a42-986a1ae4d1a1" ],
     "allObjectIdsMigrated" : true
   }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/c405d92c-23fc-41b1-a4c6-bd48d2048d71.json",
-    "targetAnalysisId" : "6d2650bb-495a-44d9-a650-bb495a24d943",
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/f3799cfb-5d82-41fc-97bc-26860998f980.json",
+    "targetAnalysisId" : "5800a954-8daf-40d7-80a9-548daf70d775",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "f3799cfb-5d82-41fc-97bc-26860998f980" ],
+    "objectIdsMigrated" : [ "70457762-cb25-5aad-bd6e-5d1a78202631" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/25691ae5-7091-4315-a1ce-8dd500575ca3.json",
+    "targetAnalysisId" : "e6e4cab7-36e3-442d-a4ca-b736e3342d98",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "25691ae5-7091-4315-a1ce-8dd500575ca3" ],
+    "objectIdsMigrated" : [ "9bea66a6-013d-56d3-baa8-0a299159b83a" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/b4587aa4-5267-49fc-91a4-317f51d3b20b.json",
+    "targetAnalysisId" : "e4e45926-1cd6-444d-a459-261cd6144d27",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "b4587aa4-5267-49fc-91a4-317f51d3b20b" ],
+    "objectIdsMigrated" : [ "beebd0ea-b49f-56b7-9e27-d7fc4d8cc088" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/6a7aded5-d62a-48d9-b72b-429389ce5418.json",
+    "targetAnalysisId" : "751d687c-46c6-4b13-9d68-7c46c68b1320",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "6a7aded5-d62a-48d9-b72b-429389ce5418" ],
+    "objectIdsMigrated" : [ "fd93dfd3-d85d-5f90-8e25-c8a8c26a9b54" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/c405d92c-23fc-41b1-a4c6-bd48d2048d71.json",
+    "targetAnalysisId" : "f9b24b98-e80e-41ca-b24b-98e80ee1ca6d",
     "targetStudyId" : "OCCAMS-GB",
     "targetAnalysisState" : "PUBLISHED",
     "legacyStudyId" : "ESAD-UK",
@@ -1620,35 +117,89 @@
     "objectIdsMigrated" : [ "7ee61546-3dc4-59e6-b653-bba36ba8ec86" ],
     "allObjectIdsMigrated" : true
   }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/f4996258-8a7b-4091-9991-61fbd58e93a0.json",
-    "targetAnalysisId" : "f14f34ac-2643-4a15-8f34-ac2643da1582",
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/f7b5e1a9-f5c6-4ec6-9725-f0d2195c3721.json",
+    "targetAnalysisId" : "6549f517-a7c4-428d-89f5-17a7c4328d52",
     "targetStudyId" : "OCCAMS-GB",
     "targetAnalysisState" : "PUBLISHED",
     "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "f4996258-8a7b-4091-9991-61fbd58e93a0" ],
-    "objectIdsMigrated" : [ "89dd4ed1-562c-559f-b66d-a44652fe4eef" ],
+    "legacyAnalysisIds" : [ "f7b5e1a9-f5c6-4ec6-9725-f0d2195c3721" ],
+    "objectIdsMigrated" : [ "b1dae408-2d58-5d55-bbf9-501f2d17f844" ],
     "allObjectIdsMigrated" : true
   }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/93f1885d-c007-45ea-b48e-dc0b3eace705.json",
-    "targetAnalysisId" : "8d5f2893-d5b3-445c-9f28-93d5b3c45c2b",
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/cf52f15b-825c-47dc-a0f3-bfe599c76c3d.json",
+    "targetAnalysisId" : "f61088b8-0f09-4414-9088-b80f09c414cd",
     "targetStudyId" : "OCCAMS-GB",
     "targetAnalysisState" : "PUBLISHED",
     "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "93f1885d-c007-45ea-b48e-dc0b3eace705" ],
-    "objectIdsMigrated" : [ "4cabb1be-2ce6-5da8-b6eb-0a681712008e" ],
+    "legacyAnalysisIds" : [ "cf52f15b-825c-47dc-a0f3-bfe599c76c3d" ],
+    "objectIdsMigrated" : [ "fb8be7d9-6d12-5f0c-bf06-ba2dacdd4f76" ],
     "allObjectIdsMigrated" : true
   }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/34489787-8b89-44ab-a513-5aefb62ccc07.json",
-    "targetAnalysisId" : "d010f62e-e513-4842-90f6-2ee5135842de",
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/2463354b-dd5e-49e2-abcb-6698d831368a.json",
+    "targetAnalysisId" : "a4b014bc-9562-4949-b014-bc956269498c",
     "targetStudyId" : "OCCAMS-GB",
     "targetAnalysisState" : "PUBLISHED",
     "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "34489787-8b89-44ab-a513-5aefb62ccc07" ],
-    "objectIdsMigrated" : [ "672853b6-63ac-5be4-9806-112dc1f89eb2" ],
+    "legacyAnalysisIds" : [ "2463354b-dd5e-49e2-abcb-6698d831368a" ],
+    "objectIdsMigrated" : [ "543d3ad7-3f74-562e-9b2e-17531f7821be" ],
     "allObjectIdsMigrated" : true
   }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/f6712653-3e8b-4e2c-beb1-e32ea542445c.json",
-    "targetAnalysisId" : "e9666688-7c97-49c7-a666-887c9769c7f6",
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/99726e08-a060-4398-aedc-bf642e64008e.json",
+    "targetAnalysisId" : "f560a6ec-8f51-4a07-a0a6-ec8f516a070b",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "99726e08-a060-4398-aedc-bf642e64008e" ],
+    "objectIdsMigrated" : [ "8b95b865-7995-54ae-8926-00b4dfddfbf8" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/0c46aece-e99f-4206-b08e-fe33406dd270.json",
+    "targetAnalysisId" : "b94c7a3a-5a1a-4bf3-8c7a-3a5a1a3bf350",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "0c46aece-e99f-4206-b08e-fe33406dd270" ],
+    "objectIdsMigrated" : [ "9d726cf0-7414-5cb2-88c7-cef386f4040b" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/d7d23604-8e5b-4358-9f12-53bbe0287621.json",
+    "targetAnalysisId" : "613bdeba-f1de-48e9-bbde-baf1de98e99f",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "d7d23604-8e5b-4358-9f12-53bbe0287621" ],
+    "objectIdsMigrated" : [ "dd4b7a6f-6c7d-568f-ab7c-aebc53866e06" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/4d696c16-be57-4a81-89e5-3d184341c796.json",
+    "targetAnalysisId" : "4ceb9f88-6dd2-402d-ab9f-886dd2d02d0e",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "4d696c16-be57-4a81-89e5-3d184341c796" ],
+    "objectIdsMigrated" : [ "9f3db731-27ef-5b12-a22b-a45344b9b2d6" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/7867d1aa-c1b4-41fc-9ff1-c45467ce0ad9.json",
+    "targetAnalysisId" : "0e9b18dc-df12-4796-9b18-dcdf12979616",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "7867d1aa-c1b4-41fc-9ff1-c45467ce0ad9" ],
+    "objectIdsMigrated" : [ "87681022-98dc-5e23-93a1-516a414087f8" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/b364da0c-19dc-4d6d-8375-bcba9a1c4eda.json",
+    "targetAnalysisId" : "f368020b-fd86-4bf9-a802-0bfd869bf953",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "b364da0c-19dc-4d6d-8375-bcba9a1c4eda" ],
+    "objectIdsMigrated" : [ "cd0edf5c-8eef-5da6-9472-ee7cd393eb2c" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/f6712653-3e8b-4e2c-beb1-e32ea542445c.json",
+    "targetAnalysisId" : "9c84d678-a36f-40ea-84d6-78a36f90eadd",
     "targetStudyId" : "OCCAMS-GB",
     "targetAnalysisState" : "PUBLISHED",
     "legacyStudyId" : "ESAD-UK",
@@ -1656,62 +207,26 @@
     "objectIdsMigrated" : [ "b3d4d50a-1544-51d2-8dca-9e448d685c70" ],
     "allObjectIdsMigrated" : true
   }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/c0ccc76c-efcb-4577-9f94-ba8edd3714e0.json",
-    "targetAnalysisId" : "9922a2d9-f9ec-4844-a2a2-d9f9ecd8440b",
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/b9be76fd-15c5-489d-a739-181af646f6fb.json",
+    "targetAnalysisId" : "0a93bf42-6c6e-498f-93bf-426c6ea98fa8",
     "targetStudyId" : "OCCAMS-GB",
     "targetAnalysisState" : "PUBLISHED",
     "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "c0ccc76c-efcb-4577-9f94-ba8edd3714e0" ],
-    "objectIdsMigrated" : [ "ded8f4a0-b266-59a6-85ec-539bc6ca1942" ],
+    "legacyAnalysisIds" : [ "b9be76fd-15c5-489d-a739-181af646f6fb" ],
+    "objectIdsMigrated" : [ "3bf9b47c-d2ac-5c9c-8c8d-811d62232d37" ],
     "allObjectIdsMigrated" : true
   }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/52ba3848-ceb4-445d-a00c-dc3dd5ba13fa.json",
-    "targetAnalysisId" : "e1cffce9-d594-45dc-8ffc-e9d594f5dc05",
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/908e7b7f-2453-499b-bc1b-234e805a80c6.json",
+    "targetAnalysisId" : "708f8ec0-508b-4b2e-8f8e-c0508bcb2e65",
     "targetStudyId" : "OCCAMS-GB",
     "targetAnalysisState" : "PUBLISHED",
     "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "52ba3848-ceb4-445d-a00c-dc3dd5ba13fa" ],
-    "objectIdsMigrated" : [ "eb37bb92-7f55-50d4-8310-014fd9939062" ],
+    "legacyAnalysisIds" : [ "908e7b7f-2453-499b-bc1b-234e805a80c6" ],
+    "objectIdsMigrated" : [ "7132f0bc-80e6-5f41-bd2d-450f369dafe4" ],
     "allObjectIdsMigrated" : true
   }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/77dca527-7599-44a8-bee2-3add4d406e7b.json",
-    "targetAnalysisId" : "85c945fc-0c14-466a-8945-fc0c14e66a47",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "77dca527-7599-44a8-bee2-3add4d406e7b" ],
-    "objectIdsMigrated" : [ "856b6491-3c98-5042-8715-4dbe7e969af8" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/6eafa27f-1145-4844-a189-28f94772c742.json",
-    "targetAnalysisId" : "f8f2ebeb-69f6-4cb7-b2eb-eb69f63cb798",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "6eafa27f-1145-4844-a189-28f94772c742" ],
-    "objectIdsMigrated" : [ "cf4c8023-2d71-5d29-a636-a0becbab17d4" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/c9c99cc0-4a5e-41e6-b33c-0b314a1e0d31.json",
-    "targetAnalysisId" : "4382ada0-0e13-4642-82ad-a00e1376424a",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "c9c99cc0-4a5e-41e6-b33c-0b314a1e0d31" ],
-    "objectIdsMigrated" : [ "f800c244-b5c3-5f7f-878a-20f4340d9f37" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/914da15a-1729-413f-b30b-95a0449878e1.json",
-    "targetAnalysisId" : "50582522-3aa1-407a-9825-223aa1a07ab2",
-    "targetStudyId" : "OCCAMS-GB",
-    "targetAnalysisState" : "PUBLISHED",
-    "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "914da15a-1729-413f-b30b-95a0449878e1" ],
-    "objectIdsMigrated" : [ "3e3fdc7d-4c60-5b2d-a900-79b4a48f396d" ],
-    "allObjectIdsMigrated" : true
-  }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/d208ad7d-a9b0-49f0-b71d-a52106fa05d4.json",
-    "targetAnalysisId" : "b793bf5b-d68a-4c97-93bf-5bd68a5c9743",
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/d208ad7d-a9b0-49f0-b71d-a52106fa05d4.json",
+    "targetAnalysisId" : "21a85e2d-2cc9-4eec-a85e-2d2cc9aeec6f",
     "targetStudyId" : "OCCAMS-GB",
     "targetAnalysisState" : "PUBLISHED",
     "legacyStudyId" : "ESAD-UK",
@@ -1719,26 +234,125 @@
     "objectIdsMigrated" : [ "16f167c5-b3f6-54b9-84ef-f107b81b91c9" ],
     "allObjectIdsMigrated" : true
   }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/b58a201d-3c1c-4511-9b26-73a5d8b75665.json",
-    "targetAnalysisId" : "27705233-a074-41d5-b052-33a074e1d539",
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/7e9c85db-cbe9-42c6-9a7d-d46473addea5.json",
+    "targetAnalysisId" : "54eca0e6-af29-4cef-aca0-e6af29ccefa2",
     "targetStudyId" : "OCCAMS-GB",
     "targetAnalysisState" : "PUBLISHED",
     "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "b58a201d-3c1c-4511-9b26-73a5d8b75665" ],
-    "objectIdsMigrated" : [ "58155a79-a05d-5c65-88fe-8fb4dd9c737b" ],
+    "legacyAnalysisIds" : [ "7e9c85db-cbe9-42c6-9a7d-d46473addea5" ],
+    "objectIdsMigrated" : [ "7e7a4915-f9b3-5618-bbd6-6dcdc38cacfe" ],
     "allObjectIdsMigrated" : true
   }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/572706c4-d1b2-438d-95d8-bf07ec31b827.json",
-    "targetAnalysisId" : "792af0d3-e172-49fe-aaf0-d3e17259feda",
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/f6d6fb42-afab-46ca-b654-f30cc0155f57.json",
+    "targetAnalysisId" : "f0748912-93e3-4aa6-b489-1293e3caa638",
     "targetStudyId" : "OCCAMS-GB",
     "targetAnalysisState" : "PUBLISHED",
     "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "572706c4-d1b2-438d-95d8-bf07ec31b827" ],
-    "objectIdsMigrated" : [ "0ccb7f8a-a365-535a-8e01-4e49ddf263fa" ],
+    "legacyAnalysisIds" : [ "f6d6fb42-afab-46ca-b654-f30cc0155f57" ],
+    "objectIdsMigrated" : [ "a49903b1-83d9-561a-94f0-d83c4a30dcc4" ],
     "allObjectIdsMigrated" : true
   }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/45d2c910-09bd-4d92-81e3-b97ee86cd9c7.json",
-    "targetAnalysisId" : "10fc73c4-526e-4480-bc73-c4526e74802c",
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/52a47d31-daa2-4782-b8ce-9c7928af4a9a.json",
+    "targetAnalysisId" : "1458af6c-6a1e-4ac6-98af-6c6a1e1ac6f0",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "52a47d31-daa2-4782-b8ce-9c7928af4a9a" ],
+    "objectIdsMigrated" : [ "c9c3838d-70c3-50d3-a9e1-55b648f314c2" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/124f91b5-8ed1-46c7-aa88-9279e9b83c4e.json",
+    "targetAnalysisId" : "fa702ae7-f25f-4f20-b02a-e7f25fbf2014",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "124f91b5-8ed1-46c7-aa88-9279e9b83c4e" ],
+    "objectIdsMigrated" : [ "a6540217-fabe-5eda-b99f-a9c9246eaea9" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/03504817-facf-4e99-9f61-153f264be342.json",
+    "targetAnalysisId" : "a747c0c8-f047-44c5-87c0-c8f04704c5b1",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "03504817-facf-4e99-9f61-153f264be342" ],
+    "objectIdsMigrated" : [ "e4e8dc45-1c22-5e95-bdc7-88255291aa4e" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/d877d96c-66a4-4290-88c5-da440c58d9c7.json",
+    "targetAnalysisId" : "2bde4d16-3f6b-47ad-9e4d-163f6b47ad39",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "d877d96c-66a4-4290-88c5-da440c58d9c7" ],
+    "objectIdsMigrated" : [ "c9f9e4e7-fa22-56f8-b077-1b236c619653" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/73563b54-2012-42c7-b249-eca480d20ac3.json",
+    "targetAnalysisId" : "0db7141b-7f3a-4caf-b714-1b7f3a1caf56",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "73563b54-2012-42c7-b249-eca480d20ac3" ],
+    "objectIdsMigrated" : [ "a829c0bc-b80f-5669-a349-7a68f1ccbad1" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/93f1885d-c007-45ea-b48e-dc0b3eace705.json",
+    "targetAnalysisId" : "834f59ba-c38f-4db0-8f59-bac38f5db0d6",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "93f1885d-c007-45ea-b48e-dc0b3eace705" ],
+    "objectIdsMigrated" : [ "4cabb1be-2ce6-5da8-b6eb-0a681712008e" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/957d50f8-b00b-4e34-94a9-4efe177f07e5.json",
+    "targetAnalysisId" : "20a15be6-e39d-437a-a15b-e6e39da37ae1",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "957d50f8-b00b-4e34-94a9-4efe177f07e5" ],
+    "objectIdsMigrated" : [ "108e9270-2966-56b2-a480-ae099b0833be" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/eb7fb116-8df1-472c-856b-34adb0f20e5f.json",
+    "targetAnalysisId" : "735ab2a5-b425-41b4-9ab2-a5b42551b4c3",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "eb7fb116-8df1-472c-856b-34adb0f20e5f" ],
+    "objectIdsMigrated" : [ "02499609-b564-59cb-a8f8-92eacf6d31eb" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/e6d4bfbd-3990-4fc6-ab5c-a4e06a1b2890.json",
+    "targetAnalysisId" : "d1649ab1-6ffe-470a-a49a-b16ffe870abe",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "e6d4bfbd-3990-4fc6-ab5c-a4e06a1b2890" ],
+    "objectIdsMigrated" : [ "956a1793-ec2d-59c1-ab66-7c15659e815e" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/175b3370-593b-4284-b269-cff4dcbf3147.json",
+    "targetAnalysisId" : "191bab4d-23da-4409-9bab-4d23dac40938",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "175b3370-593b-4284-b269-cff4dcbf3147" ],
+    "objectIdsMigrated" : [ "b805982d-aee4-5135-8424-93fafd5691fd" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/7e40ac07-6e9a-47c6-81e9-31f2907e52df.json",
+    "targetAnalysisId" : "1f901dc7-c644-483c-901d-c7c644b83c70",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "7e40ac07-6e9a-47c6-81e9-31f2907e52df" ],
+    "objectIdsMigrated" : [ "33971bb7-5f4b-5245-ae2d-eb65a9389154" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/45d2c910-09bd-4d92-81e3-b97ee86cd9c7.json",
+    "targetAnalysisId" : "bdac4efd-5806-4d45-ac4e-fd58068d455c",
     "targetStudyId" : "OCCAMS-GB",
     "targetAnalysisState" : "PUBLISHED",
     "legacyStudyId" : "ESAD-UK",
@@ -1746,13 +360,1399 @@
     "objectIdsMigrated" : [ "c4902e50-c0b3-5d5f-abae-92059239a8c8" ],
     "allObjectIdsMigrated" : true
   }, {
-    "payloadFilename" : "argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/4d696c16-be57-4a81-89e5-3d184341c796.json",
-    "targetAnalysisId" : "bed94817-6280-40d3-9948-176280e0d3e0",
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/ce8fd3aa-31a0-441f-ae4a-8e3114942f16.json",
+    "targetAnalysisId" : "d939246b-eb8f-4ce7-b924-6beb8f4ce756",
     "targetStudyId" : "OCCAMS-GB",
     "targetAnalysisState" : "PUBLISHED",
     "legacyStudyId" : "ESAD-UK",
-    "legacyAnalysisIds" : [ "4d696c16-be57-4a81-89e5-3d184341c796" ],
-    "objectIdsMigrated" : [ "9f3db731-27ef-5b12-a22b-a45344b9b2d6" ],
+    "legacyAnalysisIds" : [ "ce8fd3aa-31a0-441f-ae4a-8e3114942f16" ],
+    "objectIdsMigrated" : [ "1b35050c-07fe-5155-bcbc-3d4cbd2ad830" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/415bdd88-8474-4e44-9888-d947a868db45.json",
+    "targetAnalysisId" : "10289d5d-fb44-4035-a89d-5dfb442035d4",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "415bdd88-8474-4e44-9888-d947a868db45" ],
+    "objectIdsMigrated" : [ "1b85d1fa-9e45-51f3-8055-556eebe2d808" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/ab3fd6b0-23a5-45ec-b0c3-7269d09d72a9.json",
+    "targetAnalysisId" : "0d7107a5-5b99-457c-b107-a55b99357c6e",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "ab3fd6b0-23a5-45ec-b0c3-7269d09d72a9" ],
+    "objectIdsMigrated" : [ "fcf25315-9b85-5567-b59d-27ba04fa172b" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/7e39feb6-c04e-47a3-b5a6-b7b59a7fc013.json",
+    "targetAnalysisId" : "4b4e743d-1961-4ad6-8e74-3d1961ead6da",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "7e39feb6-c04e-47a3-b5a6-b7b59a7fc013" ],
+    "objectIdsMigrated" : [ "636d2992-c213-54e2-aa1c-d9dff03c1b94" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/7b994104-64b6-421f-83da-86bf2b70c991.json",
+    "targetAnalysisId" : "e36fcdd8-d724-410e-afcd-d8d724f10e6f",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "7b994104-64b6-421f-83da-86bf2b70c991" ],
+    "objectIdsMigrated" : [ "590d0c53-c631-5db7-a90f-47623a9fd3a2" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/e2a7e454-734d-4cf0-8a48-3d7d5cf1d4a0.json",
+    "targetAnalysisId" : "28aebfc2-029e-46ca-aebf-c2029e76caf7",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "e2a7e454-734d-4cf0-8a48-3d7d5cf1d4a0" ],
+    "objectIdsMigrated" : [ "d6b0ab2f-1265-5110-b1b5-0c70ce4e7cbb" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/b5178ce3-bb25-4893-824a-58142dae29a3.json",
+    "targetAnalysisId" : "1fc5334d-7894-4ef8-8533-4d78945ef846",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "b5178ce3-bb25-4893-824a-58142dae29a3" ],
+    "objectIdsMigrated" : [ "6a9230b2-d544-5801-a237-5260b425436b" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/ce112541-b066-4c15-9b60-a586fdcacdc1.json",
+    "targetAnalysisId" : "4157349d-5f07-4865-9734-9d5f070865c1",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "ce112541-b066-4c15-9b60-a586fdcacdc1" ],
+    "objectIdsMigrated" : [ "a9e4fcdf-24e1-58fb-a40e-6b02ed42ff70" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/c041db67-cb4e-4849-bb35-74ce9f8adc85.json",
+    "targetAnalysisId" : "1a4bdcbc-96b7-461c-8bdc-bc96b7961c47",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "c041db67-cb4e-4849-bb35-74ce9f8adc85" ],
+    "objectIdsMigrated" : [ "7ac79666-bd17-5001-993a-51f6bc941106" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/eccbe671-1037-4648-8604-263b5c90b61d.json",
+    "targetAnalysisId" : "d895dfb4-60a9-44c5-95df-b460a974c510",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "eccbe671-1037-4648-8604-263b5c90b61d" ],
+    "objectIdsMigrated" : [ "9248c921-cc8e-5f00-af14-d98cffd4258b" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/5c2e205f-be1c-4788-8901-a0c40a9cc203.json",
+    "targetAnalysisId" : "ec57e6c2-85a4-4945-97e6-c285a479453e",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "5c2e205f-be1c-4788-8901-a0c40a9cc203" ],
+    "objectIdsMigrated" : [ "f9b3c7e1-c798-50f4-bdad-d9a31f946598" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/1c125f87-537c-4dcf-8a74-11785df2507d.json",
+    "targetAnalysisId" : "6969ef73-e4b5-4489-a9ef-73e4b55489c7",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "1c125f87-537c-4dcf-8a74-11785df2507d" ],
+    "objectIdsMigrated" : [ "e62256d9-5eeb-5abb-bf16-8460a915f877" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/ddf189ed-3e35-49e9-be6f-9e035d8f01f8.json",
+    "targetAnalysisId" : "cf5bcf1c-6445-46fd-9bcf-1c644526fdd9",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "ddf189ed-3e35-49e9-be6f-9e035d8f01f8" ],
+    "objectIdsMigrated" : [ "dd0915ff-b5cd-596d-87f8-d31f8cb1eca2" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/b58a201d-3c1c-4511-9b26-73a5d8b75665.json",
+    "targetAnalysisId" : "00df5d02-7059-4e2d-9f5d-0270598e2d1f",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "b58a201d-3c1c-4511-9b26-73a5d8b75665" ],
+    "objectIdsMigrated" : [ "58155a79-a05d-5c65-88fe-8fb4dd9c737b" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/4b1e0617-2708-4287-aae7-9e4a6ecda16c.json",
+    "targetAnalysisId" : "445a2c6d-c957-4439-9a2c-6dc957f439b7",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "4b1e0617-2708-4287-aae7-9e4a6ecda16c" ],
+    "objectIdsMigrated" : [ "1f9009a0-c2cd-51f8-9c2e-67adf929f156" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/0d8605fc-6510-4b3d-91e9-11c7c771d2f3.json",
+    "targetAnalysisId" : "fd033ee3-5be3-4dc8-833e-e35be33dc892",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "0d8605fc-6510-4b3d-91e9-11c7c771d2f3" ],
+    "objectIdsMigrated" : [ "2c4c680d-22a7-5dc3-84f6-a7e7a3783bcf" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/948135a7-7abb-488e-b5ef-89cc5203e849.json",
+    "targetAnalysisId" : "24703b6d-8d00-48e1-b03b-6d8d00b8e111",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "948135a7-7abb-488e-b5ef-89cc5203e849" ],
+    "objectIdsMigrated" : [ "56822130-d16e-521b-b7c7-97130385bc6a" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/7aa378d7-2cb4-449a-8402-6f10ec5abacd.json",
+    "targetAnalysisId" : "25872a86-a893-4c30-872a-86a8939c306b",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "7aa378d7-2cb4-449a-8402-6f10ec5abacd" ],
+    "objectIdsMigrated" : [ "cb8991ba-3d62-5100-a136-cf9dc155b151" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/4b9c0467-bc2b-4b16-a57a-8da61fc96156.json",
+    "targetAnalysisId" : "1749fd26-16f5-485f-89fd-2616f5a85f0a",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "4b9c0467-bc2b-4b16-a57a-8da61fc96156" ],
+    "objectIdsMigrated" : [ "073e7070-f0b2-5eac-86b4-99db5c24ff75" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/2a8fd12c-f719-45b6-bf37-75befa939e29.json",
+    "targetAnalysisId" : "f8e433c7-5227-498e-a433-c75227598e5c",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "2a8fd12c-f719-45b6-bf37-75befa939e29" ],
+    "objectIdsMigrated" : [ "4f62c204-7634-5176-8bea-8d265cc7bbe0" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/13456874-37ee-441a-8771-a1df7e409ac0.json",
+    "targetAnalysisId" : "bc03753b-0967-49f7-8375-3b0967b9f760",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "13456874-37ee-441a-8771-a1df7e409ac0" ],
+    "objectIdsMigrated" : [ "523d48b2-63d5-5117-ba86-33a4f06fd35a" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/8b62045d-9493-40ce-8947-92ac9004717a.json",
+    "targetAnalysisId" : "ed053d90-3999-4da0-853d-9039992da04a",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "8b62045d-9493-40ce-8947-92ac9004717a" ],
+    "objectIdsMigrated" : [ "28d2d4a5-54c0-50a9-a419-1bd35c27226d" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/90f6477d-f246-4fcf-bda2-346b636f9c06.json",
+    "targetAnalysisId" : "d81a1238-7f43-4d4a-9a12-387f432d4a69",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "90f6477d-f246-4fcf-bda2-346b636f9c06" ],
+    "objectIdsMigrated" : [ "b2d12364-9fe8-55f5-80ce-d828f1840000" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/3b4a1233-7fad-4359-b371-36029f8e1f8d.json",
+    "targetAnalysisId" : "023f31ad-3394-4de2-bf31-ad33942de2cb",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "3b4a1233-7fad-4359-b371-36029f8e1f8d" ],
+    "objectIdsMigrated" : [ "5d4c4d81-bfd2-5e0f-b2cb-627f18d67533" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/4421cdcc-1cdc-4b7c-b68b-8cda65a3f93e.json",
+    "targetAnalysisId" : "c25a468a-a556-4da4-9a46-8aa556fda41e",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "4421cdcc-1cdc-4b7c-b68b-8cda65a3f93e" ],
+    "objectIdsMigrated" : [ "6b0a0b4f-b24f-5628-ab61-7daaad9bcb91" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/d5e3cf62-1192-48ed-9d56-dfde401b35e8.json",
+    "targetAnalysisId" : "ca58e6b6-95a5-4374-98e6-b695a5237438",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "d5e3cf62-1192-48ed-9d56-dfde401b35e8" ],
+    "objectIdsMigrated" : [ "3e6b511c-6865-5323-adab-138b74e52617" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/eea32957-d464-415c-886e-c18cc2807765.json",
+    "targetAnalysisId" : "1aac0566-22ce-48e8-ac05-6622cee8e889",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "eea32957-d464-415c-886e-c18cc2807765" ],
+    "objectIdsMigrated" : [ "651f9613-7ada-5e7c-b627-21b3d6afb39d" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/0ffc653d-1555-4cf4-ac0a-fe05ce0cbe7f.json",
+    "targetAnalysisId" : "bfcd7048-7213-4b65-8d70-4872132b6569",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "0ffc653d-1555-4cf4-ac0a-fe05ce0cbe7f" ],
+    "objectIdsMigrated" : [ "ee078e14-3588-552b-9228-60d935e32beb" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/f7d08356-987d-4617-947f-1948033a84b9.json",
+    "targetAnalysisId" : "17575e35-77d9-42c8-975e-3577d9d2c89e",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "f7d08356-987d-4617-947f-1948033a84b9" ],
+    "objectIdsMigrated" : [ "5b8f8860-4b95-5448-8cda-5a99f5ac9542" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/c9c99cc0-4a5e-41e6-b33c-0b314a1e0d31.json",
+    "targetAnalysisId" : "b538c76a-84b4-4e2d-b8c7-6a84b4ee2d02",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "c9c99cc0-4a5e-41e6-b33c-0b314a1e0d31" ],
+    "objectIdsMigrated" : [ "f800c244-b5c3-5f7f-878a-20f4340d9f37" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/7aebb1e0-6ea8-44b6-b979-aa96265d70bc.json",
+    "targetAnalysisId" : "e8cc5e46-870d-47b6-8c5e-46870d87b634",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "7aebb1e0-6ea8-44b6-b979-aa96265d70bc" ],
+    "objectIdsMigrated" : [ "6d10cf24-a2d9-5bfa-819c-5a80bf2446bf" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/34489787-8b89-44ab-a513-5aefb62ccc07.json",
+    "targetAnalysisId" : "981b2cbf-312a-4282-9b2c-bf312af28235",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "34489787-8b89-44ab-a513-5aefb62ccc07" ],
+    "objectIdsMigrated" : [ "672853b6-63ac-5be4-9806-112dc1f89eb2" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/f7ccb441-976e-415a-b09d-ee81bb08de13.json",
+    "targetAnalysisId" : "26240f2d-c3f0-4956-a40f-2dc3f0c9565d",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "f7ccb441-976e-415a-b09d-ee81bb08de13" ],
+    "objectIdsMigrated" : [ "4b3f0143-4a8f-56d6-8242-fe3ab513a265" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/92570870-bc3b-40c0-ab5f-25121d126a39.json",
+    "targetAnalysisId" : "bd354cce-a339-4c3a-b54c-cea339ec3aa4",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "92570870-bc3b-40c0-ab5f-25121d126a39" ],
+    "objectIdsMigrated" : [ "7a89c9d7-ee54-5a5a-9962-41f1dec242fc" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/e6002822-7f48-40e8-8ce9-88fb6030f6d0.json",
+    "targetAnalysisId" : "19d55a4f-4bf4-4022-955a-4f4bf4d02218",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "e6002822-7f48-40e8-8ce9-88fb6030f6d0" ],
+    "objectIdsMigrated" : [ "8b4a1c69-8926-5f68-bcac-ce30d44d6483" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/a7da3429-6cf3-4cd4-b430-d8a7c69c4ecc.json",
+    "targetAnalysisId" : "5650d50b-92a1-4733-90d5-0b92a13733f5",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "a7da3429-6cf3-4cd4-b430-d8a7c69c4ecc" ],
+    "objectIdsMigrated" : [ "3fc61875-138c-5167-ac92-4b949691653c" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/8d2daad6-ad5a-4c1d-9e3b-e2b08b669e90.json",
+    "targetAnalysisId" : "8d7c6cd9-58a6-48b7-bc6c-d958a6f8b7ec",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "8d2daad6-ad5a-4c1d-9e3b-e2b08b669e90" ],
+    "objectIdsMigrated" : [ "cee5cf1e-6da1-560d-9803-992ba866a6a9" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/59f49c72-e49f-42c3-83f2-9396e78cb8d1.json",
+    "targetAnalysisId" : "fab17e5c-f131-4517-b17e-5cf1310517b5",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "59f49c72-e49f-42c3-83f2-9396e78cb8d1" ],
+    "objectIdsMigrated" : [ "e78cb982-a4f0-5b03-b809-a619f9481cd4" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/cd456753-a059-4d99-9457-c2c6544a345b.json",
+    "targetAnalysisId" : "83161684-744a-4708-9616-84744a7708bc",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "cd456753-a059-4d99-9457-c2c6544a345b" ],
+    "objectIdsMigrated" : [ "b5835f9a-df00-542d-a912-df3321998ac6" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/d5f94e27-09d5-4f7b-b36f-9e92ee2f59ce.json",
+    "targetAnalysisId" : "7138addf-c3df-4d49-b8ad-dfc3df7d49ed",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "d5f94e27-09d5-4f7b-b36f-9e92ee2f59ce" ],
+    "objectIdsMigrated" : [ "ed1c0600-74b4-5b9b-9b8f-ccae767f4722" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/e3412e0f-ed90-4b4e-812d-5f8f0a626c6c.json",
+    "targetAnalysisId" : "23d39b06-08d9-43f1-939b-0608d933f1ca",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "e3412e0f-ed90-4b4e-812d-5f8f0a626c6c" ],
+    "objectIdsMigrated" : [ "87c6ab96-2ab7-51a6-88d3-77fa8b0caded" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/ca87231f-cfdf-459c-bc20-8bc79ba3db19.json",
+    "targetAnalysisId" : "67ca2de8-a7b7-4006-8a2d-e8a7b7c00638",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "ca87231f-cfdf-459c-bc20-8bc79ba3db19" ],
+    "objectIdsMigrated" : [ "4fb796fd-8488-5547-bf93-ac1b57a9be70" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/5c3c2e48-c5e3-4e7f-9786-74db3d63a930.json",
+    "targetAnalysisId" : "b671ae06-fe19-4833-b1ae-06fe1918331e",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "5c3c2e48-c5e3-4e7f-9786-74db3d63a930" ],
+    "objectIdsMigrated" : [ "61a9a15f-e107-57cf-93c8-36a4778325ca" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/e5db6d63-3e9b-400e-9cce-8eee015281d8.json",
+    "targetAnalysisId" : "0c03a52c-e138-4fa2-83a5-2ce138ffa298",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "e5db6d63-3e9b-400e-9cce-8eee015281d8" ],
+    "objectIdsMigrated" : [ "23c93f0f-9182-5619-923c-e6b2baf80407" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/cc0a8a9c-7024-46e1-a2df-aac185209697.json",
+    "targetAnalysisId" : "b14d2dc5-712a-447d-8d2d-c5712ae47da2",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "cc0a8a9c-7024-46e1-a2df-aac185209697" ],
+    "objectIdsMigrated" : [ "177c5e63-0d2d-5e0b-99f5-d1ec01bac9ed" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/d63399ca-83bd-41c7-8c7b-03ce82b9e3e7.json",
+    "targetAnalysisId" : "5459fd5a-2105-44a1-99fd-5a2105f4a1b5",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "d63399ca-83bd-41c7-8c7b-03ce82b9e3e7" ],
+    "objectIdsMigrated" : [ "b36db9e2-7c7e-5bc8-8aa0-47923147ff7a" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/8d45ef88-2428-4220-b862-790484ed9892.json",
+    "targetAnalysisId" : "a7afd1a3-ca70-4602-afd1-a3ca706602c1",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "8d45ef88-2428-4220-b862-790484ed9892" ],
+    "objectIdsMigrated" : [ "330dc5db-abf9-532d-85f7-1173530b90d4" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/15d0a648-3637-499f-b82f-57a8d3b64a91.json",
+    "targetAnalysisId" : "46a91dc5-5767-4557-a91d-c557673557e1",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "15d0a648-3637-499f-b82f-57a8d3b64a91" ],
+    "objectIdsMigrated" : [ "f6f3d28d-46aa-59d6-8089-b051ede3721c" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/01fcb0f7-c9d3-490a-adcb-ba866e9eb4b4.json",
+    "targetAnalysisId" : "1850ad02-5b8e-49bb-90ad-025b8e39bb64",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "01fcb0f7-c9d3-490a-adcb-ba866e9eb4b4" ],
+    "objectIdsMigrated" : [ "cb310435-aacf-53a8-8265-379408c16946" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/2bbf1763-2401-44d2-98a7-478f5c95f371.json",
+    "targetAnalysisId" : "9ec92c9c-0cf0-48c6-892c-9c0cf0c8c646",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "2bbf1763-2401-44d2-98a7-478f5c95f371" ],
+    "objectIdsMigrated" : [ "f07a3438-89dd-5f83-8e79-cf0e4c3ed54a" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/3b2095fa-ca4c-4938-95e3-2628447682fb.json",
+    "targetAnalysisId" : "4bd91e44-8634-4f59-991e-448634ef594b",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "3b2095fa-ca4c-4938-95e3-2628447682fb" ],
+    "objectIdsMigrated" : [ "6a152c7a-46f2-59ff-a65f-a0aebcdcdc17" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/6b996361-4db5-444f-bc12-aa2075d22331.json",
+    "targetAnalysisId" : "6c36e66b-64c1-498c-b6e6-6b64c1698c8f",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "6b996361-4db5-444f-bc12-aa2075d22331" ],
+    "objectIdsMigrated" : [ "9267140d-693c-54ed-9888-db15e797cdb4" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/555fe7f2-029b-47b0-8aa6-30a594da3d9a.json",
+    "targetAnalysisId" : "b3c9edfc-2a3d-4974-89ed-fc2a3d597453",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "555fe7f2-029b-47b0-8aa6-30a594da3d9a" ],
+    "objectIdsMigrated" : [ "3ffe43e5-3ecb-5546-9a9b-cbb4fd30db1c" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/52ba3848-ceb4-445d-a00c-dc3dd5ba13fa.json",
+    "targetAnalysisId" : "fefa2eba-87ea-491f-ba2e-ba87ea091f03",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "52ba3848-ceb4-445d-a00c-dc3dd5ba13fa" ],
+    "objectIdsMigrated" : [ "eb37bb92-7f55-50d4-8310-014fd9939062" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/2167d627-7d28-41a1-b413-4c86a9ac2147.json",
+    "targetAnalysisId" : "26897c43-3d73-4c4d-897c-433d730c4d5c",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "2167d627-7d28-41a1-b413-4c86a9ac2147" ],
+    "objectIdsMigrated" : [ "abda3491-3648-5a92-bdf5-74bd70e2597a" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/6a6214ce-6cae-4acf-85f7-5bf6534d37ce.json",
+    "targetAnalysisId" : "7c73d3ea-3cae-4557-b3d3-ea3cae45579b",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "6a6214ce-6cae-4acf-85f7-5bf6534d37ce" ],
+    "objectIdsMigrated" : [ "f566a769-2694-5481-9a99-c7f6469e20a1" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/45771bde-d4b8-444c-b72c-64089b0aea9c.json",
+    "targetAnalysisId" : "415218ed-473b-459e-9218-ed473b759e6c",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "45771bde-d4b8-444c-b72c-64089b0aea9c" ],
+    "objectIdsMigrated" : [ "dec5b55f-06d7-557d-a3c7-93363b4f0742" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/d6b0c11d-a30d-4d28-acf3-a8ec992a7d45.json",
+    "targetAnalysisId" : "c61472cb-8ec7-45de-9472-cb8ec7d5de0b",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "d6b0c11d-a30d-4d28-acf3-a8ec992a7d45" ],
+    "objectIdsMigrated" : [ "f72312d0-e885-5662-b432-bf8e0af6f3c3" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/b07fd886-9b8c-44ee-8549-f875b5ed069c.json",
+    "targetAnalysisId" : "d81eebb7-8f41-4dc9-9eeb-b78f414dc958",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "b07fd886-9b8c-44ee-8549-f875b5ed069c" ],
+    "objectIdsMigrated" : [ "00fe33f0-06a8-5297-9712-d1f1ad79740a" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/b0abcbc5-2348-49a7-a26d-9f9c4c3c446c.json",
+    "targetAnalysisId" : "eabdaa2c-3a3a-4fe6-bdaa-2c3a3a3fe683",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "b0abcbc5-2348-49a7-a26d-9f9c4c3c446c" ],
+    "objectIdsMigrated" : [ "148c9451-7f13-51be-a593-1f264ebdf47f" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/e7d24939-d63e-46a8-a84e-721790f4b6d4.json",
+    "targetAnalysisId" : "e44c9eac-c342-411e-8c9e-acc342411e3f",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "e7d24939-d63e-46a8-a84e-721790f4b6d4" ],
+    "objectIdsMigrated" : [ "a7462fe5-5434-56dd-90e3-34ee34996993" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/a1dfaec1-cc4c-49f2-a052-51bc220cfb41.json",
+    "targetAnalysisId" : "279fd46f-28c5-4674-9fd4-6f28c5f67443",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "a1dfaec1-cc4c-49f2-a052-51bc220cfb41" ],
+    "objectIdsMigrated" : [ "017c5670-b37a-5de8-aa25-f84167800809" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/cfbe4a1e-5d7d-434c-86b8-0faf775eced1.json",
+    "targetAnalysisId" : "d439b960-3faa-4533-b9b9-603faa553389",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "cfbe4a1e-5d7d-434c-86b8-0faf775eced1" ],
+    "objectIdsMigrated" : [ "90acaad1-5d8b-5dbe-9011-34a89b70ccac" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/0f4334eb-8837-4992-9558-9df26f909dbc.json",
+    "targetAnalysisId" : "f37c7f37-eefe-453f-bc7f-37eefec53f5e",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "0f4334eb-8837-4992-9558-9df26f909dbc" ],
+    "objectIdsMigrated" : [ "d7b119f3-23a1-53e5-84b7-0ba92498cb1b" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/6616b32e-fc70-445b-9c6a-2443c971ef06.json",
+    "targetAnalysisId" : "a3307730-f180-4043-b077-30f180c043c4",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "6616b32e-fc70-445b-9c6a-2443c971ef06" ],
+    "objectIdsMigrated" : [ "d267a27e-fc6d-54bb-8ead-cc2b8072146d" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/55bd0a3d-c41d-4664-9ca7-c535b212cc39.json",
+    "targetAnalysisId" : "c7faead1-3fd8-45c2-baea-d13fd845c248",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "55bd0a3d-c41d-4664-9ca7-c535b212cc39" ],
+    "objectIdsMigrated" : [ "ace74545-3aed-5e49-adc0-12bbb7a93dd8" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/4a8c59ac-32e0-4f9d-ba35-ae1bd256c0e1.json",
+    "targetAnalysisId" : "d716aa52-d1bf-4b72-96aa-52d1bfdb72f1",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "4a8c59ac-32e0-4f9d-ba35-ae1bd256c0e1" ],
+    "objectIdsMigrated" : [ "19c9ae2a-ae40-54c1-b585-0468f66b0db7" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/318cc24a-0388-4da4-a079-d25af082fbf9.json",
+    "targetAnalysisId" : "02b95457-d2bc-451b-b954-57d2bca51b36",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "318cc24a-0388-4da4-a079-d25af082fbf9" ],
+    "objectIdsMigrated" : [ "c3e50f5d-dab4-50db-9ee8-09a8d981edce" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/4406bad5-4dfe-4212-bf67-ef03bbfeffe4.json",
+    "targetAnalysisId" : "e956d6bf-65e5-4e94-96d6-bf65e5ee9433",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "4406bad5-4dfe-4212-bf67-ef03bbfeffe4" ],
+    "objectIdsMigrated" : [ "2bcfe607-8ef0-5f92-8589-eb8c9ff7d267" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/7d79bef5-f9b7-4d65-9e40-07e5f6e7775e.json",
+    "targetAnalysisId" : "78d4b3c9-ae53-4fd2-94b3-c9ae53bfd220",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "7d79bef5-f9b7-4d65-9e40-07e5f6e7775e" ],
+    "objectIdsMigrated" : [ "3877acac-51fe-5458-9086-71c77a4268d1" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/c0ccc76c-efcb-4577-9f94-ba8edd3714e0.json",
+    "targetAnalysisId" : "0b81a164-15d6-4750-81a1-6415d6875039",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "c0ccc76c-efcb-4577-9f94-ba8edd3714e0" ],
+    "objectIdsMigrated" : [ "ded8f4a0-b266-59a6-85ec-539bc6ca1942" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/0b29b6eb-8e48-400d-883e-3361ddf378b8.json",
+    "targetAnalysisId" : "5839863d-069c-454c-b986-3d069c354c87",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "0b29b6eb-8e48-400d-883e-3361ddf378b8" ],
+    "objectIdsMigrated" : [ "363c9f6f-1532-5c78-83b0-ca745b060efa" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/f97c6322-9fcc-4987-b97e-8983f9231cb8.json",
+    "targetAnalysisId" : "7fed6384-db94-46c4-ad63-84db94b6c481",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "f97c6322-9fcc-4987-b97e-8983f9231cb8" ],
+    "objectIdsMigrated" : [ "845f0cf3-8db2-5f85-9493-644e2878ae3d" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/bac9ffc4-c217-43b2-a1a8-a80c9415d2ac.json",
+    "targetAnalysisId" : "f2773a79-00c5-4f81-b73a-7900c57f8163",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "bac9ffc4-c217-43b2-a1a8-a80c9415d2ac" ],
+    "objectIdsMigrated" : [ "3e6439a5-6cad-55cb-8352-5e2ce172fde2" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/1bdc5173-322d-404d-9a03-89e6e11ca008.json",
+    "targetAnalysisId" : "2dda811d-ed9d-476c-9a81-1ded9dd76cca",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "1bdc5173-322d-404d-9a03-89e6e11ca008" ],
+    "objectIdsMigrated" : [ "303586e7-b4b8-5873-a739-73a085da9756" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/3c128ac0-6c6a-4977-aeae-e4d2c0fb912c.json",
+    "targetAnalysisId" : "9c0661d1-4dea-4ed3-8661-d14dea0ed37b",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "3c128ac0-6c6a-4977-aeae-e4d2c0fb912c" ],
+    "objectIdsMigrated" : [ "c02bf17e-b5d2-5727-95ea-687872b4f629" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/0bef43a2-352a-42c6-99ff-d97e2675a527.json",
+    "targetAnalysisId" : "bfd8bcbb-9d91-4b1f-98bc-bb9d914b1fdd",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "0bef43a2-352a-42c6-99ff-d97e2675a527" ],
+    "objectIdsMigrated" : [ "78d071c5-a0f5-5bd1-8e05-9850bf326e93" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/6eafa27f-1145-4844-a189-28f94772c742.json",
+    "targetAnalysisId" : "82aa5ed0-0fde-4752-aa5e-d00fde675243",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "6eafa27f-1145-4844-a189-28f94772c742" ],
+    "objectIdsMigrated" : [ "cf4c8023-2d71-5d29-a636-a0becbab17d4" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/3c10f2ff-4458-4e54-9b0f-f0757de7b5eb.json",
+    "targetAnalysisId" : "91ffa336-3f05-4112-bfa3-363f0551125f",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "3c10f2ff-4458-4e54-9b0f-f0757de7b5eb" ],
+    "objectIdsMigrated" : [ "d0b01315-7ebf-55c5-b9c2-44ca3de0fb3d" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/dea58956-b336-4b04-9bf4-84b6360ba036.json",
+    "targetAnalysisId" : "fc87441d-266c-4e3a-8744-1d266c9e3ae8",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "dea58956-b336-4b04-9bf4-84b6360ba036" ],
+    "objectIdsMigrated" : [ "ee2f8391-7c89-54c8-bda9-65e018d421d6" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/7ed788a2-67d8-46a1-9731-9bb0aa0ed368.json",
+    "targetAnalysisId" : "722810fe-fe8f-4fa3-a810-fefe8fdfa3fe",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "7ed788a2-67d8-46a1-9731-9bb0aa0ed368" ],
+    "objectIdsMigrated" : [ "ce7cf8a9-bd00-544d-a183-eb4ce358d264" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/1cd88365-45fb-47a5-a662-0a1056a192c5.json",
+    "targetAnalysisId" : "2f924547-69d6-491e-9245-4769d6091e02",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "1cd88365-45fb-47a5-a662-0a1056a192c5" ],
+    "objectIdsMigrated" : [ "759cc0ea-e7ba-59dc-a538-18e788853c37" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/82cd3972-6632-4f33-981f-99d657053551.json",
+    "targetAnalysisId" : "3f0c17d7-cee4-444c-8c17-d7cee4d44c4a",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "82cd3972-6632-4f33-981f-99d657053551" ],
+    "objectIdsMigrated" : [ "d4501d3b-74dc-516f-baa5-f1c83063dbf1" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/8caa685d-f335-43e9-b5be-4f19b14f4046.json",
+    "targetAnalysisId" : "d02873d1-9137-4636-a873-d19137663673",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "8caa685d-f335-43e9-b5be-4f19b14f4046" ],
+    "objectIdsMigrated" : [ "633dbc7a-bab1-5d69-a979-2ff9a115729e" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/367eb2ad-3933-4cac-ab2f-3708acc636dd.json",
+    "targetAnalysisId" : "cac5346f-25ec-4ef4-8534-6f25eccef47c",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "367eb2ad-3933-4cac-ab2f-3708acc636dd" ],
+    "objectIdsMigrated" : [ "de38e630-9bfe-5671-b95b-8e18834f9dda" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/27cd3cee-d7ab-4a30-aa5e-bc6b45c0da4a.json",
+    "targetAnalysisId" : "5a9a3b0f-9410-4ef9-9a3b-0f9410bef952",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "27cd3cee-d7ab-4a30-aa5e-bc6b45c0da4a" ],
+    "objectIdsMigrated" : [ "76f3aae2-eb42-5bf4-b800-bc70f10eda2c" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/f4996258-8a7b-4091-9991-61fbd58e93a0.json",
+    "targetAnalysisId" : "cbcddbd5-5547-4c20-8ddb-d555475c205f",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "f4996258-8a7b-4091-9991-61fbd58e93a0" ],
+    "objectIdsMigrated" : [ "89dd4ed1-562c-559f-b66d-a44652fe4eef" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/572706c4-d1b2-438d-95d8-bf07ec31b827.json",
+    "targetAnalysisId" : "6dd2ab94-b829-4b11-92ab-94b829db1118",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "572706c4-d1b2-438d-95d8-bf07ec31b827" ],
+    "objectIdsMigrated" : [ "0ccb7f8a-a365-535a-8e01-4e49ddf263fa" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/de60e3ab-0822-4094-83c2-b243739e47f5.json",
+    "targetAnalysisId" : "d66225d5-2a2d-4a16-a225-d52a2daa1696",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "de60e3ab-0822-4094-83c2-b243739e47f5" ],
+    "objectIdsMigrated" : [ "874c4105-5896-58e6-ba06-b551a48c45c2" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/199b3a6f-a45e-4339-a3b3-79616a4a1c03.json",
+    "targetAnalysisId" : "2c6a3e65-fc20-4118-aa3e-65fc200118c0",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "199b3a6f-a45e-4339-a3b3-79616a4a1c03" ],
+    "objectIdsMigrated" : [ "937e4c40-fe8b-507d-9258-f02777d5f93a" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/f64ba1bf-0964-42e7-a877-f51d0ed65eea.json",
+    "targetAnalysisId" : "1eeba8a7-5d04-4f11-aba8-a75d044f110e",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "f64ba1bf-0964-42e7-a877-f51d0ed65eea" ],
+    "objectIdsMigrated" : [ "28108176-0703-5355-90eb-cc62ab9e4596" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/e82253a5-7a18-4f47-bf2e-a25abf816fc2.json",
+    "targetAnalysisId" : "32db2a9d-86f3-4e75-9b2a-9d86f34e752c",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "e82253a5-7a18-4f47-bf2e-a25abf816fc2" ],
+    "objectIdsMigrated" : [ "11ad42f7-7fce-5534-8b83-5865a39a54f4" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/2ca7ede6-55fb-42b9-9793-910bfa03b309.json",
+    "targetAnalysisId" : "9a515faf-514c-46f9-915f-af514c16f99e",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "2ca7ede6-55fb-42b9-9793-910bfa03b309" ],
+    "objectIdsMigrated" : [ "746cf67d-9794-5513-8009-e4d0118b49c9" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/77dca527-7599-44a8-bee2-3add4d406e7b.json",
+    "targetAnalysisId" : "fb7703e5-4f89-47c6-b703-e54f8907c60e",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "77dca527-7599-44a8-bee2-3add4d406e7b" ],
+    "objectIdsMigrated" : [ "856b6491-3c98-5042-8715-4dbe7e969af8" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/6f134d5f-003d-4216-b96d-bc47702a5e94.json",
+    "targetAnalysisId" : "befd8367-2585-4bcf-bd83-6725859bcff8",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "6f134d5f-003d-4216-b96d-bc47702a5e94" ],
+    "objectIdsMigrated" : [ "d147669d-e064-591d-8269-a538f545c44d" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/2fb5c74d-3178-4124-9221-2d70379afc91.json",
+    "targetAnalysisId" : "7d8ae27a-29fb-4abf-8ae2-7a29fb4abf35",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "2fb5c74d-3178-4124-9221-2d70379afc91" ],
+    "objectIdsMigrated" : [ "94cfcf3b-07fb-554c-97ce-d6f118a1eb2c" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/749ee621-c14c-4500-9bc3-8658c3e7076f.json",
+    "targetAnalysisId" : "348602d9-da71-4ee6-8602-d9da717ee6e6",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "749ee621-c14c-4500-9bc3-8658c3e7076f" ],
+    "objectIdsMigrated" : [ "7feb5519-4fde-5b90-ae47-576c53837320" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/914da15a-1729-413f-b30b-95a0449878e1.json",
+    "targetAnalysisId" : "015e68d6-8657-438b-9e68-d68657638bdd",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "914da15a-1729-413f-b30b-95a0449878e1" ],
+    "objectIdsMigrated" : [ "3e3fdc7d-4c60-5b2d-a900-79b4a48f396d" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/efc12cd3-7f02-4b34-937e-2501498521bd.json",
+    "targetAnalysisId" : "92eab94a-dbaf-4103-aab9-4adbafe103b6",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "efc12cd3-7f02-4b34-937e-2501498521bd" ],
+    "objectIdsMigrated" : [ "d6ddd87b-4392-5667-b6a8-137984867c0f" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/8ee3278a-d9d7-4d02-bd87-5a7f55365260.json",
+    "targetAnalysisId" : "c12c34b0-c92b-41fd-ac34-b0c92b51fd29",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "8ee3278a-d9d7-4d02-bd87-5a7f55365260" ],
+    "objectIdsMigrated" : [ "010ac6f1-9d66-5d86-b03d-972b32f46eb8" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/88156c15-4ff8-4138-bb2f-62c2c4446fca.json",
+    "targetAnalysisId" : "bc7b1034-4d2e-4f3f-bb10-344d2e4f3f9d",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "88156c15-4ff8-4138-bb2f-62c2c4446fca" ],
+    "objectIdsMigrated" : [ "0d9a6d2a-4365-5683-96a0-3938df2318b8" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/2a8b5dc5-7d9f-42d0-b98d-20b069e85ad5.json",
+    "targetAnalysisId" : "4ac13b87-d8af-41d1-813b-87d8aff1d139",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "2a8b5dc5-7d9f-42d0-b98d-20b069e85ad5" ],
+    "objectIdsMigrated" : [ "c0238ff4-edb2-5763-9823-9146f906d455" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/eb03efe2-76d9-4d02-b583-4d397bfd4643.json",
+    "targetAnalysisId" : "c6482d2e-18b6-45f5-882d-2e18b635f51e",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "eb03efe2-76d9-4d02-b583-4d397bfd4643" ],
+    "objectIdsMigrated" : [ "c714ddcc-43ac-557b-869e-dd9144abe412" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/a23ccb74-ef1c-4134-8397-35380e8e9e08.json",
+    "targetAnalysisId" : "73c29e85-58fb-4392-829e-8558fb8392e8",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "a23ccb74-ef1c-4134-8397-35380e8e9e08" ],
+    "objectIdsMigrated" : [ "d567bd45-8a7a-5c4a-83db-2665502257f8" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/e9c9e89d-0a90-4017-bdfd-84b4fb61c02b.json",
+    "targetAnalysisId" : "74b8c82d-c128-42a0-b8c8-2dc12812a0e5",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "e9c9e89d-0a90-4017-bdfd-84b4fb61c02b" ],
+    "objectIdsMigrated" : [ "3198366f-659c-542f-ae96-4ad773aed75c" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/c7ea07d8-026d-4a9b-bbf4-1b8553bb2217.json",
+    "targetAnalysisId" : "c27a16e3-5750-4979-ba16-e357508979fc",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "c7ea07d8-026d-4a9b-bbf4-1b8553bb2217" ],
+    "objectIdsMigrated" : [ "d28dc25e-3b6e-51c5-b049-261327c7b782" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/f29671e7-f79a-4213-9630-40293ce15348.json",
+    "targetAnalysisId" : "a6641432-9417-401b-a414-329417401bd3",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "f29671e7-f79a-4213-9630-40293ce15348" ],
+    "objectIdsMigrated" : [ "64d38396-f870-5ac5-9dbb-45276a66aca9" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/4ea1acd0-84c3-438b-8f43-9d23cb622890.json",
+    "targetAnalysisId" : "f3db4d25-f4cc-495c-9b4d-25f4cca95c9a",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "4ea1acd0-84c3-438b-8f43-9d23cb622890" ],
+    "objectIdsMigrated" : [ "123f9473-1376-5e92-a8c5-61880e15e0bf" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/1c126967-57bf-4896-b9b8-15f6a5c0135a.json",
+    "targetAnalysisId" : "794aca0f-f25a-447a-8aca-0ff25a547a86",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "1c126967-57bf-4896-b9b8-15f6a5c0135a" ],
+    "objectIdsMigrated" : [ "b588a8fd-e840-5bb5-b451-831e48c18262" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/c9c8fa5f-c551-4565-ba3d-43ceddc2fdeb.json",
+    "targetAnalysisId" : "6eefe127-1e87-4b3a-afe1-271e872b3a82",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "c9c8fa5f-c551-4565-ba3d-43ceddc2fdeb" ],
+    "objectIdsMigrated" : [ "cd3f2965-98a5-55ce-a113-205701ce326a" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/689ec364-707a-468b-a8c9-3569116d4fd3.json",
+    "targetAnalysisId" : "7ed21527-13af-401c-9215-2713af101c46",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "689ec364-707a-468b-a8c9-3569116d4fd3" ],
+    "objectIdsMigrated" : [ "a25ee881-9312-5cc2-85b3-484a2b86e4bc" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/9d8ce47e-7fe4-47a0-8acc-9998907ab95c.json",
+    "targetAnalysisId" : "3986abea-f570-4319-86ab-eaf570d319cf",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "9d8ce47e-7fe4-47a0-8acc-9998907ab95c" ],
+    "objectIdsMigrated" : [ "1143d01c-523d-5e2f-9ba6-ca110ba9626c" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/251a1f7d-b2b8-4d26-860e-717099f8b47c.json",
+    "targetAnalysisId" : "87ad4707-7531-407a-ad47-077531907a9e",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "251a1f7d-b2b8-4d26-860e-717099f8b47c" ],
+    "objectIdsMigrated" : [ "05a5016c-ce09-5dbc-a035-8f3383f609ca" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/1ff987a9-88cd-42f6-a7be-679534aebe2f.json",
+    "targetAnalysisId" : "f85c2f3b-6e58-428f-9c2f-3b6e58228fff",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "1ff987a9-88cd-42f6-a7be-679534aebe2f" ],
+    "objectIdsMigrated" : [ "b642f81f-66f9-5f58-a16a-14326995ea5a" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/d3afe616-669d-4bff-bf35-5f559538e94d.json",
+    "targetAnalysisId" : "954d59de-9f24-46d0-8d59-de9f2466d046",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "d3afe616-669d-4bff-bf35-5f559538e94d" ],
+    "objectIdsMigrated" : [ "b7792252-a7de-5237-9781-a5d0eaa89099" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/4526cdd8-3eb7-4fda-84c3-ebcaf6f5e316.json",
+    "targetAnalysisId" : "b8cad1c6-fdf0-4b1f-8ad1-c6fdf0db1f04",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "4526cdd8-3eb7-4fda-84c3-ebcaf6f5e316" ],
+    "objectIdsMigrated" : [ "ff6f202b-75d0-59e7-b04d-90cec94d2f17" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/90c2be4f-3251-469c-8d42-b5c29d3b628f.json",
+    "targetAnalysisId" : "e62b22c2-c941-4d85-ab22-c2c9412d857a",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "90c2be4f-3251-469c-8d42-b5c29d3b628f" ],
+    "objectIdsMigrated" : [ "205f40d0-a9f2-5eb7-a997-9a1cc62504f0" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/48f2432b-4a59-43b5-a372-0addffbdf5ca.json",
+    "targetAnalysisId" : "b16a3a44-aa66-4536-aa3a-44aa66853605",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "48f2432b-4a59-43b5-a372-0addffbdf5ca" ],
+    "objectIdsMigrated" : [ "6dfbc175-2ca3-5e81-85e7-1247c25b79d9" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/1e75385d-1c1e-4a50-841f-3b2f5766159b.json",
+    "targetAnalysisId" : "0dd03b25-4d56-4b5d-903b-254d56eb5d38",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "1e75385d-1c1e-4a50-841f-3b2f5766159b" ],
+    "objectIdsMigrated" : [ "7ac69d43-a7d9-5162-9726-4889dfa18fa9" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/4e04d680-da1d-497f-988a-69508642b617.json",
+    "targetAnalysisId" : "e8593126-e6ef-44ee-9931-26e6ef84ee24",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "4e04d680-da1d-497f-988a-69508642b617" ],
+    "objectIdsMigrated" : [ "0b40488f-2ea4-59e1-a60a-e1c4cfbc5f7f" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/d0e43fb9-e3a9-42ba-bb44-80cd21feeda8.json",
+    "targetAnalysisId" : "762b58f2-0ecf-4ac6-ab58-f20ecf6ac646",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "d0e43fb9-e3a9-42ba-bb44-80cd21feeda8" ],
+    "objectIdsMigrated" : [ "4164ad5d-0298-55ef-88f9-112d36ae824b" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/3e5c2340-7eaa-4984-a1f0-75da3828fcd7.json",
+    "targetAnalysisId" : "bebb6bc5-3594-4dd2-bb6b-c535946dd2ae",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "3e5c2340-7eaa-4984-a1f0-75da3828fcd7" ],
+    "objectIdsMigrated" : [ "665536f2-e1de-5d88-b01c-443804b0ec89" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/a0c609ba-2055-473f-9858-70ff7fcc5e8b.json",
+    "targetAnalysisId" : "666bce88-39d8-48a4-abce-8839d818a493",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "a0c609ba-2055-473f-9858-70ff7fcc5e8b" ],
+    "objectIdsMigrated" : [ "4e5adca2-5683-5760-8c51-963f84cbbcb8" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/2f38fab1-06b2-40d7-a2c2-ea3eb3389903.json",
+    "targetAnalysisId" : "bb80c793-7cee-4e66-80c7-937cee5e66cf",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "2f38fab1-06b2-40d7-a2c2-ea3eb3389903" ],
+    "objectIdsMigrated" : [ "fec83212-1ae0-5cd4-aafe-e6da526a3c91" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/727e9318-1d2b-4990-8861-8f03902b6f87.json",
+    "targetAnalysisId" : "f426d0a8-5a0f-482b-a6d0-a85a0f982b30",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "727e9318-1d2b-4990-8861-8f03902b6f87" ],
+    "objectIdsMigrated" : [ "1081a6f7-c800-590a-931c-fcd91e2a83b3" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/b8e821ce-bfd1-487c-8d44-7180b3c952fd.json",
+    "targetAnalysisId" : "21aec859-f0d5-449e-aec8-59f0d5e49e83",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "b8e821ce-bfd1-487c-8d44-7180b3c952fd" ],
+    "objectIdsMigrated" : [ "35040410-7e9a-59ea-95ba-2800f6904a28" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/0c74d3ea-1aa2-4e66-98d4-a12b38ee3665.json",
+    "targetAnalysisId" : "a984d986-8284-4444-84d9-8682841444a9",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "0c74d3ea-1aa2-4e66-98d4-a12b38ee3665" ],
+    "objectIdsMigrated" : [ "445eea77-bd64-5037-8580-2d4066aa4056" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/975de353-d2ad-4eb3-91fe-276bb04d0e44.json",
+    "targetAnalysisId" : "46a4062a-15a1-4b4f-a406-2a15a17b4f34",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "975de353-d2ad-4eb3-91fe-276bb04d0e44" ],
+    "objectIdsMigrated" : [ "8e194fdd-8d83-5ca8-be2a-74b3fb7f8930" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/c8ebac3d-6802-462b-a26b-637fe3aa3a9a.json",
+    "targetAnalysisId" : "5947557e-6e83-4e5f-8755-7e6e839e5f23",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "c8ebac3d-6802-462b-a26b-637fe3aa3a9a" ],
+    "objectIdsMigrated" : [ "ad2dceab-09f4-59d3-834d-8573d6f2237f" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/8687aab8-31af-4e14-9c5e-91489ea17727.json",
+    "targetAnalysisId" : "c41c7784-ab35-4f28-9c77-84ab35ef28c8",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "8687aab8-31af-4e14-9c5e-91489ea17727" ],
+    "objectIdsMigrated" : [ "5bca41a3-f4a4-510f-85e6-ad02f553a9f9" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/74d16ad6-7de9-472d-bc7c-94a954bec156.json",
+    "targetAnalysisId" : "01d07adb-88cb-4157-907a-db88cb41570a",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "74d16ad6-7de9-472d-bc7c-94a954bec156" ],
+    "objectIdsMigrated" : [ "ba7b40d8-a51d-528f-888d-8e998b7e40d0" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/629a77c6-1b60-4e37-8cea-031ff1242517.json",
+    "targetAnalysisId" : "e2763928-745f-47d7-b639-28745f67d799",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "629a77c6-1b60-4e37-8cea-031ff1242517" ],
+    "objectIdsMigrated" : [ "cc92c0ae-ca88-55a2-8f81-e78f726ac633" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/a2f5530e-68ac-4935-8ee4-833fa09e4913.json",
+    "targetAnalysisId" : "bdbd3178-b38e-492b-bd31-78b38e892bb8",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "a2f5530e-68ac-4935-8ee4-833fa09e4913" ],
+    "objectIdsMigrated" : [ "89a48444-4f3a-503e-abea-6239f98f50a5" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/0530bbac-422e-410c-b426-7d6c613acbb7.json",
+    "targetAnalysisId" : "05561998-362b-4797-9619-98362bc797fe",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "0530bbac-422e-410c-b426-7d6c613acbb7" ],
+    "objectIdsMigrated" : [ "1dfe5a32-285b-55db-aaa0-ab1f64e3468d" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/0750664e-9cd1-47c2-bf87-730c43674217.json",
+    "targetAnalysisId" : "4546bf0b-1897-4b27-86bf-0b1897bb270e",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "0750664e-9cd1-47c2-bf87-730c43674217" ],
+    "objectIdsMigrated" : [ "d3641940-816a-5393-9cd2-f6605a675eee" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/cb13a59c-7c77-4d39-aab1-a9fe6ce9a923.json",
+    "targetAnalysisId" : "a778947b-e2e7-4445-b894-7be2e78445a5",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "cb13a59c-7c77-4d39-aab1-a9fe6ce9a923" ],
+    "objectIdsMigrated" : [ "942cf66f-097d-5691-8e38-eaaf6aa3ddd2" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/6e575a3b-86bd-46a8-a3ee-ae0878764178.json",
+    "targetAnalysisId" : "7cbdc0c4-aec9-402d-bdc0-c4aec9602dcf",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "6e575a3b-86bd-46a8-a3ee-ae0878764178" ],
+    "objectIdsMigrated" : [ "b2930a43-fee5-5cde-9916-3f5f1c17d7d4" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/9084e2e1-c14a-487a-9ead-a847526b55a6.json",
+    "targetAnalysisId" : "e6b3878a-bcac-456e-b387-8abcac656eca",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "9084e2e1-c14a-487a-9ead-a847526b55a6" ],
+    "objectIdsMigrated" : [ "7ca39501-0069-564e-a173-d9eec97a40c2" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/29e4cff3-93ad-4cd0-8d17-22d86564d6b2.json",
+    "targetAnalysisId" : "080424dd-2461-4177-8424-dd246101773e",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "29e4cff3-93ad-4cd0-8d17-22d86564d6b2" ],
+    "objectIdsMigrated" : [ "3b621f80-0b3e-557e-90a0-772f363f8266" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/1d533670-0dc5-4380-afc7-db78b6ed4f0d.json",
+    "targetAnalysisId" : "47d25448-7d1a-482f-9254-487d1ad82fbd",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "1d533670-0dc5-4380-afc7-db78b6ed4f0d" ],
+    "objectIdsMigrated" : [ "f34a8985-cae4-5346-8c47-351d53bfce7f" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/8c70e93f-022d-4584-ad2c-d95e1ecd4f0b.json",
+    "targetAnalysisId" : "93bef972-b9d6-4b08-bef9-72b9d67b0849",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "8c70e93f-022d-4584-ad2c-d95e1ecd4f0b" ],
+    "objectIdsMigrated" : [ "7cd54ee2-e177-55fb-bf94-1b96bc8d1864" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/6a771265-122b-43e0-8483-06be76e5e5ab.json",
+    "targetAnalysisId" : "19ceaf0b-c3ff-48c9-8eaf-0bc3ff58c994",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "6a771265-122b-43e0-8483-06be76e5e5ab" ],
+    "objectIdsMigrated" : [ "8432fc18-30d6-52ac-8292-7a4526766e4b" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/c375d937-79f8-4c56-a3bc-844f7bc668a7.json",
+    "targetAnalysisId" : "e03529fa-9882-444b-b529-fa9882e44bd8",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "c375d937-79f8-4c56-a3bc-844f7bc668a7" ],
+    "objectIdsMigrated" : [ "1a69cdf3-4fb5-5800-8991-02f70a054523" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/7f652539-ffdf-483b-bc00-9c11e178476c.json",
+    "targetAnalysisId" : "eb665eb0-bbb6-44cc-a65e-b0bbb6c4ccbe",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "7f652539-ffdf-483b-bc00-9c11e178476c" ],
+    "objectIdsMigrated" : [ "fb0abf55-f51f-5301-bd05-7958b69a6e47" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/87bae839-2460-4a86-8f10-92b63c363f7a.json",
+    "targetAnalysisId" : "638c5d49-267c-4708-8c5d-49267c97085b",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "87bae839-2460-4a86-8f10-92b63c363f7a" ],
+    "objectIdsMigrated" : [ "9d90611c-731d-5666-84aa-92a6e2b062b9" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/aa223c15-4b97-4617-af92-09d5939863e3.json",
+    "targetAnalysisId" : "eee9de3d-ed40-43dc-a9de-3ded4043dcd6",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "aa223c15-4b97-4617-af92-09d5939863e3" ],
+    "objectIdsMigrated" : [ "869bf7ec-95f6-5557-a3ef-718d491baede" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/155ff477-c7b9-4f07-b17b-a25678b1ed60.json",
+    "targetAnalysisId" : "5f54cbb2-b869-4845-94cb-b2b869184556",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "155ff477-c7b9-4f07-b17b-a25678b1ed60" ],
+    "objectIdsMigrated" : [ "2b054287-31be-5385-91e2-29a4c42c0c92" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/136d60db-bd21-4fbc-9a28-59ea70c06f27.json",
+    "targetAnalysisId" : "3602f7dc-cc9b-4a3c-82f7-dccc9b4a3cf6",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "136d60db-bd21-4fbc-9a28-59ea70c06f27" ],
+    "objectIdsMigrated" : [ "e09a49a8-6381-55ca-ad62-46290e5b7590" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/39f09c5a-1351-46d6-a4eb-65a1fcdf9f23.json",
+    "targetAnalysisId" : "c04e1f62-c401-4af8-8e1f-62c4019af80d",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "39f09c5a-1351-46d6-a4eb-65a1fcdf9f23" ],
+    "objectIdsMigrated" : [ "32be689f-4963-5d78-b354-2cddeea3c971" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/1ecce870-cdb8-4a86-a5af-ece60eb9636e.json",
+    "targetAnalysisId" : "2b7fafbe-436b-49f2-bfaf-be436b59f26c",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "1ecce870-cdb8-4a86-a5af-ece60eb9636e" ],
+    "objectIdsMigrated" : [ "0f58bafd-fbb8-52ec-85b1-2a3d83dc131c" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/4931c3f3-f672-4add-9007-34e6e3424f44.json",
+    "targetAnalysisId" : "61b44799-bdec-44a7-b447-99bdec24a7a9",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "4931c3f3-f672-4add-9007-34e6e3424f44" ],
+    "objectIdsMigrated" : [ "481b2190-193c-504f-8a50-6d234614b8bc" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/69a4beb0-7b55-4c0e-a416-b870662c12c1.json",
+    "targetAnalysisId" : "54e1f1ef-89b7-4691-a1f1-ef89b716913b",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "69a4beb0-7b55-4c0e-a416-b870662c12c1" ],
+    "objectIdsMigrated" : [ "e0849ba7-cafa-52f1-93fe-c1ef334255d6" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/fa9fc41d-7b27-43d5-8c14-4138aa561c5b.json",
+    "targetAnalysisId" : "169d8a12-6d24-4887-9d8a-126d247887bd",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "fa9fc41d-7b27-43d5-8c14-4138aa561c5b" ],
+    "objectIdsMigrated" : [ "7d4c9cf9-4a41-5ed3-9bd7-0b304e6ecf4d" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/685feb5c-2f35-4e42-bbd1-1c5869880d51.json",
+    "targetAnalysisId" : "c2938d09-41cb-4e54-938d-0941cb6e543e",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "685feb5c-2f35-4e42-bbd1-1c5869880d51" ],
+    "objectIdsMigrated" : [ "c69c0fd3-61b9-55d1-a631-ee04f33f96b8" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "./argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch1-pcawg/389dc101-d1c1-44ef-ac45-3af34576f188.json",
+    "targetAnalysisId" : "066d7e0e-ee3b-43b4-ad7e-0eee3b73b476",
+    "targetStudyId" : "OCCAMS-GB",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "ESAD-UK",
+    "legacyAnalysisIds" : [ "389dc101-d1c1-44ef-ac45-3af34576f188" ],
+    "objectIdsMigrated" : [ "96ad6d84-41be-5cc4-8d02-b508641fa3e0" ],
     "allObjectIdsMigrated" : true
   } ],
   "errors" : [ ]
