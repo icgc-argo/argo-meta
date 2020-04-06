@@ -38,24 +38,26 @@
             "file_r1": "8d522569f563d1bcbfed83908dc11c11.bam",
             "file_r2": "8d522569f563d1bcbfed83908dc11c11.bam",
             "insert_size": 611,
+            "platform_unit": "OICR:140722_D00353_0062_BC40U9ANXX_6",
             "is_paired_end": true,
             "library_name": "WGS:OICR:PCSI_0146_Si_R_PE_611_WG",
-            "platform_unit": "OICR:140722_D00353_0062_BC40U9ANXX_6",
             "read_length_r1": null,
             "read_length_r2": null,
             "sample_barcode": null,
+            "read_group_id_in_bam": null,
             "submitter_read_group_id": "OICR:140722_D00353_0062_BC40U9ANXX_6_NoIndex"
         },
         {
             "file_r1": "8d522569f563d1bcbfed83908dc11c11.bam",
             "file_r2": "8d522569f563d1bcbfed83908dc11c11.bam",
             "insert_size": 584,
+            "platform_unit": "OICR:140722_D00353_0062_BC40U9ANXX_7",
             "is_paired_end": true,
             "library_name": "WGS:OICR:PCSI_0146_Si_R_PE_584_WG",
-            "platform_unit": "OICR:140722_D00353_0062_BC40U9ANXX_7",
             "read_length_r1": null,
             "read_length_r2": null,
             "sample_barcode": null,
+            "read_group_id_in_bam": null,
             "submitter_read_group_id": "OICR:140722_D00353_0062_BC40U9ANXX_7_NoIndex"
         }
     ],
