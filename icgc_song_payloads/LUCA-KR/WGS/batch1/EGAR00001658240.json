@@ -22,7 +22,7 @@
     ],
     "files": [
         {
-            "dataType": "submitted_reads",
+            "dataType": "Submitted Reads",
             "fileName": "da49b2bff4430499d3c4ac256c0a2f0a.J85-N_30x_sort_dup_rea_recal.bam",
             "fileSize": 141617852133,
             "fileType": "BAM",
