@@ -1,0 +1,59 @@
+{
+    "studyId": "LUCA-KR",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "J10_N",
+            "matchedNormalSubmitterSampleId": null,
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "J10_N",
+                "specimenType": "Normal",
+                "tumourNormalDesignation": "Normal",
+                "specimenTissueSource": "Other"
+            },
+            "donor": {
+                "submitterDonorId": "SC_LUNG_04",
+                "gender": "Male"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "submitted_reads",
+            "fileName": "0f33c1e71e24571fe64e72f59ee8e581.J10-N_60x_sort_dup_rea_recal.bam",
+            "fileSize": 124744097926,
+            "fileType": "BAM",
+            "fileMd5sum": "0f33c1e71e24571fe64e72f59ee8e581",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "EGAR00001658194"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "0f33c1e71e24571fe64e72f59ee8e581.J10-N_60x_sort_dup_rea_recal.bam",
+            "file_r2": "0f33c1e71e24571fe64e72f59ee8e581.J10-N_60x_sort_dup_rea_recal.bam",
+            "insert_size": null,
+            "platform_unit": "foo",
+            "is_paired_end": true,
+            "library_name": "bar",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "foo"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-8",
+        "experimental_strategy": "WGS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 1
+}

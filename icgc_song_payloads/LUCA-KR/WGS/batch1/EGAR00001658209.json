@@ -1,0 +1,83 @@
+{
+    "studyId": "LUCA-KR",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "J32_T",
+            "matchedNormalSubmitterSampleId": "J32_N",
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "J32_T",
+                "specimenType": "Primary tumour",
+                "tumourNormalDesignation": "Tumour",
+                "specimenTissueSource": "Other"
+            },
+            "donor": {
+                "submitterDonorId": "SC_LUNG_11",
+                "gender": "Male"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "submitted_reads",
+            "fileName": "bce6ad78a342182f4c7f2e819c050b06.J32-T_60x_sort_dup_rea_recal.bam",
+            "fileSize": 262873381480,
+            "fileType": "BAM",
+            "fileMd5sum": "bce6ad78a342182f4c7f2e819c050b06",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "EGAR00001658209"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "bce6ad78a342182f4c7f2e819c050b06.J32-T_60x_sort_dup_rea_recal.bam",
+            "file_r2": "bce6ad78a342182f4c7f2e819c050b06.J32-T_60x_sort_dup_rea_recal.bam",
+            "insert_size": null,
+            "platform_unit": "foo",
+            "is_paired_end": true,
+            "library_name": "bar",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "foo"
+        },
+        {
+            "file_r1": "bce6ad78a342182f4c7f2e819c050b06.J32-T_60x_sort_dup_rea_recal.bam",
+            "file_r2": "bce6ad78a342182f4c7f2e819c050b06.J32-T_60x_sort_dup_rea_recal.bam",
+            "insert_size": null,
+            "platform_unit": "foo-214A7E94",
+            "is_paired_end": true,
+            "library_name": "bar",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "foo-214A7E94"
+        },
+        {
+            "file_r1": "bce6ad78a342182f4c7f2e819c050b06.J32-T_60x_sort_dup_rea_recal.bam",
+            "file_r2": "bce6ad78a342182f4c7f2e819c050b06.J32-T_60x_sort_dup_rea_recal.bam",
+            "insert_size": null,
+            "platform_unit": "foo-319C2B7B",
+            "is_paired_end": true,
+            "library_name": "bar",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "submitter_read_group_id": "foo-319C2B7B"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-17",
+        "experimental_strategy": "WGS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 3
+}
