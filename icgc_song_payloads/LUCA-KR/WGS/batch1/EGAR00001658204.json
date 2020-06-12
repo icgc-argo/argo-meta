@@ -29,7 +29,8 @@
             "fileMd5sum": "ad40d347fcd4bf37d3dd2955d1ee50a2",
             "fileAccess": "controlled",
             "info": {
-                "legacyAnalysisId": "EGAR00001658204"
+                "legacyAnalysisId": "EGAR00001658204",
+                "data_category": "Sequencing Reads"
             }
         }
     ],
