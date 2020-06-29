@@ -39,37 +39,40 @@
             "file_r1": "bce6ad78a342182f4c7f2e819c050b06.J32-T_60x_sort_dup_rea_recal.bam",
             "file_r2": "bce6ad78a342182f4c7f2e819c050b06.J32-T_60x_sort_dup_rea_recal.bam",
             "insert_size": null,
-            "platform_unit": "foo",
+            "platform_unit": "foo_J32_T",
             "is_paired_end": true,
             "library_name": "bar",
             "read_length_r1": null,
             "read_length_r2": null,
             "sample_barcode": null,
-            "submitter_read_group_id": "foo"
+            "read_group_id_in_bam": "foo",
+            "submitter_read_group_id": "foo_J32_T"
         },
         {
             "file_r1": "bce6ad78a342182f4c7f2e819c050b06.J32-T_60x_sort_dup_rea_recal.bam",
             "file_r2": "bce6ad78a342182f4c7f2e819c050b06.J32-T_60x_sort_dup_rea_recal.bam",
             "insert_size": null,
-            "platform_unit": "foo-214A7E94",
+            "platform_unit": "foo-214A7E94_J32_T",
             "is_paired_end": true,
             "library_name": "bar",
             "read_length_r1": null,
             "read_length_r2": null,
             "sample_barcode": null,
-            "submitter_read_group_id": "foo-214A7E94"
+            "read_group_id_in_bam": "foo-214A7E94",
+            "submitter_read_group_id": "foo-214A7E94_J32_T"
         },
         {
             "file_r1": "bce6ad78a342182f4c7f2e819c050b06.J32-T_60x_sort_dup_rea_recal.bam",
             "file_r2": "bce6ad78a342182f4c7f2e819c050b06.J32-T_60x_sort_dup_rea_recal.bam",
             "insert_size": null,
-            "platform_unit": "foo-319C2B7B",
+            "platform_unit": "foo-319C2B7B_J32_T",
             "is_paired_end": true,
             "library_name": "bar",
             "read_length_r1": null,
             "read_length_r2": null,
             "sample_barcode": null,
-            "submitter_read_group_id": "foo-319C2B7B"
+            "read_group_id_in_bam": "foo-319C2B7B",
+            "submitter_read_group_id": "foo-319C2B7B_J32_T"
         }
     ],
     "experiment": {

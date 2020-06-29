@@ -39,25 +39,27 @@
             "file_r1": "b24d73f8f5d999fb051705b3d33a36ee.J75-T_60x_sort_dup_rea_recal.bam",
             "file_r2": "b24d73f8f5d999fb051705b3d33a36ee.J75-T_60x_sort_dup_rea_recal.bam",
             "insert_size": null,
-            "platform_unit": "foo",
+            "platform_unit": "foo_J75_T",
             "is_paired_end": true,
             "library_name": "bar",
             "read_length_r1": null,
             "read_length_r2": null,
             "sample_barcode": null,
-            "submitter_read_group_id": "foo"
+            "read_group_id_in_bam": "foo",
+            "submitter_read_group_id": "foo_J75_T"
         },
         {
             "file_r1": "b24d73f8f5d999fb051705b3d33a36ee.J75-T_60x_sort_dup_rea_recal.bam",
             "file_r2": "b24d73f8f5d999fb051705b3d33a36ee.J75-T_60x_sort_dup_rea_recal.bam",
             "insert_size": null,
-            "platform_unit": "foo-36CBD116",
+            "platform_unit": "foo-36CBD116_J75_T",
             "is_paired_end": true,
             "library_name": "bar",
             "read_length_r1": null,
             "read_length_r2": null,
             "sample_barcode": null,
-            "submitter_read_group_id": "foo-36CBD116"
+            "read_group_id_in_bam": "foo-36CBD116",
+            "submitter_read_group_id": "foo-36CBD116_J75_T"
         }
     ],
     "experiment": {

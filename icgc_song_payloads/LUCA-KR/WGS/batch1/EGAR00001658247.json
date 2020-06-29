@@ -39,25 +39,27 @@
             "file_r1": "465b954297e822976509af6a31195c08.J90-T_60x_sort_dup_rea_recal.bam",
             "file_r2": "465b954297e822976509af6a31195c08.J90-T_60x_sort_dup_rea_recal.bam",
             "insert_size": null,
-            "platform_unit": "foo",
+            "platform_unit": "foo_J90_T",
             "is_paired_end": true,
             "library_name": "bar",
             "read_length_r1": null,
             "read_length_r2": null,
             "sample_barcode": null,
-            "submitter_read_group_id": "foo"
+            "read_group_id_in_bam": "foo",
+            "submitter_read_group_id": "foo_J90_T"
         },
         {
             "file_r1": "465b954297e822976509af6a31195c08.J90-T_60x_sort_dup_rea_recal.bam",
             "file_r2": "465b954297e822976509af6a31195c08.J90-T_60x_sort_dup_rea_recal.bam",
             "insert_size": null,
-            "platform_unit": "foo-7907810B",
+            "platform_unit": "foo-7907810B_J90_T",
             "is_paired_end": true,
             "library_name": "bar",
             "read_length_r1": null,
             "read_length_r2": null,
             "sample_barcode": null,
-            "submitter_read_group_id": "foo-7907810B"
+            "read_group_id_in_bam": "foo-7907810B",
+            "submitter_read_group_id": "foo-7907810B_J90_T"
         }
     ],
     "experiment": {

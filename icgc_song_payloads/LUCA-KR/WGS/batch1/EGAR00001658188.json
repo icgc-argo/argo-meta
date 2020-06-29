@@ -39,37 +39,40 @@
             "file_r1": "48a4884e5d3b75de4973ab5f091e1b83.J1-N_60x_sort_dup_rea_recal.bam",
             "file_r2": "48a4884e5d3b75de4973ab5f091e1b83.J1-N_60x_sort_dup_rea_recal.bam",
             "insert_size": null,
-            "platform_unit": "foo",
+            "platform_unit": "foo_J1_N",
             "is_paired_end": true,
             "library_name": "bar",
             "read_length_r1": null,
             "read_length_r2": null,
             "sample_barcode": null,
-            "submitter_read_group_id": "foo"
+            "read_group_id_in_bam": "foo",
+            "submitter_read_group_id": "foo_J1_N"
         },
         {
             "file_r1": "48a4884e5d3b75de4973ab5f091e1b83.J1-N_60x_sort_dup_rea_recal.bam",
             "file_r2": "48a4884e5d3b75de4973ab5f091e1b83.J1-N_60x_sort_dup_rea_recal.bam",
             "insert_size": null,
-            "platform_unit": "foo-45F1BD85",
+            "platform_unit": "foo-45F1BD85_J1_N",
             "is_paired_end": true,
             "library_name": "bar",
             "read_length_r1": null,
             "read_length_r2": null,
             "sample_barcode": null,
-            "submitter_read_group_id": "foo-45F1BD85"
+            "read_group_id_in_bam": "foo-45F1BD85",
+            "submitter_read_group_id": "foo-45F1BD85_J1_N"
         },
         {
             "file_r1": "48a4884e5d3b75de4973ab5f091e1b83.J1-N_60x_sort_dup_rea_recal.bam",
             "file_r2": "48a4884e5d3b75de4973ab5f091e1b83.J1-N_60x_sort_dup_rea_recal.bam",
             "insert_size": null,
-            "platform_unit": "foo-9926DB1",
+            "platform_unit": "foo-9926DB1_J1_N",
             "is_paired_end": true,
             "library_name": "bar",
             "read_length_r1": null,
             "read_length_r2": null,
             "sample_barcode": null,
-            "submitter_read_group_id": "foo-9926DB1"
+            "read_group_id_in_bam": "foo-9926DB1",
+            "submitter_read_group_id": "foo-9926DB1_J1_N"
         }
     ],
     "experiment": {

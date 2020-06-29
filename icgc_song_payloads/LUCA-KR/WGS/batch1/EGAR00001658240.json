@@ -39,13 +39,14 @@
             "file_r1": "da49b2bff4430499d3c4ac256c0a2f0a.J85-N_30x_sort_dup_rea_recal.bam",
             "file_r2": "da49b2bff4430499d3c4ac256c0a2f0a.J85-N_30x_sort_dup_rea_recal.bam",
             "insert_size": null,
-            "platform_unit": "foo",
+            "platform_unit": "foo_J85_N",
             "is_paired_end": true,
             "library_name": "bar",
             "read_length_r1": null,
             "read_length_r2": null,
             "sample_barcode": null,
-            "submitter_read_group_id": "foo"
+            "read_group_id_in_bam": "foo",
+            "submitter_read_group_id": "foo_J85_N"
         }
     ],
     "experiment": {
