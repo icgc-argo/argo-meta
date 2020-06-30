@@ -1,0 +1,61 @@
+{
+    "studyId": "THCA-SA",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "487C",
+            "matchedNormalSubmitterSampleId": "487B",
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "487FC",
+                "specimenType": "Primary tumour",
+                "tumourNormalDesignation": "Tumour",
+                "specimenTissueSource": "Solid tissue"
+            },
+            "donor": {
+                "submitterDonorId": "487C",
+                "gender": "Female"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "Submitted Reads",
+            "fileName": "f2d760b84d1b48fee2954617c9d3a61d.PTC-487FC_16_03_2016.recalibrated.bam",
+            "fileSize": 20100431776,
+            "fileType": "BAM",
+            "fileMd5sum": "f2d760b84d1b48fee2954617c9d3a61d",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "EGAZ00001316225",
+                "data_category": "Sequencing Reads"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "f2d760b84d1b48fee2954617c9d3a61d.PTC-487FC_16_03_2016.recalibrated.bam",
+            "file_r2": "f2d760b84d1b48fee2954617c9d3a61d.PTC-487FC_16_03_2016.recalibrated.bam",
+            "insert_size": null,
+            "platform_unit": "487FC_16_03_2016_487C",
+            "is_paired_end": true,
+            "library_name": "paired-ends",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": "487FC_16_03_2016",
+            "submitter_read_group_id": "487FC_16_03_2016_487C"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-4",
+        "experimental_strategy": "WXS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 1
+}

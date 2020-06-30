@@ -1,0 +1,61 @@
+{
+    "studyId": "THCA-SA",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "796C",
+            "matchedNormalSubmitterSampleId": "796B",
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "796FC",
+                "specimenType": "Primary tumour",
+                "tumourNormalDesignation": "Tumour",
+                "specimenTissueSource": "Solid tissue"
+            },
+            "donor": {
+                "submitterDonorId": "796C",
+                "gender": "Female"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "Submitted Reads",
+            "fileName": "5a6a6d53c83aa5f0e62377c06e95caca.PTC-0796FC.recalibrated.bam",
+            "fileSize": 11722844204,
+            "fileType": "BAM",
+            "fileMd5sum": "5a6a6d53c83aa5f0e62377c06e95caca",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "EGAZ00001316322",
+                "data_category": "Sequencing Reads"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "5a6a6d53c83aa5f0e62377c06e95caca.PTC-0796FC.recalibrated.bam",
+            "file_r2": "5a6a6d53c83aa5f0e62377c06e95caca.PTC-0796FC.recalibrated.bam",
+            "insert_size": null,
+            "platform_unit": "0796FC_796C",
+            "is_paired_end": true,
+            "library_name": "paired-end",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": "0796FC",
+            "submitter_read_group_id": "0796FC_796C"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-196",
+        "experimental_strategy": "WXS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 1
+}

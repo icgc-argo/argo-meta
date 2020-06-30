@@ -1,0 +1,61 @@
+{
+    "studyId": "THCA-SA",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "904C",
+            "matchedNormalSubmitterSampleId": "904B",
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "904FC",
+                "specimenType": "Primary tumour",
+                "tumourNormalDesignation": "Tumour",
+                "specimenTissueSource": "Solid tissue"
+            },
+            "donor": {
+                "submitterDonorId": "904C",
+                "gender": "Male"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "Submitted Reads",
+            "fileName": "900ca4e9429efcbdb728c9b05381654b.PTC-0904FC.recalibrated.bam",
+            "fileSize": 11739130231,
+            "fileType": "BAM",
+            "fileMd5sum": "900ca4e9429efcbdb728c9b05381654b",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "EGAZ00001316336",
+                "data_category": "Sequencing Reads"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "900ca4e9429efcbdb728c9b05381654b.PTC-0904FC.recalibrated.bam",
+            "file_r2": "900ca4e9429efcbdb728c9b05381654b.PTC-0904FC.recalibrated.bam",
+            "insert_size": null,
+            "platform_unit": "0904FC_904C",
+            "is_paired_end": true,
+            "library_name": "paired-end",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": "0904FC",
+            "submitter_read_group_id": "0904FC_904C"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-241",
+        "experimental_strategy": "WXS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 1
+}

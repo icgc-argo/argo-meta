@@ -1,0 +1,61 @@
+{
+    "studyId": "THCA-SA",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "428B",
+            "matchedNormalSubmitterSampleId": null,
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "428B",
+                "specimenType": "Normal",
+                "tumourNormalDesignation": "Normal",
+                "specimenTissueSource": "Blood derived"
+            },
+            "donor": {
+                "submitterDonorId": "428C",
+                "gender": "Female"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "Submitted Reads",
+            "fileName": "7dbc945a6a5c8f6b3f6eed80b38e329a.PTC-428B.recal.bam",
+            "fileSize": 9140091452,
+            "fileType": "BAM",
+            "fileMd5sum": "7dbc945a6a5c8f6b3f6eed80b38e329a",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "EGAZ00001316154",
+                "data_category": "Sequencing Reads"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "7dbc945a6a5c8f6b3f6eed80b38e329a.PTC-428B.recal.bam",
+            "file_r2": "7dbc945a6a5c8f6b3f6eed80b38e329a.PTC-428B.recal.bam",
+            "insert_size": null,
+            "platform_unit": "MG00HS15_428B",
+            "is_paired_end": true,
+            "library_name": "SS4",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": "MG00HS15",
+            "submitter_read_group_id": "MG00HS15_428B"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-280",
+        "experimental_strategy": "WXS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 1
+}

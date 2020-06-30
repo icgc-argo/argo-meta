@@ -1,0 +1,61 @@
+{
+    "studyId": "THCA-SA",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "919C",
+            "matchedNormalSubmitterSampleId": "919B",
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "919FC",
+                "specimenType": "Primary tumour",
+                "tumourNormalDesignation": "Tumour",
+                "specimenTissueSource": "Solid tissue"
+            },
+            "donor": {
+                "submitterDonorId": "919C",
+                "gender": "Female"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "Submitted Reads",
+            "fileName": "a4934d5f1aa2c3e3a5edd3f04fae2eed.PTC-0919FC.recalibrated.bam",
+            "fileSize": 10421747112,
+            "fileType": "BAM",
+            "fileMd5sum": "a4934d5f1aa2c3e3a5edd3f04fae2eed",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "EGAZ00001316371",
+                "data_category": "Sequencing Reads"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "a4934d5f1aa2c3e3a5edd3f04fae2eed.PTC-0919FC.recalibrated.bam",
+            "file_r2": "a4934d5f1aa2c3e3a5edd3f04fae2eed.PTC-0919FC.recalibrated.bam",
+            "insert_size": null,
+            "platform_unit": "PTC-0919FC_919C",
+            "is_paired_end": true,
+            "library_name": "paired-end",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": "PTC-0919FC",
+            "submitter_read_group_id": "PTC-0919FC_919C"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-140",
+        "experimental_strategy": "WXS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 1
+}

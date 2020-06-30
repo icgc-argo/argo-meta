@@ -1,0 +1,61 @@
+{
+    "studyId": "THCA-SA",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "793B",
+            "matchedNormalSubmitterSampleId": null,
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "793B",
+                "specimenType": "Normal",
+                "tumourNormalDesignation": "Normal",
+                "specimenTissueSource": "Blood derived"
+            },
+            "donor": {
+                "submitterDonorId": "793C",
+                "gender": "Female"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "Submitted Reads",
+            "fileName": "68cb9cb1c0fd3132f0a408423c4c1fd2.PTC-0793B.recalibrated.bam",
+            "fileSize": 15651786373,
+            "fileType": "BAM",
+            "fileMd5sum": "68cb9cb1c0fd3132f0a408423c4c1fd2",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "EGAZ00001316317",
+                "data_category": "Sequencing Reads"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "68cb9cb1c0fd3132f0a408423c4c1fd2.PTC-0793B.recalibrated.bam",
+            "file_r2": "68cb9cb1c0fd3132f0a408423c4c1fd2.PTC-0793B.recalibrated.bam",
+            "insert_size": null,
+            "platform_unit": "0793B_793B",
+            "is_paired_end": true,
+            "library_name": "paired-end",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": "0793B",
+            "submitter_read_group_id": "0793B_793B"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-217",
+        "experimental_strategy": "WXS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 1
+}

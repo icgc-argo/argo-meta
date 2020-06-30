@@ -1,0 +1,61 @@
+{
+    "studyId": "THCA-SA",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "890B",
+            "matchedNormalSubmitterSampleId": null,
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "890B",
+                "specimenType": "Normal",
+                "tumourNormalDesignation": "Normal",
+                "specimenTissueSource": "Blood derived"
+            },
+            "donor": {
+                "submitterDonorId": "890C",
+                "gender": "Male"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "Submitted Reads",
+            "fileName": "c3a37d562eef3a49728e2daf15a69697.PTC-0890B.recalibrated.bam",
+            "fileSize": 10824857955,
+            "fileType": "BAM",
+            "fileMd5sum": "c3a37d562eef3a49728e2daf15a69697",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "EGAZ00001316323",
+                "data_category": "Sequencing Reads"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "c3a37d562eef3a49728e2daf15a69697.PTC-0890B.recalibrated.bam",
+            "file_r2": "c3a37d562eef3a49728e2daf15a69697.PTC-0890B.recalibrated.bam",
+            "insert_size": null,
+            "platform_unit": "0890B_890B",
+            "is_paired_end": true,
+            "library_name": "paired-end",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": "0890B",
+            "submitter_read_group_id": "0890B_890B"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-113",
+        "experimental_strategy": "WXS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 1
+}

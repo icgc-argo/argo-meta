@@ -1,0 +1,61 @@
+{
+    "studyId": "THCA-SA",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "450C",
+            "matchedNormalSubmitterSampleId": "450B",
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "450FC",
+                "specimenType": "Primary tumour",
+                "tumourNormalDesignation": "Tumour",
+                "specimenTissueSource": "Solid tissue"
+            },
+            "donor": {
+                "submitterDonorId": "450C",
+                "gender": "Female"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "Submitted Reads",
+            "fileName": "1267adb38eec6f49446c6b1c2dfc2353.PTC-450FC.recal.bam",
+            "fileSize": 5158263398,
+            "fileType": "BAM",
+            "fileMd5sum": "1267adb38eec6f49446c6b1c2dfc2353",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "EGAZ00001316143",
+                "data_category": "Sequencing Reads"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "1267adb38eec6f49446c6b1c2dfc2353.PTC-450FC.recal.bam",
+            "file_r2": "1267adb38eec6f49446c6b1c2dfc2353.PTC-450FC.recal.bam",
+            "insert_size": null,
+            "platform_unit": "MG00HS19_450C",
+            "is_paired_end": true,
+            "library_name": "SS4",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": "MG00HS19",
+            "submitter_read_group_id": "MG00HS19_450C"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-20",
+        "experimental_strategy": "WXS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 1
+}

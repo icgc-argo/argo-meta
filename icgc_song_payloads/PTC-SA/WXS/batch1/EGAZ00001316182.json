@@ -1,0 +1,61 @@
+{
+    "studyId": "THCA-SA",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "386B",
+            "matchedNormalSubmitterSampleId": null,
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "386B",
+                "specimenType": "Normal",
+                "tumourNormalDesignation": "Normal",
+                "specimenTissueSource": "Blood derived"
+            },
+            "donor": {
+                "submitterDonorId": "386C",
+                "gender": "Male"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "Submitted Reads",
+            "fileName": "8717c6530f900c66d2fe360f500db0a3.PTC-386B.recal.bam",
+            "fileSize": 11052024174,
+            "fileType": "BAM",
+            "fileMd5sum": "8717c6530f900c66d2fe360f500db0a3",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "EGAZ00001316182",
+                "data_category": "Sequencing Reads"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "8717c6530f900c66d2fe360f500db0a3.PTC-386B.recal.bam",
+            "file_r2": "8717c6530f900c66d2fe360f500db0a3.PTC-386B.recal.bam",
+            "insert_size": null,
+            "platform_unit": "MG00HS15_386B",
+            "is_paired_end": true,
+            "library_name": "SS4",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": "MG00HS15",
+            "submitter_read_group_id": "MG00HS15_386B"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-93",
+        "experimental_strategy": "WXS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 1
+}

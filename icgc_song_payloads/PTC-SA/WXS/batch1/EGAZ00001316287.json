@@ -1,0 +1,61 @@
+{
+    "studyId": "THCA-SA",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "668B",
+            "matchedNormalSubmitterSampleId": null,
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "668B",
+                "specimenType": "Normal",
+                "tumourNormalDesignation": "Normal",
+                "specimenTissueSource": "Blood derived"
+            },
+            "donor": {
+                "submitterDonorId": "668C",
+                "gender": "Male"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "Submitted Reads",
+            "fileName": "42b2a52f0ebc79644f9a934d2461d8da.PTC-0668B.recalibrated.bam",
+            "fileSize": 15934381999,
+            "fileType": "BAM",
+            "fileMd5sum": "42b2a52f0ebc79644f9a934d2461d8da",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "EGAZ00001316287",
+                "data_category": "Sequencing Reads"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "42b2a52f0ebc79644f9a934d2461d8da.PTC-0668B.recalibrated.bam",
+            "file_r2": "42b2a52f0ebc79644f9a934d2461d8da.PTC-0668B.recalibrated.bam",
+            "insert_size": null,
+            "platform_unit": "0668B_668B",
+            "is_paired_end": true,
+            "library_name": "paired-end",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": "0668B",
+            "submitter_read_group_id": "0668B_668B"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-210",
+        "experimental_strategy": "WXS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 1
+}

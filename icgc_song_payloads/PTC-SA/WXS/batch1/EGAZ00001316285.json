@@ -1,0 +1,61 @@
+{
+    "studyId": "THCA-SA",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "666B",
+            "matchedNormalSubmitterSampleId": null,
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "666B",
+                "specimenType": "Normal",
+                "tumourNormalDesignation": "Normal",
+                "specimenTissueSource": "Blood derived"
+            },
+            "donor": {
+                "submitterDonorId": "666C",
+                "gender": "Male"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "Submitted Reads",
+            "fileName": "4b3f2113213890d2f7f819ec9ffddb59.PTC-0666B.recalibrated.bam",
+            "fileSize": 12793873168,
+            "fileType": "BAM",
+            "fileMd5sum": "4b3f2113213890d2f7f819ec9ffddb59",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "EGAZ00001316285",
+                "data_category": "Sequencing Reads"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "4b3f2113213890d2f7f819ec9ffddb59.PTC-0666B.recalibrated.bam",
+            "file_r2": "4b3f2113213890d2f7f819ec9ffddb59.PTC-0666B.recalibrated.bam",
+            "insert_size": null,
+            "platform_unit": "PTC-0666B_666B",
+            "is_paired_end": true,
+            "library_name": "paired-end",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": "PTC-0666B",
+            "submitter_read_group_id": "PTC-0666B_666B"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-44",
+        "experimental_strategy": "WXS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 1
+}

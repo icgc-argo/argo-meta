@@ -1,0 +1,61 @@
+{
+    "studyId": "THCA-SA",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "472C",
+            "matchedNormalSubmitterSampleId": "472B",
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "472FC",
+                "specimenType": "Primary tumour",
+                "tumourNormalDesignation": "Tumour",
+                "specimenTissueSource": "Solid tissue"
+            },
+            "donor": {
+                "submitterDonorId": "472C",
+                "gender": "Male"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "Submitted Reads",
+            "fileName": "81b6ebe7e246123da1d8ff194e63f06d.PTC-472FC.recalibrated.bam",
+            "fileSize": 16456504940,
+            "fileType": "BAM",
+            "fileMd5sum": "81b6ebe7e246123da1d8ff194e63f06d",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "EGAZ00001316215",
+                "data_category": "Sequencing Reads"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "81b6ebe7e246123da1d8ff194e63f06d.PTC-472FC.recalibrated.bam",
+            "file_r2": "81b6ebe7e246123da1d8ff194e63f06d.PTC-472FC.recalibrated.bam",
+            "insert_size": null,
+            "platform_unit": "PTC-472FC_04_02_2016_472C",
+            "is_paired_end": true,
+            "library_name": "paired-end",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": "PTC-472FC_04_02_2016",
+            "submitter_read_group_id": "PTC-472FC_04_02_2016_472C"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-228",
+        "experimental_strategy": "WXS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 1
+}

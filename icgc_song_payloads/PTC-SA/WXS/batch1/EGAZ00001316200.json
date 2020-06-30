@@ -1,0 +1,61 @@
+{
+    "studyId": "THCA-SA",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "347C",
+            "matchedNormalSubmitterSampleId": "347B",
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "347FC",
+                "specimenType": "Primary tumour",
+                "tumourNormalDesignation": "Tumour",
+                "specimenTissueSource": "Solid tissue"
+            },
+            "donor": {
+                "submitterDonorId": "347C",
+                "gender": "Female"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "Submitted Reads",
+            "fileName": "d331c30969ca3047fa408f8332a43b2b.PTC-0347FC.recalibrated.bam",
+            "fileSize": 10712146432,
+            "fileType": "BAM",
+            "fileMd5sum": "d331c30969ca3047fa408f8332a43b2b",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "EGAZ00001316200",
+                "data_category": "Sequencing Reads"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "d331c30969ca3047fa408f8332a43b2b.PTC-0347FC.recalibrated.bam",
+            "file_r2": "d331c30969ca3047fa408f8332a43b2b.PTC-0347FC.recalibrated.bam",
+            "insert_size": null,
+            "platform_unit": "FC_347C",
+            "is_paired_end": true,
+            "library_name": "paired-end",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": "FC",
+            "submitter_read_group_id": "FC_347C"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-193",
+        "experimental_strategy": "WXS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 1
+}
