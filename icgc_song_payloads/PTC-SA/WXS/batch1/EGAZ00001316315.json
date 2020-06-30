@@ -1,0 +1,61 @@
+{
+    "studyId": "PTC-SA",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "790B",
+            "matchedNormalSubmitterSampleId": null,
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "790B",
+                "specimenType": "Normal",
+                "tumourNormalDesignation": "Normal",
+                "specimenTissueSource": "Blood derived"
+            },
+            "donor": {
+                "submitterDonorId": "790C",
+                "gender": "Female"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "Submitted Reads",
+            "fileName": "93bd72455683b7c57596e241a152a58d.PTC-0790B.recalibrated.bam",
+            "fileSize": 13187183814,
+            "fileType": "BAM",
+            "fileMd5sum": "93bd72455683b7c57596e241a152a58d",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "EGAZ00001316315",
+                "data_category": "Sequencing Reads"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "93bd72455683b7c57596e241a152a58d.PTC-0790B.recalibrated.bam",
+            "file_r2": "93bd72455683b7c57596e241a152a58d.PTC-0790B.recalibrated.bam",
+            "insert_size": null,
+            "platform_unit": "0790B_790B",
+            "is_paired_end": true,
+            "library_name": "paired-end",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": "0790B",
+            "submitter_read_group_id": "0790B_790B"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-126",
+        "experimental_strategy": "WXS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 1
+}

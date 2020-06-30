@@ -1,0 +1,61 @@
+{
+    "studyId": "PTC-SA",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "449B",
+            "matchedNormalSubmitterSampleId": null,
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "449B",
+                "specimenType": "Normal",
+                "tumourNormalDesignation": "Normal",
+                "specimenTissueSource": "Blood derived"
+            },
+            "donor": {
+                "submitterDonorId": "449C",
+                "gender": "Female"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "Submitted Reads",
+            "fileName": "85e74e138cc084b66c36928595fe8572.PTC-449B.recal.bam",
+            "fileSize": 7496683507,
+            "fileType": "BAM",
+            "fileMd5sum": "85e74e138cc084b66c36928595fe8572",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "EGAZ00001316146",
+                "data_category": "Sequencing Reads"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "85e74e138cc084b66c36928595fe8572.PTC-449B.recal.bam",
+            "file_r2": "85e74e138cc084b66c36928595fe8572.PTC-449B.recal.bam",
+            "insert_size": null,
+            "platform_unit": "MG00HS15_449B",
+            "is_paired_end": true,
+            "library_name": "SS4",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": "MG00HS15",
+            "submitter_read_group_id": "MG00HS15_449B"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-55",
+        "experimental_strategy": "WXS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 1
+}

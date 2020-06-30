@@ -1,0 +1,61 @@
+{
+    "studyId": "PTC-SA",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "THY_584C",
+            "matchedNormalSubmitterSampleId": "THY_584N",
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "584C",
+                "specimenType": "Primary tumour",
+                "tumourNormalDesignation": "Tumour",
+                "specimenTissueSource": "Solid tissue"
+            },
+            "donor": {
+                "submitterDonorId": "THY_584C",
+                "gender": "Female"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "Submitted Reads",
+            "fileName": "754f91315bd72c6801697e275b0f285e.584C_FFPE.recalibrated.bam",
+            "fileSize": 10237110781,
+            "fileType": "BAM",
+            "fileMd5sum": "754f91315bd72c6801697e275b0f285e",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "EGAZ00001316355",
+                "data_category": "Sequencing Reads"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "754f91315bd72c6801697e275b0f285e.584C_FFPE.recalibrated.bam",
+            "file_r2": "754f91315bd72c6801697e275b0f285e.584C_FFPE.recalibrated.bam",
+            "insert_size": null,
+            "platform_unit": "FC_THY_584C",
+            "is_paired_end": true,
+            "library_name": "paired-end",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": "FC",
+            "submitter_read_group_id": "FC_THY_584C"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-86",
+        "experimental_strategy": "WXS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 1
+}

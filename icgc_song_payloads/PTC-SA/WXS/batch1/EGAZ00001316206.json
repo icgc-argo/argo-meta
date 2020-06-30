@@ -1,0 +1,61 @@
+{
+    "studyId": "PTC-SA",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "464B",
+            "matchedNormalSubmitterSampleId": null,
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "464B",
+                "specimenType": "Normal",
+                "tumourNormalDesignation": "Normal",
+                "specimenTissueSource": "Blood derived"
+            },
+            "donor": {
+                "submitterDonorId": "464C",
+                "gender": "Female"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "Submitted Reads",
+            "fileName": "c82b81f699528b385c41c3c180a3b9b1.PTC-464B.recalibrated.bam",
+            "fileSize": 16684007983,
+            "fileType": "BAM",
+            "fileMd5sum": "c82b81f699528b385c41c3c180a3b9b1",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "EGAZ00001316206",
+                "data_category": "Sequencing Reads"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "c82b81f699528b385c41c3c180a3b9b1.PTC-464B.recalibrated.bam",
+            "file_r2": "c82b81f699528b385c41c3c180a3b9b1.PTC-464B.recalibrated.bam",
+            "insert_size": null,
+            "platform_unit": "PTC-464B_02_12_2015_464B",
+            "is_paired_end": true,
+            "library_name": "paired-end",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": "PTC-464B_02_12_2015",
+            "submitter_read_group_id": "PTC-464B_02_12_2015_464B"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-121",
+        "experimental_strategy": "WXS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 1
+}

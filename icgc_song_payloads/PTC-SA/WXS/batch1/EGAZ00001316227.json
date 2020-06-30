@@ -1,0 +1,61 @@
+{
+    "studyId": "PTC-SA",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "489C",
+            "matchedNormalSubmitterSampleId": "489B",
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "489FC",
+                "specimenType": "Primary tumour",
+                "tumourNormalDesignation": "Tumour",
+                "specimenTissueSource": "Solid tissue"
+            },
+            "donor": {
+                "submitterDonorId": "489C",
+                "gender": "Male"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "Submitted Reads",
+            "fileName": "42cf2f1984400a9218ff210b4111d708.PTC-489FC.recalibrated.bam",
+            "fileSize": 21699924706,
+            "fileType": "BAM",
+            "fileMd5sum": "42cf2f1984400a9218ff210b4111d708",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "EGAZ00001316227",
+                "data_category": "Sequencing Reads"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "42cf2f1984400a9218ff210b4111d708.PTC-489FC.recalibrated.bam",
+            "file_r2": "42cf2f1984400a9218ff210b4111d708.PTC-489FC.recalibrated.bam",
+            "insert_size": null,
+            "platform_unit": "PTC-489FC_489C",
+            "is_paired_end": true,
+            "library_name": "paired-ends",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": "PTC-489FC",
+            "submitter_read_group_id": "PTC-489FC_489C"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-246",
+        "experimental_strategy": "WXS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 1
+}

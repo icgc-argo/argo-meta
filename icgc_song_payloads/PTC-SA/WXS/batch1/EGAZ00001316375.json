@@ -1,0 +1,61 @@
+{
+    "studyId": "PTC-SA",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "THY_376C",
+            "matchedNormalSubmitterSampleId": "THY_376N",
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "376C",
+                "specimenType": "Primary tumour",
+                "tumourNormalDesignation": "Tumour",
+                "specimenTissueSource": "Solid tissue"
+            },
+            "donor": {
+                "submitterDonorId": "THY_376C",
+                "gender": "Male"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "Submitted Reads",
+            "fileName": "05e43dbb5482a244cf42d06ebe7269e5.THY-0376C.recalibrated.bam",
+            "fileSize": 11506551464,
+            "fileType": "BAM",
+            "fileMd5sum": "05e43dbb5482a244cf42d06ebe7269e5",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "EGAZ00001316375",
+                "data_category": "Sequencing Reads"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "05e43dbb5482a244cf42d06ebe7269e5.THY-0376C.recalibrated.bam",
+            "file_r2": "05e43dbb5482a244cf42d06ebe7269e5.THY-0376C.recalibrated.bam",
+            "insert_size": null,
+            "platform_unit": "THY-0365C_THY_376C",
+            "is_paired_end": true,
+            "library_name": "paired-end",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": "THY-0365C",
+            "submitter_read_group_id": "THY-0365C_THY_376C"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-130",
+        "experimental_strategy": "WXS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 1
+}

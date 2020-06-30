@@ -1,0 +1,61 @@
+{
+    "studyId": "PTC-SA",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "655B",
+            "matchedNormalSubmitterSampleId": null,
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "655B",
+                "specimenType": "Normal",
+                "tumourNormalDesignation": "Normal",
+                "specimenTissueSource": "Blood derived"
+            },
+            "donor": {
+                "submitterDonorId": "655C",
+                "gender": "Female"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "Submitted Reads",
+            "fileName": "246bb86e564accc62b963e45964305c1.PTC-0655B.recalibrated.bam",
+            "fileSize": 13350450526,
+            "fileType": "BAM",
+            "fileMd5sum": "246bb86e564accc62b963e45964305c1",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "EGAZ00001316277",
+                "data_category": "Sequencing Reads"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "246bb86e564accc62b963e45964305c1.PTC-0655B.recalibrated.bam",
+            "file_r2": "246bb86e564accc62b963e45964305c1.PTC-0655B.recalibrated.bam",
+            "insert_size": null,
+            "platform_unit": "PTC-0655B_655B",
+            "is_paired_end": true,
+            "library_name": "paired-end",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": "PTC-0655B",
+            "submitter_read_group_id": "PTC-0655B_655B"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-267",
+        "experimental_strategy": "WXS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 1
+}

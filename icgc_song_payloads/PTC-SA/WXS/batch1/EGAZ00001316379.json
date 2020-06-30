@@ -1,0 +1,61 @@
+{
+    "studyId": "PTC-SA",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "THY_1002C",
+            "matchedNormalSubmitterSampleId": "THY_1002N",
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "1002C",
+                "specimenType": "Primary tumour",
+                "tumourNormalDesignation": "Tumour",
+                "specimenTissueSource": "Solid tissue"
+            },
+            "donor": {
+                "submitterDonorId": "THY_1002C",
+                "gender": "Male"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "Submitted Reads",
+            "fileName": "766b866c03eae37b76f3e34226e24d19.THY-1002C.recalibrated.bam",
+            "fileSize": 10077514064,
+            "fileType": "BAM",
+            "fileMd5sum": "766b866c03eae37b76f3e34226e24d19",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "EGAZ00001316379",
+                "data_category": "Sequencing Reads"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "766b866c03eae37b76f3e34226e24d19.THY-1002C.recalibrated.bam",
+            "file_r2": "766b866c03eae37b76f3e34226e24d19.THY-1002C.recalibrated.bam",
+            "insert_size": null,
+            "platform_unit": "THY-1002C_THY_1002C",
+            "is_paired_end": true,
+            "library_name": "paired-end",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": "THY-1002C",
+            "submitter_read_group_id": "THY-1002C_THY_1002C"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-51",
+        "experimental_strategy": "WXS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 1
+}

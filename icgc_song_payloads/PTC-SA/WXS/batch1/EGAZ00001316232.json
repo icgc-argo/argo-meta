@@ -1,0 +1,61 @@
+{
+    "studyId": "PTC-SA",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "492B",
+            "matchedNormalSubmitterSampleId": null,
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "492B",
+                "specimenType": "Normal",
+                "tumourNormalDesignation": "Normal",
+                "specimenTissueSource": "Blood derived"
+            },
+            "donor": {
+                "submitterDonorId": "492C",
+                "gender": "Male"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "Submitted Reads",
+            "fileName": "930e89c8de24ab9c4cf61bdb889c4a04.PTC-492B.recalibrated.bam",
+            "fileSize": 15782747790,
+            "fileType": "BAM",
+            "fileMd5sum": "930e89c8de24ab9c4cf61bdb889c4a04",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "EGAZ00001316232",
+                "data_category": "Sequencing Reads"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "930e89c8de24ab9c4cf61bdb889c4a04.PTC-492B.recalibrated.bam",
+            "file_r2": "930e89c8de24ab9c4cf61bdb889c4a04.PTC-492B.recalibrated.bam",
+            "insert_size": null,
+            "platform_unit": "492B_492B",
+            "is_paired_end": true,
+            "library_name": "paired-ends",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": "492B",
+            "submitter_read_group_id": "492B_492B"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-66",
+        "experimental_strategy": "WXS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 1
+}

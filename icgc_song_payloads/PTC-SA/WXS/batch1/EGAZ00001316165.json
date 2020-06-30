@@ -1,0 +1,61 @@
+{
+    "studyId": "PTC-SA",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "409C",
+            "matchedNormalSubmitterSampleId": "409B",
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "409FC",
+                "specimenType": "Primary tumour",
+                "tumourNormalDesignation": "Tumour",
+                "specimenTissueSource": "Solid tissue"
+            },
+            "donor": {
+                "submitterDonorId": "409C",
+                "gender": "Female"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "Submitted Reads",
+            "fileName": "61e58ce00a7e813cd6edf441a8f22440.PTC-409FC.recal.bam",
+            "fileSize": 5320686834,
+            "fileType": "BAM",
+            "fileMd5sum": "61e58ce00a7e813cd6edf441a8f22440",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "EGAZ00001316165",
+                "data_category": "Sequencing Reads"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "61e58ce00a7e813cd6edf441a8f22440.PTC-409FC.recal.bam",
+            "file_r2": "61e58ce00a7e813cd6edf441a8f22440.PTC-409FC.recal.bam",
+            "insert_size": null,
+            "platform_unit": "MG00HS19_409C",
+            "is_paired_end": true,
+            "library_name": "SS4",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": "MG00HS19",
+            "submitter_read_group_id": "MG00HS19_409C"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-96",
+        "experimental_strategy": "WXS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 1
+}

@@ -1,0 +1,61 @@
+{
+    "studyId": "PTC-SA",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "900C",
+            "matchedNormalSubmitterSampleId": "900B",
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "900FC",
+                "specimenType": "Primary tumour",
+                "tumourNormalDesignation": "Tumour",
+                "specimenTissueSource": "Solid tissue"
+            },
+            "donor": {
+                "submitterDonorId": "900C",
+                "gender": "Male"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "Submitted Reads",
+            "fileName": "9d21621b7feb002b930f0a1892a58a13.PTC-0900FC.recalibrated.bam",
+            "fileSize": 9419356716,
+            "fileType": "BAM",
+            "fileMd5sum": "9d21621b7feb002b930f0a1892a58a13",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "EGAZ00001316332",
+                "data_category": "Sequencing Reads"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "9d21621b7feb002b930f0a1892a58a13.PTC-0900FC.recalibrated.bam",
+            "file_r2": "9d21621b7feb002b930f0a1892a58a13.PTC-0900FC.recalibrated.bam",
+            "insert_size": null,
+            "platform_unit": "0900FC_900C",
+            "is_paired_end": true,
+            "library_name": "paired-end",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": "0900FC",
+            "submitter_read_group_id": "0900FC_900C"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-170",
+        "experimental_strategy": "WXS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 1
+}
