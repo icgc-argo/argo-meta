@@ -1,0 +1,2560 @@
+{
+  "success" : [ {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316374.json",
+    "targetAnalysisId" : "f5ef8991-741a-4b7e-af89-91741a1b7eea",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316374" ],
+    "objectIdsMigrated" : [ "424da858-0dee-552d-bc40-c6e1c4195bcf" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316385.json",
+    "targetAnalysisId" : "993c1ec2-05c4-48ea-bc1e-c205c428ea6d",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316385" ],
+    "objectIdsMigrated" : [ "fdb5d1cc-1df4-5f26-98ba-80b1ca7732f3" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316295.json",
+    "targetAnalysisId" : "cb3b5f51-47c2-48a1-bb5f-5147c278a10d",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316295" ],
+    "objectIdsMigrated" : [ "34e13902-f0a7-52da-bedd-a63e5f89c18c" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316250.json",
+    "targetAnalysisId" : "81f93231-2494-4794-b932-312494b7946b",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316250" ],
+    "objectIdsMigrated" : [ "76f87274-e5d0-5dfc-b792-0d4ee60ee6fa" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316381.json",
+    "targetAnalysisId" : "428ae5ae-4098-41ed-8ae5-ae4098b1ed4c",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316381" ],
+    "objectIdsMigrated" : [ "ed85e16a-a71e-5ffc-bc2f-6392226c7b43" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316392.json",
+    "targetAnalysisId" : "7e63ca53-3d1a-466a-a3ca-533d1af66aa4",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316392" ],
+    "objectIdsMigrated" : [ "320b7c76-81f9-5eb7-9cbd-3eaf108039ec" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316359.json",
+    "targetAnalysisId" : "a3ffa1f9-1f0c-4489-bfa1-f91f0cc48966",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316359" ],
+    "objectIdsMigrated" : [ "75c8c67b-1955-598d-9689-b0541b14b085" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316342.json",
+    "targetAnalysisId" : "e3264781-1263-4daa-a647-811263cdaa4e",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316342" ],
+    "objectIdsMigrated" : [ "f9e4451b-b0c9-5cbe-9265-f9821f623cb7" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316225.json",
+    "targetAnalysisId" : "208675bf-844a-47ad-8675-bf844a47ad29",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316225" ],
+    "objectIdsMigrated" : [ "b977ec06-7bf9-5831-9118-b225bd532cca" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316185.json",
+    "targetAnalysisId" : "7d3a9942-ca40-40ed-ba99-42ca40a0eddf",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316185" ],
+    "objectIdsMigrated" : [ "59cf50ed-0a80-5fc9-9102-c4721e65d8d4" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316271.json",
+    "targetAnalysisId" : "bf3a2ffa-db8d-4b50-ba2f-fadb8d8b5076",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316271" ],
+    "objectIdsMigrated" : [ "87ad678b-0ec3-5eaf-a886-e100c5b46123" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316339.json",
+    "targetAnalysisId" : "9928058d-c6f0-4b1c-a805-8dc6f0fb1c0e",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316339" ],
+    "objectIdsMigrated" : [ "78e446c0-0592-5934-b423-69fb31419c5c" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316369.json",
+    "targetAnalysisId" : "f1460157-d5b9-46c8-8601-57d5b976c897",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316369" ],
+    "objectIdsMigrated" : [ "1012c5f6-c863-55e9-83f5-05567c5504fe" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316253.json",
+    "targetAnalysisId" : "def0b873-213d-4e2e-b0b8-73213dae2eaf",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316253" ],
+    "objectIdsMigrated" : [ "2783324c-eb7a-50ed-8fe4-927d05834a56" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316160.json",
+    "targetAnalysisId" : "7b773ede-4a5c-4bb3-b73e-de4a5ccbb344",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316160" ],
+    "objectIdsMigrated" : [ "527acfae-fa7b-5f6d-81b5-a4a89d565840" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316356.json",
+    "targetAnalysisId" : "00d31b24-b15d-4da3-931b-24b15d6da3af",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316356" ],
+    "objectIdsMigrated" : [ "8d0a8c84-c82c-5755-a033-f83b04fa6ff2" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316362.json",
+    "targetAnalysisId" : "35a7db6a-ba19-4b37-a7db-6aba197b37e9",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316362" ],
+    "objectIdsMigrated" : [ "e53717e8-ea51-5440-86a6-fcc5148c5bbf" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316287.json",
+    "targetAnalysisId" : "2552d626-00da-4657-92d6-2600da3657a5",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316287" ],
+    "objectIdsMigrated" : [ "06c912f3-4d09-5a80-b34a-4c9a5420c18a" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316247.json",
+    "targetAnalysisId" : "ebcc3587-9ef2-4a28-8c35-879ef20a28ae",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316247" ],
+    "objectIdsMigrated" : [ "effd5fa8-e470-592b-b8aa-9caa3c9a17ff" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316349.json",
+    "targetAnalysisId" : "d8f02fe5-9386-4e1d-b02f-e59386ce1daa",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316349" ],
+    "objectIdsMigrated" : [ "b92c562d-cff0-5a15-a7f9-1d4844856449" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316265.json",
+    "targetAnalysisId" : "3d587496-28dc-459a-9874-9628dcd59a22",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316265" ],
+    "objectIdsMigrated" : [ "53afa36d-e31d-58f3-97ce-8e44f185ee42" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316331.json",
+    "targetAnalysisId" : "d6819f66-3cef-42b4-819f-663cef02b455",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316331" ],
+    "objectIdsMigrated" : [ "80166b61-8175-59ba-9f2b-2f32b35f83f2" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316141.json",
+    "targetAnalysisId" : "479256b6-1c78-4d4f-9256-b61c789d4f04",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316141" ],
+    "objectIdsMigrated" : [ "76cca72e-3dd9-51b4-89e1-b4038acef68e" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316341.json",
+    "targetAnalysisId" : "b3377feb-73e5-497f-b77f-eb73e5197fd3",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316341" ],
+    "objectIdsMigrated" : [ "384236f0-185b-5a97-94d2-e0a8bb1e9e26" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316391.json",
+    "targetAnalysisId" : "43266f82-58f6-4020-a66f-8258f630205f",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316391" ],
+    "objectIdsMigrated" : [ "3c573219-cafb-59b3-9272-ce693398fdc1" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316188.json",
+    "targetAnalysisId" : "14442af8-d495-45fb-842a-f8d49575fb86",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316188" ],
+    "objectIdsMigrated" : [ "8f755e1f-267c-5467-91d5-8e3de8a92811" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316337.json",
+    "targetAnalysisId" : "b6c335b7-d2f9-4509-8335-b7d2f9b5092f",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316337" ],
+    "objectIdsMigrated" : [ "7bc896e6-722b-5619-ba8b-8cd3227823c6" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316379.json",
+    "targetAnalysisId" : "b1bced7d-613a-4506-bced-7d613a15069a",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316379" ],
+    "objectIdsMigrated" : [ "b582890a-3f21-5121-b2b7-4c67bb36ccdf" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316261.json",
+    "targetAnalysisId" : "b24ee891-a313-41ec-8ee8-91a313f1ec43",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316261" ],
+    "objectIdsMigrated" : [ "a772f635-06d8-5311-9a31-a563a896c473" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316384.json",
+    "targetAnalysisId" : "c02d6a7f-f523-4919-ad6a-7ff5236919b3",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316384" ],
+    "objectIdsMigrated" : [ "9bfc4333-2ff8-5ac5-9b0e-52a9f686d1f8" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316222.json",
+    "targetAnalysisId" : "7b5603ef-d928-4844-9603-efd928184459",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316222" ],
+    "objectIdsMigrated" : [ "7ae4f13a-7c97-5b3c-9684-83adda1a3c50" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316246.json",
+    "targetAnalysisId" : "100358a1-2b64-4260-8358-a12b6412603c",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316246" ],
+    "objectIdsMigrated" : [ "3f27b6bd-b98a-5971-84cd-ad984d2967f4" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316360.json",
+    "targetAnalysisId" : "631f662e-eeb5-4ade-9f66-2eeeb5aade73",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316360" ],
+    "objectIdsMigrated" : [ "9c5ac7ce-796e-577f-a217-9f03277ba01f" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316263.json",
+    "targetAnalysisId" : "aa5ef92a-1616-4c4a-9ef9-2a16164c4ab8",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316263" ],
+    "objectIdsMigrated" : [ "9792e93f-2fb4-5ca0-94f9-b220f4270100" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316333.json",
+    "targetAnalysisId" : "98bfbc7a-9f88-40e0-bfbc-7a9f88d0e0fd",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316333" ],
+    "objectIdsMigrated" : [ "f8862747-b7b3-5221-a0d4-50cd8ae3a334" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316321.json",
+    "targetAnalysisId" : "d9007a38-f76c-4f12-807a-38f76cff1297",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316321" ],
+    "objectIdsMigrated" : [ "d534f3aa-ebb3-59b2-be66-ee77034c20c7" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316383.json",
+    "targetAnalysisId" : "46be0f9e-ab48-4166-be0f-9eab489166ea",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316383" ],
+    "objectIdsMigrated" : [ "4d4ef37d-29ef-5c08-ade4-3247c31cf15e" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316157.json",
+    "targetAnalysisId" : "b96c9d72-d2e7-4413-ac9d-72d2e724132e",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316157" ],
+    "objectIdsMigrated" : [ "75eeed6f-609a-576a-9202-065f4d5ba474" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316178.json",
+    "targetAnalysisId" : "4d600e47-d370-4888-a00e-47d370a88811",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316178" ],
+    "objectIdsMigrated" : [ "455ce6f2-ee83-5b7f-b5b4-bcb2651caf61" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316152.json",
+    "targetAnalysisId" : "243476f5-ecaa-41d5-b476-f5ecaa31d50d",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316152" ],
+    "objectIdsMigrated" : [ "5e60257d-eb0a-5254-8904-5b22d6c3f915" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316397.json",
+    "targetAnalysisId" : "90b407b9-7cc1-4b6a-b407-b97cc1cb6ae7",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316397" ],
+    "objectIdsMigrated" : [ "cb3c6c4b-41a2-5ca2-a353-0874a9d6eb45" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316201.json",
+    "targetAnalysisId" : "c3d205a6-6ade-4e98-9205-a66adefe980c",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316201" ],
+    "objectIdsMigrated" : [ "9dfce1a9-9320-526d-8704-cc3bb8a79832" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316302.json",
+    "targetAnalysisId" : "71aeb573-2de1-450c-aeb5-732de1550ceb",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316302" ],
+    "objectIdsMigrated" : [ "049c7603-cac5-541f-8dbd-92b1bc4bb52a" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316269.json",
+    "targetAnalysisId" : "9f71dd69-4c9a-4335-b1dd-694c9af33543",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316269" ],
+    "objectIdsMigrated" : [ "083e34f9-72bd-5224-b14d-35598cbbbe8d" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316364.json",
+    "targetAnalysisId" : "a545ba2e-3532-47ca-85ba-2e3532a7ca1c",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316364" ],
+    "objectIdsMigrated" : [ "2ed10c22-ae77-5d6d-ba5b-8779111a49f7" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316136.json",
+    "targetAnalysisId" : "5100c119-f08c-4fa2-80c1-19f08cbfa24c",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316136" ],
+    "objectIdsMigrated" : [ "dce0eb5c-bcb2-54d3-8d60-bae32d5d8701" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316146.json",
+    "targetAnalysisId" : "c98d08c1-9162-414c-8d08-c19162c14c37",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316146" ],
+    "objectIdsMigrated" : [ "e8e02e21-27d4-5ce8-98ca-c0efa45e882b" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316310.json",
+    "targetAnalysisId" : "1af7833b-04a1-4987-b783-3b04a1a987ee",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316310" ],
+    "objectIdsMigrated" : [ "c8a984bb-3283-5bdb-9803-7ffd2b43bf9f" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316248.json",
+    "targetAnalysisId" : "e3e10848-4cc5-4575-a108-484cc52575c3",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316248" ],
+    "objectIdsMigrated" : [ "767bb234-c61e-5464-bf64-3d08b905c294" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316127.json",
+    "targetAnalysisId" : "c9289393-f966-433b-a893-93f966a33ba7",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316127" ],
+    "objectIdsMigrated" : [ "a1027613-4d49-547e-a8c1-7b10a4e38b8a" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316330.json",
+    "targetAnalysisId" : "2ea5123a-90fb-4f45-a512-3a90fb9f456b",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316330" ],
+    "objectIdsMigrated" : [ "9a4157cd-d49a-54e0-a8ec-68a3d863fd17" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316358.json",
+    "targetAnalysisId" : "6b51a539-9dd2-4fdc-91a5-399dd2dfdc05",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316358" ],
+    "objectIdsMigrated" : [ "423c17e7-3408-5460-8afe-c4116a862021" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316368.json",
+    "targetAnalysisId" : "3db2af61-d0f6-46b8-b2af-61d0f636b8f9",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316368" ],
+    "objectIdsMigrated" : [ "68aeb6f0-aac9-5c67-8453-fb641da9c9bf" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316233.json",
+    "targetAnalysisId" : "69f17e7d-370f-48b3-b17e-7d370f88b318",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316233" ],
+    "objectIdsMigrated" : [ "7d7985fe-bf2e-5d95-9704-583a99e7ed45" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316335.json",
+    "targetAnalysisId" : "52409019-7f15-43e6-8090-197f1593e678",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316335" ],
+    "objectIdsMigrated" : [ "c270453c-c697-518e-b804-ca1e202bd7b5" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316184.json",
+    "targetAnalysisId" : "43789480-56e6-4a96-b894-8056e6ea966c",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316184" ],
+    "objectIdsMigrated" : [ "fdb8a766-d954-5377-9678-00b444ba4012" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316240.json",
+    "targetAnalysisId" : "8e23c167-ab48-4983-a3c1-67ab484983a5",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316240" ],
+    "objectIdsMigrated" : [ "e5926afd-0899-5dac-8d1d-a830843a4ac8" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316118.json",
+    "targetAnalysisId" : "410b0382-e39f-4b25-8b03-82e39ffb25e1",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316118" ],
+    "objectIdsMigrated" : [ "4ef78154-755d-5f53-b70e-6cdad1cfc1fb" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316275.json",
+    "targetAnalysisId" : "d24ac537-6397-4087-8ac5-376397b087f9",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316275" ],
+    "objectIdsMigrated" : [ "38c1905f-10f5-520c-abb7-194fde67e90b" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316172.json",
+    "targetAnalysisId" : "c098073b-37de-419a-9807-3b37dee19a17",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316172" ],
+    "objectIdsMigrated" : [ "71e7f4b1-ece0-585e-bef6-da72b31897d2" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316324.json",
+    "targetAnalysisId" : "5dbe752b-5260-49ce-be75-2b526029ce5d",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316324" ],
+    "objectIdsMigrated" : [ "a996b078-1805-5743-a1cf-380adfd1e306" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316114.json",
+    "targetAnalysisId" : "118ec827-8361-432d-8ec8-278361232d07",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316114" ],
+    "objectIdsMigrated" : [ "3e849844-e889-5c49-bf83-a86b9e770ef4" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316305.json",
+    "targetAnalysisId" : "50a18d56-4183-46b4-a18d-56418306b49c",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316305" ],
+    "objectIdsMigrated" : [ "f42eb78a-0350-5858-9c43-455d4a189f3d" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316244.json",
+    "targetAnalysisId" : "6f28a032-b15d-413e-a8a0-32b15d113e06",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316244" ],
+    "objectIdsMigrated" : [ "6ded02e0-725a-55c3-8907-cbcf38b8b8cc" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316139.json",
+    "targetAnalysisId" : "fd9a9956-576d-4b31-9a99-56576d4b3126",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316139" ],
+    "objectIdsMigrated" : [ "6a4b6191-1406-53b1-b3ed-89a6f3b0fce7" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316402.json",
+    "targetAnalysisId" : "8b7a2a32-b0bd-4648-ba2a-32b0bd0648fb",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316402" ],
+    "objectIdsMigrated" : [ "0a76ac52-84e4-5b2e-9ac7-0adf1c3ad58f" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316130.json",
+    "targetAnalysisId" : "e2e9b2d2-e35b-463f-a9b2-d2e35b063fcf",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316130" ],
+    "objectIdsMigrated" : [ "9d8b4dff-78d6-511f-9be8-de39c4f9f013" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316181.json",
+    "targetAnalysisId" : "2fcec672-78d9-46c9-8ec6-7278d906c964",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316181" ],
+    "objectIdsMigrated" : [ "615d99f0-f979-5ab5-be1a-3c216901cc3a" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316134.json",
+    "targetAnalysisId" : "6ae54941-3274-4ea1-a549-4132742ea191",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316134" ],
+    "objectIdsMigrated" : [ "ddee2c67-6ff4-597f-9878-2f44bc910387" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316328.json",
+    "targetAnalysisId" : "89143aa4-3da7-4afe-943a-a43da7bafeb1",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316328" ],
+    "objectIdsMigrated" : [ "090b1ed4-eb51-5e34-bcb7-3e1bf2ed4e06" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316206.json",
+    "targetAnalysisId" : "f6b9767a-36b4-4780-b976-7a36b4f78050",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316206" ],
+    "objectIdsMigrated" : [ "b7a57759-ea2d-5869-ae93-cb8e253c1138" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316300.json",
+    "targetAnalysisId" : "b8ab0790-e686-4782-ab07-90e686e782a4",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316300" ],
+    "objectIdsMigrated" : [ "4dffd343-4540-5d4b-a01d-326c8255888e" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316191.json",
+    "targetAnalysisId" : "702402a1-e4d4-46d4-a402-a1e4d486d43d",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316191" ],
+    "objectIdsMigrated" : [ "eef781d3-e075-5935-983d-02505c2df220" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316284.json",
+    "targetAnalysisId" : "7741728e-49d5-4397-8172-8e49d503978b",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316284" ],
+    "objectIdsMigrated" : [ "0e9beb14-057e-5328-886d-d012dc811ecc" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316196.json",
+    "targetAnalysisId" : "6fdde55f-30d6-4ed6-9de5-5f30d6bed6ee",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316196" ],
+    "objectIdsMigrated" : [ "be33079c-edac-5b75-81c2-f2a9b6923b08" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316291.json",
+    "targetAnalysisId" : "2b516bee-4a60-43c7-916b-ee4a6073c7fd",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316291" ],
+    "objectIdsMigrated" : [ "0c58ed0f-0a51-54f0-bbf3-e82586d80887" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316396.json",
+    "targetAnalysisId" : "97505dfc-9607-47ca-905d-fc960727caa3",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316396" ],
+    "objectIdsMigrated" : [ "206bf6bc-77a5-5ff4-96fa-0a40f0cd46dd" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316236.json",
+    "targetAnalysisId" : "f07fd040-489b-4830-bfd0-40489b9830ee",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316236" ],
+    "objectIdsMigrated" : [ "c1c1bcda-a44b-5dd9-8b64-394534d13e70" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316292.json",
+    "targetAnalysisId" : "541ffa96-0331-42b5-9ffa-960331c2b584",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316292" ],
+    "objectIdsMigrated" : [ "62e21af6-8280-5527-b407-64b9f3071f4c" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316314.json",
+    "targetAnalysisId" : "2c939fd2-2b4b-4d5e-939f-d22b4bfd5e96",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316314" ],
+    "objectIdsMigrated" : [ "564b39d5-1c4e-5dee-8f9f-535ae83f7206" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316273.json",
+    "targetAnalysisId" : "5ba24ec5-4f79-472f-a24e-c54f79872fd5",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316273" ],
+    "objectIdsMigrated" : [ "940f78dc-13ee-5a27-aa27-c1f3d6723a36" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316255.json",
+    "targetAnalysisId" : "9c498346-2f34-436f-8983-462f34e36f01",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316255" ],
+    "objectIdsMigrated" : [ "f555e7b8-105d-5c54-b43f-e727fd91140f" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316315.json",
+    "targetAnalysisId" : "21765ed6-a4bd-4e34-b65e-d6a4bdbe345a",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316315" ],
+    "objectIdsMigrated" : [ "0ed8845d-8a58-5af3-bc3c-cffbded577ec" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316259.json",
+    "targetAnalysisId" : "108028c5-1f83-4752-8028-c51f83f752a4",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316259" ],
+    "objectIdsMigrated" : [ "b09d027f-936d-549f-8805-58740f422e64" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316380.json",
+    "targetAnalysisId" : "ac4e8573-e667-490b-8e85-73e667790b22",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316380" ],
+    "objectIdsMigrated" : [ "6174c46b-e23a-57bb-bd4e-5e22a63196eb" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316288.json",
+    "targetAnalysisId" : "defb72e4-2ed1-4d0b-bb72-e42ed12d0b72",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316288" ],
+    "objectIdsMigrated" : [ "6daed526-06c3-5d9e-a27b-2520d304dceb" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316148.json",
+    "targetAnalysisId" : "6a9e7186-4516-43e4-9e71-86451633e4ac",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316148" ],
+    "objectIdsMigrated" : [ "2d722287-f1ec-540e-8940-4914bac54ff8" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316256.json",
+    "targetAnalysisId" : "10a31f74-5ef6-4541-a31f-745ef6f541e2",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316256" ],
+    "objectIdsMigrated" : [ "c9353d39-bb88-5658-a45a-efffcca8a7e1" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316354.json",
+    "targetAnalysisId" : "12f15510-2770-47bf-b155-10277077bf34",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316354" ],
+    "objectIdsMigrated" : [ "1bbb7897-e120-5d46-9d49-8c90abf7a2bd" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316235.json",
+    "targetAnalysisId" : "cbb605aa-c12c-453d-b605-aac12cc53d2b",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316235" ],
+    "objectIdsMigrated" : [ "95b57545-ac6c-57fc-abe1-26fe0c5d89af" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316280.json",
+    "targetAnalysisId" : "38084d21-0129-46ce-884d-21012926ce42",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316280" ],
+    "objectIdsMigrated" : [ "e5529a9f-40c1-5f0b-8cf5-a763b47ccc27" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316204.json",
+    "targetAnalysisId" : "96558525-60b7-44fe-9585-2560b7c4fe34",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316204" ],
+    "objectIdsMigrated" : [ "5c33fbe7-f7d7-5158-9a14-56a5ab012468" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316121.json",
+    "targetAnalysisId" : "118f58bb-5f56-443b-8f58-bb5f56e43b3a",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316121" ],
+    "objectIdsMigrated" : [ "e8248dfb-3388-57ac-a760-30b8cc4806f8" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316165.json",
+    "targetAnalysisId" : "605c98f6-4994-440e-9c98-f64994e40e28",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316165" ],
+    "objectIdsMigrated" : [ "a7d31483-2cfd-54d4-8c94-047433577ddc" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316319.json",
+    "targetAnalysisId" : "4c45269d-89b3-4c0b-8526-9d89b3fc0b08",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316319" ],
+    "objectIdsMigrated" : [ "e24674ce-769a-5c6b-87e0-58ade1a56af4" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316329.json",
+    "targetAnalysisId" : "80cc8f0f-d26f-427c-8c8f-0fd26f927ca2",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316329" ],
+    "objectIdsMigrated" : [ "1ea00088-b187-5306-a669-2305d3b0be3c" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316312.json",
+    "targetAnalysisId" : "eae1f332-4218-42bb-a1f3-32421822bb13",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316312" ],
+    "objectIdsMigrated" : [ "6a011ca9-04b5-560f-82e5-6a84a05dbd3a" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316224.json",
+    "targetAnalysisId" : "854029a9-cd4b-4a3f-8029-a9cd4b8a3fb7",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316224" ],
+    "objectIdsMigrated" : [ "a3edff32-4f02-55b3-947b-d678ae1e9e17" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316347.json",
+    "targetAnalysisId" : "3c800ea9-40db-47ea-800e-a940db57ea85",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316347" ],
+    "objectIdsMigrated" : [ "bf964286-015d-5218-aa20-6320b2559c4d" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316376.json",
+    "targetAnalysisId" : "a072fa0b-14a6-42c1-b2fa-0b14a612c1fc",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316376" ],
+    "objectIdsMigrated" : [ "7642b8aa-8cbe-58cc-aa22-bf444134c5b2" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316378.json",
+    "targetAnalysisId" : "feb53376-ded3-4154-b533-76ded3615495",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316378" ],
+    "objectIdsMigrated" : [ "de086fee-47f1-5238-8181-00124cce6cbf" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316252.json",
+    "targetAnalysisId" : "dfd2c0d0-5b3e-47e0-92c0-d05b3e97e088",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316252" ],
+    "objectIdsMigrated" : [ "f385365d-945e-5a91-b007-19243b028559" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316243.json",
+    "targetAnalysisId" : "02af2a21-ffc0-4108-af2a-21ffc0e10878",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316243" ],
+    "objectIdsMigrated" : [ "2720f4d9-f367-5cc8-be8c-10ed1156e742" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316234.json",
+    "targetAnalysisId" : "fd4e7cd4-4ffb-4c95-8e7c-d44ffb1c95af",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316234" ],
+    "objectIdsMigrated" : [ "cd7d9e37-b2cd-5bc6-9832-170b2c618619" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316343.json",
+    "targetAnalysisId" : "40fe28b0-9cf7-4e76-be28-b09cf7ee76f6",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316343" ],
+    "objectIdsMigrated" : [ "9b9ae3a0-940a-5a7e-b9e8-8a86dc84ac4f" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316205.json",
+    "targetAnalysisId" : "2a65bf75-87af-478b-a5bf-7587af778b39",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316205" ],
+    "objectIdsMigrated" : [ "f1b0d5cb-4248-5446-aadf-ca4cf069c1a8" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316317.json",
+    "targetAnalysisId" : "dab90f37-3cee-423b-b90f-373cee923b24",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316317" ],
+    "objectIdsMigrated" : [ "bc637538-8ece-5a7d-87ef-9d643efb4293" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316306.json",
+    "targetAnalysisId" : "4ec90bc2-455d-48a3-890b-c2455d98a3c3",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316306" ],
+    "objectIdsMigrated" : [ "1bdb4a19-685f-58aa-b8e5-feeb5f9828fb" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316194.json",
+    "targetAnalysisId" : "d9448ea8-f45f-4ec7-848e-a8f45fbec787",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316194" ],
+    "objectIdsMigrated" : [ "df820848-35f1-5b47-8e89-de259be9ec40" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316238.json",
+    "targetAnalysisId" : "3ca8e29c-67aa-4ba4-a8e2-9c67aaeba496",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316238" ],
+    "objectIdsMigrated" : [ "35e6add7-9efd-54e8-ba6e-af81c019f582" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316373.json",
+    "targetAnalysisId" : "bedc06f3-ecdb-4254-9c06-f3ecdb02545d",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316373" ],
+    "objectIdsMigrated" : [ "4cabe65e-fe5e-5483-93e9-80a1cf77c21a" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316214.json",
+    "targetAnalysisId" : "43f1a25d-f5e3-4302-b1a2-5df5e36302d5",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316214" ],
+    "objectIdsMigrated" : [ "0ceaac90-2f01-5782-b1e4-67a6702b86b7" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316149.json",
+    "targetAnalysisId" : "5cf03a9e-6bd5-41f1-b03a-9e6bd501f1c6",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316149" ],
+    "objectIdsMigrated" : [ "2fa72903-b8df-51cd-a4d8-6ad2c99b5d5e" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316272.json",
+    "targetAnalysisId" : "0d8313d3-1ac3-402e-8313-d31ac3502e88",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316272" ],
+    "objectIdsMigrated" : [ "ca573c56-d045-5bb8-9942-6191a466ad20" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316232.json",
+    "targetAnalysisId" : "b22226d7-7311-4151-a226-d77311c151a5",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316232" ],
+    "objectIdsMigrated" : [ "12940c31-1fe0-5e01-865a-4406aa4703fa" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316274.json",
+    "targetAnalysisId" : "fd973c28-dbc5-4e1c-973c-28dbc50e1c98",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316274" ],
+    "objectIdsMigrated" : [ "b8105d3c-bbad-5969-8bf3-b1d8288042e6" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316213.json",
+    "targetAnalysisId" : "625db7b4-fd80-43fb-9db7-b4fd8023fb67",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316213" ],
+    "objectIdsMigrated" : [ "0762870d-c045-5de0-8cdf-24652519a326" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316390.json",
+    "targetAnalysisId" : "05142345-6c6d-499e-9423-456c6db99e67",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316390" ],
+    "objectIdsMigrated" : [ "3a245a53-7571-54f1-99a7-4ee3bcd4309c" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316192.json",
+    "targetAnalysisId" : "aeaa4ff7-8fa0-4170-aa4f-f78fa0f170eb",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316192" ],
+    "objectIdsMigrated" : [ "3de796b5-f526-5893-b52b-a7253a71ffe4" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316294.json",
+    "targetAnalysisId" : "24ab8077-db08-4cc2-ab80-77db084cc2fa",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316294" ],
+    "objectIdsMigrated" : [ "98a8eefc-dcbe-5b64-a009-4ff303b03b06" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316387.json",
+    "targetAnalysisId" : "367664c0-ce33-4738-b664-c0ce3337386e",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316387" ],
+    "objectIdsMigrated" : [ "1ef0c511-7f52-5117-9faf-026fac2e500f" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316386.json",
+    "targetAnalysisId" : "f383d64a-5edc-40af-83d6-4a5edc40af5c",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316386" ],
+    "objectIdsMigrated" : [ "89e160a1-e5e7-5d8f-b8d3-6b5425d3f3ed" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316170.json",
+    "targetAnalysisId" : "7ad0e12b-4383-4edf-90e1-2b43836edfc9",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316170" ],
+    "objectIdsMigrated" : [ "367d3c1e-8123-5ca9-8d04-679879bb3d74" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316217.json",
+    "targetAnalysisId" : "fe6f4748-7bfd-45db-af47-487bfd75db3c",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316217" ],
+    "objectIdsMigrated" : [ "0fba89cb-1dec-5225-b189-a90b4d4070ce" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316186.json",
+    "targetAnalysisId" : "d69d2063-67db-4c14-9d20-6367dbec1487",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316186" ],
+    "objectIdsMigrated" : [ "1f2dabe7-58a9-5196-aba3-dab509985501" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316207.json",
+    "targetAnalysisId" : "bae5e26f-0f69-49da-a5e2-6f0f6919da51",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316207" ],
+    "objectIdsMigrated" : [ "948d6e87-c492-53f2-89f1-236a84a70a26" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316278.json",
+    "targetAnalysisId" : "0471f211-24aa-481a-b1f2-1124aad81aab",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316278" ],
+    "objectIdsMigrated" : [ "bfb423d5-76bc-5414-92bb-8fe5578ed87e" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316400.json",
+    "targetAnalysisId" : "7ced93da-7123-4232-ad93-da7123b232e7",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316400" ],
+    "objectIdsMigrated" : [ "ab46c4d4-5761-5406-95de-d370053a2efd" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316283.json",
+    "targetAnalysisId" : "fc231dd2-a5e7-4662-a31d-d2a5e70662d2",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316283" ],
+    "objectIdsMigrated" : [ "9456dbda-b024-5703-ba30-526e0a3e390b" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316365.json",
+    "targetAnalysisId" : "a45930dd-575d-4c83-9930-dd575d3c83b7",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316365" ],
+    "objectIdsMigrated" : [ "7e712d77-3668-551a-98d1-0d769963e8d1" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316237.json",
+    "targetAnalysisId" : "fa6def0d-ff04-4904-adef-0dff042904bc",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316237" ],
+    "objectIdsMigrated" : [ "13c4cda9-8aeb-5552-9649-97a4edc20e85" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316138.json",
+    "targetAnalysisId" : "bc55dd21-7e6b-406a-95dd-217e6b506abf",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316138" ],
+    "objectIdsMigrated" : [ "1b6c3311-a99c-5ebd-b72a-b2619eea25ab" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316307.json",
+    "targetAnalysisId" : "66e96941-4648-435f-a969-414648d35f11",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316307" ],
+    "objectIdsMigrated" : [ "9fd03450-3c8c-524f-af53-b88a9ced02e7" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316389.json",
+    "targetAnalysisId" : "2a244c95-be25-4857-a44c-95be2508572d",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316389" ],
+    "objectIdsMigrated" : [ "fe7c21a5-8e3a-5bb7-ac59-b63e83f0e3dc" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316285.json",
+    "targetAnalysisId" : "4e171eaf-4336-46da-971e-af433606dafe",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316285" ],
+    "objectIdsMigrated" : [ "3e9989fb-30e9-52a0-b9fd-d97e2bafd569" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316304.json",
+    "targetAnalysisId" : "613fce58-0019-4d2d-bfce-580019ed2de1",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316304" ],
+    "objectIdsMigrated" : [ "8c682aec-161c-54e8-89ea-2c272834d2bb" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316262.json",
+    "targetAnalysisId" : "6bad1600-9293-483f-ad16-009293c83f0d",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316262" ],
+    "objectIdsMigrated" : [ "2b9823f2-0e5e-5a25-8fe4-8b80d85160ee" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316208.json",
+    "targetAnalysisId" : "8403788b-79f3-4a5f-8378-8b79f33a5f75",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316208" ],
+    "objectIdsMigrated" : [ "18384952-ce8e-5003-82dc-ac27f264dc08" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316260.json",
+    "targetAnalysisId" : "03b3ac11-f8f1-4604-b3ac-11f8f1760462",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316260" ],
+    "objectIdsMigrated" : [ "1dd950ab-7571-5cf3-a060-236371b29563" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316203.json",
+    "targetAnalysisId" : "fbe33410-5ddf-4875-a334-105ddf287571",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316203" ],
+    "objectIdsMigrated" : [ "5fbf56af-3ffe-5f76-9ea5-9bc8df66306d" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316334.json",
+    "targetAnalysisId" : "8f313d33-9930-4984-b13d-339930c984dd",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316334" ],
+    "objectIdsMigrated" : [ "4f35dfd5-514a-5ee6-b1eb-9d278af96f3c" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316177.json",
+    "targetAnalysisId" : "bcb0c665-4ee1-41ef-b0c6-654ee191efb1",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316177" ],
+    "objectIdsMigrated" : [ "8132524b-21fa-5a58-821f-9f99150091de" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316297.json",
+    "targetAnalysisId" : "4cd58a1f-c8e8-42f1-958a-1fc8e862f171",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316297" ],
+    "objectIdsMigrated" : [ "03bcdf1d-b1a3-5d29-9420-24c293a8cf6c" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316336.json",
+    "targetAnalysisId" : "ebb4f4e8-7ff8-4b82-b4f4-e87ff86b820d",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316336" ],
+    "objectIdsMigrated" : [ "b4b34681-a608-5190-b8dd-b001b6040a89" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316176.json",
+    "targetAnalysisId" : "7722aed3-7217-44c0-a2ae-d3721724c00b",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316176" ],
+    "objectIdsMigrated" : [ "0333d468-25d5-53eb-b176-faa453b020cb" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316135.json",
+    "targetAnalysisId" : "1edd6e51-5c22-49a9-9d6e-515c22c9a9a6",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316135" ],
+    "objectIdsMigrated" : [ "a44716c1-5496-546b-9a98-3446ec3ae6fb" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316370.json",
+    "targetAnalysisId" : "d91c6e1c-0df3-45bb-9c6e-1c0df3a5bbf2",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316370" ],
+    "objectIdsMigrated" : [ "b4a3d123-1106-50f4-b57f-4223ba99f752" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316123.json",
+    "targetAnalysisId" : "a27e675b-4fc9-4d3e-be67-5b4fc95d3eb4",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316123" ],
+    "objectIdsMigrated" : [ "71858965-76d8-5d15-8ab2-c15adcb10279" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316221.json",
+    "targetAnalysisId" : "7cb96a63-1cab-404e-b96a-631cab404e76",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316221" ],
+    "objectIdsMigrated" : [ "c423ccc0-98d6-5286-93cf-9fa395994581" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316338.json",
+    "targetAnalysisId" : "8b3830ae-2530-4547-b830-ae2530a54722",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316338" ],
+    "objectIdsMigrated" : [ "d116e07e-8f84-554e-a706-712f11cd360b" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316241.json",
+    "targetAnalysisId" : "46f927c2-d665-454b-b927-c2d665254b14",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316241" ],
+    "objectIdsMigrated" : [ "cda51327-a99b-5ab1-9867-fd3982c4ec0c" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316173.json",
+    "targetAnalysisId" : "188b1d3c-808b-45ff-8b1d-3c808b45ff3e",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316173" ],
+    "objectIdsMigrated" : [ "e9575b82-bde6-53e7-893d-b7318db56289" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316226.json",
+    "targetAnalysisId" : "af7c60eb-5fa1-4621-bc60-eb5fa17621e8",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316226" ],
+    "objectIdsMigrated" : [ "d88c7297-bdf7-5877-891c-41c767ed7961" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316357.json",
+    "targetAnalysisId" : "efa56289-e1d7-4e43-a562-89e1d7be4323",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316357" ],
+    "objectIdsMigrated" : [ "4e38a632-7b0c-580e-9f01-9632a07f241d" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316249.json",
+    "targetAnalysisId" : "9c6723b7-b98d-475e-a723-b7b98d575e1f",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316249" ],
+    "objectIdsMigrated" : [ "c2bb1fe6-4aba-5f46-af5f-1eb73ba5d717" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316227.json",
+    "targetAnalysisId" : "94709890-129e-43af-b098-90129e13afb1",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316227" ],
+    "objectIdsMigrated" : [ "c25663ba-0532-5f01-8703-0dbaee7bdc36" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316308.json",
+    "targetAnalysisId" : "cc88e213-57e8-4a44-88e2-1357e82a4470",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316308" ],
+    "objectIdsMigrated" : [ "3fb2bf38-37df-5023-bb2a-f9422a800150" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316309.json",
+    "targetAnalysisId" : "a184577f-48b8-49a0-8457-7f48b809a050",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316309" ],
+    "objectIdsMigrated" : [ "8a90d3e1-d1f1-5749-862a-2523ddb8c61f" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316267.json",
+    "targetAnalysisId" : "54f9d57f-3bb6-4360-b9d5-7f3bb67360c8",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316267" ],
+    "objectIdsMigrated" : [ "bef45d0b-89ce-5d08-bb43-1d8c1656f7b8" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316231.json",
+    "targetAnalysisId" : "4bf9e832-ee59-4254-b9e8-32ee59125448",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316231" ],
+    "objectIdsMigrated" : [ "2f1934e3-6dba-5838-a3bb-d7d60f26d5b8" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316133.json",
+    "targetAnalysisId" : "df03dac4-81c8-41bf-83da-c481c891bf11",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316133" ],
+    "objectIdsMigrated" : [ "ed3ac336-aeb8-5871-a41a-234a725811ee" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316230.json",
+    "targetAnalysisId" : "6bb9e041-b05a-491a-b9e0-41b05a591a2f",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316230" ],
+    "objectIdsMigrated" : [ "e0d42fa9-bb7c-59ce-bc0e-d98cde2663ac" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316372.json",
+    "targetAnalysisId" : "549ec5b7-4c90-44df-9ec5-b74c90d4df1b",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316372" ],
+    "objectIdsMigrated" : [ "f5c44448-462d-56b1-a5f0-e38d4083d9da" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316281.json",
+    "targetAnalysisId" : "0b708556-f62d-4a33-b085-56f62dca33a7",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316281" ],
+    "objectIdsMigrated" : [ "97c7d345-6f55-5457-8184-df9968d21e15" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316303.json",
+    "targetAnalysisId" : "f5cd5f9d-a048-4ee1-8d5f-9da0488ee154",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316303" ],
+    "objectIdsMigrated" : [ "abaee636-8e8c-5a94-baf5-a7e598bec1c2" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316254.json",
+    "targetAnalysisId" : "476e19cd-e477-4e90-ae19-cde4778e90d6",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316254" ],
+    "objectIdsMigrated" : [ "f190eb52-9691-56b8-82c5-a8aa173fcf49" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316150.json",
+    "targetAnalysisId" : "3023df17-08cc-4ba5-a3df-1708cccba554",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316150" ],
+    "objectIdsMigrated" : [ "26dfcf71-e34c-52d4-a3cf-2680399fec28" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316144.json",
+    "targetAnalysisId" : "303de871-ed30-40d6-bde8-71ed3080d699",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316144" ],
+    "objectIdsMigrated" : [ "cabcce0f-2b20-5bee-94d1-6a0959ef1fe3" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316258.json",
+    "targetAnalysisId" : "87be76e6-215e-43c3-be76-e6215e63c37a",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316258" ],
+    "objectIdsMigrated" : [ "2a74ca7f-d5be-5ef4-a6fd-ea27362fb5af" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316293.json",
+    "targetAnalysisId" : "26d29ae7-95ba-485d-929a-e795ba085d5e",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316293" ],
+    "objectIdsMigrated" : [ "07b31252-5e03-5acf-be6c-9eee6dedcd16" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316301.json",
+    "targetAnalysisId" : "c8b92c6d-9754-402a-b92c-6d9754f02a2b",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316301" ],
+    "objectIdsMigrated" : [ "212ac143-4b7c-5e92-80f6-628b6fd1c25e" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316229.json",
+    "targetAnalysisId" : "2f49bceb-8849-4ba3-89bc-eb8849aba3f3",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316229" ],
+    "objectIdsMigrated" : [ "5ce2049b-f007-5acc-915d-59228973fadd" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316299.json",
+    "targetAnalysisId" : "1ded62f8-da8e-4ff1-ad62-f8da8e4ff112",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316299" ],
+    "objectIdsMigrated" : [ "dbc5e5a0-6c46-5a5c-9b86-e1b392f987bf" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316348.json",
+    "targetAnalysisId" : "fb448a61-0b5e-4dd2-848a-610b5e0dd291",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316348" ],
+    "objectIdsMigrated" : [ "66898084-2f6b-5220-9eb8-453d6c365d71" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316276.json",
+    "targetAnalysisId" : "fd48f18b-086c-4a94-88f1-8b086c6a949a",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316276" ],
+    "objectIdsMigrated" : [ "d6554b89-b513-5ad1-bfb3-b9e0817031d1" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316350.json",
+    "targetAnalysisId" : "72e5fe4f-a7f9-4a21-a5fe-4fa7f93a217f",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316350" ],
+    "objectIdsMigrated" : [ "45ccbb2c-1850-5fb5-b93d-96dfc6b4685e" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316352.json",
+    "targetAnalysisId" : "c6c08522-bcb4-48b2-8085-22bcb4d8b2bc",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316352" ],
+    "objectIdsMigrated" : [ "09c2dabd-d798-5f5e-808c-ecaa21122ccb" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316111.json",
+    "targetAnalysisId" : "5c380b6c-c991-4f9e-b80b-6cc991af9e00",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316111" ],
+    "objectIdsMigrated" : [ "4a3ffb40-fccb-5faa-b991-f3ed3f693b46" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316200.json",
+    "targetAnalysisId" : "3bbfb709-1100-4971-bfb7-09110029715c",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316200" ],
+    "objectIdsMigrated" : [ "11e82d63-0fa1-5b07-8e78-d2ce36a52af1" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316399.json",
+    "targetAnalysisId" : "11e68a5d-127e-4ed9-a68a-5d127e6ed99a",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316399" ],
+    "objectIdsMigrated" : [ "1980a9f2-ec22-5f14-a1a9-9b7bcb325461" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316361.json",
+    "targetAnalysisId" : "874c8676-62bf-4b85-8c86-7662bf6b85e8",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316361" ],
+    "objectIdsMigrated" : [ "2ed5dab6-172f-5378-99e8-f3e9e68e4b58" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316245.json",
+    "targetAnalysisId" : "59e35f37-0179-497e-a35f-370179597eae",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316245" ],
+    "objectIdsMigrated" : [ "0303ef3e-dd8c-5f02-867d-e4d380bce7da" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316277.json",
+    "targetAnalysisId" : "6bc988cf-640c-4e56-8988-cf640cbe5632",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316277" ],
+    "objectIdsMigrated" : [ "24e9f5e7-19ee-5dfc-b0e1-3ec849cd7be6" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316190.json",
+    "targetAnalysisId" : "49145f9e-90dd-4acc-945f-9e90dd0acc01",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316190" ],
+    "objectIdsMigrated" : [ "f25c4a94-3229-5d9b-b390-ecf8361fd5b4" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316156.json",
+    "targetAnalysisId" : "466b8755-8f98-4b19-ab87-558f989b19ae",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316156" ],
+    "objectIdsMigrated" : [ "5dfae00e-994a-523d-a2ce-ac1bbea5e075" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316311.json",
+    "targetAnalysisId" : "cf51e27d-83b6-4654-91e2-7d83b65654fd",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316311" ],
+    "objectIdsMigrated" : [ "0b0d7bc7-1859-55ef-973f-f8b36ad3edd0" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316166.json",
+    "targetAnalysisId" : "5101d19b-8f85-43d5-81d1-9b8f85e3d5db",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316166" ],
+    "objectIdsMigrated" : [ "83a02c3f-13fa-5817-bab2-b0a1fb3f2e4e" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316210.json",
+    "targetAnalysisId" : "f4dea00f-eb12-4921-9ea0-0feb12e9211b",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316210" ],
+    "objectIdsMigrated" : [ "3b4d68f9-2306-5a58-bc1f-6a2e01734813" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316124.json",
+    "targetAnalysisId" : "1a242a9b-89c2-4791-a42a-9b89c25791e3",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316124" ],
+    "objectIdsMigrated" : [ "b0cce43b-4c7a-5993-82ff-24a53f028a7a" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316164.json",
+    "targetAnalysisId" : "a2c6db16-8e3a-4be2-86db-168e3acbe284",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316164" ],
+    "objectIdsMigrated" : [ "95d9bbcb-f902-5fdd-b8b7-cbe070554367" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316351.json",
+    "targetAnalysisId" : "c6a85561-2356-4c78-a855-6123566c7818",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316351" ],
+    "objectIdsMigrated" : [ "9a49f1fe-643f-5124-a2e3-da6b6f26872b" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316137.json",
+    "targetAnalysisId" : "8cb3e418-3d93-4925-b3e4-183d93a925fa",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316137" ],
+    "objectIdsMigrated" : [ "bb1a64ce-d97d-5eb9-ba7c-ce6c6f8b4736" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316113.json",
+    "targetAnalysisId" : "6bbcdd3f-5b83-4d4a-bcdd-3f5b833d4aa9",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316113" ],
+    "objectIdsMigrated" : [ "e4655606-5a44-53e7-b2af-474b71349a6d" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316242.json",
+    "targetAnalysisId" : "9b27110d-447e-4c1b-a711-0d447e5c1bff",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316242" ],
+    "objectIdsMigrated" : [ "18b68421-76eb-591f-b337-84e3b88d9693" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316313.json",
+    "targetAnalysisId" : "8b420a72-4ecd-456b-820a-724ecda56bda",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316313" ],
+    "objectIdsMigrated" : [ "a9539688-61dc-5c8a-be81-36286a20674b" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316209.json",
+    "targetAnalysisId" : "4e0059ab-36e2-490e-8059-ab36e2890e0b",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316209" ],
+    "objectIdsMigrated" : [ "525799ed-6764-572c-b6ff-4c1f25c39fe3" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316395.json",
+    "targetAnalysisId" : "925760fa-ba1f-49a5-9760-faba1f69a58b",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316395" ],
+    "objectIdsMigrated" : [ "89569ad6-2dc1-5e2b-af1b-fb40e2fb2b9c" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316167.json",
+    "targetAnalysisId" : "c63270ba-1179-46fd-b270-ba117916fd52",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316167" ],
+    "objectIdsMigrated" : [ "d643981a-efe1-5996-9281-0f7008a81034" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316128.json",
+    "targetAnalysisId" : "ed26482e-5a48-49e5-a648-2e5a4819e55d",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316128" ],
+    "objectIdsMigrated" : [ "c36c149c-a291-58c2-bac1-07a147c73cd1" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316219.json",
+    "targetAnalysisId" : "034bec36-6e04-415c-8bec-366e04c15c5e",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316219" ],
+    "objectIdsMigrated" : [ "5b39e4e9-1cc0-514d-bc44-852b09ebbab1" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316393.json",
+    "targetAnalysisId" : "2348310e-e1be-4812-8831-0ee1bed81299",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316393" ],
+    "objectIdsMigrated" : [ "32ebcf68-8e82-5887-a6d6-5e285312fd64" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316323.json",
+    "targetAnalysisId" : "a4b3f9a2-09d0-4597-b3f9-a209d03597e7",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316323" ],
+    "objectIdsMigrated" : [ "dc56055d-27e2-5961-890c-1d4a74505895" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316353.json",
+    "targetAnalysisId" : "785f541c-34f9-4a0c-9f54-1c34f9da0cd3",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316353" ],
+    "objectIdsMigrated" : [ "de22e90b-a184-5da5-8916-3cd96177fa29" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316394.json",
+    "targetAnalysisId" : "525a7ca0-ba2a-48ee-9a7c-a0ba2ae8eea4",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316394" ],
+    "objectIdsMigrated" : [ "a8fb0c7a-1eb5-537a-b87d-a3bfb5be26eb" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316202.json",
+    "targetAnalysisId" : "92f44588-920c-4549-b445-88920c9549a9",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316202" ],
+    "objectIdsMigrated" : [ "338f96fb-28e4-538b-bbae-aa110427dfad" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316220.json",
+    "targetAnalysisId" : "d7749da0-d1e4-48b9-b49d-a0d1e408b99c",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316220" ],
+    "objectIdsMigrated" : [ "34a69709-0e1a-5e63-8799-0a94ebfa2d78" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316183.json",
+    "targetAnalysisId" : "4154c520-423c-4b9e-94c5-20423c9b9e66",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316183" ],
+    "objectIdsMigrated" : [ "e5524da5-2d91-51f9-9d85-fbb8902ea023" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316179.json",
+    "targetAnalysisId" : "e3c6e615-de44-4456-86e6-15de44445692",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316179" ],
+    "objectIdsMigrated" : [ "2e0595f6-972b-5a3b-822f-9aabaaf6e474" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316355.json",
+    "targetAnalysisId" : "09df0237-e00a-4080-9f02-37e00ac080c0",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316355" ],
+    "objectIdsMigrated" : [ "2da231e2-1acd-55cb-b2c8-03224e9c5119" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316212.json",
+    "targetAnalysisId" : "eef04464-ddad-4e9e-b044-64ddadce9ed6",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316212" ],
+    "objectIdsMigrated" : [ "def54bfa-6966-55a7-ac72-69de325ad9a7" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316163.json",
+    "targetAnalysisId" : "c90191c0-7a6f-4bc9-8191-c07a6f4bc987",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316163" ],
+    "objectIdsMigrated" : [ "358f7ff0-3726-5ee9-a043-2e38ba3f6846" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316117.json",
+    "targetAnalysisId" : "a462ee31-de62-4d09-a2ee-31de628d09c7",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316117" ],
+    "objectIdsMigrated" : [ "62890099-7320-5641-bb6a-42b238ea5153" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316147.json",
+    "targetAnalysisId" : "4760158b-ed37-4dc6-a015-8bed375dc68a",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316147" ],
+    "objectIdsMigrated" : [ "5826e3c9-1f7b-579b-bb61-c00a0e949f1b" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316120.json",
+    "targetAnalysisId" : "54a3e6c7-1839-4e78-a3e6-c71839ae78ec",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316120" ],
+    "objectIdsMigrated" : [ "44247b58-1029-5559-ad60-63b33539e980" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316316.json",
+    "targetAnalysisId" : "a2868421-5b98-44e5-8684-215b9804e55a",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316316" ],
+    "objectIdsMigrated" : [ "1c1c6d48-1cc7-5037-970b-2e74c6044bd8" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316211.json",
+    "targetAnalysisId" : "e69e4c4d-db5b-4eeb-9e4c-4ddb5b3eeb26",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316211" ],
+    "objectIdsMigrated" : [ "6a4c605a-232a-5149-ada3-40a06de48f40" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316326.json",
+    "targetAnalysisId" : "7edff726-c08e-4983-9ff7-26c08e9983d2",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316326" ],
+    "objectIdsMigrated" : [ "ba18d0d5-499e-58bf-a506-62e920e9477c" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316161.json",
+    "targetAnalysisId" : "f7c1f740-e4ed-4704-81f7-40e4ed07048e",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316161" ],
+    "objectIdsMigrated" : [ "10d9d6bf-3d4e-5e10-a1f6-0d83a34a5e9c" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316325.json",
+    "targetAnalysisId" : "c994e771-27bf-4216-94e7-7127bf6216d2",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316325" ],
+    "objectIdsMigrated" : [ "45db5105-d268-5b68-b12c-5dcfb916aa7f" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316195.json",
+    "targetAnalysisId" : "d9a0402f-8518-4f10-a040-2f85185f10d2",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316195" ],
+    "objectIdsMigrated" : [ "713a3fc0-d714-5040-ac71-78d14cb1f992" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316169.json",
+    "targetAnalysisId" : "5db81891-a4f9-4fd0-b818-91a4f92fd062",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316169" ],
+    "objectIdsMigrated" : [ "7969b0a8-80a7-57e3-8b23-e7c65044a1c3" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316171.json",
+    "targetAnalysisId" : "23ce1e08-f38b-42d4-8e1e-08f38b32d405",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316171" ],
+    "objectIdsMigrated" : [ "c4e203a6-a43a-5360-bddc-a6c2dcdea0aa" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316158.json",
+    "targetAnalysisId" : "72b43242-87e9-4d0e-b432-4287e9bd0edb",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316158" ],
+    "objectIdsMigrated" : [ "ce6fc4c8-1228-5c73-b9fa-df3c0452a0b9" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316344.json",
+    "targetAnalysisId" : "d1efcd76-3fb5-473d-afcd-763fb5373d9f",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316344" ],
+    "objectIdsMigrated" : [ "77cb76fb-9f4b-5f4e-b8f6-53f2b71a7530" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316116.json",
+    "targetAnalysisId" : "83d90a3a-e9a6-434d-990a-3ae9a6634dfd",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316116" ],
+    "objectIdsMigrated" : [ "59c86021-eaab-5924-8095-df49310e474a" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316268.json",
+    "targetAnalysisId" : "5d63c980-87e0-491f-a3c9-8087e0d91fc2",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316268" ],
+    "objectIdsMigrated" : [ "cbbf9280-fc96-5ab5-b3d8-a4a4a1f6650d" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316366.json",
+    "targetAnalysisId" : "65543b37-35e6-4059-943b-3735e66059c6",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316366" ],
+    "objectIdsMigrated" : [ "352376fc-27cd-52d1-8fdf-ffadb315327a" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316154.json",
+    "targetAnalysisId" : "8cc0e545-0f18-468f-80e5-450f18068f96",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316154" ],
+    "objectIdsMigrated" : [ "1adb1b72-9588-53ed-a044-2aad8404b456" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316159.json",
+    "targetAnalysisId" : "3584538e-b341-4b84-8453-8eb341eb8492",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316159" ],
+    "objectIdsMigrated" : [ "2492d4a1-68c2-55e1-8369-4338ff71d786" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316266.json",
+    "targetAnalysisId" : "01e1164f-0ce0-42a4-a116-4f0ce0b2a413",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316266" ],
+    "objectIdsMigrated" : [ "bb29f9e1-5a87-5702-b8d0-18ac5cfe75b1" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316382.json",
+    "targetAnalysisId" : "318c4015-99ec-494d-8c40-1599ec194db4",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316382" ],
+    "objectIdsMigrated" : [ "b2f332d5-a67d-58f9-a78b-67dd51d02037" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316377.json",
+    "targetAnalysisId" : "de2cb3e3-3bd6-4961-acb3-e33bd659615f",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316377" ],
+    "objectIdsMigrated" : [ "ec7ed711-952f-5187-ba5e-2c88f4ea630d" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316189.json",
+    "targetAnalysisId" : "0edd9cba-1f83-4788-9d9c-ba1f8367887a",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316189" ],
+    "objectIdsMigrated" : [ "a6e5e823-34b4-5470-904c-d2e42b716a03" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316320.json",
+    "targetAnalysisId" : "70dff9b0-1c5d-4d5e-9ff9-b01c5dfd5ef5",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316320" ],
+    "objectIdsMigrated" : [ "ea96a2b5-999b-5081-ba34-6f7af8d19fa3" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316388.json",
+    "targetAnalysisId" : "8accaa1d-25c7-4524-8caa-1d25c7e524ab",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316388" ],
+    "objectIdsMigrated" : [ "d473bc79-2e71-5e7a-a023-e3d52e6279e3" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316270.json",
+    "targetAnalysisId" : "b058315f-37ef-4cc6-9831-5f37efacc6fe",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316270" ],
+    "objectIdsMigrated" : [ "558c31cb-d18d-5184-84aa-4525849bfac7" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316151.json",
+    "targetAnalysisId" : "411fa4b7-6ee6-4c5c-9fa4-b76ee63c5c7e",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316151" ],
+    "objectIdsMigrated" : [ "201e173b-1426-5f57-9103-07a42debd83a" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316257.json",
+    "targetAnalysisId" : "03463a9a-9298-451c-863a-9a9298051c51",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316257" ],
+    "objectIdsMigrated" : [ "a261d93d-bd01-57d5-af67-9162f1f87ee8" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316145.json",
+    "targetAnalysisId" : "62ffdfe4-3d4d-49c1-bfdf-e43d4df9c174",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316145" ],
+    "objectIdsMigrated" : [ "0b5c4138-1328-555c-b7a8-a3825679bb80" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316122.json",
+    "targetAnalysisId" : "34d51cf8-baad-427c-951c-f8baad127c82",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316122" ],
+    "objectIdsMigrated" : [ "9479e9b6-50f8-57be-aed5-503f7498f006" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316286.json",
+    "targetAnalysisId" : "df99b1d1-f466-45cd-99b1-d1f46695cdac",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316286" ],
+    "objectIdsMigrated" : [ "d80783d0-2807-54d7-bc6e-4f2aafe671a7" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316142.json",
+    "targetAnalysisId" : "6fe695a8-67e0-4707-a695-a867e03707f2",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316142" ],
+    "objectIdsMigrated" : [ "93a04c9b-4b33-5b55-8e8c-27f2fd6b42f6" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316182.json",
+    "targetAnalysisId" : "71de1703-0687-4df4-9e17-0306875df4b9",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316182" ],
+    "objectIdsMigrated" : [ "2189013f-ef38-5463-8452-da81b3fb16b2" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316282.json",
+    "targetAnalysisId" : "907802e3-848a-40ec-b802-e3848ac0ece9",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316282" ],
+    "objectIdsMigrated" : [ "609d8282-0513-5869-b050-0febfe780d3a" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316401.json",
+    "targetAnalysisId" : "42c0676b-eb41-4873-8067-6beb41d87323",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316401" ],
+    "objectIdsMigrated" : [ "fe59e1a9-02c3-5125-9b40-2ef4e22628e2" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316363.json",
+    "targetAnalysisId" : "d21a251b-6da6-486a-9a25-1b6da6e86adc",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316363" ],
+    "objectIdsMigrated" : [ "cb7bcd60-93b7-58ee-8406-839fd14943a8" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316223.json",
+    "targetAnalysisId" : "ad3fade9-a249-409c-bfad-e9a249209c8b",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316223" ],
+    "objectIdsMigrated" : [ "a1347d59-5683-5e8b-ad44-17b73ff2bc78" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316346.json",
+    "targetAnalysisId" : "6482e2b3-d295-48db-82e2-b3d295e8db67",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316346" ],
+    "objectIdsMigrated" : [ "b21edeab-7a49-58dc-a4d3-441c93b1f9ce" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316340.json",
+    "targetAnalysisId" : "032209cd-65c7-4d3a-a209-cd65c79d3a0c",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316340" ],
+    "objectIdsMigrated" : [ "bf1810ca-53ac-5468-8fe3-2a5dee11e48d" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316143.json",
+    "targetAnalysisId" : "1ab50432-c740-468b-b504-32c740c68bf2",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316143" ],
+    "objectIdsMigrated" : [ "3256a920-dbcd-57de-be02-e6683cce1103" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316367.json",
+    "targetAnalysisId" : "0832f192-ae5f-400e-b2f1-92ae5f200e36",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316367" ],
+    "objectIdsMigrated" : [ "d0237397-71bf-5b01-a7c2-f859c5b738c6" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316322.json",
+    "targetAnalysisId" : "c68b85f1-bce0-4def-8b85-f1bce07def4d",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316322" ],
+    "objectIdsMigrated" : [ "dcb24914-e6b3-56e3-a181-c1c8c135ae5c" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316199.json",
+    "targetAnalysisId" : "2dfb248e-de2b-4773-bb24-8ede2ba773a6",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316199" ],
+    "objectIdsMigrated" : [ "0fdf6755-d4ea-524c-8deb-455305cd9e12" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316296.json",
+    "targetAnalysisId" : "2f7aa2fe-ee57-4923-baa2-feee57a923db",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316296" ],
+    "objectIdsMigrated" : [ "3330092a-d60f-5bc7-91d1-d9ddf89881fd" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316251.json",
+    "targetAnalysisId" : "b1ce76a6-8318-4c4f-8e76-a683186c4f38",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316251" ],
+    "objectIdsMigrated" : [ "0f42aef2-b403-5ba0-b659-fb102729405d" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316279.json",
+    "targetAnalysisId" : "162ca036-8f25-4325-aca0-368f25c3250d",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316279" ],
+    "objectIdsMigrated" : [ "a9196269-c497-5769-9ae4-7bdddf229c04" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316228.json",
+    "targetAnalysisId" : "284c3f63-3d53-4788-8c3f-633d53a78881",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316228" ],
+    "objectIdsMigrated" : [ "fc5f0724-65c3-5128-bec0-02f7c3e98c4d" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316345.json",
+    "targetAnalysisId" : "19ab7b4e-3cf1-4fa1-ab7b-4e3cf12fa1ad",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316345" ],
+    "objectIdsMigrated" : [ "48d8b235-e5e0-5cc6-b930-395f91e5b4a5" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316140.json",
+    "targetAnalysisId" : "90658e65-8afe-43c9-a58e-658afe93c970",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316140" ],
+    "objectIdsMigrated" : [ "d321c7ef-719f-5af4-ad41-38dbf8976e82" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316119.json",
+    "targetAnalysisId" : "578ad34d-af12-46d2-8ad3-4daf12c6d211",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316119" ],
+    "objectIdsMigrated" : [ "56bfda53-2999-5ac0-86f8-32ef34c2c92e" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316239.json",
+    "targetAnalysisId" : "9f1be2bb-a043-4819-9be2-bba043381946",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316239" ],
+    "objectIdsMigrated" : [ "12bf3b39-d643-5036-88ab-cd3253e93372" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316216.json",
+    "targetAnalysisId" : "d29da9b7-3925-4ee5-9da9-b73925aee5e9",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316216" ],
+    "objectIdsMigrated" : [ "622ee3a5-e8c6-54a2-a50a-08817cf1dfcd" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316264.json",
+    "targetAnalysisId" : "229bb5dc-2354-4dc3-9bb5-dc23540dc39e",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316264" ],
+    "objectIdsMigrated" : [ "e55dfd6c-3e5f-560e-bd02-1d12eeab9273" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316180.json",
+    "targetAnalysisId" : "80ec5bd3-6088-4001-ac5b-d36088c00114",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316180" ],
+    "objectIdsMigrated" : [ "75d766c2-cf5b-5c30-85a3-bba7c39dd037" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316112.json",
+    "targetAnalysisId" : "0f7bd911-d14d-4b36-bbd9-11d14d5b3668",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316112" ],
+    "objectIdsMigrated" : [ "370843d5-6a8c-53f8-bed7-666b54af6396" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316187.json",
+    "targetAnalysisId" : "7fa2deb7-84c7-444a-a2de-b784c7e44a8e",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316187" ],
+    "objectIdsMigrated" : [ "480d7700-4a7d-5991-a14c-6ef1e44a94da" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316174.json",
+    "targetAnalysisId" : "2b3d524f-77fc-43ea-bd52-4f77fc73ea23",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316174" ],
+    "objectIdsMigrated" : [ "546358ae-ebec-59ad-9431-5365a2e82f65" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316375.json",
+    "targetAnalysisId" : "0f07a48b-81bd-471c-87a4-8b81bde71ccf",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316375" ],
+    "objectIdsMigrated" : [ "d90d1c0a-700f-52e5-afcd-6647682d363f" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316193.json",
+    "targetAnalysisId" : "d483964f-b3a6-49f0-8396-4fb3a619f0dc",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316193" ],
+    "objectIdsMigrated" : [ "c69c3917-726a-54f7-b58b-353c7d472c34" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316168.json",
+    "targetAnalysisId" : "b47e90c6-e459-475c-be90-c6e459475ccc",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316168" ],
+    "objectIdsMigrated" : [ "4bc4d137-eb16-51f8-9711-60a45d731c18" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316318.json",
+    "targetAnalysisId" : "dc0851cf-fe83-4db9-8851-cffe832db9a8",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316318" ],
+    "objectIdsMigrated" : [ "758a4936-7acb-5dec-9fde-c249eeb1de5b" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316155.json",
+    "targetAnalysisId" : "cc2ab799-7e30-4e83-aab7-997e30ee83a7",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316155" ],
+    "objectIdsMigrated" : [ "e13c38b1-5ac6-5d89-b553-f18d38dec9a0" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316327.json",
+    "targetAnalysisId" : "e9295bab-8ee1-4f46-a95b-ab8ee1ef46f3",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316327" ],
+    "objectIdsMigrated" : [ "79ded9aa-e4f5-5300-9555-3c171ca1883e" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316115.json",
+    "targetAnalysisId" : "f7b2ee17-8693-49d0-b2ee-178693f9d05f",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316115" ],
+    "objectIdsMigrated" : [ "43a94e9a-9520-56f6-be4b-e544a812a5b4" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316371.json",
+    "targetAnalysisId" : "2c40d740-4987-431b-80d7-404987c31bd6",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316371" ],
+    "objectIdsMigrated" : [ "a160f113-b412-5cbc-90b4-ccea4950571a" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316129.json",
+    "targetAnalysisId" : "59110060-ef0a-40dc-9100-60ef0a50dcb9",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316129" ],
+    "objectIdsMigrated" : [ "0065c59e-ca56-5253-8636-59049c877509" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316153.json",
+    "targetAnalysisId" : "e175f35b-e904-492a-b5f3-5be904d92a7c",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316153" ],
+    "objectIdsMigrated" : [ "dfaa5648-252e-519f-8f64-21333ee75c3c" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316215.json",
+    "targetAnalysisId" : "f0adf9f0-df53-47f5-adf9-f0df53c7f5d7",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316215" ],
+    "objectIdsMigrated" : [ "7fd44eb4-07c3-54c4-82c1-9f2920021970" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316332.json",
+    "targetAnalysisId" : "9fc1cc31-b57a-4d95-81cc-31b57aad9507",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316332" ],
+    "objectIdsMigrated" : [ "4748cdfe-9000-5a49-855c-28148806d0b8" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316298.json",
+    "targetAnalysisId" : "7bdefd1e-34a6-47e6-9efd-1e34a657e6bf",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316298" ],
+    "objectIdsMigrated" : [ "05f86d63-6edc-574b-9d3c-9d3a82dffb1b" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316175.json",
+    "targetAnalysisId" : "6bef618b-abf6-4068-af61-8babf6e06814",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316175" ],
+    "objectIdsMigrated" : [ "0d924bbc-2700-5629-a3a9-75cc6dd43f1b" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316218.json",
+    "targetAnalysisId" : "65d6a705-d3d5-4784-96a7-05d3d587846c",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316218" ],
+    "objectIdsMigrated" : [ "97f74873-aa2f-500c-bd46-46860d37c46a" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316162.json",
+    "targetAnalysisId" : "eed4959d-c2ac-4732-9495-9dc2aca73204",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316162" ],
+    "objectIdsMigrated" : [ "ced09dc8-73cf-5de6-bf95-5af8ff1fe473" ],
+    "allObjectIdsMigrated" : true
+  }, {
+    "payloadFilename" : "argo-meta/icgc_song_payloads/PTC-SA/WXS/batch1/EGAZ00001316398.json",
+    "targetAnalysisId" : "676b37bf-bcc2-47cd-ab37-bfbcc227cdd8",
+    "targetStudyId" : "PTC-SA",
+    "targetAnalysisState" : "PUBLISHED",
+    "legacyStudyId" : "THCA-SA",
+    "legacyAnalysisIds" : [ "EGAZ00001316398" ],
+    "objectIdsMigrated" : [ "1da4f241-0539-5935-806e-f36f5c85e905" ],
+    "allObjectIdsMigrated" : true
+  } ],
+  "errors" : [ ]
+}
