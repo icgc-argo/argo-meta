@@ -1,0 +1,87 @@
+{
+    "studyId": "PACA-CA",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "PCSI_0890_Pa_P_526",
+            "matchedNormalSubmitterSampleId": "PCSI_0890_Si_R",
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "PCSI_0890_Pa_P_526",
+                "specimenType": "Primary tumour",
+                "tumourNormalDesignation": "Tumour",
+                "specimenTissueSource": "Other"
+            },
+            "donor": {
+                "submitterDonorId": "PCSI_0890",
+                "gender": "Female"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "Submitted Reads",
+            "fileName": "5d127c9de4b58f50b3aa30107a16b988.PCSI_0890_Pa_P_526.bam",
+            "fileSize": 92122219230,
+            "fileType": "BAM",
+            "fileMd5sum": "5d127c9de4b58f50b3aa30107a16b988",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "EGAZ00001258030",
+                "data_category": "Sequencing Reads"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "5d127c9de4b58f50b3aa30107a16b988.PCSI_0890_Pa_P_526.bam",
+            "file_r2": "5d127c9de4b58f50b3aa30107a16b988.PCSI_0890_Pa_P_526.bam",
+            "insert_size": null,
+            "platform_unit": "150826_D00353_0106_BC6VRJANXX_7_ACTTGA",
+            "is_paired_end": true,
+            "library_name": "PCSI_0890_Pa_P_PE_497_WG",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": null,
+            "submitter_read_group_id": "150826_D00353_0106_BC6VRJANXX_7_ACTTGA"
+        },
+        {
+            "file_r1": "5d127c9de4b58f50b3aa30107a16b988.PCSI_0890_Pa_P_526.bam",
+            "file_r2": "5d127c9de4b58f50b3aa30107a16b988.PCSI_0890_Pa_P_526.bam",
+            "insert_size": null,
+            "platform_unit": "150826_D00353_0106_BC6VRJANXX_8_GATCAG",
+            "is_paired_end": true,
+            "library_name": "PCSI_0890_Pa_P_PE_531_WG",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": null,
+            "submitter_read_group_id": "150826_D00353_0106_BC6VRJANXX_8_GATCAG"
+        },
+        {
+            "file_r1": "5d127c9de4b58f50b3aa30107a16b988.PCSI_0890_Pa_P_526.bam",
+            "file_r2": "5d127c9de4b58f50b3aa30107a16b988.PCSI_0890_Pa_P_526.bam",
+            "insert_size": null,
+            "platform_unit": "150904_D00343_0097_AC7H5TANXX_8_ACTTGA",
+            "is_paired_end": true,
+            "library_name": "PCSI_0890_Pa_P_PE_497_WG",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": null,
+            "submitter_read_group_id": "150904_D00343_0097_AC7H5TANXX_8_ACTTGA"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-237",
+        "experimental_strategy": "WGS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 3
+}

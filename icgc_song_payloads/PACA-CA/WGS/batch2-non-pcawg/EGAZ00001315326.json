@@ -1,0 +1,74 @@
+{
+    "studyId": "PACA-CA",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "PCSI_0639_Si_R",
+            "matchedNormalSubmitterSampleId": null,
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "PCSI_0639_Si_R",
+                "specimenType": "Normal",
+                "tumourNormalDesignation": "Normal",
+                "specimenTissueSource": "Solid tissue"
+            },
+            "donor": {
+                "submitterDonorId": "PCSI_0639",
+                "gender": "Female"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "Submitted Reads",
+            "fileName": "5ebbc63f8fce90886b02efcbec00fa48.PCSI_0639_Si_R.bam",
+            "fileSize": 102780748625,
+            "fileType": "BAM",
+            "fileMd5sum": "5ebbc63f8fce90886b02efcbec00fa48",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "EGAZ00001315326",
+                "data_category": "Sequencing Reads"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "5ebbc63f8fce90886b02efcbec00fa48.PCSI_0639_Si_R.bam",
+            "file_r2": "5ebbc63f8fce90886b02efcbec00fa48.PCSI_0639_Si_R.bam",
+            "insert_size": null,
+            "platform_unit": "160408_D00331_0187_BC8H2BANXX_6_CACCGG",
+            "is_paired_end": true,
+            "library_name": "PCSI_0639_Si_R_PE_610_WG",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": null,
+            "submitter_read_group_id": "160408_D00331_0187_BC8H2BANXX_6_CACCGG"
+        },
+        {
+            "file_r1": "5ebbc63f8fce90886b02efcbec00fa48.PCSI_0639_Si_R.bam",
+            "file_r2": "5ebbc63f8fce90886b02efcbec00fa48.PCSI_0639_Si_R.bam",
+            "insert_size": null,
+            "platform_unit": "160412_D00355_0118_BC908YANXX_2_CACCGG",
+            "is_paired_end": true,
+            "library_name": "PCSI_0639_Si_R_PE_610_WG",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": null,
+            "submitter_read_group_id": "160412_D00355_0118_BC908YANXX_2_CACCGG"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-269",
+        "experimental_strategy": "WGS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 2
+}
