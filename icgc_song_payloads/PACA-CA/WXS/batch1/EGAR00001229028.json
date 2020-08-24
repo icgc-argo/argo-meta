@@ -1,0 +1,61 @@
+{
+    "studyId": "PACA-CA",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "PCSI_0044_Ly_R",
+            "matchedNormalSubmitterSampleId": null,
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "PCSI_0044_Ly_R",
+                "specimenType": "Normal",
+                "tumourNormalDesignation": "Normal",
+                "specimenTissueSource": "Blood derived"
+            },
+            "donor": {
+                "submitterDonorId": "PCSI_0044",
+                "gender": "Male"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "Submitted Reads",
+            "fileName": "cf83b3e33f3681425926e438b9636ff1.PCSI_0044_Ly_R_PE_359_EX_GCCAAT_4_110630_SN203_0118_AC00FLACXX.bam",
+            "fileSize": 30252543908,
+            "fileType": "BAM",
+            "fileMd5sum": "cf83b3e33f3681425926e438b9636ff1",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "EGAR00001229028",
+                "data_category": "Sequencing Reads"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "cf83b3e33f3681425926e438b9636ff1.PCSI_0044_Ly_R_PE_359_EX_GCCAAT_4_110630_SN203_0118_AC00FLACXX.bam",
+            "file_r2": "cf83b3e33f3681425926e438b9636ff1.PCSI_0044_Ly_R_PE_359_EX_GCCAAT_4_110630_SN203_0118_AC00FLACXX.bam",
+            "insert_size": null,
+            "platform_unit": "110630_SN203_0118_AC00FLACXX_4_GCCAAT",
+            "is_paired_end": true,
+            "library_name": "PCSI_0044_Ly_R_PE_359_EX",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": null,
+            "submitter_read_group_id": "110630_SN203_0118_AC00FLACXX_4_GCCAAT"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-328",
+        "experimental_strategy": "WXS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 1
+}
