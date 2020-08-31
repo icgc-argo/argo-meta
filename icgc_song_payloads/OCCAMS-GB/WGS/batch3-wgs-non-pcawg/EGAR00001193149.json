@@ -1,0 +1,61 @@
+{
+    "studyId": "OCCAMS-GB",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "SM-4JPP7",
+            "matchedNormalSubmitterSampleId": "SM-4JPUT",
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "OC-AH-111-S-T1",
+                "specimenType": "Primary tumour",
+                "tumourNormalDesignation": "Tumour",
+                "specimenTissueSource": "Solid tissue"
+            },
+            "donor": {
+                "submitterDonorId": "OCCAMS-AH-111",
+                "gender": "Male"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "Submitted Reads",
+            "fileName": "9cf8fd1af4a7054f4111d5b00b284959.SM-4JPP7.bam",
+            "fileSize": 236223802749,
+            "fileType": "BAM",
+            "fileMd5sum": "9cf8fd1af4a7054f4111d5b00b284959",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "EGAR00001193149",
+                "data_category": "Sequencing Reads"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "9cf8fd1af4a7054f4111d5b00b284959.SM-4JPP7.bam",
+            "file_r2": "9cf8fd1af4a7054f4111d5b00b284959.SM-4JPP7.bam",
+            "insert_size": null,
+            "platform_unit": "SM-4JPP7",
+            "is_paired_end": true,
+            "library_name": "SM-4JPP7",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": null,
+            "submitter_read_group_id": "SM-4JPP7"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-393",
+        "experimental_strategy": "WGS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 1
+}

@@ -1,0 +1,61 @@
+{
+    "studyId": "OCCAMS-GB",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "LP6005689-DNA_E03",
+            "matchedNormalSubmitterSampleId": null,
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "OC-AH-142-B-C1",
+                "specimenType": "Normal",
+                "tumourNormalDesignation": "Normal",
+                "specimenTissueSource": "Blood derived"
+            },
+            "donor": {
+                "submitterDonorId": "OCCAMS-AH-142",
+                "gender": "Male"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "Submitted Reads",
+            "fileName": "5564650041f91153381c0de8c897a13f.LP6005689-DNA_E03.bam",
+            "fileSize": 117470950533,
+            "fileType": "BAM",
+            "fileMd5sum": "5564650041f91153381c0de8c897a13f",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "EGAR00001193109",
+                "data_category": "Sequencing Reads"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "5564650041f91153381c0de8c897a13f.LP6005689-DNA_E03.bam",
+            "file_r2": "5564650041f91153381c0de8c897a13f.LP6005689-DNA_E03.bam",
+            "insert_size": null,
+            "platform_unit": "LP6005689-DNA_E03",
+            "is_paired_end": true,
+            "library_name": "LP6005689-DNA_E03",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": null,
+            "submitter_read_group_id": "LP6005689-DNA_E03"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-451",
+        "experimental_strategy": "WGS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 1
+}
