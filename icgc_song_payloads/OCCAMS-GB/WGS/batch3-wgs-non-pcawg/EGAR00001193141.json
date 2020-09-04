@@ -1,0 +1,61 @@
+{
+    "studyId": "OCCAMS-GB",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "SM-4JPUT",
+            "matchedNormalSubmitterSampleId": null,
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "OC-AH-111-B-F1",
+                "specimenType": "Normal",
+                "tumourNormalDesignation": "Normal",
+                "specimenTissueSource": "Blood derived"
+            },
+            "donor": {
+                "submitterDonorId": "OCCAMS-AH-111",
+                "gender": "Male"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "Submitted Reads",
+            "fileName": "ef389ef28930a5a386495958fce29b00.SM-4JPUT.bam",
+            "fileSize": 145388878760,
+            "fileType": "BAM",
+            "fileMd5sum": "ef389ef28930a5a386495958fce29b00",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "EGAR00001193141",
+                "data_category": "Sequencing Reads"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "ef389ef28930a5a386495958fce29b00.SM-4JPUT.bam",
+            "file_r2": "ef389ef28930a5a386495958fce29b00.SM-4JPUT.bam",
+            "insert_size": null,
+            "platform_unit": "SM-4JPUT",
+            "is_paired_end": true,
+            "library_name": "SM-4JPUT",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": null,
+            "submitter_read_group_id": "SM-4JPUT"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-800",
+        "experimental_strategy": "WGS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 1
+}

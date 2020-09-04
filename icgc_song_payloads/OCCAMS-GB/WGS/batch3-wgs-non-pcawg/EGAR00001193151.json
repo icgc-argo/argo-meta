@@ -1,0 +1,61 @@
+{
+    "studyId": "OCCAMS-GB",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "SM-4JPUY",
+            "matchedNormalSubmitterSampleId": "LP6005333-DNA_B01",
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "OC-AH-074-LESION-B",
+                "specimenType": "Primary tumour",
+                "tumourNormalDesignation": "Tumour",
+                "specimenTissueSource": "Solid tissue"
+            },
+            "donor": {
+                "submitterDonorId": "OCCAMS-AH-074",
+                "gender": "Female"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "Submitted Reads",
+            "fileName": "bfd295d55ae9cad460814e9565fbbec8.SM-4JPUY.bam",
+            "fileSize": 233690652194,
+            "fileType": "BAM",
+            "fileMd5sum": "bfd295d55ae9cad460814e9565fbbec8",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "EGAR00001193151",
+                "data_category": "Sequencing Reads"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "bfd295d55ae9cad460814e9565fbbec8.SM-4JPUY.bam",
+            "file_r2": "bfd295d55ae9cad460814e9565fbbec8.SM-4JPUY.bam",
+            "insert_size": null,
+            "platform_unit": "SM-4JPUY",
+            "is_paired_end": true,
+            "library_name": "SM-4JPUY",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": null,
+            "submitter_read_group_id": "SM-4JPUY"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-445",
+        "experimental_strategy": "WGS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 1
+}

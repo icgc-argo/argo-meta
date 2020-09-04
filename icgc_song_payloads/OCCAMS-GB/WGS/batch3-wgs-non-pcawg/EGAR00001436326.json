@@ -1,0 +1,61 @@
+{
+    "studyId": "OCCAMS-GB",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "LP6008202-DNA_D01",
+            "matchedNormalSubmitterSampleId": "LP6008201-DNA_D01",
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "OC-AH-284-E-T1",
+                "specimenType": "Primary tumour",
+                "tumourNormalDesignation": "Tumour",
+                "specimenTissueSource": "Solid tissue"
+            },
+            "donor": {
+                "submitterDonorId": "OCCAMS-AH-284",
+                "gender": "Male"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "Submitted Reads",
+            "fileName": "7994d0009b0f044765fc13b056954bfa.LP6008202-DNA_D01.bam",
+            "fileSize": 81615669238,
+            "fileType": "BAM",
+            "fileMd5sum": "7994d0009b0f044765fc13b056954bfa",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "EGAR00001436326",
+                "data_category": "Sequencing Reads"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "7994d0009b0f044765fc13b056954bfa.LP6008202-DNA_D01.bam",
+            "file_r2": "7994d0009b0f044765fc13b056954bfa.LP6008202-DNA_D01.bam",
+            "insert_size": null,
+            "platform_unit": "LP6008202-DNA_D01",
+            "is_paired_end": true,
+            "library_name": "LP6008202-DNA_D01",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": null,
+            "submitter_read_group_id": "LP6008202-DNA_D01"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-459",
+        "experimental_strategy": "WGS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 1
+}

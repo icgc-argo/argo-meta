@@ -1,0 +1,61 @@
+{
+    "studyId": "OCCAMS-GB",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "SS6003312",
+            "matchedNormalSubmitterSampleId": "SS6003310",
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "TB10-1374post",
+                "specimenType": "Primary tumour",
+                "tumourNormalDesignation": "Tumour",
+                "specimenTissueSource": "Solid tissue"
+            },
+            "donor": {
+                "submitterDonorId": "OCCAMS-AH-005",
+                "gender": "Female"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "Submitted Reads",
+            "fileName": "59a49d310fbd0469c7a0c20b97bde0f3.SS6003312.bam",
+            "fileSize": 129249552980,
+            "fileType": "BAM",
+            "fileMd5sum": "59a49d310fbd0469c7a0c20b97bde0f3",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "EGAR00001131293",
+                "data_category": "Sequencing Reads"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "59a49d310fbd0469c7a0c20b97bde0f3.SS6003312.bam",
+            "file_r2": "59a49d310fbd0469c7a0c20b97bde0f3.SS6003312.bam",
+            "insert_size": null,
+            "platform_unit": "SS6003312",
+            "is_paired_end": true,
+            "library_name": "SS6003312",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": null,
+            "submitter_read_group_id": "SS6003312"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-785",
+        "experimental_strategy": "WGS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 1
+}
