@@ -1,0 +1,4 @@
+submitter_donor_id	submitter_sample_id	tumour_normal_designation	sequencing_strategy	donor_id	sample_id	study_id	analysis_id
+OCCAMS-AH-052	LP6005409-DNA_H02	tumour	WGS	DO227552	SA594630	OCCAMS-GB	026c0989-0e27-499b-ac09-890e27399b4c
+OCCAMS-AH-271	LP6008201-DNA_B01	normal	WGS	DO228954	SA597153	OCCAMS-GB	f3f5cc9f-a963-4578-b5cc-9fa963e57847
+OCCAMS-AH-296	LP6008201-DNA_F01	normal	WGS	DO228966	SA597222	OCCAMS-GB	56c16c86-dacd-4531-816c-86dacd8531fa

@@ -19,6 +19,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument("-s", "-summary_file", dest="summary_file", required=True)
 parser.add_argument("-i", "-intermediate_song_file", dest="intermediate_song_file", required=True)
 parser.add_argument("-o", "-out_file", dest="out_file", required=True)
+parser.add_argument("-p", "-project", dest="project", required=True)
 args = parser.parse_args()
 
 intermediateReport = args.intermediate_song_file
@@ -32,7 +33,7 @@ completed = {}
 
 def get_analysisId_mapping():
    mapping = {}
-   mapping_file = open("analysis_id_mapping.tsv", "w")
+   mapping_file = open("%s_analysis_id_mapping.tsv"%(args.project), "w")
    report = json.load(open(intermediateReport, "r"))
    for payload in report["success"]:
       legacyAnalysisIds = payload["legacyAnalysisIds"]
