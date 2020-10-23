@@ -1,0 +1,126 @@
+{
+    "studyId": "OCCAMS-GB",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "OC-AH-131-B-F1_V01",
+            "matchedNormalSubmitterSampleId": null,
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "OC-AH-131-B-F1",
+                "specimenType": "Normal",
+                "tumourNormalDesignation": "Normal",
+                "specimenTissueSource": "Blood derived"
+            },
+            "donor": {
+                "submitterDonorId": "OCCAMS-AH-131",
+                "gender": "Male"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "Submitted Reads",
+            "fileName": "aea37ddf593161721ab64ba509f91d79.bam",
+            "fileSize": 14393526220,
+            "fileType": "BAM",
+            "fileMd5sum": "aea37ddf593161721ab64ba509f91d79",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "94cf94a2-c86e-11e5-8de2-d73672e65511",
+                "data_category": "Sequencing Reads"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "aea37ddf593161721ab64ba509f91d79.bam",
+            "file_r2": "aea37ddf593161721ab64ba509f91d79.bam",
+            "insert_size": null,
+            "platform_unit": "WUGSC:2895499922",
+            "is_paired_end": true,
+            "library_name": "VALIDATION:WUGSC:H_SA-OC-AH-131-LP6005408-DNA_D02-lg2-lib1",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": null,
+            "submitter_read_group_id": "WUGSC:2895499922"
+        },
+        {
+            "file_r1": "aea37ddf593161721ab64ba509f91d79.bam",
+            "file_r2": "aea37ddf593161721ab64ba509f91d79.bam",
+            "insert_size": null,
+            "platform_unit": "WUGSC:2895499929",
+            "is_paired_end": true,
+            "library_name": "VALIDATION:WUGSC:H_SA-OC-AH-131-LP6005408-DNA_D02-lg1-lib1",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": null,
+            "submitter_read_group_id": "WUGSC:2895499929"
+        },
+        {
+            "file_r1": "aea37ddf593161721ab64ba509f91d79.bam",
+            "file_r2": "aea37ddf593161721ab64ba509f91d79.bam",
+            "insert_size": null,
+            "platform_unit": "WUGSC:2895499995",
+            "is_paired_end": true,
+            "library_name": "VALIDATION:WUGSC:H_SA-OC-AH-131-LP6005408-DNA_D02-lg1-lib1",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": null,
+            "submitter_read_group_id": "WUGSC:2895499995"
+        },
+        {
+            "file_r1": "aea37ddf593161721ab64ba509f91d79.bam",
+            "file_r2": "aea37ddf593161721ab64ba509f91d79.bam",
+            "insert_size": null,
+            "platform_unit": "WUGSC:2895499996",
+            "is_paired_end": true,
+            "library_name": "VALIDATION:WUGSC:H_SA-OC-AH-131-LP6005408-DNA_D02-lg2-lib1",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": null,
+            "submitter_read_group_id": "WUGSC:2895499996"
+        },
+        {
+            "file_r1": "aea37ddf593161721ab64ba509f91d79.bam",
+            "file_r2": "aea37ddf593161721ab64ba509f91d79.bam",
+            "insert_size": null,
+            "platform_unit": "WUGSC:2895500048",
+            "is_paired_end": true,
+            "library_name": "VALIDATION:WUGSC:H_SA-OC-AH-131-LP6005408-DNA_D02-lg2-lib1",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": null,
+            "submitter_read_group_id": "WUGSC:2895500048"
+        },
+        {
+            "file_r1": "aea37ddf593161721ab64ba509f91d79.bam",
+            "file_r2": "aea37ddf593161721ab64ba509f91d79.bam",
+            "insert_size": null,
+            "platform_unit": "WUGSC:2895500075",
+            "is_paired_end": true,
+            "library_name": "VALIDATION:WUGSC:H_SA-OC-AH-131-LP6005408-DNA_D02-lg1-lib1",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": null,
+            "submitter_read_group_id": "WUGSC:2895500075"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-809",
+        "experimental_strategy": "Targeted-Seq",
+        "sequencing_center": "WUGSC",
+        "platform": "ILLUMINA",
+        "platform_model": "Illumina HiSeq 2500",
+        "sequencing_date": null
+    },
+    "read_group_count": 6
+}
