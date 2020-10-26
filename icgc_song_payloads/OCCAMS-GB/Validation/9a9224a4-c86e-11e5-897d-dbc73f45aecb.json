@@ -6,7 +6,7 @@
     "samples": [
         {
             "submitterSampleId": "OC-ST-020-S-T1_V01",
-            "matchedNormalSubmitterSampleId": null,
+            "matchedNormalSubmitterSampleId": "OC-ST-020-B-F1_V01",
             "sampleType": "Total DNA",
             "specimen": {
                 "submitterSpecimenId": "OC-ST-020-S-T1",
