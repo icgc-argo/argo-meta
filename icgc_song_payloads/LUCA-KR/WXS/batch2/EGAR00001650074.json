@@ -1,0 +1,61 @@
+{
+    "studyId": "OCCAMS-GB",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "2014_Lung_sq_77_T",
+            "matchedNormalSubmitterSampleId": "2014_Lung_sq_77_N",
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "2014_Lung_77_T",
+                "specimenType": "Primary tumour",
+                "tumourNormalDesignation": "Tumour",
+                "specimenTissueSource": "Solid tissue"
+            },
+            "donor": {
+                "submitterDonorId": "2014_Lung_77",
+                "gender": "Male"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "Submitted Reads",
+            "fileName": "5063808f694a07238cae69e18c2f31d8.SSH-PKC_951-T.bam",
+            "fileSize": 17054185656,
+            "fileType": "BAM",
+            "fileMd5sum": "5063808f694a07238cae69e18c2f31d8",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "EGAR00001650074",
+                "data_category": "Sequencing Reads"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "5063808f694a07238cae69e18c2f31d8.SSH-PKC_951-T.bam",
+            "file_r2": "5063808f694a07238cae69e18c2f31d8.SSH-PKC_951-T.bam",
+            "insert_size": null,
+            "platform_unit": "illumina",
+            "is_paired_end": true,
+            "library_name": "bar",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": null,
+            "submitter_read_group_id": "foo"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-323",
+        "experimental_strategy": "WXS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 1
+}

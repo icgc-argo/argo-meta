@@ -1,0 +1,61 @@
+{
+    "studyId": "OCCAMS-GB",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "2014_Lung_sq_81_N",
+            "matchedNormalSubmitterSampleId": null,
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "2014_Lung_81_N",
+                "specimenType": "Normal",
+                "tumourNormalDesignation": "Normal",
+                "specimenTissueSource": "Blood derived"
+            },
+            "donor": {
+                "submitterDonorId": "2014_Lung_81",
+                "gender": "Male"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "Submitted Reads",
+            "fileName": "4fe8eb52deb02bcaa1c262795baa6261.SSH-PKC_745-N.bam",
+            "fileSize": 16404756368,
+            "fileType": "BAM",
+            "fileMd5sum": "4fe8eb52deb02bcaa1c262795baa6261",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "EGAR00001649974",
+                "data_category": "Sequencing Reads"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "4fe8eb52deb02bcaa1c262795baa6261.SSH-PKC_745-N.bam",
+            "file_r2": "4fe8eb52deb02bcaa1c262795baa6261.SSH-PKC_745-N.bam",
+            "insert_size": null,
+            "platform_unit": "illumina",
+            "is_paired_end": true,
+            "library_name": "bar",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": null,
+            "submitter_read_group_id": "foo"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-115",
+        "experimental_strategy": "WXS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 1
+}
