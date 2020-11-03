@@ -39,14 +39,14 @@
             "file_r1": "05e0d47cbee5a462bcf7649fcba1b2b5.SSH-PKC_J90_T.bam",
             "file_r2": "05e0d47cbee5a462bcf7649fcba1b2b5.SSH-PKC_J90_T.bam",
             "insert_size": null,
-            "platform_unit": "illumina",
+            "platform_unit": "foo_2014_Lung_sq_10_T",
             "is_paired_end": true,
             "library_name": "bar",
             "read_length_r1": null,
             "read_length_r2": null,
             "sample_barcode": null,
-            "read_group_id_in_bam": null,
-            "submitter_read_group_id": "foo"
+            "read_group_id_in_bam": "foo",
+            "submitter_read_group_id": "foo_2014_Lung_sq_10_T"
         }
     ],
     "experiment": {
