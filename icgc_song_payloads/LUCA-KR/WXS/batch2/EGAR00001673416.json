@@ -39,14 +39,14 @@
             "file_r1": "c85eddf1ff488cc296359217e05eef51.5D-N_sorted_dupl_realign_recalib.bam",
             "file_r2": "c85eddf1ff488cc296359217e05eef51.5D-N_sorted_dupl_realign_recalib.bam",
             "insert_size": null,
-            "platform_unit": "foo_5D-N",
+            "platform_unit": "illumina",
             "is_paired_end": true,
             "library_name": "bar",
             "read_length_r1": null,
             "read_length_r2": null,
             "sample_barcode": null,
-            "read_group_id_in_bam": "foo",
-            "submitter_read_group_id": "foo_5D-N"
+            "read_group_id_in_bam": null,
+            "submitter_read_group_id": "foo"
         }
     ],
     "experiment": {
