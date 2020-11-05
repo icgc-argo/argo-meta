@@ -1,0 +1,61 @@
+{
+    "studyId": "PACA-CA",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "PCSI_0102_Pa_P",
+            "matchedNormalSubmitterSampleId": "PCSI_0102_Ly_R",
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "PCSI_0102_Pa_P",
+                "specimenType": "Primary tumour",
+                "tumourNormalDesignation": "Tumour",
+                "specimenTissueSource": "Solid tissue"
+            },
+            "donor": {
+                "submitterDonorId": "PCSI_0102",
+                "gender": "Female"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "Submitted Reads",
+            "fileName": "07fa878b1bc8d25a9b62c093a9ebe26b.PCSI_0102_Pa_P.bam",
+            "fileSize": 24022175555,
+            "fileType": "BAM",
+            "fileMd5sum": "07fa878b1bc8d25a9b62c093a9ebe26b",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "EGAZ00001257929",
+                "data_category": "Sequencing Reads"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "07fa878b1bc8d25a9b62c093a9ebe26b.PCSI_0102_Pa_P.bam",
+            "file_r2": "07fa878b1bc8d25a9b62c093a9ebe26b.PCSI_0102_Pa_P.bam",
+            "insert_size": null,
+            "platform_unit": "SN203",
+            "is_paired_end": true,
+            "library_name": "PCSI_0102_Pa_P_PE_433_EX",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": null,
+            "submitter_read_group_id": "110915_SN203_0123_AC00R9ACXX_6_ACAGTG"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-363",
+        "experimental_strategy": "WXS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 1
+}

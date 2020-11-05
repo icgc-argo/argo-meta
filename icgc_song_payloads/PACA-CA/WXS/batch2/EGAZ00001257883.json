@@ -1,0 +1,61 @@
+{
+    "studyId": "PACA-CA",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "PCSI_0075_Pa_P",
+            "matchedNormalSubmitterSampleId": "PCSI_0075_Ly_R",
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "PCSI_0075_Pa_P",
+                "specimenType": "Primary tumour",
+                "tumourNormalDesignation": "Tumour",
+                "specimenTissueSource": "Solid tissue"
+            },
+            "donor": {
+                "submitterDonorId": "PCSI_0075",
+                "gender": "Male"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "Submitted Reads",
+            "fileName": "cd6982a561bd128b98f460ff782e45c4.PCSI_0075_Pa_P.bam",
+            "fileSize": 25438111248,
+            "fileType": "BAM",
+            "fileMd5sum": "cd6982a561bd128b98f460ff782e45c4",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "EGAZ00001257883",
+                "data_category": "Sequencing Reads"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "cd6982a561bd128b98f460ff782e45c4.PCSI_0075_Pa_P.bam",
+            "file_r2": "cd6982a561bd128b98f460ff782e45c4.PCSI_0075_Pa_P.bam",
+            "insert_size": null,
+            "platform_unit": "SN393",
+            "is_paired_end": true,
+            "library_name": "PCSI_0075_Pa_P_PE_436_EX",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": null,
+            "submitter_read_group_id": "110819_SN393_0183_AB02B9ACXX_2_ACTTGA"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-362",
+        "experimental_strategy": "WXS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 1
+}

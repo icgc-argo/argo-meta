@@ -1,0 +1,74 @@
+{
+    "studyId": "PACA-CA",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "PCSI_0101_Ly_R",
+            "matchedNormalSubmitterSampleId": null,
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "PCSI_0101_Ly_R",
+                "specimenType": "Normal",
+                "tumourNormalDesignation": "Normal",
+                "specimenTissueSource": "Blood derived"
+            },
+            "donor": {
+                "submitterDonorId": "PCSI_0101",
+                "gender": "Male"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "Submitted Reads",
+            "fileName": "3e23056c2d88b73520c887d42fffcc8c.PCSI_0101_Ly_R.bam",
+            "fileSize": 15424545046,
+            "fileType": "BAM",
+            "fileMd5sum": "3e23056c2d88b73520c887d42fffcc8c",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "EGAZ00001257926",
+                "data_category": "Sequencing Reads"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "3e23056c2d88b73520c887d42fffcc8c.PCSI_0101_Ly_R.bam",
+            "file_r2": "3e23056c2d88b73520c887d42fffcc8c.PCSI_0101_Ly_R.bam",
+            "insert_size": null,
+            "platform_unit": "SN393",
+            "is_paired_end": true,
+            "library_name": "PCSI_0101_Ly_R_PE_359_EX",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": null,
+            "submitter_read_group_id": "110909_SN393_0184_BC00ERACXX_6_TTAGGC"
+        },
+        {
+            "file_r1": "3e23056c2d88b73520c887d42fffcc8c.PCSI_0101_Ly_R.bam",
+            "file_r2": "3e23056c2d88b73520c887d42fffcc8c.PCSI_0101_Ly_R.bam",
+            "insert_size": null,
+            "platform_unit": "h239",
+            "is_paired_end": true,
+            "library_name": "PCSI_0101_Ly_R_PE_359_EX",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": null,
+            "submitter_read_group_id": "111209_h239_0135_BD0GRMACXX_1_TTAGGC"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-342",
+        "experimental_strategy": "WXS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 2
+}
