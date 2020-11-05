@@ -1,0 +1,61 @@
+{
+    "studyId": "LUCA-KR",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "25D-N",
+            "matchedNormalSubmitterSampleId": null,
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "25D-N",
+                "specimenType": "Normal",
+                "tumourNormalDesignation": "Normal",
+                "specimenTissueSource": "Other"
+            },
+            "donor": {
+                "submitterDonorId": "Kor_13",
+                "gender": "Female"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "Submitted Reads",
+            "fileName": "7e69559ff5b3a4675a4654990f1e128e.25_sorted_dupl_realign_recalib.bam",
+            "fileSize": 10461975821,
+            "fileType": "BAM",
+            "fileMd5sum": "7e69559ff5b3a4675a4654990f1e128e",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "EGAR00001673424",
+                "data_category": "Sequencing Reads"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "7e69559ff5b3a4675a4654990f1e128e.25_sorted_dupl_realign_recalib.bam",
+            "file_r2": "7e69559ff5b3a4675a4654990f1e128e.25_sorted_dupl_realign_recalib.bam",
+            "insert_size": null,
+            "platform_unit": "foo_25D-N",
+            "is_paired_end": true,
+            "library_name": "bar",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": "foo",
+            "submitter_read_group_id": "foo_25D-N"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-226",
+        "experimental_strategy": "WXS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 1
+}

@@ -1,0 +1,61 @@
+{
+    "studyId": "LUCA-KR",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "2014_Lung_sq_39_N",
+            "matchedNormalSubmitterSampleId": null,
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "2014_Lung_39_N",
+                "specimenType": "Normal",
+                "tumourNormalDesignation": "Normal",
+                "specimenTissueSource": "Blood derived"
+            },
+            "donor": {
+                "submitterDonorId": "2014_Lung_39",
+                "gender": "Male"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "Submitted Reads",
+            "fileName": "e2b1a0380328a30fea3cb03f9c4325ba.SSH-PKC_381-N.bam",
+            "fileSize": 16647733635,
+            "fileType": "BAM",
+            "fileMd5sum": "e2b1a0380328a30fea3cb03f9c4325ba",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "EGAR00001649932",
+                "data_category": "Sequencing Reads"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "e2b1a0380328a30fea3cb03f9c4325ba.SSH-PKC_381-N.bam",
+            "file_r2": "e2b1a0380328a30fea3cb03f9c4325ba.SSH-PKC_381-N.bam",
+            "insert_size": null,
+            "platform_unit": "foo_2014_Lung_sq_39_N",
+            "is_paired_end": true,
+            "library_name": "bar",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": "foo",
+            "submitter_read_group_id": "foo_2014_Lung_sq_39_N"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-141",
+        "experimental_strategy": "WXS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 1
+}

@@ -1,0 +1,61 @@
+{
+    "studyId": "LUCA-KR",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "2014_Lung_sq_103_N",
+            "matchedNormalSubmitterSampleId": null,
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "2014_Lung_103_N",
+                "specimenType": "Normal",
+                "tumourNormalDesignation": "Normal",
+                "specimenTissueSource": "Blood derived"
+            },
+            "donor": {
+                "submitterDonorId": "2014_Lung_103",
+                "gender": "Male"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "Submitted Reads",
+            "fileName": "96261ae444e3170967a78f47fbfaabcc.SSH-PKC_363-N.bam",
+            "fileSize": 16126844840,
+            "fileType": "BAM",
+            "fileMd5sum": "96261ae444e3170967a78f47fbfaabcc",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "EGAR00001649996",
+                "data_category": "Sequencing Reads"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "96261ae444e3170967a78f47fbfaabcc.SSH-PKC_363-N.bam",
+            "file_r2": "96261ae444e3170967a78f47fbfaabcc.SSH-PKC_363-N.bam",
+            "insert_size": null,
+            "platform_unit": "foo_2014_Lung_sq_103_N",
+            "is_paired_end": true,
+            "library_name": "bar",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": "foo",
+            "submitter_read_group_id": "foo_2014_Lung_sq_103_N"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-302",
+        "experimental_strategy": "WXS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 1
+}

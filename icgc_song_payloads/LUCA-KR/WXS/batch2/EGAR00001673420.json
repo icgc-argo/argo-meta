@@ -1,0 +1,61 @@
+{
+    "studyId": "LUCA-KR",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "10D-N",
+            "matchedNormalSubmitterSampleId": null,
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "10D-N",
+                "specimenType": "Normal",
+                "tumourNormalDesignation": "Normal",
+                "specimenTissueSource": "Other"
+            },
+            "donor": {
+                "submitterDonorId": "Kor_09",
+                "gender": "Female"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "Submitted Reads",
+            "fileName": "7928dbf38cafc0a39a84d40d610cd570.10D-N_sorted_dupl_realign_recalib.bam",
+            "fileSize": 9458062241,
+            "fileType": "BAM",
+            "fileMd5sum": "7928dbf38cafc0a39a84d40d610cd570",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "EGAR00001673420",
+                "data_category": "Sequencing Reads"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "7928dbf38cafc0a39a84d40d610cd570.10D-N_sorted_dupl_realign_recalib.bam",
+            "file_r2": "7928dbf38cafc0a39a84d40d610cd570.10D-N_sorted_dupl_realign_recalib.bam",
+            "insert_size": null,
+            "platform_unit": "foo_10D-N",
+            "is_paired_end": true,
+            "library_name": "bar",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": "foo",
+            "submitter_read_group_id": "foo_10D-N"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-169",
+        "experimental_strategy": "WXS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 1
+}

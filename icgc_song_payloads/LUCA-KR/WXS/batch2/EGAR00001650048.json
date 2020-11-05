@@ -1,0 +1,61 @@
+{
+    "studyId": "LUCA-KR",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "2014_Lung_sq_51_T",
+            "matchedNormalSubmitterSampleId": "2014_Lung_sq_51_N",
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "2014_Lung_51_T",
+                "specimenType": "Primary tumour",
+                "tumourNormalDesignation": "Tumour",
+                "specimenTissueSource": "Solid tissue"
+            },
+            "donor": {
+                "submitterDonorId": "2014_Lung_51",
+                "gender": "Male"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "Submitted Reads",
+            "fileName": "34e42263b3f9ed5f83f1391117c20eca.SSH-PKC_3030-T.bam",
+            "fileSize": 18197532944,
+            "fileType": "BAM",
+            "fileMd5sum": "34e42263b3f9ed5f83f1391117c20eca",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "EGAR00001650048",
+                "data_category": "Sequencing Reads"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "34e42263b3f9ed5f83f1391117c20eca.SSH-PKC_3030-T.bam",
+            "file_r2": "34e42263b3f9ed5f83f1391117c20eca.SSH-PKC_3030-T.bam",
+            "insert_size": null,
+            "platform_unit": "foo_2014_Lung_sq_51_T",
+            "is_paired_end": true,
+            "library_name": "bar",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": "foo",
+            "submitter_read_group_id": "foo_2014_Lung_sq_51_T"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-224",
+        "experimental_strategy": "WXS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 1
+}
