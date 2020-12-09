@@ -1,0 +1,6 @@
+submitter_donor_id	submitter_sample_id	tumour_normal_designation	sequencing_strategy	donor_id	sample_id	study_id	analysis_id
+Kor_11	22D-N	normal	WXS	DO52354	SA541314	LUCA-KR	c6dfe5b0-4ca4-4119-9fe5-b04ca49119a4
+Kor_12	23D-N	normal	WXS	DO52355	SA541316	LUCA-KR	0f4b67b9-909d-4d10-8b67-b9909ddd10d7
+Kor_13	25D-N	normal	WXS	DO52357	SA541319	LUCA-KR	339204bb-a166-49e0-9204-bba16619e05a
+Kor_14	26D-N	normal	WXS	DO52359	SA541320	LUCA-KR	27e74ddc-776e-4130-a74d-dc776ec13090
+Kor_16	29D-N	normal	WXS	DO52363	SA541324	LUCA-KR	5883f734-b349-44ff-83f7-34b349d4ff61
