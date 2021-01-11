@@ -9,13 +9,13 @@
             "matchedNormalSubmitterSampleId": "LP2000319-DNA_A01",
             "sampleType": "Total DNA",
             "specimen": {
-                "submitterSpecimenId": "OC-UC-001-E-T3",
+                "submitterSpecimenId": "20b0b84040280fd2d17cd5b344d72c96b07d0ee8ac71c5c9be3375453f9f5147",
                 "specimenType": "Primary tumour",
                 "tumourNormalDesignation": "Tumour",
                 "specimenTissueSource": "Solid tissue"
             },
             "donor": {
-                "submitterDonorId": "OCCAMS-UC-001",
+                "submitterDonorId": "d3012eb5c1795f63ef44bf0f03e6c91a8bc5bf93bdfa44288e02764c8dfcabb3",
                 "gender": "Female"
             }
         }

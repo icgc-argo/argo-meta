@@ -9,13 +9,13 @@
             "matchedNormalSubmitterSampleId": null,
             "sampleType": "Total DNA",
             "specimen": {
-                "submitterSpecimenId": "Cou1-0069norm",
+                "submitterSpecimenId": "85784a4bb9e317dfd86a4ab89b17564fa689612b1ac572b00530377acf852364",
                 "specimenType": "Normal",
                 "tumourNormalDesignation": "Normal",
                 "specimenTissueSource": "Solid tissue"
             },
             "donor": {
-                "submitterDonorId": "OCCAMS-PS-011",
+                "submitterDonorId": "3abbfc149ac774b3bfed61438c5b709a473c0c6162b6707b4bfebef67eba2260",
                 "gender": "Female"
             }
         }

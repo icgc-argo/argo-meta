@@ -9,13 +9,13 @@
             "matchedNormalSubmitterSampleId": "SM-4JPUT",
             "sampleType": "Total DNA",
             "specimen": {
-                "submitterSpecimenId": "OC-AH-111-S-T1",
+                "submitterSpecimenId": "50e4e0483f79bcfffab776edd5d9c07393b07f8212e6405ecd52fa6788433344",
                 "specimenType": "Primary tumour",
                 "tumourNormalDesignation": "Tumour",
                 "specimenTissueSource": "Solid tissue"
             },
             "donor": {
-                "submitterDonorId": "OCCAMS-AH-111",
+                "submitterDonorId": "f766c67a2f3bc4d0cbb92614275ac052201cee5880928b2acd169e5802027797",
                 "gender": "Male"
             }
         }

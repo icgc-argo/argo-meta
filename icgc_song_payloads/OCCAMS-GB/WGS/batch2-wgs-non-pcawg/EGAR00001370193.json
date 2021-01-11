@@ -9,13 +9,13 @@
             "matchedNormalSubmitterSampleId": "LP6008138-DNA_D01",
             "sampleType": "Total DNA",
             "specimen": {
-                "submitterSpecimenId": "OC-ED-010-S-T3",
+                "submitterSpecimenId": "aec0360dc8b214c48f781a021c075d842ce0a8f422735b880088091a6d184b42",
                 "specimenType": "Primary tumour",
                 "tumourNormalDesignation": "Tumour",
                 "specimenTissueSource": "Solid tissue"
             },
             "donor": {
-                "submitterDonorId": "OCCAMS-ED-010",
+                "submitterDonorId": "206327a320b967baf95361f43e814ab0e7403364077c84c04722fbe9ec7d59d5",
                 "gender": "Male"
             }
         }

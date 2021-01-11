@@ -9,13 +9,13 @@
             "matchedNormalSubmitterSampleId": null,
             "sampleType": "Total DNA",
             "specimen": {
-                "submitterSpecimenId": "OC-ED-061-B-B1",
+                "submitterSpecimenId": "650a6688aaa4b3a046f508bfa19346b6ae7125e7fa7a3cfd60f92c55aecc08a0",
                 "specimenType": "Normal",
                 "tumourNormalDesignation": "Normal",
                 "specimenTissueSource": "Blood derived"
             },
             "donor": {
-                "submitterDonorId": "OCCAMS-ED-061",
+                "submitterDonorId": "6e8fdfbc1b6673a9e7f0753ee13f672156f7333fac3083316c7f2d2994019053",
                 "gender": "Male"
             }
         }
