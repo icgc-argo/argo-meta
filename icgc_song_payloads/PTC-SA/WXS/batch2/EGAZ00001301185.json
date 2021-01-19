@@ -1,0 +1,61 @@
+{
+    "studyId": "PTC-SA",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "236B",
+            "matchedNormalSubmitterSampleId": null,
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "236B",
+                "specimenType": "Normal",
+                "tumourNormalDesignation": "Normal",
+                "specimenTissueSource": "Blood derived"
+            },
+            "donor": {
+                "submitterDonorId": "236C",
+                "gender": "Female"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "Submitted Reads",
+            "fileName": "0c4cc9eb4a6d732b671eebe958e72ba4.236B_recalibrated.bam",
+            "fileSize": 14158925800,
+            "fileType": "BAM",
+            "fileMd5sum": "0c4cc9eb4a6d732b671eebe958e72ba4",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "EGAZ00001301185",
+                "data_category": "Sequencing Reads"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "0c4cc9eb4a6d732b671eebe958e72ba4.236B_recalibrated.bam",
+            "file_r2": "0c4cc9eb4a6d732b671eebe958e72ba4.236B_recalibrated.bam",
+            "insert_size": null,
+            "platform_unit": "normal_236B",
+            "is_paired_end": true,
+            "library_name": "paired-end",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": "normal",
+            "submitter_read_group_id": "normal_236B"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-430",
+        "experimental_strategy": "WXS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 1
+}

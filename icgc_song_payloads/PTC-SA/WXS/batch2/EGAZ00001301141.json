@@ -1,0 +1,61 @@
+{
+    "studyId": "PTC-SA",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "316C",
+            "matchedNormalSubmitterSampleId": "316B",
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "316C",
+                "specimenType": "Primary tumour",
+                "tumourNormalDesignation": "Tumour",
+                "specimenTissueSource": "Solid tissue"
+            },
+            "donor": {
+                "submitterDonorId": "316C",
+                "gender": "Female"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "Submitted Reads",
+            "fileName": "273b1e894c0b72547f95b4f4dfb86b79.316C_recalibrated.bam",
+            "fileSize": 20894211614,
+            "fileType": "BAM",
+            "fileMd5sum": "273b1e894c0b72547f95b4f4dfb86b79",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "EGAZ00001301141",
+                "data_category": "Sequencing Reads"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "273b1e894c0b72547f95b4f4dfb86b79.316C_recalibrated.bam",
+            "file_r2": "273b1e894c0b72547f95b4f4dfb86b79.316C_recalibrated.bam",
+            "insert_size": null,
+            "platform_unit": "cancer_316C",
+            "is_paired_end": true,
+            "library_name": "paired-end",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": "cancer",
+            "submitter_read_group_id": "cancer_316C"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-478",
+        "experimental_strategy": "WXS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 1
+}

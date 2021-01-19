@@ -1,0 +1,61 @@
+{
+    "studyId": "PTC-SA",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "299B-new",
+            "matchedNormalSubmitterSampleId": null,
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "299B-new",
+                "specimenType": "Normal",
+                "tumourNormalDesignation": "Normal",
+                "specimenTissueSource": "Blood derived"
+            },
+            "donor": {
+                "submitterDonorId": "299C",
+                "gender": "Male"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "Submitted Reads",
+            "fileName": "a2697e6108e9f5e5a2bc16cf7d83aa66.299B_recalibrated.bam",
+            "fileSize": 22036814060,
+            "fileType": "BAM",
+            "fileMd5sum": "a2697e6108e9f5e5a2bc16cf7d83aa66",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "EGAZ00001386949",
+                "data_category": "Sequencing Reads"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "a2697e6108e9f5e5a2bc16cf7d83aa66.299B_recalibrated.bam",
+            "file_r2": "a2697e6108e9f5e5a2bc16cf7d83aa66.299B_recalibrated.bam",
+            "insert_size": null,
+            "platform_unit": "normal_299B-new",
+            "is_paired_end": true,
+            "library_name": "paired-end",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": "normal",
+            "submitter_read_group_id": "normal_299B-new"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-424",
+        "experimental_strategy": "WXS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 1
+}
