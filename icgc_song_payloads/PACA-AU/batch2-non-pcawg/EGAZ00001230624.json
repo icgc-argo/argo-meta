@@ -1,0 +1,87 @@
+{
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "8069323",
+            "matchedNormalSubmitterSampleId": null,
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "8069323",
+                "specimenType": "Normal",
+                "tumourNormalDesignation": "Normal",
+                "specimenTissueSource": "Solid tissue"
+            },
+            "donor": {
+                "submitterDonorId": "ICGC_0504",
+                "gender": "Male"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "Submitted Reads",
+            "fileName": "599ac3da6dd6efbbc993fff510705ee8.IcgcPancreatic_APGI3753_1DNA_4NormalControlOtherSite_ICGCABMB20131120025_IlluminaIGNOutsourcing_NoCapture_Bwa_HiSeq.jpearson.bam",
+            "fileSize": 80319444196,
+            "fileType": "BAM",
+            "fileMd5sum": "599ac3da6dd6efbbc993fff510705ee8",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "EGAZ00001230624",
+                "data_category": "Sequencing Reads"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "599ac3da6dd6efbbc993fff510705ee8.IcgcPancreatic_APGI3753_1DNA_4NormalControlOtherSite_ICGCABMB20131120025_IlluminaIGNOutsourcing_NoCapture_Bwa_HiSeq.jpearson.bam",
+            "file_r2": "599ac3da6dd6efbbc993fff510705ee8.IcgcPancreatic_APGI3753_1DNA_4NormalControlOtherSite_ICGCABMB20131120025_IlluminaIGNOutsourcing_NoCapture_Bwa_HiSeq.jpearson.bam",
+            "insert_size": null,
+            "platform_unit": "lane_5.nobc",
+            "is_paired_end": true,
+            "library_name": "Library_EXT20140207_Y",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": null,
+            "submitter_read_group_id": "20140214232800687"
+        },
+        {
+            "file_r1": "599ac3da6dd6efbbc993fff510705ee8.IcgcPancreatic_APGI3753_1DNA_4NormalControlOtherSite_ICGCABMB20131120025_IlluminaIGNOutsourcing_NoCapture_Bwa_HiSeq.jpearson.bam",
+            "file_r2": "599ac3da6dd6efbbc993fff510705ee8.IcgcPancreatic_APGI3753_1DNA_4NormalControlOtherSite_ICGCABMB20131120025_IlluminaIGNOutsourcing_NoCapture_Bwa_HiSeq.jpearson.bam",
+            "insert_size": null,
+            "platform_unit": "lane_8.nobc",
+            "is_paired_end": true,
+            "library_name": "Library_EXT20140207_Y",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": null,
+            "submitter_read_group_id": "20140214232812544"
+        },
+        {
+            "file_r1": "599ac3da6dd6efbbc993fff510705ee8.IcgcPancreatic_APGI3753_1DNA_4NormalControlOtherSite_ICGCABMB20131120025_IlluminaIGNOutsourcing_NoCapture_Bwa_HiSeq.jpearson.bam",
+            "file_r2": "599ac3da6dd6efbbc993fff510705ee8.IcgcPancreatic_APGI3753_1DNA_4NormalControlOtherSite_ICGCABMB20131120025_IlluminaIGNOutsourcing_NoCapture_Bwa_HiSeq.jpearson.bam",
+            "insert_size": null,
+            "platform_unit": "lane_6.nobc",
+            "is_paired_end": true,
+            "library_name": "Library_EXT20140207_Y",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": null,
+            "submitter_read_group_id": "20140214232801780"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-31",
+        "experimental_strategy": "WGS",
+        "sequencing_center": "IGN",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 3,
+    "studyId": "PACA-AU"
+}
