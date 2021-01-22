@@ -1,0 +1,113 @@
+{
+    "studyId": "APGI-AU",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "8050103",
+            "matchedNormalSubmitterSampleId": "8013042",
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "8050103",
+                "specimenType": "Cell line - derived from tumour",
+                "tumourNormalDesignation": "Tumour",
+                "specimenTissueSource": "Other"
+            },
+            "donor": {
+                "submitterDonorId": "ICGC_0032",
+                "gender": "Female"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "Submitted Reads",
+            "fileName": "5c9e991f67ad888412025d4a63403cfb.IcgcPancreatic_APGI2051_1DNA_10CellLineDerivedFromXenograft_ICGCABMJ2012070605_IlluminaTruSEQMultiplexedManual_NoCapture_Bwa_HiSeq.jpearson.bam",
+            "fileSize": 163524389323,
+            "fileType": "BAM",
+            "fileMd5sum": "5c9e991f67ad888412025d4a63403cfb",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "EGAZ00001015203",
+                "data_category": "Sequencing Reads"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "5c9e991f67ad888412025d4a63403cfb.IcgcPancreatic_APGI2051_1DNA_10CellLineDerivedFromXenograft_ICGCABMJ2012070605_IlluminaTruSEQMultiplexedManual_NoCapture_Bwa_HiSeq.jpearson.bam",
+            "file_r2": "5c9e991f67ad888412025d4a63403cfb.IcgcPancreatic_APGI2051_1DNA_10CellLineDerivedFromXenograft_ICGCABMJ2012070605_IlluminaTruSEQMultiplexedManual_NoCapture_Bwa_HiSeq.jpearson.bam",
+            "insert_size": null,
+            "platform_unit": "lane_1.nobc",
+            "is_paired_end": true,
+            "library_name": "Library_20120906_R",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": null,
+            "submitter_read_group_id": "20121020023749773"
+        },
+        {
+            "file_r1": "5c9e991f67ad888412025d4a63403cfb.IcgcPancreatic_APGI2051_1DNA_10CellLineDerivedFromXenograft_ICGCABMJ2012070605_IlluminaTruSEQMultiplexedManual_NoCapture_Bwa_HiSeq.jpearson.bam",
+            "file_r2": "5c9e991f67ad888412025d4a63403cfb.IcgcPancreatic_APGI2051_1DNA_10CellLineDerivedFromXenograft_ICGCABMJ2012070605_IlluminaTruSEQMultiplexedManual_NoCapture_Bwa_HiSeq.jpearson.bam",
+            "insert_size": null,
+            "platform_unit": "lane_2.nobc",
+            "is_paired_end": true,
+            "library_name": "Library_20120906_R",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": null,
+            "submitter_read_group_id": "20121020032507560"
+        },
+        {
+            "file_r1": "5c9e991f67ad888412025d4a63403cfb.IcgcPancreatic_APGI2051_1DNA_10CellLineDerivedFromXenograft_ICGCABMJ2012070605_IlluminaTruSEQMultiplexedManual_NoCapture_Bwa_HiSeq.jpearson.bam",
+            "file_r2": "5c9e991f67ad888412025d4a63403cfb.IcgcPancreatic_APGI2051_1DNA_10CellLineDerivedFromXenograft_ICGCABMJ2012070605_IlluminaTruSEQMultiplexedManual_NoCapture_Bwa_HiSeq.jpearson.bam",
+            "insert_size": null,
+            "platform_unit": "lane_4.nobc",
+            "is_paired_end": true,
+            "library_name": "Library_20120906_R",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": null,
+            "submitter_read_group_id": "20121019090856338"
+        },
+        {
+            "file_r1": "5c9e991f67ad888412025d4a63403cfb.IcgcPancreatic_APGI2051_1DNA_10CellLineDerivedFromXenograft_ICGCABMJ2012070605_IlluminaTruSEQMultiplexedManual_NoCapture_Bwa_HiSeq.jpearson.bam",
+            "file_r2": "5c9e991f67ad888412025d4a63403cfb.IcgcPancreatic_APGI2051_1DNA_10CellLineDerivedFromXenograft_ICGCABMJ2012070605_IlluminaTruSEQMultiplexedManual_NoCapture_Bwa_HiSeq.jpearson.bam",
+            "insert_size": null,
+            "platform_unit": "lane_3.nobc",
+            "is_paired_end": true,
+            "library_name": "Library_20120906_R",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": null,
+            "submitter_read_group_id": "2012112808071914"
+        },
+        {
+            "file_r1": "5c9e991f67ad888412025d4a63403cfb.IcgcPancreatic_APGI2051_1DNA_10CellLineDerivedFromXenograft_ICGCABMJ2012070605_IlluminaTruSEQMultiplexedManual_NoCapture_Bwa_HiSeq.jpearson.bam",
+            "file_r2": "5c9e991f67ad888412025d4a63403cfb.IcgcPancreatic_APGI2051_1DNA_10CellLineDerivedFromXenograft_ICGCABMJ2012070605_IlluminaTruSEQMultiplexedManual_NoCapture_Bwa_HiSeq.jpearson.bam",
+            "insert_size": null,
+            "platform_unit": "lane_5.nobc",
+            "is_paired_end": true,
+            "library_name": "Library_20120906_R",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": null,
+            "submitter_read_group_id": "20121020023426563"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-7",
+        "experimental_strategy": "WGS",
+        "sequencing_center": "ILLUMINA",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 5
+}

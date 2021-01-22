@@ -1,0 +1,113 @@
+{
+    "studyId": "APGI-AU",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "8069331",
+            "matchedNormalSubmitterSampleId": "8069030",
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "8069331",
+                "specimenType": "Primary tumour",
+                "tumourNormalDesignation": "Tumour",
+                "specimenTissueSource": "Solid tissue"
+            },
+            "donor": {
+                "submitterDonorId": "ICGC_0510",
+                "gender": "Male"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "Submitted Reads",
+            "fileName": "e7deb097546b1eb11a40f5788d27f467.IcgcPancreatic_APGI3787_1DNA_7PrimaryTumour_ICGCABMB20131120046_IlluminaTruSEQPCRFreeMultiplexedManual_NoCapture_Bwa_HiSeq.jpearson.bam",
+            "fileSize": 137390757232,
+            "fileType": "BAM",
+            "fileMd5sum": "e7deb097546b1eb11a40f5788d27f467",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "EGAZ00001230736",
+                "data_category": "Sequencing Reads"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "e7deb097546b1eb11a40f5788d27f467.IcgcPancreatic_APGI3787_1DNA_7PrimaryTumour_ICGCABMB20131120046_IlluminaTruSEQPCRFreeMultiplexedManual_NoCapture_Bwa_HiSeq.jpearson.bam",
+            "file_r2": "e7deb097546b1eb11a40f5788d27f467.IcgcPancreatic_APGI3787_1DNA_7PrimaryTumour_ICGCABMB20131120046_IlluminaTruSEQPCRFreeMultiplexedManual_NoCapture_Bwa_HiSeq.jpearson.bam",
+            "insert_size": null,
+            "platform_unit": "lane_2.nobc",
+            "is_paired_end": true,
+            "library_name": "Library_20140124_H",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": null,
+            "submitter_read_group_id": "20140212042645243"
+        },
+        {
+            "file_r1": "e7deb097546b1eb11a40f5788d27f467.IcgcPancreatic_APGI3787_1DNA_7PrimaryTumour_ICGCABMB20131120046_IlluminaTruSEQPCRFreeMultiplexedManual_NoCapture_Bwa_HiSeq.jpearson.bam",
+            "file_r2": "e7deb097546b1eb11a40f5788d27f467.IcgcPancreatic_APGI3787_1DNA_7PrimaryTumour_ICGCABMB20131120046_IlluminaTruSEQPCRFreeMultiplexedManual_NoCapture_Bwa_HiSeq.jpearson.bam",
+            "insert_size": null,
+            "platform_unit": "lane_4.nobc",
+            "is_paired_end": true,
+            "library_name": "Library_20140124_H",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": null,
+            "submitter_read_group_id": "20140212032416767"
+        },
+        {
+            "file_r1": "e7deb097546b1eb11a40f5788d27f467.IcgcPancreatic_APGI3787_1DNA_7PrimaryTumour_ICGCABMB20131120046_IlluminaTruSEQPCRFreeMultiplexedManual_NoCapture_Bwa_HiSeq.jpearson.bam",
+            "file_r2": "e7deb097546b1eb11a40f5788d27f467.IcgcPancreatic_APGI3787_1DNA_7PrimaryTumour_ICGCABMB20131120046_IlluminaTruSEQPCRFreeMultiplexedManual_NoCapture_Bwa_HiSeq.jpearson.bam",
+            "insert_size": null,
+            "platform_unit": "lane_3.nobc",
+            "is_paired_end": true,
+            "library_name": "Library_20140124_H",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": null,
+            "submitter_read_group_id": "20140212120234312"
+        },
+        {
+            "file_r1": "e7deb097546b1eb11a40f5788d27f467.IcgcPancreatic_APGI3787_1DNA_7PrimaryTumour_ICGCABMB20131120046_IlluminaTruSEQPCRFreeMultiplexedManual_NoCapture_Bwa_HiSeq.jpearson.bam",
+            "file_r2": "e7deb097546b1eb11a40f5788d27f467.IcgcPancreatic_APGI3787_1DNA_7PrimaryTumour_ICGCABMB20131120046_IlluminaTruSEQPCRFreeMultiplexedManual_NoCapture_Bwa_HiSeq.jpearson.bam",
+            "insert_size": null,
+            "platform_unit": "lane_5.nobc",
+            "is_paired_end": true,
+            "library_name": "Library_20140124_H",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": null,
+            "submitter_read_group_id": "20140212114958291"
+        },
+        {
+            "file_r1": "e7deb097546b1eb11a40f5788d27f467.IcgcPancreatic_APGI3787_1DNA_7PrimaryTumour_ICGCABMB20131120046_IlluminaTruSEQPCRFreeMultiplexedManual_NoCapture_Bwa_HiSeq.jpearson.bam",
+            "file_r2": "e7deb097546b1eb11a40f5788d27f467.IcgcPancreatic_APGI3787_1DNA_7PrimaryTumour_ICGCABMB20131120046_IlluminaTruSEQPCRFreeMultiplexedManual_NoCapture_Bwa_HiSeq.jpearson.bam",
+            "insert_size": null,
+            "platform_unit": "lane_1.nobc",
+            "is_paired_end": true,
+            "library_name": "Library_20140124_H",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": null,
+            "submitter_read_group_id": "20140212022642405"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-13",
+        "experimental_strategy": "WGS",
+        "sequencing_center": "QCMG",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 5
+}
