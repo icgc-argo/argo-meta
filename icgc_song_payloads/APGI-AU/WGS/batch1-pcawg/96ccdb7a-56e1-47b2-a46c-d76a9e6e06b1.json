@@ -115,7 +115,7 @@
         }
     ],
     "experiment": {
-        "submitter_sequencing_experiment_id": "EXP-38",
+        "submitter_sequencing_experiment_id": "EXP-37",
         "experimental_strategy": "WGS",
         "sequencing_center": "QCMG",
         "platform": "ILLUMINA",
