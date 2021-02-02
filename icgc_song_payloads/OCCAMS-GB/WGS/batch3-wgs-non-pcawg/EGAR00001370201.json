@@ -1,0 +1,61 @@
+{
+    "studyId": "OCCAMS-GB",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "LP6008141-DNA_D02",
+            "matchedNormalSubmitterSampleId": "LP6008138-DNA_D02",
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "78fd0f2b591cca6d6c34a3b98bc60c1f0b9189d9734f95c9fbea30f85d54237b",
+                "specimenType": "Primary tumour",
+                "tumourNormalDesignation": "Tumour",
+                "specimenTissueSource": "Solid tissue"
+            },
+            "donor": {
+                "submitterDonorId": "6e6ffd2fababfb900f63401a704f75dd8edd7e063f826d6da01789aa2df983d6",
+                "gender": "Female"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "Submitted Reads",
+            "fileName": "bdec06dc6ed06618c4bc4d0ae7427a16.LP6008141-DNA_D02.bam",
+            "fileSize": 89207142151,
+            "fileType": "BAM",
+            "fileMd5sum": "bdec06dc6ed06618c4bc4d0ae7427a16",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "EGAR00001370201",
+                "data_category": "Sequencing Reads"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "bdec06dc6ed06618c4bc4d0ae7427a16.LP6008141-DNA_D02.bam",
+            "file_r2": "bdec06dc6ed06618c4bc4d0ae7427a16.LP6008141-DNA_D02.bam",
+            "insert_size": null,
+            "platform_unit": "",
+            "is_paired_end": true,
+            "library_name": "LP6008141-DNA_D02",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": null,
+            "submitter_read_group_id": "LP6008141-DNA_D02"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-833",
+        "experimental_strategy": "WGS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 1
+}

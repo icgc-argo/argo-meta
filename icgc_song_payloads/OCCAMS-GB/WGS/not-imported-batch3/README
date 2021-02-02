@@ -1,0 +1,1 @@
+The EGAR00001673378.json SONG payload (normal sample) will not imported in batch3 because the matching tumour sample is missing (it failed EGA->Collab transfer: see comment at https://github.com/icgc-argo/ega-file-transfer/issues/3#issuecomment-730005031). 
