@@ -1,0 +1,1 @@
+Data for submitter_donor_id ICGC_0021 not imported because only tumour sample was transferred from EGA->Collab. Project did not indicate what the normal sample, so we will import the tumour/normal pair for this donor when we have the normal sample as well.

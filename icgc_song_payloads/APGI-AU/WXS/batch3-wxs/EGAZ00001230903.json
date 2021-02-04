@@ -1,0 +1,152 @@
+{
+    "studyId": "APGI-AU",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "8067944",
+            "matchedNormalSubmitterSampleId": "8052578",
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "8067944",
+                "specimenType": "Primary tumour",
+                "tumourNormalDesignation": "Tumour",
+                "specimenTissueSource": "Solid tissue"
+            },
+            "donor": {
+                "submitterDonorId": "ICGC_0197",
+                "gender": "Female"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "Submitted Reads",
+            "fileName": "59eff1b0d2520a1564981921a0501ef5.IcgcPancreatic_APGI2909_1DNA_7PrimaryTumour_ICGCABMB20131107058_IlluminaNexteraRapidCaptureExomeManual_HumanRapidExomeNextera_Bwa_HiSeq.jpearson.bam",
+            "fileSize": 19330302166,
+            "fileType": "BAM",
+            "fileMd5sum": "59eff1b0d2520a1564981921a0501ef5",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "EGAZ00001230903",
+                "data_category": "Sequencing Reads"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "59eff1b0d2520a1564981921a0501ef5.IcgcPancreatic_APGI2909_1DNA_7PrimaryTumour_ICGCABMB20131107058_IlluminaNexteraRapidCaptureExomeManual_HumanRapidExomeNextera_Bwa_HiSeq.jpearson.bam",
+            "file_r2": "59eff1b0d2520a1564981921a0501ef5.IcgcPancreatic_APGI2909_1DNA_7PrimaryTumour_ICGCABMB20131107058_IlluminaNexteraRapidCaptureExomeManual_HumanRapidExomeNextera_Bwa_HiSeq.jpearson.bam",
+            "insert_size": null,
+            "platform_unit": "lane_2.CGTACTAG",
+            "is_paired_end": true,
+            "library_name": "Library_20131120_F2",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": null,
+            "submitter_read_group_id": "20140205043703350"
+        },
+        {
+            "file_r1": "59eff1b0d2520a1564981921a0501ef5.IcgcPancreatic_APGI2909_1DNA_7PrimaryTumour_ICGCABMB20131107058_IlluminaNexteraRapidCaptureExomeManual_HumanRapidExomeNextera_Bwa_HiSeq.jpearson.bam",
+            "file_r2": "59eff1b0d2520a1564981921a0501ef5.IcgcPancreatic_APGI2909_1DNA_7PrimaryTumour_ICGCABMB20131107058_IlluminaNexteraRapidCaptureExomeManual_HumanRapidExomeNextera_Bwa_HiSeq.jpearson.bam",
+            "insert_size": null,
+            "platform_unit": "lane_6.CGTACTAG",
+            "is_paired_end": true,
+            "library_name": "Library_20131120_F2",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": null,
+            "submitter_read_group_id": "20140205030118393"
+        },
+        {
+            "file_r1": "59eff1b0d2520a1564981921a0501ef5.IcgcPancreatic_APGI2909_1DNA_7PrimaryTumour_ICGCABMB20131107058_IlluminaNexteraRapidCaptureExomeManual_HumanRapidExomeNextera_Bwa_HiSeq.jpearson.bam",
+            "file_r2": "59eff1b0d2520a1564981921a0501ef5.IcgcPancreatic_APGI2909_1DNA_7PrimaryTumour_ICGCABMB20131107058_IlluminaNexteraRapidCaptureExomeManual_HumanRapidExomeNextera_Bwa_HiSeq.jpearson.bam",
+            "insert_size": null,
+            "platform_unit": "lane_8.CGTACTAG",
+            "is_paired_end": true,
+            "library_name": "Library_20131120_F2",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": null,
+            "submitter_read_group_id": "20140205045216678"
+        },
+        {
+            "file_r1": "59eff1b0d2520a1564981921a0501ef5.IcgcPancreatic_APGI2909_1DNA_7PrimaryTumour_ICGCABMB20131107058_IlluminaNexteraRapidCaptureExomeManual_HumanRapidExomeNextera_Bwa_HiSeq.jpearson.bam",
+            "file_r2": "59eff1b0d2520a1564981921a0501ef5.IcgcPancreatic_APGI2909_1DNA_7PrimaryTumour_ICGCABMB20131107058_IlluminaNexteraRapidCaptureExomeManual_HumanRapidExomeNextera_Bwa_HiSeq.jpearson.bam",
+            "insert_size": null,
+            "platform_unit": "lane_5.CGTACTAG",
+            "is_paired_end": true,
+            "library_name": "Library_20131120_F2",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": null,
+            "submitter_read_group_id": "20140205124633459"
+        },
+        {
+            "file_r1": "59eff1b0d2520a1564981921a0501ef5.IcgcPancreatic_APGI2909_1DNA_7PrimaryTumour_ICGCABMB20131107058_IlluminaNexteraRapidCaptureExomeManual_HumanRapidExomeNextera_Bwa_HiSeq.jpearson.bam",
+            "file_r2": "59eff1b0d2520a1564981921a0501ef5.IcgcPancreatic_APGI2909_1DNA_7PrimaryTumour_ICGCABMB20131107058_IlluminaNexteraRapidCaptureExomeManual_HumanRapidExomeNextera_Bwa_HiSeq.jpearson.bam",
+            "insert_size": null,
+            "platform_unit": "lane_7.CGTACTAG",
+            "is_paired_end": true,
+            "library_name": "Library_20131120_F2",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": null,
+            "submitter_read_group_id": "20140205054731641"
+        },
+        {
+            "file_r1": "59eff1b0d2520a1564981921a0501ef5.IcgcPancreatic_APGI2909_1DNA_7PrimaryTumour_ICGCABMB20131107058_IlluminaNexteraRapidCaptureExomeManual_HumanRapidExomeNextera_Bwa_HiSeq.jpearson.bam",
+            "file_r2": "59eff1b0d2520a1564981921a0501ef5.IcgcPancreatic_APGI2909_1DNA_7PrimaryTumour_ICGCABMB20131107058_IlluminaNexteraRapidCaptureExomeManual_HumanRapidExomeNextera_Bwa_HiSeq.jpearson.bam",
+            "insert_size": null,
+            "platform_unit": "lane_3.CGTACTAG",
+            "is_paired_end": true,
+            "library_name": "Library_20131120_F2",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": null,
+            "submitter_read_group_id": "20140205033633862"
+        },
+        {
+            "file_r1": "59eff1b0d2520a1564981921a0501ef5.IcgcPancreatic_APGI2909_1DNA_7PrimaryTumour_ICGCABMB20131107058_IlluminaNexteraRapidCaptureExomeManual_HumanRapidExomeNextera_Bwa_HiSeq.jpearson.bam",
+            "file_r2": "59eff1b0d2520a1564981921a0501ef5.IcgcPancreatic_APGI2909_1DNA_7PrimaryTumour_ICGCABMB20131107058_IlluminaNexteraRapidCaptureExomeManual_HumanRapidExomeNextera_Bwa_HiSeq.jpearson.bam",
+            "insert_size": null,
+            "platform_unit": "lane_4.CGTACTAG",
+            "is_paired_end": true,
+            "library_name": "Library_20131120_F2",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": null,
+            "submitter_read_group_id": "20140205030748784"
+        },
+        {
+            "file_r1": "59eff1b0d2520a1564981921a0501ef5.IcgcPancreatic_APGI2909_1DNA_7PrimaryTumour_ICGCABMB20131107058_IlluminaNexteraRapidCaptureExomeManual_HumanRapidExomeNextera_Bwa_HiSeq.jpearson.bam",
+            "file_r2": "59eff1b0d2520a1564981921a0501ef5.IcgcPancreatic_APGI2909_1DNA_7PrimaryTumour_ICGCABMB20131107058_IlluminaNexteraRapidCaptureExomeManual_HumanRapidExomeNextera_Bwa_HiSeq.jpearson.bam",
+            "insert_size": null,
+            "platform_unit": "lane_1.CGTACTAG",
+            "is_paired_end": true,
+            "library_name": "Library_20131120_F2",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": null,
+            "submitter_read_group_id": "20140205033115610"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-181",
+        "experimental_strategy": "WXS",
+        "sequencing_center": "QCMG",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 8
+}
