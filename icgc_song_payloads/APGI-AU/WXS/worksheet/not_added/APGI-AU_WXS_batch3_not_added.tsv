@@ -1,0 +1,5 @@
+submitter_donor_id	submitter_sample_id	tumour_normal_designation	sequencing_strategy	donor_id	sample_id	study_id	analysis_id
+ICGC_0021	8015115	normal	WXS	DO32863	SA408422	APGI-AU	df23ee21-4c8e-47ca-a3ee-214c8e77ca10
+ICGC_0029	8012854	tumour	WXS	DO32887	SA408639	APGI-AU	3a42252d-53a0-4fae-8225-2d53a0efae73
+ICGC_0031	8014801	normal	WXS	DO32893	SA408691	APGI-AU	4c2ced6c-9101-456c-aced-6c9101b56c2d
+ICGC_0493	8068050	tumour	WXS	DO49123	SA518713	APGI-AU	356f5663-646d-4c86-af56-63646dcc8671
