@@ -1,0 +1,61 @@
+{
+    "studyId": "OCCAMS-GB",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "SS6003114",
+            "matchedNormalSubmitterSampleId": null,
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "EN-135-10N",
+                "specimenType": "Normal",
+                "tumourNormalDesignation": "Normal",
+                "specimenTissueSource": "Blood derived"
+            },
+            "donor": {
+                "submitterDonorId": "OCCAMS-PS-015",
+                "gender": "Male"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "Submitted Reads",
+            "fileName": "e23b24bea98e60615164270bda3ebcbf.SS6003114.bam",
+            "fileSize": 160928176477,
+            "fileType": "BAM",
+            "fileMd5sum": "e23b24bea98e60615164270bda3ebcbf",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "EGAR00001131284",
+                "data_category": "Sequencing Reads"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "e23b24bea98e60615164270bda3ebcbf.SS6003114.bam",
+            "file_r2": "e23b24bea98e60615164270bda3ebcbf.SS6003114.bam",
+            "insert_size": null,
+            "platform_unit": "SS6003114",
+            "is_paired_end": true,
+            "library_name": "SS6003114",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": null,
+            "submitter_read_group_id": "SS6003114"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-1024",
+        "experimental_strategy": "WGS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 1
+}
