@@ -1,0 +1,3 @@
+# Not importing following donors in batch4 due to following issues:
+# DO10859: Issue with tumour payload. Sample ID "SA130964" is "Normal - blood derived" in ICGC clinical , but "Primary tumour - solid tissue" in Data Repository.
+# DO234180: Asked EGA to re-stage this file. Once staged, will try to re-download the file. 
