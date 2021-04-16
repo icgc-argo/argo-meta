@@ -46,39 +46,39 @@ def prep_migrate_payloads(song_dump):
                     if not fl['info']['data_category'] == "Quality Control Metrics": continue
                     if fl['dataType'] == 'Alignment QC':
                         fl['dataType'] = 'Aligned Reads QC'
-                        fl['info']['data_subtype'] = ['Alignment Metrics']
+                        fl['info']['data_subtypes'] = ['Alignment Metrics']
                         change = True
                     elif fl['dataType'] == 'Cross Sample Contamination':
                         fl['dataType'] = 'Sample QC'
-                        fl['info']['data_subtype'] = ['Cross Sample Contamination']
+                        fl['info']['data_subtypes'] = ['Cross Sample Contamination']
                         change = True
                     elif fl['dataType'] == 'Duplicates Metrics':
                         fl['dataType'] = 'Aligned Reads QC'
-                        fl['info']['data_subtype'] = ['Duplicates Metrics']
+                        fl['info']['data_subtypes'] = ['Duplicates Metrics']
                         change = True
                     elif fl['dataType'] == 'Genotyping Inferred Gender':
                         fl['dataType'] = 'Analysis QC'
-                        fl['info']['data_subtype'] = ['Genotyping Stats']
+                        fl['info']['data_subtypes'] = ['Genotyping Stats']
                         change = True
                     elif fl['dataType'] in ['Mutect2 Callable Stats', 'Mutect2 Callabe Stats']:
                         fl['dataType'] = 'Analysis QC'
-                        fl['info']['data_subtype'] = ['Variant Callable Stats']
+                        fl['info']['data_subtypes'] = ['Variant Callable Stats']
                         change = True
                     elif fl['dataType'] == 'Mutect2 Filtering Stats':
                         fl['dataType'] = 'Analysis QC'
-                        fl['info']['data_subtype'] = ['Variant Filtering Stats']
+                        fl['info']['data_subtypes'] = ['Variant Filtering Stats']
                         change = True
                     elif fl['dataType'] == 'OxoG Metrics':
                         fl['dataType'] = 'Aligned Reads QC'
-                        fl['info']['data_subtype'] = ['OxoG Metrics']
+                        fl['info']['data_subtypes'] = ['OxoG Metrics']
                         change = True
                     elif fl['dataType'] == 'Ploidy and Purity Estimation':
                         fl['dataType'] = 'Analysis QC'
-                        fl['info']['data_subtype'] = ['Ploidy', 'Tumour Purity']
+                        fl['info']['data_subtypes'] = ['Ploidy', 'Tumour Purity']
                         change = True
                     elif fl['dataType'] == 'Read Group QC':
                         fl['dataType'] = 'Sequencing QC'
-                        fl['info']['data_subtype'] = ['Read Group Metrics']
+                        fl['info']['data_subtypes'] = ['Read Group Metrics']
                         change = True
                     else:
                         pass
@@ -125,10 +125,10 @@ def prep_migrate_payloads(song_dump):
                 for fl in analysis['files']:
                     if not fl.get('info'): continue
                     if fl['fileName'].endswith('.timings-supplement.tgz'):
-                        if not fl['info'].get('data_subtype'):                                
+                        if not fl['info'].get('data_subtypes'):                                
                             fl['dataType'] = 'Analysis QC'
                             fl['info']['data_category'] = 'Quality Control Metrics'
-                            fl['info']['data_subtype'] = ['Runtime Stats']
+                            fl['info']['data_subtypes'] = ['Runtime Stats']
                             fl['info']['analysis_tools'] = None
                             change = True
                     elif fl['fileName'].endswith('.pindel-supplement.tgz'):
