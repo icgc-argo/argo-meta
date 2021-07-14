@@ -3,6 +3,9 @@
     "analysisType": {
         "name": "sequencing_experiment"
     },
+    "info": {
+        "origin": "ICGC-25K"
+    },
     "samples": [
         {
             "submitterSampleId": "LP6008336-DNA_B01",
