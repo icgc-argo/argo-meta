@@ -3,6 +3,9 @@
     "analysisType": {
         "name": "sequencing_experiment"
     },
+    "info": {
+        "origin": "ICGC-25K"
+    },
     "samples": [
         {
             "submitterSampleId": "49D-N",
@@ -30,8 +33,7 @@
             "fileAccess": "controlled",
             "info": {
                 "legacyAnalysisId": "EGAR00001673437",
-                "data_category": "Sequencing Reads",
-                "origin": "ICGC-25K"
+                "data_category": "Sequencing Reads"
             }
         }
     ],
