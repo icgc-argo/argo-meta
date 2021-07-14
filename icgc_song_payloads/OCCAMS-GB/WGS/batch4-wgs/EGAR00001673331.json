@@ -5,17 +5,17 @@
     },
     "samples": [
         {
-            "submitterSampleId": "SS6003115",
-            "matchedNormalSubmitterSampleId": "SS6003114",
+            "submitterSampleId": "LP6008336-DNA_B01",
+            "matchedNormalSubmitterSampleId": "LP6008333-DNA_B01",
             "sampleType": "Total DNA",
             "specimen": {
-                "submitterSpecimenId": "EN-135-10C",
+                "submitterSpecimenId": "e0ccff209b68afc9d15fa13b64837c64acc5b3cb42156c046daef96f9ae1f575",
                 "specimenType": "Primary tumour",
                 "tumourNormalDesignation": "Tumour",
                 "specimenTissueSource": "Solid tissue"
             },
             "donor": {
-                "submitterDonorId": "OCCAMS-PS-015",
+                "submitterDonorId": "953dec19dc05015c97eb8cf35a0a4fabf53021d2fb65e7f4e770886db560e5f2",
                 "gender": "Male"
             }
         }
@@ -23,34 +23,35 @@
     "files": [
         {
             "dataType": "Submitted Reads",
-            "fileName": "aa5c69b596ee76b40a232b0c98f60d8e.SS6003115.bam",
-            "fileSize": 155515078223,
+            "fileName": "4e22612625ff3158acfc5989e68baaa2.LP6008336-DNA_B01.bam",
+            "fileSize": 135047012818,
             "fileType": "BAM",
-            "fileMd5sum": "aa5c69b596ee76b40a232b0c98f60d8e",
+            "fileMd5sum": "4e22612625ff3158acfc5989e68baaa2",
             "fileAccess": "controlled",
             "info": {
-                "legacyAnalysisId": "EGAR00001131283",
-                "data_category": "Sequencing Reads"
+                "legacyAnalysisId": "EGAR00001673331",
+                "data_category": "Sequencing Reads",
+                "origin": "ICGC-25K"
             }
         }
     ],
     "read_groups": [
         {
-            "file_r1": "aa5c69b596ee76b40a232b0c98f60d8e.SS6003115.bam",
-            "file_r2": "aa5c69b596ee76b40a232b0c98f60d8e.SS6003115.bam",
+            "file_r1": "4e22612625ff3158acfc5989e68baaa2.LP6008336-DNA_B01.bam",
+            "file_r2": "4e22612625ff3158acfc5989e68baaa2.LP6008336-DNA_B01.bam",
             "insert_size": null,
-            "platform_unit": "SS6003115",
+            "platform_unit": "LP6008336-DNA_B01",
             "is_paired_end": true,
-            "library_name": "SS6003115",
+            "library_name": "LP6008336-DNA_B01",
             "read_length_r1": null,
             "read_length_r2": null,
             "sample_barcode": null,
             "read_group_id_in_bam": null,
-            "submitter_read_group_id": "SS6003115"
+            "submitter_read_group_id": "LP6008336-DNA_B01"
         }
     ],
     "experiment": {
-        "submitter_sequencing_experiment_id": "EXP-1025",
+        "submitter_sequencing_experiment_id": "EXP-1028",
         "experimental_strategy": "WGS",
         "sequencing_center": "",
         "platform": "ILLUMINA",
