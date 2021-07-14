@@ -1,0 +1,62 @@
+{
+    "studyId": "LUCA-KR",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "J83_N",
+            "matchedNormalSubmitterSampleId": null,
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "J83_N",
+                "specimenType": "Normal",
+                "tumourNormalDesignation": "Normal",
+                "specimenTissueSource": "Other"
+            },
+            "donor": {
+                "submitterDonorId": "SC_LUNG_26",
+                "gender": "Male"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "Submitted Reads",
+            "fileName": "93ca882ede2774d350a1a602ca6bd7d1.J83-N_30x_sort_dup_rea_recal.bam",
+            "fileSize": 141976826895,
+            "fileType": "BAM",
+            "fileMd5sum": "93ca882ede2774d350a1a602ca6bd7d1",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "EGAR00001658238",
+                "data_category": "Sequencing Reads",
+                "origin": "ICGC-25K"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "93ca882ede2774d350a1a602ca6bd7d1.J83-N_30x_sort_dup_rea_recal.bam",
+            "file_r2": "93ca882ede2774d350a1a602ca6bd7d1.J83-N_30x_sort_dup_rea_recal.bam",
+            "insert_size": null,
+            "platform_unit": "foo_J83_N",
+            "is_paired_end": true,
+            "library_name": "bar",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": "foo",
+            "submitter_read_group_id": "foo_J83_N"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-327",
+        "experimental_strategy": "WGS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 1
+}

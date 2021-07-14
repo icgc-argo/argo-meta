@@ -1,0 +1,75 @@
+{
+    "studyId": "LUCA-KR",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "J83_T",
+            "matchedNormalSubmitterSampleId": "J83_N",
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "J83_T",
+                "specimenType": "Primary tumour",
+                "tumourNormalDesignation": "Tumour",
+                "specimenTissueSource": "Other"
+            },
+            "donor": {
+                "submitterDonorId": "SC_LUNG_26",
+                "gender": "Male"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "Submitted Reads",
+            "fileName": "0b29df41badcb2b7825ceba2025b197e.J83-T_60x_sort_dup_rea_recal.bam",
+            "fileSize": 262630789153,
+            "fileType": "BAM",
+            "fileMd5sum": "0b29df41badcb2b7825ceba2025b197e",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "EGAR00001658239",
+                "data_category": "Sequencing Reads",
+                "origin": "ICGC-25K"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "0b29df41badcb2b7825ceba2025b197e.J83-T_60x_sort_dup_rea_recal.bam",
+            "file_r2": "0b29df41badcb2b7825ceba2025b197e.J83-T_60x_sort_dup_rea_recal.bam",
+            "insert_size": null,
+            "platform_unit": "foo_J83_T",
+            "is_paired_end": true,
+            "library_name": "bar",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": "foo",
+            "submitter_read_group_id": "foo_J83_T"
+        },
+        {
+            "file_r1": "0b29df41badcb2b7825ceba2025b197e.J83-T_60x_sort_dup_rea_recal.bam",
+            "file_r2": "0b29df41badcb2b7825ceba2025b197e.J83-T_60x_sort_dup_rea_recal.bam",
+            "insert_size": null,
+            "platform_unit": "foo-5457712E_J83_T",
+            "is_paired_end": true,
+            "library_name": "bar",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": "foo-5457712E",
+            "submitter_read_group_id": "foo-5457712E_J83_T"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-328",
+        "experimental_strategy": "WGS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 2
+}
