@@ -1,0 +1,64 @@
+{
+    "studyId": "LUCA-KR",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "info": {
+        "origin": "ICGC-25K"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "22D-T",
+            "matchedNormalSubmitterSampleId": "22D-N",
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "22D-T",
+                "specimenType": "Primary tumour",
+                "tumourNormalDesignation": "Tumour",
+                "specimenTissueSource": "Other"
+            },
+            "donor": {
+                "submitterDonorId": "Kor_11",
+                "gender": "Female"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "Submitted Reads",
+            "fileName": "a6f1547494362bd2c03a70d6759665f4.22D-T_sorted_dupl_realign_recalib.bam",
+            "fileSize": 8156684711,
+            "fileType": "BAM",
+            "fileMd5sum": "a6f1547494362bd2c03a70d6759665f4",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "EGAR00001673458",
+                "data_category": "Sequencing Reads"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "a6f1547494362bd2c03a70d6759665f4.22D-T_sorted_dupl_realign_recalib.bam",
+            "file_r2": "a6f1547494362bd2c03a70d6759665f4.22D-T_sorted_dupl_realign_recalib.bam",
+            "insert_size": null,
+            "platform_unit": "foo_22D-T",
+            "is_paired_end": true,
+            "library_name": "bar",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": "foo",
+            "submitter_read_group_id": "foo_22D-T"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-341",
+        "experimental_strategy": "WXS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 1
+}
