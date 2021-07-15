@@ -1,0 +1,61 @@
+{
+    "studyId": "OCCAMS-GB",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "LP6008202-DNA_F01",
+            "matchedNormalSubmitterSampleId": "LP6008201-DNA_F01",
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "TB15-226-GOJT1",
+                "specimenType": "Primary tumour",
+                "tumourNormalDesignation": "Tumour",
+                "specimenTissueSource": "Solid tissue"
+            },
+            "donor": {
+                "submitterDonorId": "078773cc36a9ab58ece5c92e50368462dea52ded70f1b0da8c66e65066a3ce53",
+                "gender": "Male"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "Submitted Reads",
+            "fileName": "501417378a6ac8e1eb5ee451e4426e1a.LP6008202-DNA_F01.bam",
+            "fileSize": 86876393578,
+            "fileType": "BAM",
+            "fileMd5sum": "501417378a6ac8e1eb5ee451e4426e1a",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "EGAR00001436328",
+                "data_category": "Sequencing Reads"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "501417378a6ac8e1eb5ee451e4426e1a.LP6008202-DNA_F01.bam",
+            "file_r2": "501417378a6ac8e1eb5ee451e4426e1a.LP6008202-DNA_F01.bam",
+            "insert_size": null,
+            "platform_unit": "LP6008202-DNA_F01",
+            "is_paired_end": true,
+            "library_name": "LP6008202-DNA_F01",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": null,
+            "submitter_read_group_id": "LP6008202-DNA_F01"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-1026",
+        "experimental_strategy": "WGS",
+        "sequencing_center": "",
+        "platform": "ILLUMINA",
+        "platform_model": null,
+        "sequencing_date": null
+    },
+    "read_group_count": 1
+}
