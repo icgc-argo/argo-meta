@@ -1,0 +1,51 @@
+{
+  "success": [
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch4-wgs/EGAR00001131284.json",
+      "targetAnalysisId": "67802bc4-45a8-41e7-802b-c445a841e7c6",
+      "targetStudyId": "OCCAMS-GB",
+      "targetAnalysisState": "PUBLISHED",
+      "legacyStudyId": "ESAD-UK",
+      "legacyAnalysisIds": ["EGAR00001131284"],
+      "objectIdsMigrated": ["f14f5b66-2eaa-5a3b-9a9b-54973f31bae7"],
+      "allObjectIdsMigrated": true
+    },
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch4-wgs/EGAR00001673378.json",
+      "targetAnalysisId": "790d1b66-325f-4852-8d1b-66325f485210",
+      "targetStudyId": "OCCAMS-GB",
+      "targetAnalysisState": "PUBLISHED",
+      "legacyStudyId": "ESAD-UK",
+      "legacyAnalysisIds": ["EGAR00001673378"],
+      "objectIdsMigrated": ["d647a7da-f55e-52ad-9917-76b5e6ff95b7"],
+      "allObjectIdsMigrated": true
+    },
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch4-wgs/EGAR00001673331.json",
+      "targetAnalysisId": "a2d00bb6-4d78-4fb2-900b-b64d78bfb234",
+      "targetStudyId": "OCCAMS-GB",
+      "targetAnalysisState": "PUBLISHED",
+      "legacyStudyId": "ESAD-UK",
+      "legacyAnalysisIds": ["EGAR00001673331"],
+      "objectIdsMigrated": ["a046b722-b0fd-588d-af87-5b330355e379"],
+      "allObjectIdsMigrated": true
+    },
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch4-wgs/EGAR00001131283.json",
+      "targetAnalysisId": "5247a43a-94e4-4a40-87a4-3a94e40a409e",
+      "targetStudyId": "OCCAMS-GB",
+      "targetAnalysisState": "PUBLISHED",
+      "legacyStudyId": "ESAD-UK",
+      "legacyAnalysisIds": ["EGAR00001131283"],
+      "objectIdsMigrated": ["5f5f2444-932a-5aae-a2bf-61c7a8a539ac"],
+      "allObjectIdsMigrated": true
+    }
+  ],
+  "errors": [
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/OCCAMS-GB/WGS/batch4-wgs/3afbc958-e179-4189-9a26-b3837f5d5a93.json",
+      "errorType": "bio.overture.song.core.exceptions.ServerException",
+      "message": "[AnalysisService::mismatching.storage.object.checksums] - Found files with a mismatching md5 checksum in the storage server. ObjectIds with an undefined md5 checksum(1): [dc1f5b34-bb0b-5d35-90ce-a91f754dce84]. The analysisId 'a3330c6b-939d-401f-b30c-6b939db01fbe' cannot be published until all files with an undefined checksum are ignored and ones with a defined checksum are matching"
+    }
+  ]
+}

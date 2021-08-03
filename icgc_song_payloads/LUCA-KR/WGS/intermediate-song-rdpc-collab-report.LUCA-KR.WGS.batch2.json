@@ -1,0 +1,21 @@
+{
+  "success": [
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/LUCA-KR/WGS/batch2/EGAR00001658239.json",
+      "targetAnalysisId": "db295bc8-098c-4b9c-a95b-c8098cdb9c2b",
+      "targetStudyId": "LUCA-KR",
+      "targetAnalysisState": "PUBLISHED",
+      "legacyStudyId": "LUSC-KR",
+      "legacyAnalysisIds": ["EGAR00001658239"],
+      "objectIdsMigrated": ["0e7789aa-f797-5e5a-b1c1-fcb12cce15fd"],
+      "allObjectIdsMigrated": true
+    }
+  ],
+  "errors": [
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/LUCA-KR/WGS/batch2/EGAR00001658238.json",
+      "errorType": "org.jdbi.v3.core.statement.UnableToExecuteStatementException",
+      "message": "org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint \"info_id_id_type_uindex\"\n  Detail: Key (id, id_type)=(8877e54e-6265-5996-8801-ec0700c1d2fd, File) already exists. [statement:\"UPDATE info SET id=:sid WHERE id=:tid\", arguments:{positional:{}, named:{tid:a60f4838-66b7-5401-aad0-9460770063b4,sid:8877e54e-6265-5996-8801-ec0700c1d2fd}, finder:[]}]"
+    }
+  ]
+}

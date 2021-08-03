@@ -1,0 +1,111 @@
+{
+  "success": [
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/LUCA-KR/WXS/batch3/EGAR00001673471.json",
+      "targetAnalysisId": "88195bbc-f124-49e0-995b-bcf12449e0c1",
+      "targetStudyId": "LUCA-KR",
+      "targetAnalysisState": "PUBLISHED",
+      "legacyStudyId": "LUSC-KR",
+      "legacyAnalysisIds": ["EGAR00001673471"],
+      "objectIdsMigrated": ["e691ef2d-c6e9-5083-9971-1265c06ca5d8"],
+      "allObjectIdsMigrated": true
+    },
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/LUCA-KR/WXS/batch3/EGAR00001673461.json",
+      "targetAnalysisId": "d8fafaf5-84e7-4cc2-bafa-f584e7bcc275",
+      "targetStudyId": "LUCA-KR",
+      "targetAnalysisState": "PUBLISHED",
+      "legacyStudyId": "LUSC-KR",
+      "legacyAnalysisIds": ["EGAR00001673461"],
+      "objectIdsMigrated": ["bb01aa88-037f-5d42-8404-4030d7df8d57"],
+      "allObjectIdsMigrated": true
+    },
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/LUCA-KR/WXS/batch3/EGAR00001673460.json",
+      "targetAnalysisId": "3c7c1212-c684-441a-bc12-12c684541a34",
+      "targetStudyId": "LUCA-KR",
+      "targetAnalysisState": "PUBLISHED",
+      "legacyStudyId": "LUSC-KR",
+      "legacyAnalysisIds": ["EGAR00001673460"],
+      "objectIdsMigrated": ["eb48c0c6-07a5-5bbc-a802-3d9cf018a548"],
+      "allObjectIdsMigrated": true
+    },
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/LUCA-KR/WXS/batch3/EGAR00001673458.json",
+      "targetAnalysisId": "cf910094-ed25-4899-9100-94ed25589943",
+      "targetStudyId": "LUCA-KR",
+      "targetAnalysisState": "PUBLISHED",
+      "legacyStudyId": "LUSC-KR",
+      "legacyAnalysisIds": ["EGAR00001673458"],
+      "objectIdsMigrated": ["286fac3a-c3cc-5f9a-9d0d-9e3e9e3e09ca"],
+      "allObjectIdsMigrated": true
+    },
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/LUCA-KR/WXS/batch3/EGAR00001673459.json",
+      "targetAnalysisId": "1f5f2548-466c-4353-9f25-48466c535311",
+      "targetStudyId": "LUCA-KR",
+      "targetAnalysisState": "PUBLISHED",
+      "legacyStudyId": "LUSC-KR",
+      "legacyAnalysisIds": ["EGAR00001673459"],
+      "objectIdsMigrated": ["76056485-d4f7-5a71-8034-807699dbdfae"],
+      "allObjectIdsMigrated": true
+    },
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/LUCA-KR/WXS/batch3/EGAR00001673463.json",
+      "targetAnalysisId": "ffc97195-474a-46a8-8971-95474a66a855",
+      "targetStudyId": "LUCA-KR",
+      "targetAnalysisState": "PUBLISHED",
+      "legacyStudyId": "LUSC-KR",
+      "legacyAnalysisIds": ["EGAR00001673463"],
+      "objectIdsMigrated": ["6681b070-1ed2-599b-9d8d-0edbf327ab4e"],
+      "allObjectIdsMigrated": true
+    },
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/LUCA-KR/WXS/batch3/EGAR00001673473.json",
+      "targetAnalysisId": "e39dae2d-f1a0-4c9f-9dae-2df1a09c9fa2",
+      "targetStudyId": "LUCA-KR",
+      "targetAnalysisState": "PUBLISHED",
+      "legacyStudyId": "LUSC-KR",
+      "legacyAnalysisIds": ["EGAR00001673473"],
+      "objectIdsMigrated": ["f51ebe11-dc5a-5ca8-9154-7f4906820df1"],
+      "allObjectIdsMigrated": true
+    }
+  ],
+  "errors": [
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/LUCA-KR/WXS/batch3/EGAR00001673427.json",
+      "errorType": "org.jdbi.v3.core.statement.UnableToExecuteStatementException",
+      "message": "org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint \"info_id_id_type_uindex\"\n  Detail: Key (id, id_type)=(3005027b-04bf-5aa5-ad0b-6854f9fdf989, File) already exists. [statement:\"UPDATE info SET id=:sid WHERE id=:tid\", arguments:{positional:{}, named:{tid:89eeebc9-5815-5888-a2e0-37214f8c9509,sid:3005027b-04bf-5aa5-ad0b-6854f9fdf989}, finder:[]}]"
+    },
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/LUCA-KR/WXS/batch3/EGAR00001673437.json",
+      "errorType": "org.jdbi.v3.core.statement.UnableToExecuteStatementException",
+      "message": "org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint \"info_id_id_type_uindex\"\n  Detail: Key (id, id_type)=(cfd3dfeb-daf6-528e-acf7-742c98e22764, File) already exists. [statement:\"UPDATE info SET id=:sid WHERE id=:tid\", arguments:{positional:{}, named:{tid:b9dd317a-3202-54c7-9d67-6c89b8886b4a,sid:cfd3dfeb-daf6-528e-acf7-742c98e22764}, finder:[]}]"
+    },
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/LUCA-KR/WXS/batch3/EGAR00001673422.json",
+      "errorType": "org.jdbi.v3.core.statement.UnableToExecuteStatementException",
+      "message": "org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint \"info_id_id_type_uindex\"\n  Detail: Key (id, id_type)=(f04e9f37-4324-5cf0-87f5-61e472eb5c20, File) already exists. [statement:\"UPDATE info SET id=:sid WHERE id=:tid\", arguments:{positional:{}, named:{tid:cc7ddc66-1319-521f-9361-a2f730e8bee4,sid:f04e9f37-4324-5cf0-87f5-61e472eb5c20}, finder:[]}]"
+    },
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/LUCA-KR/WXS/batch3/EGAR00001673424.json",
+      "errorType": "org.jdbi.v3.core.statement.UnableToExecuteStatementException",
+      "message": "org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint \"info_id_id_type_uindex\"\n  Detail: Key (id, id_type)=(cf39d93a-d5c2-5c72-8fd1-17c31a6c9cb5, File) already exists. [statement:\"UPDATE info SET id=:sid WHERE id=:tid\", arguments:{positional:{}, named:{tid:3a322b99-03b9-5236-b5dc-518530b7121b,sid:cf39d93a-d5c2-5c72-8fd1-17c31a6c9cb5}, finder:[]}]"
+    },
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/LUCA-KR/WXS/batch3/EGAR00001673423.json",
+      "errorType": "org.jdbi.v3.core.statement.UnableToExecuteStatementException",
+      "message": "org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint \"info_id_id_type_uindex\"\n  Detail: Key (id, id_type)=(d20c8c06-28df-5112-a9b2-9d64119cb7e0, File) already exists. [statement:\"UPDATE info SET id=:sid WHERE id=:tid\", arguments:{positional:{}, named:{tid:97667d85-e945-5f2f-9191-fb261e8be338,sid:d20c8c06-28df-5112-a9b2-9d64119cb7e0}, finder:[]}]"
+    },
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/LUCA-KR/WXS/batch3/EGAR00001673425.json",
+      "errorType": "org.jdbi.v3.core.statement.UnableToExecuteStatementException",
+      "message": "org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint \"info_id_id_type_uindex\"\n  Detail: Key (id, id_type)=(d0c5147a-62a1-5e80-84e0-cbe8c68d6ed9, File) already exists. [statement:\"UPDATE info SET id=:sid WHERE id=:tid\", arguments:{positional:{}, named:{tid:7daa22cf-6446-5298-96a9-f19ec980b662,sid:d0c5147a-62a1-5e80-84e0-cbe8c68d6ed9}, finder:[]}]"
+    },
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/LUCA-KR/WXS/batch3/EGAR00001673435.json",
+      "errorType": "org.jdbi.v3.core.statement.UnableToExecuteStatementException",
+      "message": "org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint \"info_id_id_type_uindex\"\n  Detail: Key (id, id_type)=(c09ca2ca-acff-52e2-a698-d7626d9717ca, File) already exists. [statement:\"UPDATE info SET id=:sid WHERE id=:tid\", arguments:{positional:{}, named:{tid:22095883-ed2a-5f9a-a2b7-7be15553a7bc,sid:c09ca2ca-acff-52e2-a698-d7626d9717ca}, finder:[]}]"
+    }
+  ]
+}
