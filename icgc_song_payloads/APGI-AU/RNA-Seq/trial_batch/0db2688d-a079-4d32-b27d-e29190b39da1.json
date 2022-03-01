@@ -18,15 +18,14 @@
             "submitterDonorId": "ICGC_0507"
         },
         "submitterSampleId": "8069062",
-        "matchedNormalSubmitterSampleId": "None",
+        "matchedNormalSubmitterSampleId": null,
         "sampleType": "Total RNA"
     },
     "experiment": {
-        "submitter_sequencing_experiment_id": null,
         "experimental_strategy": "RNA-Seq",
         "library_isolation_protocol": null,
         "library_preparation_kit": null,
-        "library_strandedness": null,
+        "library_strandedness": "FIRST_READ_ANTISENSE_STRAND",
         "rin": null,
         "dv200": null,
         "spike_ins_included": null,
@@ -35,7 +34,8 @@
         "sequencing_center": "QCMG",
         "platform": "ILLUMINA",
         "platform_model": "Illumina HiSeq 2000",
-        "sequencing_date": null
+        "sequencing_date": null,
+        "submitter_sequencing_experiment_id": "EXP-001-1"
     },
     "files": [
         {
@@ -48,46 +48,7 @@
             "info": {
                 "origin": "ICGC-25K",
                 "data_category": "Sequencing Reads",
-                "legacyAnalysisId": "Website Submitter Bundle ID"
-            }
-        },
-        {
-            "fileName": "PCAWG.7c7b1830-232a-410c-94cb-8e0703932f50.STAR.v1.bam",
-            "fileAccess": "controlled",
-            "fileType": "BAM",
-            "dataType": "Submitted Reads",
-            "fileSize": 13925400453,
-            "fileMd5sum": "571eca87e49aa7d25c582d14deb39ea7",
-            "info": {
-                "origin": "ICGC-25K",
-                "data_category": "Sequencing Reads",
-                "legacyAnalysisId": "Website Submitter Bundle ID"
-            }
-        },
-        {
-            "fileName": "PCAWG.7c7b1830-232a-410c-94cb-8e0703932f50.STAR.v1.bam",
-            "fileAccess": "controlled",
-            "fileType": "BAM",
-            "dataType": "Submitted Reads",
-            "fileSize": 13925400453,
-            "fileMd5sum": "571eca87e49aa7d25c582d14deb39ea7",
-            "info": {
-                "origin": "ICGC-25K",
-                "data_category": "Sequencing Reads",
-                "legacyAnalysisId": "Website Submitter Bundle ID"
-            }
-        },
-        {
-            "fileName": "PCAWG.7c7b1830-232a-410c-94cb-8e0703932f50.STAR.v1.bam",
-            "fileAccess": "controlled",
-            "fileType": "BAM",
-            "dataType": "Submitted Reads",
-            "fileSize": 13925400453,
-            "fileMd5sum": "571eca87e49aa7d25c582d14deb39ea7",
-            "info": {
-                "origin": "ICGC-25K",
-                "data_category": "Sequencing Reads",
-                "legacyAnalysisId": "Website Submitter Bundle ID"
+                "legacyAnalysisId": "0db2688d-a079-4d32-b27d-e29190b39da1"
             }
         }
     ],
