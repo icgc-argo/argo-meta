@@ -6,21 +6,23 @@
     "info": {
         "origin": "ICGC-25K"
     },
-    "samples": {
-        "specimen": {
-            "submitterSpecimenId": "8067184",
-            "specimenTissueSource": "Solid tissue",
-            "tumourNormalDesignation": "tumor",
-            "specimenType": "Primary tumour"
-        },
-        "donor": {
-            "gender": "male",
-            "submitterDonorId": "ICGC_0393"
-        },
-        "submitterSampleId": "8067184",
-        "matchedNormalSubmitterSampleId": null,
-        "sampleType": "Total RNA"
-    },
+    "samples": [
+        {
+            "specimen": {
+                "submitterSpecimenId": "8067184",
+                "specimenTissueSource": "Solid tissue",
+                "tumourNormalDesignation": "Tumour",
+                "specimenType": "Primary tumour"
+            },
+            "donor": {
+                "gender": "Male",
+                "submitterDonorId": "ICGC_0393"
+            },
+            "submitterSampleId": "8067184",
+            "matchedNormalSubmitterSampleId": null,
+            "sampleType": "Total RNA"
+        }
+    ],
     "experiment": {
         "experimental_strategy": "RNA-Seq",
         "library_isolation_protocol": null,
@@ -63,8 +65,8 @@
             "read_length_r2": 101,
             "library_name": "RNA-Seq:QCMG:QCMG:140304_7001240_0235_AC453LACXX.lane_6.CGATGT:RNA-Seq:QCMG:Illumina TruSeq for Library_NEW5709A2439AR9",
             "read_group_id_in_bam": "QCMG:b94165c4-ffe0-11e4-b7b2-dcb8d09afa03:140304_7001240_0235_AC453LACXX.lane_6.CGATGT.1",
-            "submitter_read_group_id": "QCMG:b94165c4-ffe0-11e4-b7b2-dcb8d09afa03:140304_7001240_0235_AC453LACXX.lane_6.CGATGT.1_8067184",
-            "platform_unit": "QCMG:b94165c4-ffe0-11e4-b7b2-dcb8d09afa03:140304_7001240_0235_AC453LACXX.lane_6.CGATGT.1_8067184"
+            "submitter_read_group_id": "QCMG_b94165c4-ffe0-11e4-b7b2-dcb8d09afa03_140304_7001240_0235_AC453LACXX.lane_6.CGATGT.1_8067184",
+            "platform_unit": "QCMG_b94165c4-ffe0-11e4-b7b2-dcb8d09afa03_140304_7001240_0235_AC453LACXX.lane_6.CGATGT.1_8067184"
         },
         {
             "insert_size": null,
@@ -76,8 +78,8 @@
             "read_length_r2": 101,
             "library_name": "RNA-Seq:QCMG:QCMG:140226_7001407_0163_BC429TACXX.lane_1.ACTTGA:RNA-Seq:QCMG:Illumina TruSeq for Library_NEW5709A2439AR6",
             "read_group_id_in_bam": "QCMG:2be4609a-ffd2-11e4-9d32-ff35fc25fa63:140226_7001407_0163_BC429TACXX.lane_1.ACTTGA.1",
-            "submitter_read_group_id": "QCMG:2be4609a-ffd2-11e4-9d32-ff35fc25fa63:140226_7001407_0163_BC429TACXX.lane_1.ACTTGA.1_8067184",
-            "platform_unit": "QCMG:2be4609a-ffd2-11e4-9d32-ff35fc25fa63:140226_7001407_0163_BC429TACXX.lane_1.ACTTGA.1_8067184"
+            "submitter_read_group_id": "QCMG_2be4609a-ffd2-11e4-9d32-ff35fc25fa63_140226_7001407_0163_BC429TACXX.lane_1.ACTTGA.1_8067184",
+            "platform_unit": "QCMG_2be4609a-ffd2-11e4-9d32-ff35fc25fa63_140226_7001407_0163_BC429TACXX.lane_1.ACTTGA.1_8067184"
         },
         {
             "insert_size": null,
@@ -89,8 +91,8 @@
             "read_length_r2": 101,
             "library_name": "RNA-Seq:QCMG:QCMG:140226_7001407_0163_BC429TACXX.lane_3.ACTTGA:RNA-Seq:QCMG:Illumina TruSeq for Library_NEW5709A2439AR6",
             "read_group_id_in_bam": "QCMG:cf9a7ca0-ffd3-11e4-89b6-c639b2374f27:140226_7001407_0163_BC429TACXX.lane_3.ACTTGA.1",
-            "submitter_read_group_id": "QCMG:cf9a7ca0-ffd3-11e4-89b6-c639b2374f27:140226_7001407_0163_BC429TACXX.lane_3.ACTTGA.1_8067184",
-            "platform_unit": "QCMG:cf9a7ca0-ffd3-11e4-89b6-c639b2374f27:140226_7001407_0163_BC429TACXX.lane_3.ACTTGA.1_8067184"
+            "submitter_read_group_id": "QCMG_cf9a7ca0-ffd3-11e4-89b6-c639b2374f27_140226_7001407_0163_BC429TACXX.lane_3.ACTTGA.1_8067184",
+            "platform_unit": "QCMG_cf9a7ca0-ffd3-11e4-89b6-c639b2374f27_140226_7001407_0163_BC429TACXX.lane_3.ACTTGA.1_8067184"
         },
         {
             "insert_size": null,
@@ -102,8 +104,8 @@
             "read_length_r2": 101,
             "library_name": "RNA-Seq:QCMG:QCMG:140226_7001407_0163_BC429TACXX.lane_4.ACTTGA:RNA-Seq:QCMG:Illumina TruSeq for Library_NEW5709A2439AR6",
             "read_group_id_in_bam": "QCMG:91dda774-ffd4-11e4-ade0-fe3f54dde56b:140226_7001407_0163_BC429TACXX.lane_4.ACTTGA.1",
-            "submitter_read_group_id": "QCMG:91dda774-ffd4-11e4-ade0-fe3f54dde56b:140226_7001407_0163_BC429TACXX.lane_4.ACTTGA.1_8067184",
-            "platform_unit": "QCMG:91dda774-ffd4-11e4-ade0-fe3f54dde56b:140226_7001407_0163_BC429TACXX.lane_4.ACTTGA.1_8067184"
+            "submitter_read_group_id": "QCMG_91dda774-ffd4-11e4-ade0-fe3f54dde56b_140226_7001407_0163_BC429TACXX.lane_4.ACTTGA.1_8067184",
+            "platform_unit": "QCMG_91dda774-ffd4-11e4-ade0-fe3f54dde56b_140226_7001407_0163_BC429TACXX.lane_4.ACTTGA.1_8067184"
         },
         {
             "insert_size": null,
@@ -115,8 +117,8 @@
             "read_length_r2": 101,
             "library_name": "RNA-Seq:QCMG:QCMG:140226_7001407_0163_BC429TACXX.lane_2.ACTTGA:RNA-Seq:QCMG:Illumina TruSeq for Library_NEW5709A2439AR6",
             "read_group_id_in_bam": "QCMG:0c4a2070-ffd3-11e4-8602-b58db992e84e:140226_7001407_0163_BC429TACXX.lane_2.ACTTGA.1",
-            "submitter_read_group_id": "QCMG:0c4a2070-ffd3-11e4-8602-b58db992e84e:140226_7001407_0163_BC429TACXX.lane_2.ACTTGA.1_8067184",
-            "platform_unit": "QCMG:0c4a2070-ffd3-11e4-8602-b58db992e84e:140226_7001407_0163_BC429TACXX.lane_2.ACTTGA.1_8067184"
+            "submitter_read_group_id": "QCMG_0c4a2070-ffd3-11e4-8602-b58db992e84e_140226_7001407_0163_BC429TACXX.lane_2.ACTTGA.1_8067184",
+            "platform_unit": "QCMG_0c4a2070-ffd3-11e4-8602-b58db992e84e_140226_7001407_0163_BC429TACXX.lane_2.ACTTGA.1_8067184"
         },
         {
             "insert_size": null,
@@ -128,8 +130,8 @@
             "read_length_r2": 101,
             "library_name": "RNA-Seq:QCMG:QCMG:140304_7001240_0235_AC453LACXX.lane_5.CGATGT:RNA-Seq:QCMG:Illumina TruSeq for Library_NEW5709A2439AR9",
             "read_group_id_in_bam": "QCMG:0c559e08-ffd5-11e4-a7aa-fc3d3b93e46a:140304_7001240_0235_AC453LACXX.lane_5.CGATGT.1",
-            "submitter_read_group_id": "QCMG:0c559e08-ffd5-11e4-a7aa-fc3d3b93e46a:140304_7001240_0235_AC453LACXX.lane_5.CGATGT.1_8067184",
-            "platform_unit": "QCMG:0c559e08-ffd5-11e4-a7aa-fc3d3b93e46a:140304_7001240_0235_AC453LACXX.lane_5.CGATGT.1_8067184"
+            "submitter_read_group_id": "QCMG_0c559e08-ffd5-11e4-a7aa-fc3d3b93e46a_140304_7001240_0235_AC453LACXX.lane_5.CGATGT.1_8067184",
+            "platform_unit": "QCMG_0c559e08-ffd5-11e4-a7aa-fc3d3b93e46a_140304_7001240_0235_AC453LACXX.lane_5.CGATGT.1_8067184"
         },
         {
             "insert_size": null,
@@ -141,8 +143,8 @@
             "read_length_r2": 101,
             "library_name": "RNA-Seq:QCMG:QCMG:140304_7001240_0235_AC453LACXX.lane_7.CGATGT:RNA-Seq:QCMG:Illumina TruSeq for Library_NEW5709A2439AR9",
             "read_group_id_in_bam": "QCMG:20ecf58a-ffe1-11e4-899a-b649ff3cf04b:140304_7001240_0235_AC453LACXX.lane_7.CGATGT.1",
-            "submitter_read_group_id": "QCMG:20ecf58a-ffe1-11e4-899a-b649ff3cf04b:140304_7001240_0235_AC453LACXX.lane_7.CGATGT.1_8067184",
-            "platform_unit": "QCMG:20ecf58a-ffe1-11e4-899a-b649ff3cf04b:140304_7001240_0235_AC453LACXX.lane_7.CGATGT.1_8067184"
+            "submitter_read_group_id": "QCMG_20ecf58a-ffe1-11e4-899a-b649ff3cf04b_140304_7001240_0235_AC453LACXX.lane_7.CGATGT.1_8067184",
+            "platform_unit": "QCMG_20ecf58a-ffe1-11e4-899a-b649ff3cf04b_140304_7001240_0235_AC453LACXX.lane_7.CGATGT.1_8067184"
         },
         {
             "insert_size": null,
@@ -154,8 +156,8 @@
             "read_length_r2": 101,
             "library_name": "RNA-Seq:QCMG:QCMG:140304_7001240_0235_AC453LACXX.lane_8.CGATGT:RNA-Seq:QCMG:Illumina TruSeq for Library_NEW5709A2439AR9",
             "read_group_id_in_bam": "QCMG:88d78a48-ffe1-11e4-a36c-cc98804f2b93:140304_7001240_0235_AC453LACXX.lane_8.CGATGT.1",
-            "submitter_read_group_id": "QCMG:88d78a48-ffe1-11e4-a36c-cc98804f2b93:140304_7001240_0235_AC453LACXX.lane_8.CGATGT.1_8067184",
-            "platform_unit": "QCMG:88d78a48-ffe1-11e4-a36c-cc98804f2b93:140304_7001240_0235_AC453LACXX.lane_8.CGATGT.1_8067184"
+            "submitter_read_group_id": "QCMG_88d78a48-ffe1-11e4-a36c-cc98804f2b93_140304_7001240_0235_AC453LACXX.lane_8.CGATGT.1_8067184",
+            "platform_unit": "QCMG_88d78a48-ffe1-11e4-a36c-cc98804f2b93_140304_7001240_0235_AC453LACXX.lane_8.CGATGT.1_8067184"
         }
     ],
     "read_group_count": 8

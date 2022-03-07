@@ -6,21 +6,23 @@
     "info": {
         "origin": "ICGC-25K"
     },
-    "samples": {
-        "specimen": {
-            "submitterSpecimenId": "8031682",
-            "specimenTissueSource": "Solid tissue",
-            "tumourNormalDesignation": "tumor",
-            "specimenType": "Primary tumour"
-        },
-        "donor": {
-            "gender": "male",
-            "submitterDonorId": "ICGC_0066"
-        },
-        "submitterSampleId": "8031682",
-        "matchedNormalSubmitterSampleId": null,
-        "sampleType": "Total RNA"
-    },
+    "samples": [
+        {
+            "specimen": {
+                "submitterSpecimenId": "8031682",
+                "specimenTissueSource": "Solid tissue",
+                "tumourNormalDesignation": "Tumour",
+                "specimenType": "Primary tumour"
+            },
+            "donor": {
+                "gender": "Male",
+                "submitterDonorId": "ICGC_0066"
+            },
+            "submitterSampleId": "8031682",
+            "matchedNormalSubmitterSampleId": null,
+            "sampleType": "Total RNA"
+        }
+    ],
     "experiment": {
         "experimental_strategy": "RNA-Seq",
         "library_isolation_protocol": null,
@@ -63,8 +65,8 @@
             "read_length_r2": 101,
             "library_name": "RNA-Seq:QCMG:QCMG:130723_7001407_0117_BD2B29ACXX.lane_2.CGATGT:RNA-Seq:QCMG:Illumina TruSeq for Library_20130626_F",
             "read_group_id_in_bam": "QCMG:6e4e3a7a-ffb7-11e4-ab30-da2827f6e5f1:130723_7001407_0117_BD2B29ACXX.lane_2.CGATGT.1",
-            "submitter_read_group_id": "QCMG:6e4e3a7a-ffb7-11e4-ab30-da2827f6e5f1:130723_7001407_0117_BD2B29ACXX.lane_2.CGATGT.1_8031682",
-            "platform_unit": "QCMG:6e4e3a7a-ffb7-11e4-ab30-da2827f6e5f1:130723_7001407_0117_BD2B29ACXX.lane_2.CGATGT.1_8031682"
+            "submitter_read_group_id": "QCMG_6e4e3a7a-ffb7-11e4-ab30-da2827f6e5f1_130723_7001407_0117_BD2B29ACXX.lane_2.CGATGT.1_8031682",
+            "platform_unit": "QCMG_6e4e3a7a-ffb7-11e4-ab30-da2827f6e5f1_130723_7001407_0117_BD2B29ACXX.lane_2.CGATGT.1_8031682"
         },
         {
             "insert_size": null,
@@ -76,8 +78,8 @@
             "read_length_r2": 101,
             "library_name": "RNA-Seq:QCMG:QCMG:130723_7001407_0117_BD2B29ACXX.lane_4.CGATGT:RNA-Seq:QCMG:Illumina TruSeq for Library_20130626_F",
             "read_group_id_in_bam": "QCMG:ce3d8f3e-ffb8-11e4-a34c-d80a76e97ab4:130723_7001407_0117_BD2B29ACXX.lane_4.CGATGT.1",
-            "submitter_read_group_id": "QCMG:ce3d8f3e-ffb8-11e4-a34c-d80a76e97ab4:130723_7001407_0117_BD2B29ACXX.lane_4.CGATGT.1_8031682",
-            "platform_unit": "QCMG:ce3d8f3e-ffb8-11e4-a34c-d80a76e97ab4:130723_7001407_0117_BD2B29ACXX.lane_4.CGATGT.1_8031682"
+            "submitter_read_group_id": "QCMG_ce3d8f3e-ffb8-11e4-a34c-d80a76e97ab4_130723_7001407_0117_BD2B29ACXX.lane_4.CGATGT.1_8031682",
+            "platform_unit": "QCMG_ce3d8f3e-ffb8-11e4-a34c-d80a76e97ab4_130723_7001407_0117_BD2B29ACXX.lane_4.CGATGT.1_8031682"
         },
         {
             "insert_size": null,
@@ -89,8 +91,8 @@
             "read_length_r2": 101,
             "library_name": "RNA-Seq:QCMG:QCMG:130723_7001407_0117_BD2B29ACXX.lane_3.CGATGT:RNA-Seq:QCMG:Illumina TruSeq for Library_20130626_F",
             "read_group_id_in_bam": "QCMG:8baa7d18-0007-11e5-b512-b21eabc85cb8:130723_7001407_0117_BD2B29ACXX.lane_3.CGATGT.1",
-            "submitter_read_group_id": "QCMG:8baa7d18-0007-11e5-b512-b21eabc85cb8:130723_7001407_0117_BD2B29ACXX.lane_3.CGATGT.1_8031682",
-            "platform_unit": "QCMG:8baa7d18-0007-11e5-b512-b21eabc85cb8:130723_7001407_0117_BD2B29ACXX.lane_3.CGATGT.1_8031682"
+            "submitter_read_group_id": "QCMG_8baa7d18-0007-11e5-b512-b21eabc85cb8_130723_7001407_0117_BD2B29ACXX.lane_3.CGATGT.1_8031682",
+            "platform_unit": "QCMG_8baa7d18-0007-11e5-b512-b21eabc85cb8_130723_7001407_0117_BD2B29ACXX.lane_3.CGATGT.1_8031682"
         },
         {
             "insert_size": null,
@@ -102,8 +104,8 @@
             "read_length_r2": 101,
             "library_name": "RNA-Seq:QCMG:QCMG:130723_7001407_0117_BD2B29ACXX.lane_1.CGATGT:RNA-Seq:QCMG:Illumina TruSeq for Library_20130626_F",
             "read_group_id_in_bam": "QCMG:c4fce566-ffb6-11e4-a9d7-ed068d55b99b:130723_7001407_0117_BD2B29ACXX.lane_1.CGATGT.1",
-            "submitter_read_group_id": "QCMG:c4fce566-ffb6-11e4-a9d7-ed068d55b99b:130723_7001407_0117_BD2B29ACXX.lane_1.CGATGT.1_8031682",
-            "platform_unit": "QCMG:c4fce566-ffb6-11e4-a9d7-ed068d55b99b:130723_7001407_0117_BD2B29ACXX.lane_1.CGATGT.1_8031682"
+            "submitter_read_group_id": "QCMG_c4fce566-ffb6-11e4-a9d7-ed068d55b99b_130723_7001407_0117_BD2B29ACXX.lane_1.CGATGT.1_8031682",
+            "platform_unit": "QCMG_c4fce566-ffb6-11e4-a9d7-ed068d55b99b_130723_7001407_0117_BD2B29ACXX.lane_1.CGATGT.1_8031682"
         }
     ],
     "read_group_count": 4
