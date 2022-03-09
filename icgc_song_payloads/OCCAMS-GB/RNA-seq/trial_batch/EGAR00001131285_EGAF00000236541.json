@@ -1,0 +1,64 @@
+{
+    "studyId": "OCCAMS-GB",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "info": {
+        "origin": "ICGC-25K"
+    },
+    "samples": [
+        {
+            "specimen": {
+                "submitterSpecimenId": "SS6003131",
+                "specimenTissueSource": null,
+                "specimenType": null,
+                "tumourNormalDesignation": "Tumour"
+            },
+            "donor": {
+                "gender": "Male",
+                "submitterDonorId": "OCCAMS/PS/004"
+            },
+            "submitterSampleId": "SS6003131",
+            "matchedNormalSubmitterSampleId": "SS6003130",
+            "sampleType": null
+        }
+    ],
+    "experiment": {
+        "experimental_strategy": "WGS",
+        "sequencing_center": "CRUK-CI",
+        "platform": "ILLUMINA",
+        "platform_model": "Illumina HiSeq 2000",
+        "sequencing_date": null,
+        "submitter_sequencing_experiment_id": "EGAX00001127398"
+    },
+    "files": [
+        {
+            "fileName": "pilot2/SS6003131.bam",
+            "fileType": "bam",
+            "dataType": "Submitted Reads",
+            "fileSize": 149250044740,
+            "fileMd5sum": "20f83e4c75485153a4f7b53894f07a92",
+            "info": {
+                "origin": "ICGC-25K",
+                "data_category": "Sequencing Reads",
+                "legacyAnalysisId": "EGAR00001131285_EGAF00000236541"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "insert_size": 300,
+            "sample_barcode": null,
+            "is_paired_end": "PAIRED",
+            "file_r2": "pilot2/SS6003131.bam",
+            "file_r1": "pilot2/SS6003131.bam",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "library_name": "SS6003131",
+            "read_group_id_in_bam": null,
+            "submitter_read_group_id": "SS6003131",
+            "platform_unit": ""
+        }
+    ],
+    "read_group_count": 1
+}

@@ -1,0 +1,64 @@
+{
+    "studyId": "OCCAMS-GB",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "info": {
+        "origin": "ICGC-25K"
+    },
+    "samples": [
+        {
+            "specimen": {
+                "submitterSpecimenId": "SLX-18929.UDP0032",
+                "specimenTissueSource": null,
+                "specimenType": null,
+                "tumourNormalDesignation": "Tumour"
+            },
+            "donor": {
+                "gender": "Male",
+                "submitterDonorId": "b384683d8d6e1ffa703c7f2d39fa322b369931ca9cf50be294cf2f4d28ebd556"
+            },
+            "submitterSampleId": "SLX-18929.UDP0032",
+            "matchedNormalSubmitterSampleId": "SLX-18928.UDP0093",
+            "sampleType": null
+        }
+    ],
+    "experiment": {
+        "experimental_strategy": "WGS",
+        "sequencing_center": "CRUK-CI",
+        "platform": "ILLUMINA",
+        "platform_model": "Illumina NovaSeq 6000",
+        "sequencing_date": null,
+        "submitter_sequencing_experiment_id": "EGAX00002471182"
+    },
+    "files": [
+        {
+            "fileName": "SLX-18929.UDP0032.bam",
+            "fileType": "bam",
+            "dataType": "Submitted Reads",
+            "fileSize": 78117412145,
+            "fileMd5sum": "174d24d01de96c9aad4b2b6bfacfa393",
+            "info": {
+                "origin": "ICGC-25K",
+                "data_category": "Sequencing Reads",
+                "legacyAnalysisId": "EGAR00002844832_EGAF00005319867"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "insert_size": 345,
+            "sample_barcode": null,
+            "is_paired_end": "PAIRED",
+            "file_r2": "SLX-18929.UDP0032.bam",
+            "file_r1": "SLX-18929.UDP0032.bam",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "library_name": "SLX-18929.UDP0032",
+            "read_group_id_in_bam": null,
+            "submitter_read_group_id": "SLX-18929.UDP0032",
+            "platform_unit": ""
+        }
+    ],
+    "read_group_count": 1
+}

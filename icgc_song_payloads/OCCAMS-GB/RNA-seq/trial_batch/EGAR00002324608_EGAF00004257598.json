@@ -1,0 +1,63 @@
+{
+    "studyId": "OCCAMS-GB",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "info": {
+        "origin": "ICGC-25K"
+    },
+    "samples": [
+        {
+            "specimen": {
+                "submitterSpecimenId": "SLX-18928.UDP0039",
+                "specimenTissueSource": null,
+                "specimenType": null,
+                "tumourNormalDesignation": "Non-tumour"
+            },
+            "donor": {
+                "gender": "Male",
+                "submitterDonorId": "2172900629237faf4d4d177c02efded1d2d9ef95d2270c2d9462b1a4add397bb"
+            },
+            "submitterSampleId": "SLX-18928.UDP0039",
+            "sampleType": null
+        }
+    ],
+    "experiment": {
+        "experimental_strategy": "WGS",
+        "sequencing_center": "CRUK-CI",
+        "platform": "ILLUMINA",
+        "platform_model": "Illumina NovaSeq 6000",
+        "sequencing_date": null,
+        "submitter_sequencing_experiment_id": "EGAX00002220415"
+    },
+    "files": [
+        {
+            "fileName": "SLX-18928.UDP0039.bam",
+            "fileType": "bam",
+            "dataType": "Submitted Reads",
+            "fileSize": 50007941575,
+            "fileMd5sum": "af5f16d467d76b23dc4145cb2f7ef2f9",
+            "info": {
+                "origin": "ICGC-25K",
+                "data_category": "Sequencing Reads",
+                "legacyAnalysisId": "EGAR00002324608_EGAF00004257598"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "insert_size": 372,
+            "sample_barcode": null,
+            "is_paired_end": "PAIRED",
+            "file_r2": "SLX-18928.UDP0039.bam",
+            "file_r1": "SLX-18928.UDP0039.bam",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "library_name": "SLX-18928.UDP0039",
+            "read_group_id_in_bam": null,
+            "submitter_read_group_id": "SLX-18928.UDP0039",
+            "platform_unit": ""
+        }
+    ],
+    "read_group_count": 1
+}

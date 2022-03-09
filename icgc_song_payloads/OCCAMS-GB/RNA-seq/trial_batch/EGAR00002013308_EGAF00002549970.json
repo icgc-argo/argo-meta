@@ -1,0 +1,64 @@
+{
+    "studyId": "OCCAMS-GB",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "info": {
+        "origin": "ICGC-25K"
+    },
+    "samples": [
+        {
+            "specimen": {
+                "submitterSpecimenId": "LP6008337-DNA_F06",
+                "specimenTissueSource": null,
+                "specimenType": null,
+                "tumourNormalDesignation": "Tumour"
+            },
+            "donor": {
+                "gender": "Male",
+                "submitterDonorId": "f00bf10ff4ebce5e7f191d52acc09d6b3c25f533c0af75d7d57998da3d050c3a"
+            },
+            "submitterSampleId": "LP6008337-DNA_F06",
+            "matchedNormalSubmitterSampleId": "LP6008338-DNA_C06",
+            "sampleType": null
+        }
+    ],
+    "experiment": {
+        "experimental_strategy": "WGS",
+        "sequencing_center": "CRUK-CI",
+        "platform": "ILLUMINA",
+        "platform_model": "Illumina HiSeq 2000",
+        "sequencing_date": null,
+        "submitter_sequencing_experiment_id": "EGAX00001958906"
+    },
+    "files": [
+        {
+            "fileName": "LP6008337-DNA_F06.bam",
+            "fileType": "bam",
+            "dataType": "Submitted Reads",
+            "fileSize": 115409176842,
+            "fileMd5sum": "3f7596e280a9f23ec3d972d17d7a2e95",
+            "info": {
+                "origin": "ICGC-25K",
+                "data_category": "Sequencing Reads",
+                "legacyAnalysisId": "EGAR00002013308_EGAF00002549970"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "insert_size": 462,
+            "sample_barcode": null,
+            "is_paired_end": "PAIRED",
+            "file_r2": "LP6008337-DNA_F06.bam",
+            "file_r1": "LP6008337-DNA_F06.bam",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "library_name": "LP6008337-DNA_F06",
+            "read_group_id_in_bam": null,
+            "submitter_read_group_id": "LP6008337-DNA_F06",
+            "platform_unit": ""
+        }
+    ],
+    "read_group_count": 1
+}
