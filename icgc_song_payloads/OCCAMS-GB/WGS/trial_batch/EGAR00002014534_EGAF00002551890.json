@@ -1,0 +1,64 @@
+{
+    "studyId": "OCCAMS-GB",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "info": {
+        "origin": "ICGC-25K"
+    },
+    "samples": [
+        {
+            "specimen": {
+                "submitterSpecimenId": "LP6008460-DNA_C02",
+                "specimenTissueSource": null,
+                "specimenType": null,
+                "tumourNormalDesignation": "Tumour"
+            },
+            "donor": {
+                "gender": "Unknown",
+                "submitterDonorId": "bbac0528cfd0fbff9349a1fae0715a58e74e7c117edeed7cc30ae82438da0960"
+            },
+            "submitterSampleId": "LP6008460-DNA_C02",
+            "matchedNormalSubmitterSampleId": "LP6008340-DNA_D03",
+            "sampleType": null
+        }
+    ],
+    "experiment": {
+        "experimental_strategy": "WGS",
+        "sequencing_center": "CRUK-CI",
+        "platform": "ILLUMINA",
+        "platform_model": "HiSeq X Five",
+        "sequencing_date": null,
+        "submitter_sequencing_experiment_id": "EGAX00001960132"
+    },
+    "files": [
+        {
+            "fileName": "LP6008460-DNA_C02.bam",
+            "fileType": "BAM",
+            "dataType": "Submitted Reads",
+            "fileSize": 144785451861,
+            "fileMd5sum": "b7cd831f94050762807c1d94b8831f24",
+            "info": {
+                "origin": "ICGC-25K",
+                "data_category": "Sequencing Reads",
+                "legacyAnalysisId": "EGAR00002014534_EGAF00002551890"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "insert_size": 510,
+            "sample_barcode": null,
+            "is_paired_end": "PAIRED",
+            "file_r2": "LP6008460-DNA_C02.bam",
+            "file_r1": "LP6008460-DNA_C02.bam",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "library_name": "LP6008460-DNA_C02",
+            "read_group_id_in_bam": null,
+            "submitter_read_group_id": "LP6008460-DNA_C02",
+            "platform_unit": ""
+        }
+    ],
+    "read_group_count": 1
+}
