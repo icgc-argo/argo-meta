@@ -1,0 +1,64 @@
+{
+    "studyId": "OCCAMS-GB",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "info": {
+        "origin": "ICGC-25K"
+    },
+    "samples": [
+        {
+            "specimen": {
+                "submitterSpecimenId": "SM-4JPPA",
+                "specimenTissueSource": null,
+                "specimenType": null,
+                "tumourNormalDesignation": "Tumour"
+            },
+            "donor": {
+                "gender": "Female",
+                "submitterDonorId": "70224ed441451a81fd89f696be5993bde735a85317aeeece976d443a155bb554"
+            },
+            "submitterSampleId": "SM-4JPPA",
+            "matchedNormalSubmitterSampleId": "LP6005333-DNA_B01",
+            "sampleType": null
+        }
+    ],
+    "experiment": {
+        "experimental_strategy": "WGS",
+        "sequencing_center": "CRUK-CI",
+        "platform": "ILLUMINA",
+        "platform_model": "Illumina HiSeq 2000",
+        "sequencing_date": null,
+        "submitter_sequencing_experiment_id": "EGAX00001187931"
+    },
+    "files": [
+        {
+            "fileName": "SM-4JPPA.bam",
+            "fileType": "BAM",
+            "dataType": "Submitted Reads",
+            "fileSize": 280458720110,
+            "fileMd5sum": "ee6026fad6b71ed4cea15bd0ba82eefb",
+            "info": {
+                "origin": "ICGC-25K",
+                "data_category": "Sequencing Reads",
+                "legacyAnalysisId": "EGAR00001193153_EGAF00000525498"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "insert_size": 300,
+            "sample_barcode": null,
+            "is_paired_end": "PAIRED",
+            "file_r2": "SM-4JPPA.bam",
+            "file_r1": "SM-4JPPA.bam",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "library_name": "SM-4JPPA",
+            "read_group_id_in_bam": null,
+            "submitter_read_group_id": "SM-4JPPA",
+            "platform_unit": ""
+        }
+    ],
+    "read_group_count": 1
+}

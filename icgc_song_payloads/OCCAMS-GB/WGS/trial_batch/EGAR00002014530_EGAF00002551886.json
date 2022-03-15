@@ -1,0 +1,64 @@
+{
+    "studyId": "OCCAMS-GB",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "info": {
+        "origin": "ICGC-25K"
+    },
+    "samples": [
+        {
+            "specimen": {
+                "submitterSpecimenId": "LP6008460-DNA_B02",
+                "specimenTissueSource": null,
+                "specimenType": null,
+                "tumourNormalDesignation": "Tumour"
+            },
+            "donor": {
+                "gender": "Male",
+                "submitterDonorId": "aed32e1e7f851deb1b2008d0703b45725ec438baa4cf19107def82d4a5a1c4eb"
+            },
+            "submitterSampleId": "LP6008460-DNA_B02",
+            "matchedNormalSubmitterSampleId": "LP6008340-DNA_D02",
+            "sampleType": null
+        }
+    ],
+    "experiment": {
+        "experimental_strategy": "WGS",
+        "sequencing_center": "CRUK-CI",
+        "platform": "ILLUMINA",
+        "platform_model": "HiSeq X Five",
+        "sequencing_date": null,
+        "submitter_sequencing_experiment_id": "EGAX00001960128"
+    },
+    "files": [
+        {
+            "fileName": "LP6008460-DNA_B02.bam",
+            "fileType": "BAM",
+            "dataType": "Submitted Reads",
+            "fileSize": 131174782972,
+            "fileMd5sum": "f47df79cc3ad86709ef3b53a357c7265",
+            "info": {
+                "origin": "ICGC-25K",
+                "data_category": "Sequencing Reads",
+                "legacyAnalysisId": "EGAR00002014530_EGAF00002551886"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "insert_size": 496,
+            "sample_barcode": null,
+            "is_paired_end": "PAIRED",
+            "file_r2": "LP6008460-DNA_B02.bam",
+            "file_r1": "LP6008460-DNA_B02.bam",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "library_name": "LP6008460-DNA_B02",
+            "read_group_id_in_bam": null,
+            "submitter_read_group_id": "LP6008460-DNA_B02",
+            "platform_unit": ""
+        }
+    ],
+    "read_group_count": 1
+}

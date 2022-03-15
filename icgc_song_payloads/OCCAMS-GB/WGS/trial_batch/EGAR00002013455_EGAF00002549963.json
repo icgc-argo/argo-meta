@@ -1,0 +1,63 @@
+{
+    "studyId": "OCCAMS-GB",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "info": {
+        "origin": "ICGC-25K"
+    },
+    "samples": [
+        {
+            "specimen": {
+                "submitterSpecimenId": "LP6008340-DNA_G04",
+                "specimenTissueSource": null,
+                "specimenType": null,
+                "tumourNormalDesignation": "Non-tumour"
+            },
+            "donor": {
+                "gender": "Male",
+                "submitterDonorId": "63e2473237946efb17364182a6a989a59e6e693649e435d722b6bbecbf8f7f01"
+            },
+            "submitterSampleId": "LP6008340-DNA_G04",
+            "sampleType": null
+        }
+    ],
+    "experiment": {
+        "experimental_strategy": "WGS",
+        "sequencing_center": "CRUK-CI",
+        "platform": "ILLUMINA",
+        "platform_model": "Illumina HiSeq 2000",
+        "sequencing_date": null,
+        "submitter_sequencing_experiment_id": "EGAX00001959053"
+    },
+    "files": [
+        {
+            "fileName": "LP6008340-DNA_G04.bam",
+            "fileType": "BAM",
+            "dataType": "Submitted Reads",
+            "fileSize": 69306627455,
+            "fileMd5sum": "3d141a068d029e5276fecff08ee32941",
+            "info": {
+                "origin": "ICGC-25K",
+                "data_category": "Sequencing Reads",
+                "legacyAnalysisId": "EGAR00002013455_EGAF00002549963"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "insert_size": 491,
+            "sample_barcode": null,
+            "is_paired_end": "PAIRED",
+            "file_r2": "LP6008340-DNA_G04.bam",
+            "file_r1": "LP6008340-DNA_G04.bam",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "library_name": "LP6008340-DNA_G04",
+            "read_group_id_in_bam": null,
+            "submitter_read_group_id": "LP6008340-DNA_G04",
+            "platform_unit": ""
+        }
+    ],
+    "read_group_count": 1
+}
