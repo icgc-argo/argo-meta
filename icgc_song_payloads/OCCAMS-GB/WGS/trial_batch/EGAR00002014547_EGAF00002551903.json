@@ -1,64 +1,73 @@
 {
-    "studyId": "OCCAMS-GB",
-    "analysisType": {
-        "name": "sequencing_experiment"
+  "studyId": "OCCAMS-GB",
+  "analysisType": {
+    "name": "sequencing_experiment"
+  },
+  "info": {
+    "origin": "EGA"
+  },
+  "samples": [
+    {
+      "specimen": {
+        "submitterSpecimenId": "LP6008460-DNA_F03",
+        "specimenTissueSource": null,
+        "specimenType": null,
+        "tumourNormalDesignation": "Tumour"
+      },
+      "donor": {
+        "gender": "Male",
+        "submitterDonorId": "5d753c98c49591b3bd1dd5125b19a05b69faabc1a6fcfdd528f8c4e09ac80892"
+      },
+      "submitterSampleId": "LP6008460-DNA_F03",
+      "matchedNormalSubmitterSampleId": "LP6008340-DNA_C03",
+      "sampleType": null
+    }
+  ],
+  "experiment": {
+    "experimental_strategy": "WGS",
+    "sequencing_center": "CRUK-CI",
+    "platform": "ILLUMINA",
+    "platform_model": "HiSeq X Five",
+    "sequencing_date": null,
+    "submitter_sequencing_experiment_id": "EGAX00001960145"
+  },
+  "files": [
+    {
+      "fileName": "LP6008460-DNA_F03.bam",
+      "fileType": "BAM",
+      "dataType": "Submitted Reads",
+      "fileSize": 148208242536,
+      "fileMd5sum": "690286e44f7bc8768d6bd882326cee48",
+      "info": {
+        "origin": "EGA",
+        "data_category": "Sequencing Reads",
+        "legacyAnalysisId": "EGAR00002014547_EGAF00002551903"
+      }
+    }
+  ],
+  "read_groups": [
+    {
+      "insert_size": 522.0,
+      "platform_unit": "LP6008460-DNA_F03",
+      "file_r2": "LP6008460-DNA_F03.bam",
+      "file_r1": "LP6008460-DNA_F03.bam",
+      "read_group_id_in_bam": "LP6008460-DNA_F03",
+      "submitter_read_group_id": "LP6008460-DNA_F03",
+      "is_paired_end": true,
+      "read_length_r1": 150.0,
+      "read_length_r2": 150.0
     },
-    "info": {
-        "origin": "ICGC-25K"
-    },
-    "samples": [
-        {
-            "specimen": {
-                "submitterSpecimenId": "LP6008460-DNA_F03",
-                "specimenTissueSource": null,
-                "specimenType": null,
-                "tumourNormalDesignation": "Tumour"
-            },
-            "donor": {
-                "gender": "Male",
-                "submitterDonorId": "5d753c98c49591b3bd1dd5125b19a05b69faabc1a6fcfdd528f8c4e09ac80892"
-            },
-            "submitterSampleId": "LP6008460-DNA_F03",
-            "matchedNormalSubmitterSampleId": "LP6008340-DNA_C03",
-            "sampleType": null
-        }
-    ],
-    "experiment": {
-        "experimental_strategy": "WGS",
-        "sequencing_center": "CRUK-CI",
-        "platform": "ILLUMINA",
-        "platform_model": "HiSeq X Five",
-        "sequencing_date": null,
-        "submitter_sequencing_experiment_id": "EGAX00001960145"
-    },
-    "files": [
-        {
-            "fileName": "LP6008460-DNA_F03.bam",
-            "fileType": "BAM",
-            "dataType": "Submitted Reads",
-            "fileSize": 148208242536,
-            "fileMd5sum": "690286e44f7bc8768d6bd882326cee48",
-            "info": {
-                "origin": "ICGC-25K",
-                "data_category": "Sequencing Reads",
-                "legacyAnalysisId": "EGAR00002014547_EGAF00002551903"
-            }
-        }
-    ],
-    "read_groups": [
-        {
-            "insert_size": 507,
-            "sample_barcode": null,
-            "is_paired_end": "PAIRED",
-            "file_r2": "LP6008460-DNA_F03.bam",
-            "file_r1": "LP6008460-DNA_F03.bam",
-            "read_length_r1": null,
-            "read_length_r2": null,
-            "library_name": "LP6008460-DNA_F03",
-            "read_group_id_in_bam": null,
-            "submitter_read_group_id": "LP6008460-DNA_F03",
-            "platform_unit": ""
-        }
-    ],
-    "read_group_count": 1
+    {
+      "insert_size": 522.0,
+      "platform_unit": "LP6008460-DNA_F03.1",
+      "file_r2": "LP6008460-DNA_F03.bam",
+      "file_r1": "LP6008460-DNA_F03.bam",
+      "read_group_id_in_bam": "LP6008460-DNA_F03.1",
+      "submitter_read_group_id": "LP6008460-DNA_F03.1",
+      "is_paired_end": true,
+      "read_length_r1": 150.0,
+      "read_length_r2": 150.0
+    }
+  ],
+  "read_group_count": 2
 }

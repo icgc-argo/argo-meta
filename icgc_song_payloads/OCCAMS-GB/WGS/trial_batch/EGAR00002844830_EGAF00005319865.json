@@ -1,64 +1,194 @@
 {
-    "studyId": "OCCAMS-GB",
-    "analysisType": {
-        "name": "sequencing_experiment"
+  "studyId": "OCCAMS-GB",
+  "analysisType": {
+    "name": "sequencing_experiment"
+  },
+  "info": {
+    "origin": "EGA"
+  },
+  "samples": [
+    {
+      "specimen": {
+        "submitterSpecimenId": "SLX-18929.UDP0023",
+        "specimenTissueSource": null,
+        "specimenType": null,
+        "tumourNormalDesignation": "Tumour"
+      },
+      "donor": {
+        "gender": "Male",
+        "submitterDonorId": "73f51088908ab4395ad03b6d2adac35174db19477199a0dcf9ccd054c9d7ec06"
+      },
+      "submitterSampleId": "SLX-18929.UDP0023",
+      "matchedNormalSubmitterSampleId": "SLX-18928.UDP0079",
+      "sampleType": null
+    }
+  ],
+  "experiment": {
+    "experimental_strategy": "WGS",
+    "sequencing_center": "CRUK-CI",
+    "platform": "ILLUMINA",
+    "platform_model": "Illumina NovaSeq 6000",
+    "sequencing_date": null,
+    "submitter_sequencing_experiment_id": "EGAX00002471180"
+  },
+  "files": [
+    {
+      "fileName": "SLX-18929.UDP0023.bam",
+      "fileType": "BAM",
+      "dataType": "Submitted Reads",
+      "fileSize": 86154099531,
+      "fileMd5sum": "7c8cf066896f42f12386c70236b37238",
+      "info": {
+        "origin": "EGA",
+        "data_category": "Sequencing Reads",
+        "legacyAnalysisId": "EGAR00002844830_EGAF00005319865"
+      }
+    }
+  ],
+  "read_groups": [
+    {
+      "insert_size": 358.0,
+      "platform_unit": "SLX-18929.UDP0023.9",
+      "file_r2": "SLX-18929.UDP0023.bam",
+      "file_r1": "SLX-18929.UDP0023.bam",
+      "read_group_id_in_bam": "SLX-18929.UDP0023.9",
+      "submitter_read_group_id": "SLX-18929.UDP0023.9",
+      "is_paired_end": true,
+      "read_length_r1": 150.0,
+      "read_length_r2": 150.0
     },
-    "info": {
-        "origin": "ICGC-25K"
+    {
+      "insert_size": 358.0,
+      "platform_unit": "SLX-18929.UDP0023.6",
+      "file_r2": "SLX-18929.UDP0023.bam",
+      "file_r1": "SLX-18929.UDP0023.bam",
+      "read_group_id_in_bam": "SLX-18929.UDP0023.6",
+      "submitter_read_group_id": "SLX-18929.UDP0023.6",
+      "is_paired_end": true,
+      "read_length_r1": 150.0,
+      "read_length_r2": 150.0
     },
-    "samples": [
-        {
-            "specimen": {
-                "submitterSpecimenId": "SLX-18929.UDP0023",
-                "specimenTissueSource": null,
-                "specimenType": null,
-                "tumourNormalDesignation": "Tumour"
-            },
-            "donor": {
-                "gender": "Male",
-                "submitterDonorId": "73f51088908ab4395ad03b6d2adac35174db19477199a0dcf9ccd054c9d7ec06"
-            },
-            "submitterSampleId": "SLX-18929.UDP0023",
-            "matchedNormalSubmitterSampleId": "SLX-18928.UDP0079",
-            "sampleType": null
-        }
-    ],
-    "experiment": {
-        "experimental_strategy": "WGS",
-        "sequencing_center": "CRUK-CI",
-        "platform": "ILLUMINA",
-        "platform_model": "Illumina NovaSeq 6000",
-        "sequencing_date": null,
-        "submitter_sequencing_experiment_id": "EGAX00002471180"
+    {
+      "insert_size": 358.0,
+      "platform_unit": "SLX-18929.UDP0023.8",
+      "file_r2": "SLX-18929.UDP0023.bam",
+      "file_r1": "SLX-18929.UDP0023.bam",
+      "read_group_id_in_bam": "SLX-18929.UDP0023.8",
+      "submitter_read_group_id": "SLX-18929.UDP0023.8",
+      "is_paired_end": true,
+      "read_length_r1": 150.0,
+      "read_length_r2": 150.0
     },
-    "files": [
-        {
-            "fileName": "SLX-18929.UDP0023.bam",
-            "fileType": "BAM",
-            "dataType": "Submitted Reads",
-            "fileSize": 86154099531,
-            "fileMd5sum": "7c8cf066896f42f12386c70236b37238",
-            "info": {
-                "origin": "ICGC-25K",
-                "data_category": "Sequencing Reads",
-                "legacyAnalysisId": "EGAR00002844830_EGAF00005319865"
-            }
-        }
-    ],
-    "read_groups": [
-        {
-            "insert_size": 351,
-            "sample_barcode": null,
-            "is_paired_end": "PAIRED",
-            "file_r2": "SLX-18929.UDP0023.bam",
-            "file_r1": "SLX-18929.UDP0023.bam",
-            "read_length_r1": null,
-            "read_length_r2": null,
-            "library_name": "SLX-18929.UDP0023",
-            "read_group_id_in_bam": null,
-            "submitter_read_group_id": "SLX-18929.UDP0023",
-            "platform_unit": ""
-        }
-    ],
-    "read_group_count": 1
+    {
+      "insert_size": 358.0,
+      "platform_unit": "SLX-18929.UDP0023.A",
+      "file_r2": "SLX-18929.UDP0023.bam",
+      "file_r1": "SLX-18929.UDP0023.bam",
+      "read_group_id_in_bam": "SLX-18929.UDP0023.A",
+      "submitter_read_group_id": "SLX-18929.UDP0023.A",
+      "is_paired_end": true,
+      "read_length_r1": 150.0,
+      "read_length_r2": 150.0
+    },
+    {
+      "insert_size": 358.0,
+      "platform_unit": "SLX-18929.UDP0023",
+      "file_r2": "SLX-18929.UDP0023.bam",
+      "file_r1": "SLX-18929.UDP0023.bam",
+      "read_group_id_in_bam": "SLX-18929.UDP0023",
+      "submitter_read_group_id": "SLX-18929.UDP0023",
+      "is_paired_end": true,
+      "read_length_r1": 150.0,
+      "read_length_r2": 150.0
+    },
+    {
+      "insert_size": 358.0,
+      "platform_unit": "SLX-18929.UDP0023.7",
+      "file_r2": "SLX-18929.UDP0023.bam",
+      "file_r1": "SLX-18929.UDP0023.bam",
+      "read_group_id_in_bam": "SLX-18929.UDP0023.7",
+      "submitter_read_group_id": "SLX-18929.UDP0023.7",
+      "is_paired_end": true,
+      "read_length_r1": 150.0,
+      "read_length_r2": 150.0
+    },
+    {
+      "insert_size": 358.0,
+      "platform_unit": "SLX-18929.UDP0023.C",
+      "file_r2": "SLX-18929.UDP0023.bam",
+      "file_r1": "SLX-18929.UDP0023.bam",
+      "read_group_id_in_bam": "SLX-18929.UDP0023.C",
+      "submitter_read_group_id": "SLX-18929.UDP0023.C",
+      "is_paired_end": true,
+      "read_length_r1": 150.0,
+      "read_length_r2": 150.0
+    },
+    {
+      "insert_size": 358.0,
+      "platform_unit": "SLX-18929.UDP0023.3",
+      "file_r2": "SLX-18929.UDP0023.bam",
+      "file_r1": "SLX-18929.UDP0023.bam",
+      "read_group_id_in_bam": "SLX-18929.UDP0023.3",
+      "submitter_read_group_id": "SLX-18929.UDP0023.3",
+      "is_paired_end": true,
+      "read_length_r1": 150.0,
+      "read_length_r2": 150.0
+    },
+    {
+      "insert_size": 358.0,
+      "platform_unit": "SLX-18929.UDP0023.5",
+      "file_r2": "SLX-18929.UDP0023.bam",
+      "file_r1": "SLX-18929.UDP0023.bam",
+      "read_group_id_in_bam": "SLX-18929.UDP0023.5",
+      "submitter_read_group_id": "SLX-18929.UDP0023.5",
+      "is_paired_end": true,
+      "read_length_r1": 150.0,
+      "read_length_r2": 150.0
+    },
+    {
+      "insert_size": 358.0,
+      "platform_unit": "SLX-18929.UDP0023.2",
+      "file_r2": "SLX-18929.UDP0023.bam",
+      "file_r1": "SLX-18929.UDP0023.bam",
+      "read_group_id_in_bam": "SLX-18929.UDP0023.2",
+      "submitter_read_group_id": "SLX-18929.UDP0023.2",
+      "is_paired_end": true,
+      "read_length_r1": 150.0,
+      "read_length_r2": 150.0
+    },
+    {
+      "insert_size": 358.0,
+      "platform_unit": "SLX-18929.UDP0023.4",
+      "file_r2": "SLX-18929.UDP0023.bam",
+      "file_r1": "SLX-18929.UDP0023.bam",
+      "read_group_id_in_bam": "SLX-18929.UDP0023.4",
+      "submitter_read_group_id": "SLX-18929.UDP0023.4",
+      "is_paired_end": true,
+      "read_length_r1": 150.0,
+      "read_length_r2": 150.0
+    },
+    {
+      "insert_size": 358.0,
+      "platform_unit": "SLX-18929.UDP0023.B",
+      "file_r2": "SLX-18929.UDP0023.bam",
+      "file_r1": "SLX-18929.UDP0023.bam",
+      "read_group_id_in_bam": "SLX-18929.UDP0023.B",
+      "submitter_read_group_id": "SLX-18929.UDP0023.B",
+      "is_paired_end": true,
+      "read_length_r1": 150.0,
+      "read_length_r2": 150.0
+    },
+    {
+      "insert_size": 358.0,
+      "platform_unit": "SLX-18929.UDP0023.1",
+      "file_r2": "SLX-18929.UDP0023.bam",
+      "file_r1": "SLX-18929.UDP0023.bam",
+      "read_group_id_in_bam": "SLX-18929.UDP0023.1",
+      "submitter_read_group_id": "SLX-18929.UDP0023.1",
+      "is_paired_end": true,
+      "read_length_r1": 150.0,
+      "read_length_r2": 150.0
+    }
+  ],
+  "read_group_count": 13
 }

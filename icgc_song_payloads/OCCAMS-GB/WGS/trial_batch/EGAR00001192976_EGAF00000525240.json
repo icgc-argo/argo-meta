@@ -1,64 +1,62 @@
 {
-    "studyId": "OCCAMS-GB",
-    "analysisType": {
-        "name": "sequencing_experiment"
-    },
-    "info": {
-        "origin": "ICGC-25K"
-    },
-    "samples": [
-        {
-            "specimen": {
-                "submitterSpecimenId": "LP6005409-DNA_H02",
-                "specimenTissueSource": null,
-                "specimenType": null,
-                "tumourNormalDesignation": "Tumour"
-            },
-            "donor": {
-                "gender": "Male",
-                "submitterDonorId": "69445a60bb3d928af26692ed3220960c8f142c5863af068392e92837bf271819"
-            },
-            "submitterSampleId": "LP6005409-DNA_H02",
-            "matchedNormalSubmitterSampleId": "LP6005408-DNA_H02",
-            "sampleType": null
-        }
-    ],
-    "experiment": {
-        "experimental_strategy": "WGS",
-        "sequencing_center": "CRUK-CI",
-        "platform": "ILLUMINA",
-        "platform_model": "Illumina HiSeq 2000",
-        "sequencing_date": null,
-        "submitter_sequencing_experiment_id": "EGAX00001187754"
-    },
-    "files": [
-        {
-            "fileName": "LP6005409-DNA_H02.bam",
-            "fileType": "BAM",
-            "dataType": "Submitted Reads",
-            "fileSize": 208562587393,
-            "fileMd5sum": "5012889e52b329f153af4b2ea71202e6",
-            "info": {
-                "origin": "ICGC-25K",
-                "data_category": "Sequencing Reads",
-                "legacyAnalysisId": "EGAR00001192976_EGAF00000525240"
-            }
-        }
-    ],
-    "read_groups": [
-        {
-            "insert_size": 300,
-            "sample_barcode": null,
-            "is_paired_end": "PAIRED",
-            "file_r2": "LP6005409-DNA_H02.bam",
-            "file_r1": "LP6005409-DNA_H02.bam",
-            "read_length_r1": null,
-            "read_length_r2": null,
-            "library_name": "LP6005409-DNA_H02",
-            "read_group_id_in_bam": null,
-            "submitter_read_group_id": "LP6005409-DNA_H02",
-            "platform_unit": ""
-        }
-    ],
-    "read_group_count": 1
+  "studyId": "OCCAMS-GB",
+  "analysisType": {
+    "name": "sequencing_experiment"
+  },
+  "info": {
+    "origin": "EGA"
+  },
+  "samples": [
+    {
+      "specimen": {
+        "submitterSpecimenId": "LP6005409-DNA_H02",
+        "specimenTissueSource": null,
+        "specimenType": null,
+        "tumourNormalDesignation": "Tumour"
+      },
+      "donor": {
+        "gender": "Male",
+        "submitterDonorId": "69445a60bb3d928af26692ed3220960c8f142c5863af068392e92837bf271819"
+      },
+      "submitterSampleId": "LP6005409-DNA_H02",
+      "matchedNormalSubmitterSampleId": "LP6005408-DNA_H02",
+      "sampleType": null
+    }
+  ],
+  "experiment": {
+    "experimental_strategy": "WGS",
+    "sequencing_center": "CRUK-CI",
+    "platform": "ILLUMINA",
+    "platform_model": "Illumina HiSeq 2000",
+    "sequencing_date": null,
+    "submitter_sequencing_experiment_id": "EGAX00001187754"
+  },
+  "files": [
+    {
+      "fileName": "LP6005409-DNA_H02.bam",
+      "fileType": "BAM",
+      "dataType": "Submitted Reads",
+      "fileSize": 208562587393,
+      "fileMd5sum": "5012889e52b329f153af4b2ea71202e6",
+      "info": {
+        "origin": "EGA",
+        "data_category": "Sequencing Reads",
+        "legacyAnalysisId": "EGAR00001192976_EGAF00000525240"
+      }
+    }
+  ],
+  "read_groups": [
+    {
+      "insert_size": 311.0,
+      "platform_unit": "LP6005409-DNA_H02",
+      "file_r2": "LP6005409-DNA_H02.bam",
+      "file_r1": "LP6005409-DNA_H02.bam",
+      "read_group_id_in_bam": "LP6005409-DNA_H02",
+      "submitter_read_group_id": "LP6005409-DNA_H02",
+      "is_paired_end": true,
+      "read_length_r1": 100.0,
+      "read_length_r2": 100.0
+    }
+  ],
+  "read_group_count": 1
 }
