@@ -9,10 +9,10 @@
   "samples": [
     {
       "specimen": {
-        "specimenTissueSource": null,
-        "submitterSpecimenId": null,
-        "specimenType": null,
-        "tumourNormalDesignation": null
+        "specimenTissueSource": "Other",
+        "submitterSpecimenId": "MPCC_0037_Pa_C",
+        "specimenType": "Cell line - derived from tumour",
+        "tumourNormalDesignation": "Tumour"
       },
       "matchedNormalSubmitterSampleId": null,
       "sampleType": null,
