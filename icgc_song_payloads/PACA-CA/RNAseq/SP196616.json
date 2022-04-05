@@ -15,11 +15,12 @@
         "tumourNormalDesignation": "Tumour"
       },
       "matchedNormalSubmitterSampleId": null,
-      "sampleType": null,
+      "sampleType": "Total RNA",
       "donor": {
         "submitterDonorId": "PCSI_0086",
-        "gender": "male"
-      }
+        "gender": "Male"
+      },
+      "submitterSampleId": "MPCC_0037_Pa_C"
     }
   ],
   "experiment": {
@@ -80,5 +81,6 @@
       "submitter_read_group_id": "SWID_282665_MPCC_0037_Pa_C_PE_250_MR_121003_SN7001205_0095_BC149CACXX_NoIndex_L004",
       "platform_unit": null
     }
-  ]
+  ],
+  "read_groups_count": 1
 }

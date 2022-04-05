@@ -4,7 +4,7 @@
     "name": "sequencing_experiment"
   },
   "info": {
-    "origin": "EGA"
+    "origin": "ICGC-25K"
   },
   "samples": [
     {
@@ -15,12 +15,12 @@
         "tumourNormalDesignation": "Tumour"
       },
       "donor": {
-        "gender": "female",
-        "submitterDonorId": "PCSI_0015"
+        "gender": "Male",
+        "submitterDonorId": "PCSI_0410"
       },
       "submitterSampleId": "PCSI_0410_Om_M",
       "matchedNormalSubmitterSampleId": null,
-      "sampleType": null
+      "sampleType": "Total RNA"
     }
   ],
   "experiment": {
@@ -34,7 +34,7 @@
     "spike_ins_fasta": null,
     "spike_ins_concentration": null,
     "sequencing_center": null,
-    "platform": "Illumina",
+    "platform": "ILLUMINA",
     "platform_model": null,
     "sequencing_date": null,
     "submitter_sequencing_experiment_id": "EGAF00001844585_EGAD00001003945_EGAN00001652120_EGAZ00001315967"
@@ -42,13 +42,13 @@
   "files": [
     {
       "fileName": "PCSI_0410_Om_M.bam",
-      "fileAccess": "Controlled",
-      "fileType": "bam",
+      "fileAccess": "controlled",
+      "fileType": "BAM",
       "dataType": "Submitted Reads",
-      "fileSize": null,
+      "fileSize": 7608627552,
       "fileMd5sum": "f38757f15407da10936eae436187f99d",
       "info": {
-        "origin": "EGA",
+        "origin": "ICGC-25K",
         "data_category": "Sequencing Reads"
       }
     }
@@ -60,10 +60,17 @@
       "file_r1": "PCSI_0410_Om_M.bam",
       "read_length_r1": 126.0,
       "read_length_r2": 126.0,
-      "platform_unit": "Illumina",
+      "platform_unit": "ILLUMINA",
       "submitter_read_group_id": "OmM1",
       "read_group_id_in_bam": "OmM1",
-      "library_name": "PCSI_0410_Om_M_PE_312_MR"
+      "library_name": "PCSI_0410_Om_M_PE_312_MR",
+      "insert_size": null,
+      "sample_barcode": null,
+      "info": {
+        "data_category": "Sequencing Reads",
+        "legacyAnalysisId": "EGAZ00001315967"
+      }
     }
-  ]
+  ],
+  "read_group_count": 1
 }

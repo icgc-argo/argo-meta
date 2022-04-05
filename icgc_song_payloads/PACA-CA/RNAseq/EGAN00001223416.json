@@ -4,7 +4,7 @@
     "name": "sequencing_experiment"
   },
   "info": {
-    "origin": "EGA"
+    "origin": "ICGC-25K"
   },
   "samples": [
     {
@@ -15,12 +15,12 @@
         "tumourNormalDesignation": "Tumour"
       },
       "donor": {
-        "gender": "female",
-        "submitterDonorId": "PCSI_0015"
+        "gender": "Male",
+        "submitterDonorId": "PCSI_0046"
       },
       "submitterSampleId": "MPCC_0032_Pa_C",
       "matchedNormalSubmitterSampleId": null,
-      "sampleType": null
+      "sampleType": "Total RNA"
     }
   ],
   "experiment": {
@@ -41,98 +41,26 @@
   },
   "files": [
     {
-      "fileName": "SWID_218764_MPCC_0039_Pa_C_PE_275_MR_120529_SN7001205_0082_BC0W00ACXX_NoIndex_L008_R1_001.fastq.gz",
-      "fileAccess": "Controlled",
-      "fileType": "fastq",
-      "dataType": "Submitted Reads",
-      "fileSize": null,
-      "fileMd5sum": "70df884a74a081d6d1256b9858c89dd6",
-      "info": {
-        "origin": "EGA",
-        "data_category": "Sequencing Reads"
-      }
-    },
-    {
-      "fileName": "SWID_218764_MPCC_0039_Pa_C_PE_275_MR_120529_SN7001205_0082_BC0W00ACXX_NoIndex_L008_R2_001.fastq.gz",
-      "fileAccess": "Controlled",
-      "fileType": "fastq",
-      "dataType": "Submitted Reads",
-      "fileSize": null,
-      "fileMd5sum": "196792314c1f5becbb195fe43232335c",
-      "info": {
-        "origin": "EGA",
-        "data_category": "Sequencing Reads"
-      }
-    },
-    {
       "fileName": "SWID_282667_MPCC_0032_Pa_C_PE_250_MR_121003_SN7001205_0095_BC149CACXX_NoIndex_L002_R1_001.fastq.gz",
-      "fileAccess": "Controlled",
-      "fileType": "fastq",
+      "fileAccess": "controlled",
+      "fileType": "FASTQ",
       "dataType": "Submitted Reads",
-      "fileSize": null,
+      "fileSize": 22563981163,
       "fileMd5sum": "053c1372863f7ff87b7c8c5addc638d9",
       "info": {
-        "origin": "EGA",
+        "origin": "ICGC-25K",
         "data_category": "Sequencing Reads"
       }
     },
     {
       "fileName": "SWID_282667_MPCC_0032_Pa_C_PE_250_MR_121003_SN7001205_0095_BC149CACXX_NoIndex_L002_R2_001.fastq.gz",
-      "fileAccess": "Controlled",
-      "fileType": "fastq",
+      "fileAccess": "controlled",
+      "fileType": "FASTQ",
       "dataType": "Submitted Reads",
-      "fileSize": null,
+      "fileSize": 16794798706,
       "fileMd5sum": "21372f27879bc839f6e66f7d6ff22d80",
       "info": {
-        "origin": "EGA",
-        "data_category": "Sequencing Reads"
-      }
-    },
-    {
-      "fileName": "SWID_218766_MPCC_0038_Pa_C_PE_258_MR_120529_SN7001205_0082_BC0W00ACXX_NoIndex_L007_R1_001.fastq.gz",
-      "fileAccess": "Controlled",
-      "fileType": "fastq",
-      "dataType": "Submitted Reads",
-      "fileSize": null,
-      "fileMd5sum": "c5798aecf02ab535b07445ba52386f31",
-      "info": {
-        "origin": "EGA",
-        "data_category": "Sequencing Reads"
-      }
-    },
-    {
-      "fileName": "SWID_218766_MPCC_0038_Pa_C_PE_258_MR_120529_SN7001205_0082_BC0W00ACXX_NoIndex_L007_R2_001.fastq.gz",
-      "fileAccess": "Controlled",
-      "fileType": "fastq",
-      "dataType": "Submitted Reads",
-      "fileSize": null,
-      "fileMd5sum": "72a04b6efbd973ff735e98f78a9ad0c1",
-      "info": {
-        "origin": "EGA",
-        "data_category": "Sequencing Reads"
-      }
-    },
-    {
-      "fileName": "SWID_282665_MPCC_0037_Pa_C_PE_250_MR_121003_SN7001205_0095_BC149CACXX_NoIndex_L004_R1_001.fastq.gz",
-      "fileAccess": "Controlled",
-      "fileType": "fastq",
-      "dataType": "Submitted Reads",
-      "fileSize": null,
-      "fileMd5sum": "8c4f997fe47d75b02cb7c8c3239f34cb",
-      "info": {
-        "origin": "EGA",
-        "data_category": "Sequencing Reads"
-      }
-    },
-    {
-      "fileName": "SWID_282665_MPCC_0037_Pa_C_PE_250_MR_121003_SN7001205_0095_BC149CACXX_NoIndex_L004_R2_001.fastq.gz",
-      "fileAccess": "Controlled",
-      "fileType": "fastq",
-      "dataType": "Submitted Reads",
-      "fileSize": null,
-      "fileMd5sum": "246a599f3b107f4853da3f4f12edbb99",
-      "info": {
-        "origin": "EGA",
+        "origin": "ICGC-25K",
         "data_category": "Sequencing Reads"
       }
     }
@@ -147,40 +75,14 @@
       "platform_unit": null,
       "submitter_read_group_id": null,
       "read_group_id_in_bam": null,
-      "library_name": null
-    },
-    {
-      "is_paired_end": true,
-      "file_r1": "SWID_218766_MPCC_0038_Pa_C_PE_258_MR_120529_SN7001205_0082_BC0W00ACXX_NoIndex_L007_R1_001.fastq.gz",
-      "file_r2": "SWID_218766_MPCC_0038_Pa_C_PE_258_MR_120529_SN7001205_0082_BC0W00ACXX_NoIndex_L007_R2_001.fastq.gz",
-      "read_length_r1": null,
-      "read_length_r2": null,
-      "platform_unit": null,
-      "submitter_read_group_id": null,
-      "read_group_id_in_bam": null,
-      "library_name": null
-    },
-    {
-      "is_paired_end": true,
-      "file_r1": "SWID_218764_MPCC_0039_Pa_C_PE_275_MR_120529_SN7001205_0082_BC0W00ACXX_NoIndex_L008_R1_001.fastq.gz",
-      "file_r2": "SWID_218764_MPCC_0039_Pa_C_PE_275_MR_120529_SN7001205_0082_BC0W00ACXX_NoIndex_L008_R2_001.fastq.gz",
-      "read_length_r1": null,
-      "read_length_r2": null,
-      "platform_unit": null,
-      "submitter_read_group_id": null,
-      "read_group_id_in_bam": null,
-      "library_name": null
-    },
-    {
-      "is_paired_end": true,
-      "file_r1": "SWID_282665_MPCC_0037_Pa_C_PE_250_MR_121003_SN7001205_0095_BC149CACXX_NoIndex_L004_R1_001.fastq.gz",
-      "file_r2": "SWID_282665_MPCC_0037_Pa_C_PE_250_MR_121003_SN7001205_0095_BC149CACXX_NoIndex_L004_R2_001.fastq.gz",
-      "read_length_r1": null,
-      "read_length_r2": null,
-      "platform_unit": null,
-      "submitter_read_group_id": null,
-      "read_group_id_in_bam": null,
-      "library_name": null
+      "library_name": null,
+      "insert_size": null,
+      "sample_barcode": null,
+      "info": {
+        "data_category": "Sequencing Reads",
+        "legacyAnalysisId": "EGAR00001269924"
+      }
     }
-  ]
+  ],
+  "read_group_count": 1
 }

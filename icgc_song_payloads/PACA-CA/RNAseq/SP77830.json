@@ -14,10 +14,11 @@
         "specimenTissueSource": "Other",
         "tumourNormalDesignation": "Tumour"
       },
+      "submitterSampleId": "PCSI_0019_Pa_P",
       "sampleType": "Total RNA",
       "donor": {
         "submitterDonorId": "PCSI_0019",
-        "gender": "male"
+        "gender": "Male"
       }
     }
   ],
@@ -79,5 +80,6 @@
       "submitter_read_group_id": "SWID_218764_MPCC_0039_Pa_C_PE_275_MR_120529_SN7001205_0082_BC0W00ACXX_NoIndex_L008",
       "platform_unit": null
     }
-  ]
+  ],
+  "read_groups_count": 1
 }
