@@ -10,16 +10,16 @@
     {
       "specimen": {
         "submitterSpecimenId": "LP6008268-DNA_G09",
-        "specimenTissueSource": null,
-        "specimenType": null,
-        "tumourNormalDesignation": "Non-tumour"
+        "specimenTissueSource": "Blood derived",
+        "specimenType": "Normal",
+        "tumourNormalDesignation": "Normal"
       },
       "donor": {
         "gender": "Male",
-        "submitterDonorId": "OCCAMS/QE/179"
+        "submitterDonorId": "932e83995142b23f8def64feab36537c95d19238524c2c4fda8a23f2ac1dd399"
       },
       "submitterSampleId": "LP6008268-DNA_G09",
-      "sampleType": null
+      "sampleType": "Total DNA"
     }
   ],
   "experiment": {
@@ -54,7 +54,9 @@
       "submitter_read_group_id": "LP6008268-DNA_G09",
       "is_paired_end": true,
       "read_length_r1": 150.0,
-      "read_length_r2": 150.0
+      "read_length_r2": 150.0,
+      "library_name": "WGS:CRUK-CI:LP6008268-DNA_G09",
+      "sample_barcode": null
     }
   ],
   "read_group_count": 1

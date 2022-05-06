@@ -10,16 +10,16 @@
     {
       "specimen": {
         "submitterSpecimenId": "LP6008338-DNA_C06",
-        "specimenTissueSource": null,
-        "specimenType": null,
-        "tumourNormalDesignation": "Non-tumour"
+        "specimenTissueSource": "Esophagus",
+        "specimenType": "Normal",
+        "tumourNormalDesignation": "Normal"
       },
       "donor": {
         "gender": "Male",
         "submitterDonorId": "f00bf10ff4ebce5e7f191d52acc09d6b3c25f533c0af75d7d57998da3d050c3a"
       },
       "submitterSampleId": "LP6008338-DNA_C06",
-      "sampleType": null
+      "sampleType": "Total DNA"
     }
   ],
   "experiment": {
@@ -54,7 +54,9 @@
       "submitter_read_group_id": "LP6008338-DNA_C06",
       "is_paired_end": true,
       "read_length_r1": 150.0,
-      "read_length_r2": 150.0
+      "read_length_r2": 150.0,
+      "library_name": "WGS:CRUK-CI:LP6008338-DNA_C06",
+      "sample_barcode": null
     }
   ],
   "read_group_count": 1

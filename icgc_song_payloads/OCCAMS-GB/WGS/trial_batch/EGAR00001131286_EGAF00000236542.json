@@ -10,16 +10,16 @@
     {
       "specimen": {
         "submitterSpecimenId": "SS6003130",
-        "specimenTissueSource": null,
-        "specimenType": null,
-        "tumourNormalDesignation": "Non-tumour"
+        "specimenTissueSource": "Esophagus",
+        "specimenType": "Normal",
+        "tumourNormalDesignation": "Normal"
       },
       "donor": {
         "gender": "Male",
-        "submitterDonorId": "OCCAMS/PS/004"
+        "submitterDonorId": "640af42bcb9f90288158b0036b338092978892aba6da598849652800b0cfce70"
       },
       "submitterSampleId": "SS6003130",
-      "sampleType": null
+      "sampleType": "Total DNA"
     }
   ],
   "experiment": {
@@ -54,7 +54,9 @@
       "submitter_read_group_id": "SS6003130",
       "is_paired_end": true,
       "read_length_r1": 100.0,
-      "read_length_r2": 100.0
+      "read_length_r2": 100.0,
+      "library_name": "WGS:CRUK-CI:SS6003130",
+      "sample_barcode": null
     }
   ],
   "read_group_count": 1

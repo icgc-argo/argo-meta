@@ -10,16 +10,16 @@
     {
       "specimen": {
         "submitterSpecimenId": "LP6008050-DNA_A01",
-        "specimenTissueSource": null,
-        "specimenType": null,
-        "tumourNormalDesignation": "Non-tumour"
+        "specimenTissueSource": "Blood derived",
+        "specimenType": "Normal",
+        "tumourNormalDesignation": "Normal"
       },
       "donor": {
         "gender": "Female",
         "submitterDonorId": "c6872050642efc50838c33494a3f26c7a912efcda4b2d355306aab91b8a77db4"
       },
       "submitterSampleId": "LP6008050-DNA_A01",
-      "sampleType": null
+      "sampleType": "Total DNA"
     }
   ],
   "experiment": {
@@ -54,7 +54,9 @@
       "submitter_read_group_id": "LP6008050-DNA_A01",
       "is_paired_end": true,
       "read_length_r1": 125.0,
-      "read_length_r2": 125.0
+      "read_length_r2": 125.0,
+      "library_name": "WGS:CRUK-CI:LP6008050-DNA_A01",
+      "sample_barcode": null
     }
   ],
   "read_group_count": 1

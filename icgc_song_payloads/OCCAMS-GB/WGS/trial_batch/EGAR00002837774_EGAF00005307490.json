@@ -10,16 +10,16 @@
     {
       "specimen": {
         "submitterSpecimenId": "LP2101513-DNA_A01",
-        "specimenTissueSource": null,
-        "specimenType": null,
-        "tumourNormalDesignation": "Non-tumour"
+        "specimenTissueSource": "Blood derived",
+        "specimenType": "Normal",
+        "tumourNormalDesignation": "Normal"
       },
       "donor": {
         "gender": "Male",
         "submitterDonorId": "33770e7a29751ce7d84179396196d414c51a4abe5713c6feb95bf825951ad0e5"
       },
       "submitterSampleId": "LP2101513-DNA_A01",
-      "sampleType": null
+      "sampleType": "Total DNA"
     }
   ],
   "experiment": {
@@ -54,7 +54,9 @@
       "submitter_read_group_id": "LP2101513-DNA_A01",
       "is_paired_end": true,
       "read_length_r1": 150.0,
-      "read_length_r2": 150.0
+      "read_length_r2": 150.0,
+      "library_name": "WGS:CRUK-CI:LP2101513-DNA_A01",
+      "sample_barcode": null
     }
   ],
   "read_group_count": 1

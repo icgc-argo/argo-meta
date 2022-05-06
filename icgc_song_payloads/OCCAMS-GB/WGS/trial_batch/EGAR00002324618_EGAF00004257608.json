@@ -10,16 +10,16 @@
     {
       "specimen": {
         "submitterSpecimenId": "SLX-18928.UDP0061",
-        "specimenTissueSource": null,
-        "specimenType": null,
-        "tumourNormalDesignation": "Non-tumour"
+        "specimenTissueSource": "Blood derived",
+        "specimenType": "Normal",
+        "tumourNormalDesignation": "Normal"
       },
       "donor": {
         "gender": "Male",
         "submitterDonorId": "ff17d702fa5ccf97e8a871d79f6c1655e6f234132347345f9e435254a38ddf32"
       },
       "submitterSampleId": "SLX-18928.UDP0061",
-      "sampleType": null
+      "sampleType": "Total DNA"
     }
   ],
   "experiment": {
@@ -54,7 +54,9 @@
       "submitter_read_group_id": "SLX-18928.UDP0061.5",
       "is_paired_end": true,
       "read_length_r1": 150.0,
-      "read_length_r2": 150.0
+      "read_length_r2": 150.0,
+      "library_name": "WGS:CRUK-CI:SLX-18928.UDP0061",
+      "sample_barcode": null
     },
     {
       "insert_size": 343.0,
@@ -65,7 +67,9 @@
       "submitter_read_group_id": "SLX-18928.UDP0061",
       "is_paired_end": true,
       "read_length_r1": 150.0,
-      "read_length_r2": 150.0
+      "read_length_r2": 150.0,
+      "library_name": "WGS:CRUK-CI:SLX-18928.UDP0061",
+      "sample_barcode": null
     },
     {
       "insert_size": 343.0,
@@ -76,7 +80,9 @@
       "submitter_read_group_id": "SLX-18928.UDP0061.6",
       "is_paired_end": true,
       "read_length_r1": 150.0,
-      "read_length_r2": 150.0
+      "read_length_r2": 150.0,
+      "library_name": "WGS:CRUK-CI:SLX-18928.UDP0061",
+      "sample_barcode": null
     },
     {
       "insert_size": 343.0,
@@ -87,7 +93,9 @@
       "submitter_read_group_id": "SLX-18928.UDP0061.2",
       "is_paired_end": true,
       "read_length_r1": 150.0,
-      "read_length_r2": 150.0
+      "read_length_r2": 150.0,
+      "library_name": "WGS:CRUK-CI:SLX-18928.UDP0061",
+      "sample_barcode": null
     },
     {
       "insert_size": 343.0,
@@ -98,7 +106,9 @@
       "submitter_read_group_id": "SLX-18928.UDP0061.4",
       "is_paired_end": true,
       "read_length_r1": 150.0,
-      "read_length_r2": 150.0
+      "read_length_r2": 150.0,
+      "library_name": "WGS:CRUK-CI:SLX-18928.UDP0061",
+      "sample_barcode": null
     },
     {
       "insert_size": 343.0,
@@ -109,7 +119,9 @@
       "submitter_read_group_id": "SLX-18928.UDP0061.3",
       "is_paired_end": true,
       "read_length_r1": 150.0,
-      "read_length_r2": 150.0
+      "read_length_r2": 150.0,
+      "library_name": "WGS:CRUK-CI:SLX-18928.UDP0061",
+      "sample_barcode": null
     },
     {
       "insert_size": 343.0,
@@ -120,7 +132,9 @@
       "submitter_read_group_id": "SLX-18928.UDP0061.1",
       "is_paired_end": true,
       "read_length_r1": 150.0,
-      "read_length_r2": 150.0
+      "read_length_r2": 150.0,
+      "library_name": "WGS:CRUK-CI:SLX-18928.UDP0061",
+      "sample_barcode": null
     }
   ],
   "read_group_count": 7

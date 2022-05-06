@@ -10,8 +10,8 @@
     {
       "specimen": {
         "submitterSpecimenId": "LP6007597",
-        "specimenTissueSource": null,
-        "specimenType": null,
+        "specimenTissueSource": "Esophagus",
+        "specimenType": "Primary tumour",
         "tumourNormalDesignation": "Tumour"
       },
       "donor": {
@@ -20,7 +20,7 @@
       },
       "submitterSampleId": "LP6007597",
       "matchedNormalSubmitterSampleId": "LP6007596",
-      "sampleType": null
+      "sampleType": "Total DNA"
     }
   ],
   "experiment": {
@@ -55,7 +55,9 @@
       "submitter_read_group_id": "LP6007597",
       "is_paired_end": true,
       "read_length_r1": 100.0,
-      "read_length_r2": 100.0
+      "read_length_r2": 100.0,
+      "library_name": "WGS:CRUK-CI:LP6007597",
+      "sample_barcode": null
     }
   ],
   "read_group_count": 1
