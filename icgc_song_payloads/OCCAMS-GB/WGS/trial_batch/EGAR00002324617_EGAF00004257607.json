@@ -3,9 +3,6 @@
   "analysisType": {
     "name": "sequencing_experiment"
   },
-  "info": {
-    "origin": "EGA"
-  },
   "samples": [
     {
       "specimen": {
@@ -40,7 +37,27 @@
       "info": {
         "origin": "EGA",
         "data_category": "Sequencing Reads",
-        "legacyAnalysisId": "EGAR00002324617_EGAF00004257607"
+        "legacyAnalysisId": null,
+        "ega_IDs": {
+          "experiment": [
+            "EGAX00002220424"
+          ],
+          "file": [
+            "EGAF00004257607"
+          ],
+          "sample": [
+            "EGAN00002634623"
+          ],
+          "dataset": [
+            "EGAD00001007785"
+          ],
+          "study": [
+            "EGAS00001000723"
+          ],
+          "run": [
+            "EGAR00002324617"
+          ]
+        }
       }
     }
   ],

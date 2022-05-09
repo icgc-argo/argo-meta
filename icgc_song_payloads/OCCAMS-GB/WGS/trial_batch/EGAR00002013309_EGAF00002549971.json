@@ -3,9 +3,6 @@
   "analysisType": {
     "name": "sequencing_experiment"
   },
-  "info": {
-    "origin": "EGA"
-  },
   "samples": [
     {
       "specimen": {
@@ -15,7 +12,7 @@
         "tumourNormalDesignation": "Tumour"
       },
       "donor": {
-        "gender": "Unknown",
+        "gender": "Other",
         "submitterDonorId": "20b4d892fadec248532726b8d46d5ab009aed09ca1592ea5bf84d95b294149b8"
       },
       "submitterSampleId": "LP6008337-DNA_H06",
@@ -41,7 +38,27 @@
       "info": {
         "origin": "EGA",
         "data_category": "Sequencing Reads",
-        "legacyAnalysisId": "EGAR00002013309_EGAF00002549971"
+        "legacyAnalysisId": null,
+        "ega_IDs": {
+          "experiment": [
+            "EGAX00001958907"
+          ],
+          "file": [
+            "EGAF00002549971"
+          ],
+          "sample": [
+            "EGAN00002157681"
+          ],
+          "dataset": [
+            "EGAD00001007785"
+          ],
+          "study": [
+            "EGAS00001000725"
+          ],
+          "run": [
+            "EGAR00002013309"
+          ]
+        }
       }
     }
   ],
