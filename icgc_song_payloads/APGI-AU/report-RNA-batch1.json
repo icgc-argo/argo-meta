@@ -1,0 +1,413 @@
+// Despite the error, all files were processed successfully
+// The error was because one file was submitted as a test and succeeded, but then on full batch submission it was already present so recorded an error
+{
+  "success": [
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/APGI-AU/RNA-Seq/batch1/a56fb828-174b-43ae-9ac5-3d966b5c3f2d.json",
+      "targetAnalysisId": "6d2e2229-dded-4355-ae22-29ddede355c7",
+      "targetStudyId": "APGI-AU",
+      "targetAnalysisState": "PUBLISHED",
+      "legacyStudyId": "PACA-AU",
+      "legacyAnalysisIds": ["a56fb828-174b-43ae-9ac5-3d966b5c3f2d"],
+      "objectIdsMigrated": ["55a31b31-caf8-5ab3-8689-fc7335783c5b"],
+      "allObjectIdsMigrated": true
+    },
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/APGI-AU/RNA-Seq/batch1/5c243112-18e3-49c7-9b1a-66372be3c596.json",
+      "targetAnalysisId": "fdc1d31b-be11-4683-81d3-1bbe113683c8",
+      "targetStudyId": "APGI-AU",
+      "targetAnalysisState": "PUBLISHED",
+      "legacyStudyId": "PACA-AU",
+      "legacyAnalysisIds": ["5c243112-18e3-49c7-9b1a-66372be3c596"],
+      "objectIdsMigrated": ["6b285510-57f1-5048-baaf-60f3f1c80ecc"],
+      "allObjectIdsMigrated": true
+    },
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/APGI-AU/RNA-Seq/batch1/a22dd715-cf2a-41fd-896d-54a8151b86cf.json",
+      "targetAnalysisId": "679ce034-0dca-4a62-9ce0-340dca3a62b8",
+      "targetStudyId": "APGI-AU",
+      "targetAnalysisState": "PUBLISHED",
+      "legacyStudyId": "PACA-AU",
+      "legacyAnalysisIds": ["a22dd715-cf2a-41fd-896d-54a8151b86cf"],
+      "objectIdsMigrated": ["1ccc6f75-2199-5627-a386-7aab25b0504e"],
+      "allObjectIdsMigrated": true
+    },
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/APGI-AU/RNA-Seq/batch1/44898279-e2ac-4b99-a646-37f36343abe6.json",
+      "targetAnalysisId": "26532cad-b8ee-4caf-932c-adb8ee0caf21",
+      "targetStudyId": "APGI-AU",
+      "targetAnalysisState": "PUBLISHED",
+      "legacyStudyId": "PACA-AU",
+      "legacyAnalysisIds": ["44898279-e2ac-4b99-a646-37f36343abe6"],
+      "objectIdsMigrated": ["1d915337-2bba-5e1c-b517-1ed7e502e669"],
+      "allObjectIdsMigrated": true
+    },
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/APGI-AU/RNA-Seq/batch1/75896b5b-b34d-4b2c-8c65-0139498c2ca6.json",
+      "targetAnalysisId": "f5faa526-24b7-45ae-baa5-2624b735ae04",
+      "targetStudyId": "APGI-AU",
+      "targetAnalysisState": "PUBLISHED",
+      "legacyStudyId": "PACA-AU",
+      "legacyAnalysisIds": ["75896b5b-b34d-4b2c-8c65-0139498c2ca6"],
+      "objectIdsMigrated": ["24c54fbe-8281-5d20-b108-92086caf2d46"],
+      "allObjectIdsMigrated": true
+    },
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/APGI-AU/RNA-Seq/batch1/8e666ac3-c6d1-4fb7-b21f-f4ff2b4631fd.json",
+      "targetAnalysisId": "8650cc7c-0195-4f56-90cc-7c0195bf565d",
+      "targetStudyId": "APGI-AU",
+      "targetAnalysisState": "PUBLISHED",
+      "legacyStudyId": "PACA-AU",
+      "legacyAnalysisIds": ["8e666ac3-c6d1-4fb7-b21f-f4ff2b4631fd"],
+      "objectIdsMigrated": ["b33004a6-c663-51aa-b5fb-84585188a5db"],
+      "allObjectIdsMigrated": true
+    },
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/APGI-AU/RNA-Seq/batch1/f57444ca-d598-45b4-a3f0-07bef7ab151e.json",
+      "targetAnalysisId": "f7306f6d-a7cf-4bc0-b06f-6da7cfebc067",
+      "targetStudyId": "APGI-AU",
+      "targetAnalysisState": "PUBLISHED",
+      "legacyStudyId": "PACA-AU",
+      "legacyAnalysisIds": ["f57444ca-d598-45b4-a3f0-07bef7ab151e"],
+      "objectIdsMigrated": ["65dcc8a3-6cb2-5849-b0c2-34f5cdfc89e1"],
+      "allObjectIdsMigrated": true
+    },
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/APGI-AU/RNA-Seq/batch1/1236be73-0d10-4be8-9475-70555548126a.json",
+      "targetAnalysisId": "49681577-ba7d-4e35-a815-77ba7d2e3534",
+      "targetStudyId": "APGI-AU",
+      "targetAnalysisState": "PUBLISHED",
+      "legacyStudyId": "PACA-AU",
+      "legacyAnalysisIds": ["1236be73-0d10-4be8-9475-70555548126a"],
+      "objectIdsMigrated": ["5109d895-dec3-592d-9297-ceec7546cbaa"],
+      "allObjectIdsMigrated": true
+    },
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/APGI-AU/RNA-Seq/batch1/ed3b1a99-6620-45df-a5fb-f0a5a67406a6.json",
+      "targetAnalysisId": "b5ef84f1-939c-4eaa-af84-f1939c2eaa4b",
+      "targetStudyId": "APGI-AU",
+      "targetAnalysisState": "PUBLISHED",
+      "legacyStudyId": "PACA-AU",
+      "legacyAnalysisIds": ["ed3b1a99-6620-45df-a5fb-f0a5a67406a6"],
+      "objectIdsMigrated": ["cee2bc7e-dfad-591a-89f5-30a6af7e1ef6"],
+      "allObjectIdsMigrated": true
+    },
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/APGI-AU/RNA-Seq/batch1/f454dc0a-8922-4a54-a16b-c972e67beaca.json",
+      "targetAnalysisId": "9c812480-223e-4b44-8124-80223edb4475",
+      "targetStudyId": "APGI-AU",
+      "targetAnalysisState": "PUBLISHED",
+      "legacyStudyId": "PACA-AU",
+      "legacyAnalysisIds": ["f454dc0a-8922-4a54-a16b-c972e67beaca"],
+      "objectIdsMigrated": ["c4197814-9ccb-55e7-9e8b-16726a8b2de7"],
+      "allObjectIdsMigrated": true
+    },
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/APGI-AU/RNA-Seq/batch1/a28767be-ea39-47ef-80cf-b4032394d483.json",
+      "targetAnalysisId": "a8ea9bc7-df6b-4394-aa9b-c7df6b3394c4",
+      "targetStudyId": "APGI-AU",
+      "targetAnalysisState": "PUBLISHED",
+      "legacyStudyId": "PACA-AU",
+      "legacyAnalysisIds": ["a28767be-ea39-47ef-80cf-b4032394d483"],
+      "objectIdsMigrated": ["a00b5b08-3f26-5309-872b-8cac7b203585"],
+      "allObjectIdsMigrated": true
+    },
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/APGI-AU/RNA-Seq/batch1/b6afe9ef-b766-4365-a500-2db29a0bc706.json",
+      "targetAnalysisId": "e9bd24b1-1dca-4803-bd24-b11dcaa80315",
+      "targetStudyId": "APGI-AU",
+      "targetAnalysisState": "PUBLISHED",
+      "legacyStudyId": "PACA-AU",
+      "legacyAnalysisIds": ["b6afe9ef-b766-4365-a500-2db29a0bc706"],
+      "objectIdsMigrated": ["e342a586-510a-5f93-a726-640e1d22ad0d"],
+      "allObjectIdsMigrated": true
+    },
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/APGI-AU/RNA-Seq/batch1/32e59da8-1afa-486b-babd-65a48b25c87e.json",
+      "targetAnalysisId": "fd88f0af-5f06-4f5c-88f0-af5f06bf5c08",
+      "targetStudyId": "APGI-AU",
+      "targetAnalysisState": "PUBLISHED",
+      "legacyStudyId": "PACA-AU",
+      "legacyAnalysisIds": ["32e59da8-1afa-486b-babd-65a48b25c87e"],
+      "objectIdsMigrated": ["223f537d-cc26-570c-be53-e74c5dc827a7"],
+      "allObjectIdsMigrated": true
+    },
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/APGI-AU/RNA-Seq/batch1/e4a64032-9e59-40d8-9c9c-6a33e645e019.json",
+      "targetAnalysisId": "9a05e1db-43a5-441e-85e1-db43a5d41e4c",
+      "targetStudyId": "APGI-AU",
+      "targetAnalysisState": "PUBLISHED",
+      "legacyStudyId": "PACA-AU",
+      "legacyAnalysisIds": ["e4a64032-9e59-40d8-9c9c-6a33e645e019"],
+      "objectIdsMigrated": ["7e5f1bed-6ae2-509f-a589-a4afaf67229d"],
+      "allObjectIdsMigrated": true
+    },
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/APGI-AU/RNA-Seq/batch1/3f9293b8-5fc9-4273-8cc7-8ed3d8f94228.json",
+      "targetAnalysisId": "112dbac8-993e-489b-adba-c8993ec89b9f",
+      "targetStudyId": "APGI-AU",
+      "targetAnalysisState": "PUBLISHED",
+      "legacyStudyId": "PACA-AU",
+      "legacyAnalysisIds": ["3f9293b8-5fc9-4273-8cc7-8ed3d8f94228"],
+      "objectIdsMigrated": ["6e71b4ca-2bf7-553e-8174-21656efec7e9"],
+      "allObjectIdsMigrated": true
+    },
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/APGI-AU/RNA-Seq/batch1/ae3aa94a-f90c-469a-852c-efbf2a91e8eb.json",
+      "targetAnalysisId": "588a73c5-cab4-43b8-8a73-c5cab463b8dd",
+      "targetStudyId": "APGI-AU",
+      "targetAnalysisState": "PUBLISHED",
+      "legacyStudyId": "PACA-AU",
+      "legacyAnalysisIds": ["ae3aa94a-f90c-469a-852c-efbf2a91e8eb"],
+      "objectIdsMigrated": ["94abac56-1b57-59f5-a671-fb0fd960fe6c"],
+      "allObjectIdsMigrated": true
+    },
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/APGI-AU/RNA-Seq/batch1/0db2688d-a079-4d32-b27d-e29190b39da1.json",
+      "targetAnalysisId": "f87362b4-4edd-460e-b362-b44eddf60e1c",
+      "targetStudyId": "APGI-AU",
+      "targetAnalysisState": "PUBLISHED",
+      "legacyStudyId": "PACA-AU",
+      "legacyAnalysisIds": ["0db2688d-a079-4d32-b27d-e29190b39da1"],
+      "objectIdsMigrated": ["b69acbc4-e4ff-5ae7-97f6-6494fbb747c2"],
+      "allObjectIdsMigrated": true
+    },
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/APGI-AU/RNA-Seq/batch1/c6f5ac82-a272-456e-b394-93e5cc6cc3df.json",
+      "targetAnalysisId": "33b79ccd-4be6-4fa0-b79c-cd4be62fa0eb",
+      "targetStudyId": "APGI-AU",
+      "targetAnalysisState": "PUBLISHED",
+      "legacyStudyId": "PACA-AU",
+      "legacyAnalysisIds": ["c6f5ac82-a272-456e-b394-93e5cc6cc3df"],
+      "objectIdsMigrated": ["a7ceea53-3f19-52cd-84be-b5a159a3e7ce"],
+      "allObjectIdsMigrated": true
+    },
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/APGI-AU/RNA-Seq/batch1/7d1a9189-460b-4b54-ad8a-e23471506c84.json",
+      "targetAnalysisId": "59ead90b-d727-4e99-aad9-0bd7279e99e8",
+      "targetStudyId": "APGI-AU",
+      "targetAnalysisState": "PUBLISHED",
+      "legacyStudyId": "PACA-AU",
+      "legacyAnalysisIds": ["7d1a9189-460b-4b54-ad8a-e23471506c84"],
+      "objectIdsMigrated": ["2a18ba82-5c0d-59a4-95ec-b97e0bd4a5c7"],
+      "allObjectIdsMigrated": true
+    },
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/APGI-AU/RNA-Seq/batch1/8bbbd268-67dd-4178-81bb-b376a743d03e.json",
+      "targetAnalysisId": "dac035ac-0e68-4b9c-8035-ac0e684b9c7b",
+      "targetStudyId": "APGI-AU",
+      "targetAnalysisState": "PUBLISHED",
+      "legacyStudyId": "PACA-AU",
+      "legacyAnalysisIds": ["8bbbd268-67dd-4178-81bb-b376a743d03e"],
+      "objectIdsMigrated": ["58df3d88-798a-53c6-97e6-48d28522e388"],
+      "allObjectIdsMigrated": true
+    },
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/APGI-AU/RNA-Seq/batch1/46fb57d3-ae8c-4c41-8cac-5bf8ec821d01.json",
+      "targetAnalysisId": "8f876f1d-bbd0-4e80-876f-1dbbd0be807f",
+      "targetStudyId": "APGI-AU",
+      "targetAnalysisState": "PUBLISHED",
+      "legacyStudyId": "PACA-AU",
+      "legacyAnalysisIds": ["46fb57d3-ae8c-4c41-8cac-5bf8ec821d01"],
+      "objectIdsMigrated": ["a9c19967-b3bb-5c1b-86bb-e60a3e9f4794"],
+      "allObjectIdsMigrated": true
+    },
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/APGI-AU/RNA-Seq/batch1/4d7c08eb-a915-40bf-92b2-0f5869d008c3.json",
+      "targetAnalysisId": "5ef8e003-e1ca-45b5-b8e0-03e1ca85b5d8",
+      "targetStudyId": "APGI-AU",
+      "targetAnalysisState": "PUBLISHED",
+      "legacyStudyId": "PACA-AU",
+      "legacyAnalysisIds": ["4d7c08eb-a915-40bf-92b2-0f5869d008c3"],
+      "objectIdsMigrated": ["a4e68475-f89e-5c90-b30d-126d9357d771"],
+      "allObjectIdsMigrated": true
+    },
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/APGI-AU/RNA-Seq/batch1/f1ab1b0c-a647-4169-a96a-2cb0a78df738.json",
+      "targetAnalysisId": "99e8a08a-830a-46e0-a8a0-8a830a66e0e1",
+      "targetStudyId": "APGI-AU",
+      "targetAnalysisState": "PUBLISHED",
+      "legacyStudyId": "PACA-AU",
+      "legacyAnalysisIds": ["f1ab1b0c-a647-4169-a96a-2cb0a78df738"],
+      "objectIdsMigrated": ["e6737736-a5a5-528d-b66b-69236b213106"],
+      "allObjectIdsMigrated": true
+    },
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/APGI-AU/RNA-Seq/batch1/705ef5a2-d4de-4177-be55-7d825cfc3b5a.json",
+      "targetAnalysisId": "f90c8371-c36a-409a-8c83-71c36a909a09",
+      "targetStudyId": "APGI-AU",
+      "targetAnalysisState": "PUBLISHED",
+      "legacyStudyId": "PACA-AU",
+      "legacyAnalysisIds": ["705ef5a2-d4de-4177-be55-7d825cfc3b5a"],
+      "objectIdsMigrated": ["6791b6af-076b-5112-8d6f-ca3902c6bd6e"],
+      "allObjectIdsMigrated": true
+    },
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/APGI-AU/RNA-Seq/batch1/62b9779f-ee17-4626-bf45-243cd206bcd3.json",
+      "targetAnalysisId": "13ee4a39-6169-4630-ae4a-3961696630f6",
+      "targetStudyId": "APGI-AU",
+      "targetAnalysisState": "PUBLISHED",
+      "legacyStudyId": "PACA-AU",
+      "legacyAnalysisIds": ["62b9779f-ee17-4626-bf45-243cd206bcd3"],
+      "objectIdsMigrated": ["1161de41-e2c1-5888-ac88-b38c05bfffaa"],
+      "allObjectIdsMigrated": true
+    },
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/APGI-AU/RNA-Seq/batch1/8c995fb2-349a-42ef-a357-e1ed317931c2.json",
+      "targetAnalysisId": "d8cc1cd8-96ec-49a7-8c1c-d896ec79a77a",
+      "targetStudyId": "APGI-AU",
+      "targetAnalysisState": "PUBLISHED",
+      "legacyStudyId": "PACA-AU",
+      "legacyAnalysisIds": ["8c995fb2-349a-42ef-a357-e1ed317931c2"],
+      "objectIdsMigrated": ["f9090195-d891-5ac6-93ef-a8d976abdab6"],
+      "allObjectIdsMigrated": true
+    },
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/APGI-AU/RNA-Seq/batch1/67796aec-55fd-4e3d-bc72-917a53ffa406.json",
+      "targetAnalysisId": "cd23fefe-2f95-46d7-a3fe-fe2f9536d7d1",
+      "targetStudyId": "APGI-AU",
+      "targetAnalysisState": "PUBLISHED",
+      "legacyStudyId": "PACA-AU",
+      "legacyAnalysisIds": ["67796aec-55fd-4e3d-bc72-917a53ffa406"],
+      "objectIdsMigrated": ["8db493de-d67e-53d7-b9b3-5afcfcacd8b3"],
+      "allObjectIdsMigrated": true
+    },
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/APGI-AU/RNA-Seq/batch1/dcb77c1d-66bf-4048-9629-0be644212c3e.json",
+      "targetAnalysisId": "fc1fb096-4a28-44ab-9fb0-964a28b4ab2e",
+      "targetStudyId": "APGI-AU",
+      "targetAnalysisState": "PUBLISHED",
+      "legacyStudyId": "PACA-AU",
+      "legacyAnalysisIds": ["dcb77c1d-66bf-4048-9629-0be644212c3e"],
+      "objectIdsMigrated": ["06fc46c6-b6e8-5897-9198-e25938b0dcd5"],
+      "allObjectIdsMigrated": true
+    },
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/APGI-AU/RNA-Seq/batch1/3fbab19f-2568-4fce-8a91-4cc2556bd0a8.json",
+      "targetAnalysisId": "c4c4903d-d491-49ee-8490-3dd491c9eedf",
+      "targetStudyId": "APGI-AU",
+      "targetAnalysisState": "PUBLISHED",
+      "legacyStudyId": "PACA-AU",
+      "legacyAnalysisIds": ["3fbab19f-2568-4fce-8a91-4cc2556bd0a8"],
+      "objectIdsMigrated": ["5e283e31-f2a5-5575-bcaa-53280a01bd23"],
+      "allObjectIdsMigrated": true
+    },
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/APGI-AU/RNA-Seq/batch1/2831600a-9b74-490c-9f5e-91b8f7966e04.json",
+      "targetAnalysisId": "e07e82a7-89ab-4f0c-be82-a789abbf0cde",
+      "targetStudyId": "APGI-AU",
+      "targetAnalysisState": "PUBLISHED",
+      "legacyStudyId": "PACA-AU",
+      "legacyAnalysisIds": ["2831600a-9b74-490c-9f5e-91b8f7966e04"],
+      "objectIdsMigrated": ["7fe0cf32-96ab-5340-aa50-3e8df979f76f"],
+      "allObjectIdsMigrated": true
+    },
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/APGI-AU/RNA-Seq/batch1/8af95e48-ddcb-4bba-8276-4449165a8980.json",
+      "targetAnalysisId": "cf08d729-b273-4d59-88d7-29b273ad598f",
+      "targetStudyId": "APGI-AU",
+      "targetAnalysisState": "PUBLISHED",
+      "legacyStudyId": "PACA-AU",
+      "legacyAnalysisIds": ["8af95e48-ddcb-4bba-8276-4449165a8980"],
+      "objectIdsMigrated": ["5389cdc9-719e-5218-9fae-57346aabbcb9"],
+      "allObjectIdsMigrated": true
+    },
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/APGI-AU/RNA-Seq/batch1/86a8218c-6415-43c5-bc2c-7dc9b3945f0e.json",
+      "targetAnalysisId": "831a9533-a6e5-47d2-9a95-33a6e507d2c7",
+      "targetStudyId": "APGI-AU",
+      "targetAnalysisState": "PUBLISHED",
+      "legacyStudyId": "PACA-AU",
+      "legacyAnalysisIds": ["86a8218c-6415-43c5-bc2c-7dc9b3945f0e"],
+      "objectIdsMigrated": ["d3807e8a-9355-55ff-a7cf-ae3429904220"],
+      "allObjectIdsMigrated": true
+    },
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/APGI-AU/RNA-Seq/batch1/5826edd4-73fe-48ea-a7bc-8b3fbb5563f6.json",
+      "targetAnalysisId": "f207479e-910a-41f3-8747-9e910a81f3d9",
+      "targetStudyId": "APGI-AU",
+      "targetAnalysisState": "PUBLISHED",
+      "legacyStudyId": "PACA-AU",
+      "legacyAnalysisIds": ["5826edd4-73fe-48ea-a7bc-8b3fbb5563f6"],
+      "objectIdsMigrated": ["4d89b130-34f3-5bac-b6cc-dcbf68b34819"],
+      "allObjectIdsMigrated": true
+    },
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/APGI-AU/RNA-Seq/batch1/dd8662db-d58a-43f3-8f53-b7dad53a1ed7.json",
+      "targetAnalysisId": "17154afb-16fa-4b9e-954a-fb16faeb9e0e",
+      "targetStudyId": "APGI-AU",
+      "targetAnalysisState": "PUBLISHED",
+      "legacyStudyId": "PACA-AU",
+      "legacyAnalysisIds": ["dd8662db-d58a-43f3-8f53-b7dad53a1ed7"],
+      "objectIdsMigrated": ["3c202705-d915-5dd9-8849-ab17503e920d"],
+      "allObjectIdsMigrated": true
+    },
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/APGI-AU/RNA-Seq/batch1/a32f2c39-d8b6-42de-9ea0-7f5fab095aef.json",
+      "targetAnalysisId": "55c83b13-d00f-4eb7-883b-13d00f4eb7e2",
+      "targetStudyId": "APGI-AU",
+      "targetAnalysisState": "PUBLISHED",
+      "legacyStudyId": "PACA-AU",
+      "legacyAnalysisIds": ["a32f2c39-d8b6-42de-9ea0-7f5fab095aef"],
+      "objectIdsMigrated": ["0b944294-be17-5e75-b842-6140d63bb68b"],
+      "allObjectIdsMigrated": true
+    },
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/APGI-AU/RNA-Seq/batch1/f27b7f97-b40a-4144-8eae-725f90cb275c.json",
+      "targetAnalysisId": "8f7d6f73-6df7-4a51-bd6f-736df76a512d",
+      "targetStudyId": "APGI-AU",
+      "targetAnalysisState": "PUBLISHED",
+      "legacyStudyId": "PACA-AU",
+      "legacyAnalysisIds": ["f27b7f97-b40a-4144-8eae-725f90cb275c"],
+      "objectIdsMigrated": ["5704c869-13fc-564b-81b2-1f69afc33aed"],
+      "allObjectIdsMigrated": true
+    },
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/APGI-AU/RNA-Seq/batch1/6ee353b1-f863-49b1-af3c-c652b205f6f7.json",
+      "targetAnalysisId": "f47207e4-0a6c-42e2-b207-e40a6cc2e211",
+      "targetStudyId": "APGI-AU",
+      "targetAnalysisState": "PUBLISHED",
+      "legacyStudyId": "PACA-AU",
+      "legacyAnalysisIds": ["6ee353b1-f863-49b1-af3c-c652b205f6f7"],
+      "objectIdsMigrated": ["d16ca8e0-35fa-57c0-a028-3bd8d047eb3a"],
+      "allObjectIdsMigrated": true
+    },
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/APGI-AU/RNA-Seq/batch1/72616ed7-7708-445b-9650-4cbb10b0c490.json",
+      "targetAnalysisId": "7cbf5667-2a9d-4742-bf56-672a9d8742e7",
+      "targetStudyId": "APGI-AU",
+      "targetAnalysisState": "PUBLISHED",
+      "legacyStudyId": "PACA-AU",
+      "legacyAnalysisIds": ["72616ed7-7708-445b-9650-4cbb10b0c490"],
+      "objectIdsMigrated": ["f83abbdd-335d-5bf4-88e7-41c1a6bb2bb1"],
+      "allObjectIdsMigrated": true
+    },
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/APGI-AU/RNA-Seq/batch1/009bebd8-3cf9-45a8-8546-1a09a8bf91a1.json",
+      "targetAnalysisId": "dbb516ec-b449-4469-b516-ecb4499469e5",
+      "targetStudyId": "APGI-AU",
+      "targetAnalysisState": "PUBLISHED",
+      "legacyStudyId": "PACA-AU",
+      "legacyAnalysisIds": ["009bebd8-3cf9-45a8-8546-1a09a8bf91a1"],
+      "objectIdsMigrated": ["af4668c2-3dd9-54ab-a014-6fcd63e48800"],
+      "allObjectIdsMigrated": true
+    },
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/APGI-AU/RNA-Seq/batch1/c05302b9-d752-4c23-ad1c-7eef908ebaaf.json",
+      "targetAnalysisId": "b58993db-b714-4f0d-8993-dbb714ff0d90",
+      "targetStudyId": "APGI-AU",
+      "targetAnalysisState": "PUBLISHED",
+      "legacyStudyId": "PACA-AU",
+      "legacyAnalysisIds": ["c05302b9-d752-4c23-ad1c-7eef908ebaaf"],
+      "objectIdsMigrated": ["8faaf1f2-4016-5be8-b3a2-466c71e88b64"],
+      "allObjectIdsMigrated": true
+    }
+  ],
+  "errors": [
+    {
+      "payloadFilename": "/Users/jeubank/workspace/icgc-argo/argo-meta/icgc_song_payloads/APGI-AU/RNA-Seq/batch1/c3280f1c-167e-4c45-947b-1313d7c3d7ec.json",
+      "errorType": "org.jdbi.v3.core.statement.UnableToExecuteStatementException",
+      "message": "org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint \"info_id_id_type_uindex\"\n  Detail: Key (id, id_type)=(78ccaf18-afe5-5b06-b0e0-880771482fc6, File) already exists. [statement:\"UPDATE info SET id=:sid WHERE id=:tid\", arguments:{positional:{}, named:{tid:14a3c432-616d-5170-b10f-9c4e7ee79606,sid:78ccaf18-afe5-5b06-b0e0-880771482fc6}, finder:[]}]"
+    }
+  ]
+}
