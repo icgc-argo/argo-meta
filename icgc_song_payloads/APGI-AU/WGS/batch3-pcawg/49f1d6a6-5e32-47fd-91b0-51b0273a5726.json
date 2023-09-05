@@ -1,0 +1,88 @@
+{
+    "studyId": "APGI-AU",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "8031710",
+            "matchedNormalSubmitterSampleId": null,
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "8031710",
+                "specimenType": "Normal",
+                "tumourNormalDesignation": "Normal",
+                "specimenTissueSource": "Solid tissue"
+            },
+            "donor": {
+                "submitterDonorId": "ICGC_0207",
+                "gender": "Male"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "Submitted Reads",
+            "fileName": "76b6bf2c976a0c43709d12373cbfdd58.bam",
+            "fileSize": 111058242699,
+            "fileType": "BAM",
+            "fileMd5sum": "76b6bf2c976a0c43709d12373cbfdd58",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "49f1d6a6-5e32-47fd-91b0-51b0273a5726",
+                "data_category": "Sequencing Reads",
+                "origin": "ICGC-25K"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "76b6bf2c976a0c43709d12373cbfdd58.bam",
+            "file_r2": "76b6bf2c976a0c43709d12373cbfdd58.bam",
+            "insert_size": 313,
+            "platform_unit": "QCMG:20130309022100586_8031710",
+            "is_paired_end": true,
+            "library_name": "WGS:QCMG:Library_BIA4938A1AR10",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": "QCMG:20130309022100586",
+            "submitter_read_group_id": "QCMG:20130309022100586_8031710"
+        },
+        {
+            "file_r1": "76b6bf2c976a0c43709d12373cbfdd58.bam",
+            "file_r2": "76b6bf2c976a0c43709d12373cbfdd58.bam",
+            "insert_size": 314,
+            "platform_unit": "QCMG:2013030904551414_8031710",
+            "is_paired_end": true,
+            "library_name": "WGS:QCMG:Library_BIA4938A1AR10",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": "QCMG:2013030904551414",
+            "submitter_read_group_id": "QCMG:2013030904551414_8031710"
+        },
+        {
+            "file_r1": "76b6bf2c976a0c43709d12373cbfdd58.bam",
+            "file_r2": "76b6bf2c976a0c43709d12373cbfdd58.bam",
+            "insert_size": 314,
+            "platform_unit": "QCMG:20130309053100425_8031710",
+            "is_paired_end": true,
+            "library_name": "WGS:QCMG:Library_BIA4938A1AR10",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": "QCMG:20130309053100425",
+            "submitter_read_group_id": "QCMG:20130309053100425_8031710"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-158",
+        "experimental_strategy": "WGS",
+        "sequencing_center": "QCMG",
+        "platform": "ILLUMINA",
+        "platform_model": "Illumina HiSeq 2000",
+        "sequencing_date": null
+    },
+    "read_group_count": 3
+}
