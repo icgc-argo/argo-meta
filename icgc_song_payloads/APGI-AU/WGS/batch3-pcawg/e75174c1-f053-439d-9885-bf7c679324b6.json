@@ -1,0 +1,114 @@
+{
+    "studyId": "APGI-AU",
+    "analysisType": {
+        "name": "sequencing_experiment"
+    },
+    "samples": [
+        {
+            "submitterSampleId": "8031544",
+            "matchedNormalSubmitterSampleId": "8031550",
+            "sampleType": "Total DNA",
+            "specimen": {
+                "submitterSpecimenId": "8031544",
+                "specimenType": "Primary tumour",
+                "tumourNormalDesignation": "Tumour",
+                "specimenTissueSource": "Solid tissue"
+            },
+            "donor": {
+                "submitterDonorId": "ICGC_0206",
+                "gender": "Female"
+            }
+        }
+    ],
+    "files": [
+        {
+            "dataType": "Submitted Reads",
+            "fileName": "c4b7390bc69022364c123c9f64b77048.bam",
+            "fileSize": 192362809503,
+            "fileType": "BAM",
+            "fileMd5sum": "c4b7390bc69022364c123c9f64b77048",
+            "fileAccess": "controlled",
+            "info": {
+                "legacyAnalysisId": "e75174c1-f053-439d-9885-bf7c679324b6",
+                "data_category": "Sequencing Reads",
+                "origin": "ICGC-25K"
+            }
+        }
+    ],
+    "read_groups": [
+        {
+            "file_r1": "c4b7390bc69022364c123c9f64b77048.bam",
+            "file_r2": "c4b7390bc69022364c123c9f64b77048.bam",
+            "insert_size": 291,
+            "platform_unit": "QCMG:20130213041312523_8031544",
+            "is_paired_end": true,
+            "library_name": "WGS:QCMG:Library_BIA4937A2AR25",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": "QCMG:20130213041312523",
+            "submitter_read_group_id": "QCMG:20130213041312523_8031544"
+        },
+        {
+            "file_r1": "c4b7390bc69022364c123c9f64b77048.bam",
+            "file_r2": "c4b7390bc69022364c123c9f64b77048.bam",
+            "insert_size": 291,
+            "platform_unit": "QCMG:20130213041802348_8031544",
+            "is_paired_end": true,
+            "library_name": "WGS:QCMG:Library_BIA4937A2AR25",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": "QCMG:20130213041802348",
+            "submitter_read_group_id": "QCMG:20130213041802348_8031544"
+        },
+        {
+            "file_r1": "c4b7390bc69022364c123c9f64b77048.bam",
+            "file_r2": "c4b7390bc69022364c123c9f64b77048.bam",
+            "insert_size": 289,
+            "platform_unit": "QCMG:20130213051438667_8031544",
+            "is_paired_end": true,
+            "library_name": "WGS:QCMG:Library_BIA4937A2AR25",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": "QCMG:20130213051438667",
+            "submitter_read_group_id": "QCMG:20130213051438667_8031544"
+        },
+        {
+            "file_r1": "c4b7390bc69022364c123c9f64b77048.bam",
+            "file_r2": "c4b7390bc69022364c123c9f64b77048.bam",
+            "insert_size": 289,
+            "platform_unit": "QCMG:2013021305224982_8031544",
+            "is_paired_end": true,
+            "library_name": "WGS:QCMG:Library_BIA4937A2AR25",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": "QCMG:2013021305224982",
+            "submitter_read_group_id": "QCMG:2013021305224982_8031544"
+        },
+        {
+            "file_r1": "c4b7390bc69022364c123c9f64b77048.bam",
+            "file_r2": "c4b7390bc69022364c123c9f64b77048.bam",
+            "insert_size": 289,
+            "platform_unit": "QCMG:20130213070657346_8031544",
+            "is_paired_end": true,
+            "library_name": "WGS:QCMG:Library_BIA4937A2AR25",
+            "read_length_r1": null,
+            "read_length_r2": null,
+            "sample_barcode": null,
+            "read_group_id_in_bam": "QCMG:20130213070657346",
+            "submitter_read_group_id": "QCMG:20130213070657346_8031544"
+        }
+    ],
+    "experiment": {
+        "submitter_sequencing_experiment_id": "EXP-136",
+        "experimental_strategy": "WGS",
+        "sequencing_center": "QCMG",
+        "platform": "ILLUMINA",
+        "platform_model": "Illumina HiSeq 2000",
+        "sequencing_date": null
+    },
+    "read_group_count": 5
+}
